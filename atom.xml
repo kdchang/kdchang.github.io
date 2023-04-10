@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>KD Chang</title>
-  <icon>https://blog.kdchang.cc/favicon.png</icon>
+  <icon>https://www.kdchang.cc/favicon.png</icon>
   <subtitle>經營一家名為人生公司的學習筆記 | Learning notes on Life Inc.</subtitle>
-  <link href="https://blog.kdchang.cc/atom.xml" rel="self"/>
+  <link href="https://www.kdchang.cc/atom.xml" rel="self"/>
   
-  <link href="https://blog.kdchang.cc/"/>
+  <link href="https://www.kdchang.cc/"/>
   <updated>2020-08-19T08:55:59.983Z</updated>
-  <id>https://blog.kdchang.cc/</id>
+  <id>https://www.kdchang.cc/</id>
   
   <author>
     <name>張凱迪（KD Chang）</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>產品開發現場：當一個 Scrum Master 是一個怎樣的體驗？</title>
-    <link href="https://blog.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/"/>
-    <id>https://blog.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/</id>
+    <link href="https://www.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/"/>
+    <id>https://www.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/</id>
     <published>2019-01-04T03:33:41.000Z</published>
     <updated>2020-08-19T08:55:59.983Z</updated>
     
@@ -36,38 +36,38 @@
     
     
     
-    <category term="職場" scheme="https://blog.kdchang.cc/tags/%E8%81%B7%E5%A0%B4/"/>
+    <category term="職場" scheme="https://www.kdchang.cc/tags/%E8%81%B7%E5%A0%B4/"/>
     
-    <category term="career" scheme="https://blog.kdchang.cc/tags/career/"/>
+    <category term="career" scheme="https://www.kdchang.cc/tags/career/"/>
     
-    <category term="scrum" scheme="https://blog.kdchang.cc/tags/scrum/"/>
+    <category term="scrum" scheme="https://www.kdchang.cc/tags/scrum/"/>
     
-    <category term="scrum master" scheme="https://blog.kdchang.cc/tags/scrum-master/"/>
+    <category term="scrum master" scheme="https://www.kdchang.cc/tags/scrum-master/"/>
     
-    <category term="product owner" scheme="https://blog.kdchang.cc/tags/product-owner/"/>
+    <category term="product owner" scheme="https://www.kdchang.cc/tags/product-owner/"/>
     
-    <category term="dev tame" scheme="https://blog.kdchang.cc/tags/dev-tame/"/>
+    <category term="dev tame" scheme="https://www.kdchang.cc/tags/dev-tame/"/>
     
-    <category term="軟體工程師" scheme="https://blog.kdchang.cc/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB/"/>
+    <category term="軟體工程師" scheme="https://www.kdchang.cc/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB/"/>
     
-    <category term="軟體工程" scheme="https://blog.kdchang.cc/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B/"/>
+    <category term="軟體工程" scheme="https://www.kdchang.cc/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B/"/>
     
-    <category term="software engineering" scheme="https://blog.kdchang.cc/tags/software-engineering/"/>
+    <category term="software engineering" scheme="https://www.kdchang.cc/tags/software-engineering/"/>
     
-    <category term="敏捷開發" scheme="https://blog.kdchang.cc/tags/%E6%95%8F%E6%8D%B7%E9%96%8B%E7%99%BC/"/>
+    <category term="敏捷開發" scheme="https://www.kdchang.cc/tags/%E6%95%8F%E6%8D%B7%E9%96%8B%E7%99%BC/"/>
     
-    <category term="agile" scheme="https://blog.kdchang.cc/tags/agile/"/>
+    <category term="agile" scheme="https://www.kdchang.cc/tags/agile/"/>
     
-    <category term="產品開發現場" scheme="https://blog.kdchang.cc/tags/%E7%94%A2%E5%93%81%E9%96%8B%E7%99%BC%E7%8F%BE%E5%A0%B4/"/>
+    <category term="產品開發現場" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E9%96%8B%E7%99%BC%E7%8F%BE%E5%A0%B4/"/>
     
-    <category term="專案管理" scheme="https://blog.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/"/>
+    <category term="專案管理" scheme="https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>在注意力稀缺的時代重新找回深度工作力（Deep Work）</title>
-    <link href="https://blog.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/"/>
-    <id>https://blog.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/</id>
+    <link href="https://www.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/"/>
+    <id>https://www.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/</id>
     <published>2017-09-10T14:00:00.000Z</published>
     <updated>2020-08-23T05:37:32.754Z</updated>
     
@@ -84,38 +84,38 @@
     
     
     
-    <category term="財務" scheme="https://blog.kdchang.cc/tags/%E8%B2%A1%E5%8B%99/"/>
+    <category term="財務" scheme="https://www.kdchang.cc/tags/%E8%B2%A1%E5%8B%99/"/>
     
-    <category term="職場" scheme="https://blog.kdchang.cc/tags/%E8%81%B7%E5%A0%B4/"/>
+    <category term="職場" scheme="https://www.kdchang.cc/tags/%E8%81%B7%E5%A0%B4/"/>
     
-    <category term="商業管理" scheme="https://blog.kdchang.cc/tags/%E5%95%86%E6%A5%AD%E7%AE%A1%E7%90%86/"/>
+    <category term="商業管理" scheme="https://www.kdchang.cc/tags/%E5%95%86%E6%A5%AD%E7%AE%A1%E7%90%86/"/>
     
-    <category term="人生" scheme="https://blog.kdchang.cc/tags/%E4%BA%BA%E7%94%9F/"/>
+    <category term="人生" scheme="https://www.kdchang.cc/tags/%E4%BA%BA%E7%94%9F/"/>
     
-    <category term="溝通" scheme="https://blog.kdchang.cc/tags/%E6%BA%9D%E9%80%9A/"/>
+    <category term="溝通" scheme="https://www.kdchang.cc/tags/%E6%BA%9D%E9%80%9A/"/>
     
-    <category term="專注力" scheme="https://blog.kdchang.cc/tags/%E5%B0%88%E6%B3%A8%E5%8A%9B/"/>
+    <category term="專注力" scheme="https://www.kdchang.cc/tags/%E5%B0%88%E6%B3%A8%E5%8A%9B/"/>
     
-    <category term="focus" scheme="https://blog.kdchang.cc/tags/focus/"/>
+    <category term="focus" scheme="https://www.kdchang.cc/tags/focus/"/>
     
-    <category term="deep work" scheme="https://blog.kdchang.cc/tags/deep-work/"/>
+    <category term="deep work" scheme="https://www.kdchang.cc/tags/deep-work/"/>
     
-    <category term="深度工作力" scheme="https://blog.kdchang.cc/tags/%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B/"/>
+    <category term="深度工作力" scheme="https://www.kdchang.cc/tags/%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B/"/>
     
-    <category term="工作力" scheme="https://blog.kdchang.cc/tags/%E5%B7%A5%E4%BD%9C%E5%8A%9B/"/>
+    <category term="工作力" scheme="https://www.kdchang.cc/tags/%E5%B7%A5%E4%BD%9C%E5%8A%9B/"/>
     
-    <category term="career" scheme="https://blog.kdchang.cc/tags/career/"/>
+    <category term="career" scheme="https://www.kdchang.cc/tags/career/"/>
     
-    <category term="work" scheme="https://blog.kdchang.cc/tags/work/"/>
+    <category term="work" scheme="https://www.kdchang.cc/tags/work/"/>
     
-    <category term="生產力工具" scheme="https://blog.kdchang.cc/tags/%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7/"/>
+    <category term="生產力工具" scheme="https://www.kdchang.cc/tags/%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
   <entry>
     <title>財報分析入門筆記</title>
-    <link href="https://blog.kdchang.cc/2017/06/30/financial-statements-analysis-introduction/"/>
-    <id>https://blog.kdchang.cc/2017/06/30/financial-statements-analysis-introduction/</id>
+    <link href="https://www.kdchang.cc/2017/06/30/financial-statements-analysis-introduction/"/>
+    <id>https://www.kdchang.cc/2017/06/30/financial-statements-analysis-introduction/</id>
     <published>2017-06-30T14:00:00.000Z</published>
     <updated>2020-08-23T05:37:39.905Z</updated>
     
@@ -131,28 +131,28 @@
     
     
     
-    <category term="financial" scheme="https://blog.kdchang.cc/tags/financial/"/>
+    <category term="financial" scheme="https://www.kdchang.cc/tags/financial/"/>
     
-    <category term="statement" scheme="https://blog.kdchang.cc/tags/statement/"/>
+    <category term="statement" scheme="https://www.kdchang.cc/tags/statement/"/>
     
-    <category term="financial statement" scheme="https://blog.kdchang.cc/tags/financial-statement/"/>
+    <category term="financial statement" scheme="https://www.kdchang.cc/tags/financial-statement/"/>
     
-    <category term="income statement" scheme="https://blog.kdchang.cc/tags/income-statement/"/>
+    <category term="income statement" scheme="https://www.kdchang.cc/tags/income-statement/"/>
     
-    <category term="balance sheet" scheme="https://blog.kdchang.cc/tags/balance-sheet/"/>
+    <category term="balance sheet" scheme="https://www.kdchang.cc/tags/balance-sheet/"/>
     
-    <category term="Cash flow statement" scheme="https://blog.kdchang.cc/tags/Cash-flow-statement/"/>
+    <category term="Cash flow statement" scheme="https://www.kdchang.cc/tags/Cash-flow-statement/"/>
     
-    <category term="finance" scheme="https://blog.kdchang.cc/tags/finance/"/>
+    <category term="finance" scheme="https://www.kdchang.cc/tags/finance/"/>
     
-    <category term="財務" scheme="https://blog.kdchang.cc/tags/%E8%B2%A1%E5%8B%99/"/>
+    <category term="財務" scheme="https://www.kdchang.cc/tags/%E8%B2%A1%E5%8B%99/"/>
     
   </entry>
   
   <entry>
     <title>給工程師的 Sketch Prototyping 簡易入門教學</title>
-    <link href="https://blog.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/"/>
-    <id>https://blog.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/</id>
+    <link href="https://www.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/"/>
+    <id>https://www.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/</id>
     <published>2016-06-04T04:26:00.000Z</published>
     <updated>2020-08-23T05:36:46.422Z</updated>
     
@@ -169,11 +169,11 @@
     
     
     
-    <category term="SketchPrototyping" scheme="https://blog.kdchang.cc/tags/SketchPrototyping/"/>
+    <category term="SketchPrototyping" scheme="https://www.kdchang.cc/tags/SketchPrototyping/"/>
     
-    <category term="Wireframe" scheme="https://blog.kdchang.cc/tags/Wireframe/"/>
+    <category term="Wireframe" scheme="https://www.kdchang.cc/tags/Wireframe/"/>
     
-    <category term="Mockup" scheme="https://blog.kdchang.cc/tags/Mockup/"/>
+    <category term="Mockup" scheme="https://www.kdchang.cc/tags/Mockup/"/>
     
   </entry>
   
