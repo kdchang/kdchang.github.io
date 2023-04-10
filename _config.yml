@@ -11,10 +11,12 @@ timezone: Asia/Taipei
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://blog.kdchang.cc
-root: /
+url: https://www.kdchang.cc
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+pretty_urls:
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 #Custom Setting Start
 
@@ -46,7 +48,7 @@ disqus_username: kdchang-blog
 # ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-47712654-1'            # Format: UA-xxxxxx-xx
-ga_domain: blog.kdchang.cc
+ga_domain: www.kdchang.cc
 
 
 # Sidebar settings
@@ -91,7 +93,6 @@ skip_render:
 new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
-external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
@@ -135,12 +136,6 @@ plugins:
   hexo-generator-cname
   hexo-generator-robotstxt
 
-# hexo sitemap
-sitemap:
-  path: sitemap.xml
-baidusitemap:
-  path: baidusitemap.xml
-
 ## social
 addthis:
   enable: true
@@ -156,16 +151,9 @@ robotstxt:
   disallow:
     - ''
   sitemap: 
-    - https://blog.kdchang.cc/sitemap.xml
+    - https://www.kdchang.cc/sitemap.xml
   baidusitemap: 
     - /baidusitemap.xml
-
-## RSS
-feed:
-  type: atom
-  path: atom.xml
-  limit: 30
-  hub:  
 
 ## category
 category_generator:
@@ -184,12 +172,30 @@ search:
   field: post
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
-# deploy: 
-#   type: git
-#   repo: https://github.com/kdchang/blog.git
-#   branch: gh-pages
+## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://gh_token@github.com/kdchang/blog.git
+  # repo: https://github.com/ReadThinker/readthinker.github.io
+  repo: git@github.com:kdchang/kdchang.github.io.git
+  # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+
+# hexo sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: favicon.png
+  autodiscovery: true
+  template:
