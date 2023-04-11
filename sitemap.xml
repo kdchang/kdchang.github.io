@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.kdchang.cc/404</loc>
+    <loc>https://www.kdchang.cc/tags/</loc>
     
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,34 +13,7 @@
   <url>
     <loc>https://www.kdchang.cc/about/</loc>
     
-    <lastmod>2021-05-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2017/06/30/financial-statements-analysis-introduction/</loc>
-    
-    <lastmod>2020-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/</loc>
-    
-    <lastmod>2020-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/</loc>
-    
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2023-04-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +22,16 @@
   <url>
     <loc>https://www.kdchang.cc/archive/</loc>
     
-    <lastmod>2020-08-21</lastmod>
+    <lastmod>2023-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/</loc>
+    
+    <lastmod>2023-04-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,16 +40,34 @@
   <url>
     <loc>https://www.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/</loc>
     
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2023-04-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/tags/</loc>
+    <loc>https://www.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/</loc>
     
-    <lastmod>2019-08-01</lastmod>
+    <lastmod>2023-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2017/06/30/financial-statements-analysis-introduction/</loc>
+    
+    <lastmod>2023-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/404</loc>
+    
+    <lastmod>2023-04-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
 
   <url>
     <loc>https://www.kdchang.cc/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,238 +84,238 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/financial/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/statement/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/financial-statement/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/income-statement/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/balance-sheet/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/Cash-flow-statement/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/finance/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E8%B2%A1%E5%8B%99/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/SketchPrototyping/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/Wireframe/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/Mockup/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E8%81%B7%E5%A0%B4/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E5%95%86%E6%A5%AD%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E4%BA%BA%E7%94%9F/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E6%BA%9D%E9%80%9A/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E5%B0%88%E6%B3%A8%E5%8A%9B/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/focus/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/deep-work/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E5%B7%A5%E4%BD%9C%E5%8A%9B/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/career/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/work/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/scrum/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/scrum-master/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/product-owner/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/dev-tame/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/software-engineering/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E6%95%8F%E6%8D%B7%E9%96%8B%E7%99%BC/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/agile/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E9%96%8B%E7%99%BC%E7%8F%BE%E5%A0%B4/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
