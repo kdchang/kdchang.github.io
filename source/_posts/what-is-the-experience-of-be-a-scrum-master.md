@@ -18,12 +18,12 @@ tags:
     - 專案管理
 ---
 
-![當一個 Scrum Master 是一個怎樣的體驗？](i-am-scrum-master.png)
+![當一個 Scrum Master 是一個怎樣的體驗？](/img/posts/i-am-scrum-master.png)
 
 # 前言
 [Scrum](https://zh.wikipedia.org/wiki/Scrum) 是一個以團隊為基礎來開發複雜系統和產品的敏捷開發框架和方法論。相信很多軟體開發人員都聽過 Scrum，而且也把它運用在產品開發中，然而每個團隊在使用 Scrum 時都會遇到不同的問題，有些是共通性的問題，有些是個別團隊所遇到的問題。過去一段時間在筆者的職業生涯中因緣際會地經歷了開發者、產品負責人以及 Scrum Master 等角色，對於不同角色的特性和所應具備的特質和能力以及 Scrum 的能與不能都有些許的認識。接下來，本文將透過一個 Scrum Master 視角去探討 Scrum Master 在 Scrum Team 中所扮演的角色和可能遇到的挑戰和機遇。
 
-![當一個 Scrum Master 是一個怎樣的體驗？](scrum-rules.png)
+![當一個 Scrum Master 是一個怎樣的體驗？](/img/posts/scrum-rules.png)
 
 # Scrum 先修課：關於 Scrum 你必須先明白的專有名詞
 ## Role 角色
@@ -39,7 +39,7 @@ tags:
 4. Stakeholder
     利害關係人，需求的起源地。在直接面對消費者市場的產品團隊可能是一般消費者，若是開發內部工具或是面對企業市場的產品團隊，利害關係人可能會是 AM（客戶經理）、BD（商務拓展）、Tech Support（技術支援）、Marketing（行銷）等單位的同仁
 
-![當一個 Scrum Master 是一個怎樣的體驗？](scrum-process.jpg)
+![當一個 Scrum Master 是一個怎樣的體驗？](/img/posts/scrum-process.jpg)
 
 ## Event 活動
 1. Sprint
@@ -79,12 +79,12 @@ tags:
 5. Burn down chart / Burn up chart
     以團隊為單位，記錄 Sprint 完成狀況的圖表，Burn down chart 記錄點數完成下降的趨勢。Burn up chart 記錄累積完成的點數和 scope 的趨勢
 
-    ![當一個 Scrum Master 是一個怎樣的體驗？](burn-down-burn-up.jpg)
+    ![當一個 Scrum Master 是一個怎樣的體驗？](/img/posts/burn-down-burn-up.jpg)
 
 6. Scrum Board
     記錄 Sprint 過程中每一個 Story 以及 Story 下 task 的狀況，是在 Todo 還是 In Progress 還是 Done
 
-    ![當一個 Scrum Master 是一個怎樣的體驗？](scrum-board.png)
+    ![當一個 Scrum Master 是一個怎樣的體驗？](/img/posts/scrum-board.png)
 
 7. Definition of Done（DoD）
     團隊定義的驗收成果標準，例如開發一個新功能必須含：Dev + QA + Doc + Deploy 才算 Done，是每一個 Story 都必須遵守的完成標準
