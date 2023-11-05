@@ -53,7 +53,7 @@ ga_domain: www.kdchang.cc
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "文藝型開發者，夢想是做出人們想用的產品和辦一所心目中理想的學校。A Starter, Software Engineer & Maker. JavaScript, Python & Arduino/Android lover.:)
+sidebar-about-description: "KD Chang 張凱迪，一位軟體工程師也是一位創業者和教育工作者。A Starter, Software Engineer & Maker. JavaScript, Python & Arduino/Android lover.:)
 "
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -66,9 +66,22 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
+        title: "MOXIATEK Inc. 墨俠科技",
+        href: "https://www.moxiatek.com/"
+    },
+    {
+        title: "CoderBridge",
+        href: "https://tw.coderbridge.com/"
+    },
+    {
+        title: "Yohowto",
+        href: "https://tw.yohowto.com/"
+    },
+    {
         title: "TechBridge Weekly 技術週刊",
         href: "http://weekly.techbridge.cc/"
-    }, {
+    },
+    {
         title: "TechBridge Blog",
         href: "http://blog.techbridge.cc/"
     }
