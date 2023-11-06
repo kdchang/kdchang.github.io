@@ -85,7 +85,7 @@
                     Special thanks <a href="https://www.flickr.com/photos/57265953@N06/" target="_blank">Rafael</a>、<a href="https://www.flickr.com/photos/derek-john-lee/14698093740/in/photolist-ooPzcj-r2kVt-ppV21v-brhFX3-wd3Qsy-cLiKEL-xDR92-28QCtA-29YFZZ-gzuZk-dqbhxt-9FwCBY-q57bEv-bVhZJr-dYxGXn-dxg9g7-8x7gjU-dzjMic-rQhf-9TMgJ3-mEsFjW-qbzd4p-q6cJvc-7zYttk-q2gE5S-bdb4G4-8ifmQN-eivVeg-9ZZFVz-aD6q6r-bnjfWh-qJAn2g-k22Ttf-n9Jhfj-kk4woh-sj43iz-5NYGUn-96wNhi-9ZZFz6-8DJkQf-4wQizw-3bzz8p-9yzTSd-xDQee-68Xwfp-7t5WPx-xDTM5-o5RPYA-kWihhy-7iHDEX" target="_blank">Derek</a>、<a href="https://www.flickr.com/photos/mashleymorgan/" target="_blank">mashleymorgan</a>、<a href="https://www.flickr.com/photos/mustafeez27/" target="_blank">mustafeez27</a>         
                     and <a href="http://blog.kaijun.rocks" target="_blank">Kaijun</a>
                     <br> 
-                    Copyright &copy; <%= config.title %> <%= new Date().getFullYear() %>
+                    Copyright &copy; <%= page.title + ' - ' + config.SEOTitle %> <%= new Date().getFullYear() %>
                     <hr>
                     <!-- facebook follow -->
                     <div class="fb-like" data-href="https://www.facebook.com/kdchang.cc" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
@@ -168,16 +168,14 @@
 <!-- Google Analytics -->
 
 <% if (config.ga_track_id) { %>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4V2CZ8CL7E"></script>
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-  ga('create', 'UA-47712654-1', 'auto');
-  ga('send', 'pageview');
-
+  gtag('config', 'G-4V2CZ8CL7E');
 </script>
 
 <% } %>
-
