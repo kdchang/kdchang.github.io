@@ -54,7 +54,7 @@ ga_domain: www.kdchang.cc
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "KD Chang 張凱迪，一位軟體工程師也是一位創業者和教育工作者。A Starter, Software Engineer & Maker.:)"
+sidebar-about-description: "KD Chang 張凱迪（@kdchang），一位軟體工程師也是一位創業者和教育工作者。A Starter, Software Engineer & Maker.:)"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
