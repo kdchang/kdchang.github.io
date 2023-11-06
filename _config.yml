@@ -47,8 +47,8 @@ disqus_username: kdchang-cc
 # Analytics settings
 # Baidu Analytics
 # ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
-# Google Analytics
-ga_track_id: 'UA-47712654-1'            # Format: UA-xxxxxx-xx
+# Google Analytics 4
+ga_track_id: 'G-4V2CZ8CL7E'            # Format: UA-xxxxxx-xx
 ga_domain: www.kdchang.cc
 
 
