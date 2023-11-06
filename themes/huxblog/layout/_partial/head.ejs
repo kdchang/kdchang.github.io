@@ -38,9 +38,16 @@
       <meta name="og:title" content="<%= config.SEOTitle %>">
       <meta name="og:site_name" content="<%= config.SEOTitle %>">
     <% } %>
-    <meta name="og:description" content="<%= config.description %>">
-
-    <meta name="og:image" content="<%= config.root %>img/logo.ico">
+    <% if (page.description) { %>
+    <meta name="og:description" content="<%= page.description %>">
+    <% } else{%>
+      <meta name="og:description" content="<%= config.description %>">
+    <% } %>
+    <% if (page.cover) { %>
+      <meta name="og:image" content="<%= page.cover %>">
+    <% } else{%>
+      <meta name="og:image" content="<%= config.url %>/img/logo.png">
+    <% } %>
     <meta name="og:type" content="website">
     <!--Twitter Graph-->
     <meta name="twitter:card" content="summary" />

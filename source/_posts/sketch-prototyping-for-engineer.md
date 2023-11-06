@@ -6,6 +6,7 @@ tags:
     - Wireframe
     - Mockup
 author: kdchang
+cover: https://www.kdchang.cc/img/posts/sketchapp.png
 ---
 
 ![給工程師的 Sketch Prototyping 簡易入門教學](/img/posts/sketchapp.png)
