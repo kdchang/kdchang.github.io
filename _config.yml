@@ -35,7 +35,7 @@ keyword: " EduTech 教育科技, 跨領域閱讀/自主學習, 媒體出版, 社
 github_username:    kdchang
 twitter_username:   kaidichang
 facebook_username:  kdchang.cc
-linkedin_username: kaidichang
+# linkedin_username: kaidichang
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
