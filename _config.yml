@@ -4,7 +4,7 @@
 
 # Site
 title: KD Chang
-subtitle: 經營一家名為人生公司的學習筆記 | Learning notes on Life Inc.
+subtitle: Hi 我是 KD Chang 張凱迪，我在這書寫閱讀學習思考筆記
 author: 張凱迪（KD Chang）
 language: zh-TW
 timezone: Asia/Taipei
@@ -21,10 +21,10 @@ pretty_urls:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: KD Chang
+SEOTitle: KD Chang 張凱迪 | 軟體工程師/創業者/教育工作者
 header-img: img/cover.jpg
 email: kdchang.cc@gmail.com
-description: "記錄一個軟體工程師也是一位創業者和教育工作者對教育學習、媒體出版、產品設計、創新創業、經營管理、政治經濟與職場人生的思考與觀察"
+description: "Hi 我是 KD Chang 張凱迪，我在這書寫閱讀學習思考筆記。這裡記錄一個軟體工程師也是一位創業者和教育工作者對教育學習、媒體出版、產品設計、創新創業、經營管理、政治經濟與職場人生的思考與觀察，歡迎一起交流集思廣益，一起讓這個世界變得更好！"
 keyword: "教育學習, 媒體出版, 產品設計, 創新創業, 經營管理, 政治經濟, 職場人生, 軟體工程師"
 
 
@@ -41,7 +41,8 @@ facebook_username:  kdchang.cc
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 # Disqus settings
-disqus_username: kdchang-blog
+# kdchang-blog
+disqus_username: kdchang-cc
 
 # Analytics settings
 # Baidu Analytics
