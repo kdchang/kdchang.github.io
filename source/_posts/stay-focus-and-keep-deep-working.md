@@ -2,6 +2,7 @@
 title: 在注意力稀缺的時代重新找回深度工作力（Deep Work）
 date: 2017-09-10 22:00:00
 author: kdchang
+cover: https://www.kdchang.cc/img/posts/deep-work.jpg
 tags:
     - 職場
     - 商業管理
