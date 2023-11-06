@@ -139,27 +139,6 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/tags/SketchPrototyping/</loc>
-    <lastmod>2023-11-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/Wireframe/</loc>
-    <lastmod>2023-11-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/Mockup/</loc>
-    <lastmod>2023-11-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/tags/%E8%81%B7%E5%A0%B4/</loc>
     <lastmod>2023-11-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -238,6 +217,27 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2023-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/SketchPrototyping/</loc>
+    <lastmod>2023-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/Wireframe/</loc>
+    <lastmod>2023-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/Mockup/</loc>
     <lastmod>2023-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
