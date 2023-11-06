@@ -29,7 +29,7 @@ Experience 經歷
 • MOXIATEK 墨俠科技創辦人
 • Taichung City 臺中市第三屆青年諮詢委員
 • TCCSIU 臺中社會創新實驗基地進駐團隊入選
-• Appier 沛星互動資深軟體工程師
+• Appier 沛星互動科技資深軟體工程師
 • Delta Electronics 台達電軟體工程師
 • Mozilla Firefox 美商謀智實習工程師
 • TechBridge Weekly 技術週刊創辦人
