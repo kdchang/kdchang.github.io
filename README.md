@@ -4,15 +4,23 @@
 
 # Command
 
+### auto deploy
+
 ```
-# auto deploy
 $ git commit
 $ git push
 ```
 
+### local test
+
 ```
-# local test
 $ hexo g
 $ hexo c
 $ hexo s
+```
+
+### new post
+
+```
+hexo new post <post_name>
 ```
