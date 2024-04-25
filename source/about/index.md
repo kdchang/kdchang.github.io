@@ -10,7 +10,7 @@ description: ""
 
 KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業，是一個軟體工程師，也是一位產品經理和教育工作者。曾服務過上市科技電子公司、台灣 AI 人工智慧新創獨角獸公司、全球前三大瀏覽器製造商與電子商務平台，也曾參與數個新創組織的創辦和嘗試過多個網路產品服務的開發。同時也是 [Yohowto 終身學習知識分享社群](https://tw.yohowto.com/)、[CoderBridge 開發者技術內容創作分享與職涯發展平台](https://www.coderbridge.com/) 創辦人、[TechBridge Weekly 技術週刊](http://weekly.techbridge.cc/) 、React 入門教學書[《從零開始學 ReactJS》](https://www.gitbook.com/book/kdchang/react101/details)作者和 [HackNTU 臺大黑客松](https://github.com/HackNTU) 的創辦人。同時具備電腦科學與社會科學的背景知識，致力於整合科技與人文，讓這個世界更加開放美好。
 
-> @kdchang 文藝型開發者，站在科技與人文的交叉口。A Starter, Software Engineer & Maker.:)
+> @kdchang 文藝型開發者，站在科技與人文的交叉口。A Software Engineer, Product Owner & Educator.:)
 
 • Have interdisciplinary background (Computer Science and Social Science).
 • Open source contributor (3800+ stars in [Github](http://github-awards.com/users/search?login=kdchang)).
