@@ -4,6 +4,91 @@
   
     
     <entry>
+      <title>關於 LLMs 大型語言模型應用的 10 個關鍵字</title>
+      <link href="/2024/05/22/about-llm-app-10-keywords/"/>
+      <url>/2024/05/22/about-llm-app-10-keywords/</url>
+      
+        <content type="html"><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，以下是包含具體應用（例如 RAG 等）的 10 個關鍵字：</p><ol><li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li><li><strong>聊天機器人</strong>（Chatbots）</li><li><strong>文字摘要</strong>（Text Summarization）</li><li><strong>內容生成</strong>（Content Generation）</li><li><strong>情感分析</strong>（Sentiment Analysis）</li><li><strong>語音助手</strong>（Voice Assistants）</li><li><strong>自動翻譯</strong>（Automatic Translation）</li><li><strong>智慧搜尋</strong>（Intelligent Search）</li><li><strong>知識圖譜</strong>（Knowledge Graphs）</li><li><strong>個性化推薦</strong>（Personalized Recommendations）</li></ol><p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 生成式 AI </tag>
+            
+            <tag> GenAI </tag>
+            
+            <tag> Large Language Model </tag>
+            
+            <tag> LLMs </tag>
+            
+            <tag> LLM </tag>
+            
+            <tag> 大型語言模型 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
+      <link href="/2024/05/22/about-llm-tech-10-keywords/"/>
+      <url>/2024/05/22/about-llm-tech-10-keywords/</url>
+      
+        <content type="html"><![CDATA[<p>以下是關於大型語言模型（LLMs）的 10 個關鍵字：</p><ol><li><strong>自然語言處理（NLP）</strong>（Natural Language Processing, NLP）</li><li><strong>機器學習</strong>（Machine Learning）</li><li><strong>深度學習</strong>（Deep Learning）</li><li><strong>文本生成</strong>（Text Generation）</li><li><strong>上下文理解</strong>（Contextual Understanding）</li><li><strong>語義分析</strong>（Semantic Analysis）</li><li><strong>模型訓練</strong>（Model Training）</li><li><strong>語言建模</strong>（Language Modeling）</li><li><strong>人工智慧</strong>（Artificial Intelligence, AI）</li><li><strong>轉移學習</strong>（Transfer Learning）</li></ol><p>這些關鍵字涵蓋了大型語言模型的核心概念、技術和應用領域，有助於幫助我們深入理解 LLMs 的工作原理和用途。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 生成式 AI </tag>
+            
+            <tag> GenAI </tag>
+            
+            <tag> Large Language Model </tag>
+            
+            <tag> LLMs </tag>
+            
+            <tag> LLM </tag>
+            
+            <tag> 大型語言模型 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>關於 LLM 大型語言模型技術商業應用的 10 個關鍵字</title>
+      <link href="/2024/05/22/llm-app-in-martech/"/>
+      <url>/2024/05/22/llm-app-in-martech/</url>
+      
+        <content type="html"><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷技術）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要應用：</p><h3 id="1-內容生成和改善"><a href="#1-內容生成和改善" class="headerlink" title="1. 內容生成和改善"></a>1. <strong>內容生成和改善</strong></h3><ul><li><strong>部落格文章</strong>：LLMs 可以自動生成高質量的部落格文章、新聞稿和長篇內容。</li><li><strong>社交媒體文章</strong>：自動創建引人入勝的社交媒體內容，適應不同平台的風格和受眾。</li><li><strong>電子郵件行銷</strong>：撰寫個性化的 Email 內容，提高打開率和點擊率。</li></ul><h3 id="2-個人化推薦"><a href="#2-個人化推薦" class="headerlink" title="2. 個人化推薦"></a>2. <strong>個人化推薦</strong></h3><ul><li><strong>產品推薦</strong>：根據使用者的歷史行為和偏好，LLMs 可以生成精確的產品推薦，提高轉化率。</li><li><strong>內容推薦</strong>：在網站或應用中，推薦相關的文章、影片或其他內容，增加用戶黏著性。</li></ul><h3 id="3-客戶服務和互動"><a href="#3-客戶服務和互動" class="headerlink" title="3. 客戶服務和互動"></a>3. <strong>客戶服務和互動</strong></h3><ul><li><strong>聊天機器人</strong>：使用自然語言處理技術的聊天機器人可以處理客戶查詢，提供即時支持和建議。</li><li><strong>客服自動化</strong>：分析和回答常見問題，減少人工客服的工作量，提高回應速度。</li></ul><h3 id="4-市場分析和洞察"><a href="#4-市場分析和洞察" class="headerlink" title="4. 市場分析和洞察"></a>4. <strong>市場分析和洞察</strong></h3><ul><li><strong>社群觀測</strong>：分析社群媒體上的用戶評論和趨勢，幫助企業了解市場需求和品牌形象。</li><li><strong>情感分析</strong>：評估用戶評論和回饋的情感，了解用戶的真實感受和意見。</li></ul><h3 id="5-A-x2F-B-測試和優化"><a href="#5-A-x2F-B-測試和優化" class="headerlink" title="5. A&#x2F;B 測試和優化"></a>5. <strong>A&#x2F;B 測試和優化</strong></h3><ul><li><strong>文案和設計測試</strong>：生成多個版本的廣告文案或設計，進行 A&#x2F;B 測試，找到最有效的組合。</li><li><strong>自動化調整</strong>：根據測試結果，自動調整和優化行銷策略。</li></ul><h3 id="6-語音和影音內容生成"><a href="#6-語音和影音內容生成" class="headerlink" title="6. 語音和影音內容生成"></a>6. <strong>語音和影音內容生成</strong></h3><ul><li><strong>語音助理和 Podcast</strong>：創建和管理企業的語音助理內容或自動生成 Podcast 節目。</li><li><strong>影片腳本和字幕</strong>：自動生成影片腳本，添加字幕，提高內容可及性。</li></ul><h3 id="7-數據分析和報告"><a href="#7-數據分析和報告" class="headerlink" title="7. 數據分析和報告"></a>7. <strong>數據分析和報告</strong></h3><ul><li><strong>智慧報告生成</strong>：根據行銷資料自動生成報告，提供深刻的分析和見解，幫助決策制定。</li><li><strong>趨勢預測</strong>：使用歷史資料和機器學習模型，預測市場趨勢和消費者行為。</li></ul><h3 id="8-SEO-優化"><a href="#8-SEO-優化" class="headerlink" title="8. SEO 優化"></a>8. <strong>SEO 優化</strong></h3><ul><li><strong>關鍵詞建議</strong>：根據內容和目標受眾，提供關鍵字建議，提升搜索引擎排名。</li><li><strong>內容改寫</strong>：改善現有內容，使其更具搜索引擎友好性，提高自然流量。</li></ul><p>LLMs 在 MarTech 領域的應用廣泛且多樣，能夠幫助企業自動化和改善行銷活動，提升效果和效率。隨著技術的不斷進步，LLMs 將在 MarTech 中發揮越來越重要的作用。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 生成式 AI </tag>
+            
+            <tag> GenAI </tag>
+            
+            <tag> Large Language Model </tag>
+            
+            <tag> LLMs </tag>
+            
+            <tag> 大型語言模型 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>產品開發現場：當一個 Scrum Master 是一個怎樣的體驗？</title>
       <link href="/2019/01/04/what-is-the-experience-of-be-a-scrum-master/"/>
       <url>/2019/01/04/what-is-the-experience-of-be-a-scrum-master/</url>
