@@ -12,11 +12,11 @@
 
     <title>
         
-          財報分析入門筆記 - KD Chang 張凱迪 | 軟體工程師/產品經理/教育工作者
+          LangChain：LLM 大型語言模型開源框架 Framework 入門教學 - KD Chang 張凱迪 | 軟體工程師/產品經理/教育工作者
         
     </title>
 
-    <link rel="canonical" href="https://www.kdchang.cc/2017/06/30/financial-statements-analysis-introduction/">
+    <link rel="canonical" href="https://www.kdchang.cc/2024/05/23/llm-langchain-notes/">
 
     <!-- Bootstrap Core CSS -->
     
@@ -39,15 +39,15 @@
     <!-- og tag -->
     <meta name="generator" content="KD Chang">
     
-      <meta name="og:title" content="財報分析入門筆記 - KD Chang 張凱迪 | 軟體工程師/產品經理/教育工作者">
-      <meta name="og:site_name" content="財報分析入門筆記 - KD Chang 張凱迪 | 軟體工程師/產品經理/教育工作者">
+      <meta name="og:title" content="LangChain：LLM 大型語言模型開源框架 Framework 入門教學 - KD Chang 張凱迪 | 軟體工程師/產品經理/教育工作者">
+      <meta name="og:site_name" content="LangChain：LLM 大型語言模型開源框架 Framework 入門教學 - KD Chang 張凱迪 | 軟體工程師/產品經理/教育工作者">
     
     
       <meta name="description" content="Hi 我是 KD Chang 張凱迪，我在這書寫我的閱讀思考學習筆記。這裡記錄一個軟體工程師也是一位產品經理和教育工作者對 EduTech 教育科技、跨領域閱讀/自主學習、媒體出版、社會創新、ESG/SDGs 永續發展、創新創業、數位科技、經營管理、歷史人文、政治經濟、公共政策與職場人生的思考與觀察，歡迎一起交流討論，讓這個世界更加開放美好！">
       <meta name="og:description" content="Hi 我是 KD Chang 張凱迪，我在這書寫我的閱讀思考學習筆記。這裡記錄一個軟體工程師也是一位產品經理和教育工作者對 EduTech 教育科技、跨領域閱讀/自主學習、媒體出版、社會創新、ESG/SDGs 永續發展、創新創業、數位科技、經營管理、歷史人文、政治經濟、公共政策與職場人生的思考與觀察，歡迎一起交流討論，讓這個世界更加開放美好！">
     
     
-      <meta name="og:image" content="https://www.kdchang.cc/img/posts/income.png">
+      <meta name="og:image" content="https://www.kdchang.cc/img/posts/i-am-scrum-master.png">
     
     <meta name="og:type" content="website">
     <!--Twitter Graph-->
@@ -169,7 +169,7 @@
 <!-- Post Header -->
 <style type="text/css">
     header.intro-header{
-        background-image: url('cover.jpg')
+        background-image: url('/img/cover.jpg')
     }
 </style>
 <header class="intro-header" >
@@ -178,29 +178,25 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
 
-                    <h1>財報分析入門筆記</h1>
+                    <h1>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h1>
                     <span class="meta">
                         Posted by kdchang on
-                        2017-06-30
+                        2024-05-23
                     </span>
                     <br>
                     <div class="tags">
                         
-                          <a class="tag" href="/tags/#financial" title="financial">financial</a>
+                          <a class="tag" href="/tags/#生成式 AI" title="生成式 AI">生成式 AI</a>
                         
-                          <a class="tag" href="/tags/#statement" title="statement">statement</a>
+                          <a class="tag" href="/tags/#GenAI" title="GenAI">GenAI</a>
                         
-                          <a class="tag" href="/tags/#financial statement" title="financial statement">financial statement</a>
+                          <a class="tag" href="/tags/#Large Language Model" title="Large Language Model">Large Language Model</a>
                         
-                          <a class="tag" href="/tags/#income statement" title="income statement">income statement</a>
+                          <a class="tag" href="/tags/#LLMs" title="LLMs">LLMs</a>
                         
-                          <a class="tag" href="/tags/#balance sheet" title="balance sheet">balance sheet</a>
+                          <a class="tag" href="/tags/#大型語言模型" title="大型語言模型">大型語言模型</a>
                         
-                          <a class="tag" href="/tags/#Cash flow statement" title="Cash flow statement">Cash flow statement</a>
-                        
-                          <a class="tag" href="/tags/#finance" title="finance">finance</a>
-                        
-                          <a class="tag" href="/tags/#財務" title="財務">財務</a>
+                          <a class="tag" href="/tags/#LangChain" title="LangChain">LangChain</a>
                         
 
                     </div>
@@ -226,89 +222,41 @@
                 </div>
                 <br>
                 <div>
-                    <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>財務報表是一家公司的體質檢查表，透過財務報表可以了解這家公司的財務狀況和營運狀況，也就是說可以透過財務報表去一窺公司的身體健康是否硬朗或是漸漸亮起紅燈。許多人以為財務報表晦澀難懂，只有經營者、會計師或是財務分析師才需要了解。事實上，財務報表的觀念並不難懂，不管是投資大眾甚至是公司員工應該都要對自己投資和工作的公司要有所掌握，一般投資人若能了解財報就有機會從中挖掘被低估的優質股票進而獲取相對報酬（賺錢），而一般員工若能掌握財報資訊，更能全面性了解公司營運狀況和未來發展方向，為自己的職涯加分。</p>
-<p>一般來說財務報表有分為損益表、資產負債表、現金流量表和股東權益變動表等。其中損益表代表公司的營業收益狀況，資產負債表代表公司的資產和負債的組成元素，股東權益變動表則是記錄了股東權益的變動情況，而現金流量表則是呈現了公司現金流的狀況。以下就讓我們用財報獲利性分析、安全性分析、價值評估、成長性分析一一來探索。</p>
-<h1 id="財務報表"><a href="#財務報表" class="headerlink" title="財務報表"></a>財務報表</h1><h2 id="損益表"><a href="#損益表" class="headerlink" title="損益表"></a>損益表</h2><p>損益表彙整了企業過去一段時間的營運狀況（一季、半年和一年）。從中可以看出企業銷貨收入、營業毛利、營業費用、淨利或是淨損和每股盈餘的狀況，進一步了解公司生意狀況和是否賺錢？</p>
-<p><img src="/img/posts/income.png" alt="一看就懂的財報分析入門教學"> </p>
-<h2 id="資產負債表"><a href="#資產負債表" class="headerlink" title="資產負債表"></a>資產負債表</h2><p>資產負債表呈現了企業在某一個特定日下的財務狀況，表中列出企業的資產和負債狀況，可以了解企業的存貨、土地、廠房以及長短期債務狀況。</p>
-<p><img src="/img/posts/asset.png" alt="一看就懂的財報分析入門教學"> </p>
-<h2 id="股東權益變動表"><a href="#股東權益變動表" class="headerlink" title="股東權益變動表"></a>股東權益變動表</h2><p>想知道股東分紅，未分配的盈餘有多少，經營團隊是否為股東創造價值則可以透過股東權益變動表去了解。</p>
-<p><img src="/img/posts/shareholder.png" alt="一看就懂的財報分析入門教學"> </p>
-<h2 id="現金流量表"><a href="#現金流量表" class="headerlink" title="現金流量表"></a>現金流量表</h2><p>現金流量表以現金流入、流出為基準，說明企業在某一特定期間營業活動、投資活動、融資活動的現金變化，了解企業運用現金的方式和現金來源。</p>
-<p><img src="/img/posts/crash.png" alt="一看就懂的財報分析入門教學"> </p>
-<h1 id="財報分析"><a href="#財報分析" class="headerlink" title="財報分析"></a>財報分析</h1><h2 id="獲利性分析：公司是否可以穩定獲利？"><a href="#獲利性分析：公司是否可以穩定獲利？" class="headerlink" title="獲利性分析：公司是否可以穩定獲利？"></a>獲利性分析：公司是否可以穩定獲利？</h2><p>財報分析中最重要的就是獲利性分析，在商業世界中開公司就是要賺錢，所以公司是否穩定賺錢是最重要的事情，而且公司的獲利狀況往往會和公司股價高度相關，所以當我們投資或是找工作時公司的獲利狀況往往是考量的重點。在獲利性分析中我們主要看的指標主要有：有毛利率、營益率、淨利率和股東權益報酬率等。</p>
-<ol>
-<li><p>毛利率：產品競爭力（較適用於製造業）</p>
-<p> <code>毛利率 = (營業收入 - 營業成本) / 營業收入 * 100%</code></p>
-<p> 一般而言，製造業毛利率若能 &gt; 20% 就算是不錯的表現，但像是一些網路、軟體公司和 IC 設計公司其研發費用佔的是大宗，營業成本不高，所以毛利通常會比較高。</p>
-</li>
-<li><p>營益率&#x2F;純益率：企業本業賺錢能力</p>
-<p> <code>營益率 = (營業毛利 - 營業費用) / 營業收入 * 100%</code></p>
-<p> 營業費用包含了管銷費用和研發費用等，營業毛利真正扣除營業費用才是真正的本業獲利。</p>
-</li>
-<li><p>淨利率</p>
-<p> <code>淨利率 = (營業淨利 - 營業外收入及利益) / 營業收入 * 100%</code></p>
-<p> 扣除業外損益（轉投資、買賣土地廠房收入）就是營業淨利，建議 &gt; 10%。一般看財報時不會把業外收入列入競爭力強弱指標（尤其要避開一次性的賣土地或是資產的收益狀況）</p>
-</li>
-<li><p>ROE 股東權益報酬率</p>
-<p> <code>股東權益報酬率 = 稅前淨利 / 股東權益總額 * 100%</code></p>
-<p> 一家公司長期獲利表現最好的指標莫過於 ROE，許多投資人多半會希望一家公司過去 5 年的 ROE 可以大於 15% 或 &gt; 10 %。一家為維持高 ROE 的公司就算是持續能考高分的績優學生，當然能挨過 6-8 年景氣循環更好。</p>
-<ul>
-<li>杜邦分析<br> 杜邦分析最早起源於杜邦公司，其運用了 1. 企業的獲利能力 2. 運用資產的效率 3. 財務槓桿 來分析企業價值。</li>
-</ul>
-<p> <code>ROE = 淨利 / 營收 * 營收 / 資產總額 * 資產總額 / 股東權益總額 * 100%</code><br> <code>ROE = 淨利率(稅後純益率) * 總資產週轉率 * 股東權益乘數 * 100%</code><br> <code>ROE = 獲利能力 * 資產運用效率 * 財務槓桿 * 100%</code></p>
-<p> 利用杜邦分析，拆解 ROE 可以透視一間公司的獲利能力、管理能力、還有財務結果。並根據公司所處的位置，預測公司之後的走向。若 ROE 來自稅後純益代表產品競爭力佳，若能強化資產運用效率則可以創造更高的 ROE。若 ROE 來自於資產使用效率則代表可以使用較少的資產創造更高的獲益，若有擴廠消息和擴大資本支出則可以提高 ROE，若 ROE 來自於財務槓桿則企業營運績效並不健全。</p>
-</li>
-<li><p>ROA 總資產報酬率</p>
-<p> <code>總資產報酬率 = 稅後淨利 / 資產總額 * 100%</code></p>
-<p> ROA 表示企業運用資產賺錢的本事，若是 ROA 長期往下通常代表公司投資的資產過多但賺錢效率不如以往，一般認為 ROA 有 8% 的才算是表現不錯，但還是要看產業別和過去同時間比較</p>
-</li>
-</ol>
-<h2 id="安全性分析：公司的財務狀況健康嗎？"><a href="#安全性分析：公司的財務狀況健康嗎？" class="headerlink" title="安全性分析：公司的財務狀況健康嗎？"></a>安全性分析：公司的財務狀況健康嗎？</h2><p>安全性分析主要是分析公司體質是否安全？公司會不會倒？許多公司看似驚人的獲利往往是不斷燒錢所創造出來的假象，安全性分析則是透過舉債以及財務槓桿操作的情況讓你避開這樣的地雷公司和股票。</p>
-<ol>
-<li><p>獲利含金量</p>
-<p> <code>獲利含金量 = 營業現金流入 / 稅後淨利 * 100%</code></p>
-<p> 代表企業營運真正帶回多少現金，是否真正賺到錢。一般建議獲利含金量 &gt; 80%</p>
-</li>
-<li><p>自由現金流量</p>
-<p> <code>自由現金流量 = 營業現金流量流入 - 投資現金流量流出</code></p>
-<p> 看公司是燒錢還是賺錢，一般而言過去 5-8 年大部分的自由現金流量必需大於 0，長期向上</p>
-</li>
-<li><p>長短期金融負債比</p>
-<p> <code>長短期金融負債比 = 長短期金融借款 / 資產總計 * 100%</code></p>
-<p> 如果單單看負債比容易錯過好公司，我們可以採取長短期金融負債比（長短期負債包括：短期借款、應付短期票據、一年到期長期負債、長期負債等）來看衡量真正造成企業還債壓力的債務狀況。一般而言建議 30% - 40% 以下</p>
-</li>
-</ol>
-<h2 id="價值分析：公司價值是否有被低估？"><a href="#價值分析：公司價值是否有被低估？" class="headerlink" title="價值分析：公司價值是否有被低估？"></a>價值分析：公司價值是否有被低估？</h2><p>以投資人角度來看，低買高賣賺取價差&#x2F;資本利得是一種投資方式，但到底怎樣的股價才不算買貴，如何找到被低估的股票，這就要倚賴本益比、股價淨值比和股利折現率等評價指標了。</p>
-<ol>
-<li><p>本益比</p>
-<p> <code>EPS 每股盈餘 ＝ 稅後淨利 ／ 流通在外的普通股加權股數</code></p>
-<p> <code>本益比 = 股價 / EPS</code></p>
-<p> 一般建議本益比 &gt; 15 為合適進場時機</p>
-</li>
-<li><p>股價淨值比</p>
-<p> <code>每股淨值 = 股東權益總額 / 股數</code></p>
-<p> <code>股價淨值比 = 股價 / 每股淨值</code></p>
-<p> 股價淨值比表示在股票市場中，這檔股票每 1 元的帳面價值，用來判斷是否股價被低估。合理股價淨值比應介於 1-2 倍，不宜長期低於淨值。一家公司股價淨值比 &lt; 1 一定有原因，可能是被低估或是庫存偏高或是持續虧損。</p>
-</li>
-<li><p>現金殖利率</p>
-<p> <code>現金殖利率 = 過去五年平均現金股利 / 購買時股價 * 100%</code></p>
-<p> 避免打腫臉充胖子，建議評估 5 年現金殖利率大於 6.25%（5% 預留 20% 安全邊際）</p>
-</li>
-</ol>
-<h2 id="成長性分析：公司的成長動能是？"><a href="#成長性分析：公司的成長動能是？" class="headerlink" title="成長性分析：公司的成長動能是？"></a>成長性分析：公司的成長動能是？</h2><p>若一家公司具備以上三種條件就已經算是不錯的標的，但公司若展現好的長短期營收成長率則具備短期和長期成長動能（當然要避開一次性的賣土地或是資產的收益狀況），股價也會有相對的反應。</p>
-<ol>
-<li><p>營收年增率</p>
-<p> <code>營收年增率 = 近一年營收總和 - 去年同期營收總和 / 去年同期營收總和 * 100%</code></p>
-<p> 營收要和去年同期比較才有意義，而非看月增率，建議至少大於 0 - 5 %</p>
-</li>
-</ol>
-<h2 id="經營團隊與產業分析"><a href="#經營團隊與產業分析" class="headerlink" title="經營團隊與產業分析"></a>經營團隊與產業分析</h2><p>除了上述基本面分析外，一家公司的經營好壞跟其經營團隊和所處產業也有密切相關，一個低調務實打拚的專業經營團隊不論遇到經營亂流或是金融海嘯，呈現短期衰退，長期來看都可以靠著團隊努力客服難關。另外就是產業的狀況，公司是否處在上升性的產業就可以更了解財報背後呈現的原因和真實性。此外，會計師評語也可以讓投資人可以有機會避開地雷公司（正常情況：1. 無保留意見 2. 修正式保留意見）。</p>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>以上就是簡易的財報分析入門教學，希望大家都可以有能力透過財報分析選對產業、選對公司和選對老闆，不需要再到處打聽路邊名牌，也能更全面性了解公司營運狀況和未來發展方向，為自己的職涯加分。</p>
-<h1 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h1><ol>
-<li><a target="_blank" rel="noopener" href="http://mops.twse.com.tw/mops/web/index">公開資訊觀測站</a></li>
-<li><a target="_blank" rel="noopener" href="http://www.tse.com.tw/zh/#">台灣證券交易所</a></li>
-<li><a target="_blank" rel="noopener" href="http://www.cmoney.tw/learn/course/0520/topic/1115">杜邦方程式</a></li>
+                    <h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
+<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
+<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
+<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
+<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
+<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
+<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
+<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a target="_blank" rel="noopener" href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
+<li><a target="_blank" rel="noopener" href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.langchain.asia/">langchain 教學</a></li>
+<li><a target="_blank" rel="noopener" href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
+<li><a target="_blank" rel="noopener" href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
+<li><a target="_blank" rel="noopener" href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
+<li><a target="_blank" rel="noopener" href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
+<li><a target="_blank" rel="noopener" href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
 </ol>
 
                 </div>
@@ -326,7 +274,7 @@
                 <div>
                     <h3>Related Posts</h3>
                     <div>
-                        <ul class="popular-posts"><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2017/09/10/stay-focus-and-keep-deep-working/" title="在注意力稀缺的時代重新找回深度工作力（Deep Work）" rel="bookmark">在注意力稀缺的時代重新找回深度工作力（Deep Work）</a></h3></div></li></ul>
+                        <ul class="popular-posts"><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/22/about-llm-app-10-keywords/" title="關於 LLMs 大型語言模型技術應用的 10 個關鍵字" rel="bookmark">關於 LLMs 大型語言模型技術應用的 10 個關鍵字</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/22/about-llm-tech-10-keywords/" title="關於 LLMs 大型語言模型技術的 10 個關鍵字" rel="bookmark">關於 LLMs 大型語言模型技術的 10 個關鍵字</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/22/llm-app-in-martech/" title="關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字" rel="bookmark">關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/23/llm-rag-app-notes/" title="擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學" rel="bookmark">擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</a></h3></div></li></ul>
                     </div>
                 </div>
                 <!-- Tags -->
@@ -362,8 +310,8 @@
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "kdchang-cc";
-    var disqus_identifier = "https://www.kdchang.cc/2017/06/30/financial-statements-analysis-introduction/";
-    var disqus_url = "https://www.kdchang.cc/2017/06/30/financial-statements-analysis-introduction/";
+    var disqus_identifier = "https://www.kdchang.cc/2024/05/23/llm-langchain-notes/";
+    var disqus_url = "https://www.kdchang.cc/2024/05/23/llm-langchain-notes/";
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
