@@ -12,7 +12,7 @@ tags:
 
 ---
 
-以下是關於大型語言模型（LLMs）的 10 個關鍵字：
+整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：
 
 1. **自然語言處理（NLP）**（Natural Language Processing, NLP）
 2. **機器學習**（Machine Learning）
@@ -26,3 +26,8 @@ tags:
 10. **轉移學習**（Transfer Learning）
 
 這些關鍵字涵蓋了大型語言模型的核心概念、技術和應用領域，有助於幫助我們深入理解 LLMs 的工作原理和用途。
+
+
+
+# Doc
+1. [NLP / LLMs中的Temperature 是什么?](https://blog.csdn.net/deephub/article/details/129682591)
