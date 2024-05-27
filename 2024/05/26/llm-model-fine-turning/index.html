@@ -12,11 +12,11 @@
 
     <title>
         
-          關於 LLMs 大型語言模型技術的 10 個關鍵字 - KD Chang 張凱迪 | 軟體工程師/產品經理/教育工作者
+          關於 LLMs 大型語言模型微調（Fine-tuning）入門教學 - KD Chang 張凱迪 | 軟體工程師/產品經理/教育工作者
         
     </title>
 
-    <link rel="canonical" href="https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/">
+    <link rel="canonical" href="https://www.kdchang.cc/2024/05/26/llm-model-fine-turning/">
 
     <!-- Bootstrap Core CSS -->
     
@@ -39,8 +39,8 @@
     <!-- og tag -->
     <meta name="generator" content="KD Chang">
     
-      <meta name="og:title" content="關於 LLMs 大型語言模型技術的 10 個關鍵字 - KD Chang 張凱迪 | 軟體工程師/產品經理/教育工作者">
-      <meta name="og:site_name" content="關於 LLMs 大型語言模型技術的 10 個關鍵字 - KD Chang 張凱迪 | 軟體工程師/產品經理/教育工作者">
+      <meta name="og:title" content="關於 LLMs 大型語言模型微調（Fine-tuning）入門教學 - KD Chang 張凱迪 | 軟體工程師/產品經理/教育工作者">
+      <meta name="og:site_name" content="關於 LLMs 大型語言模型微調（Fine-tuning）入門教學 - KD Chang 張凱迪 | 軟體工程師/產品經理/教育工作者">
     
     
       <meta name="description" content="Hi 我是 KD Chang 張凱迪，我在這書寫我的閱讀思考學習筆記。這裡記錄一個軟體工程師也是一位產品經理和教育工作者對 EduTech 教育科技、跨領域閱讀/自主學習、媒體出版、社會創新、ESG/SDGs 永續發展、創新創業、數位科技、經營管理、歷史人文、政治經濟、公共政策與職場人生的思考與觀察，歡迎一起交流討論，讓這個世界更加開放美好！">
@@ -178,10 +178,10 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
 
-                    <h1>關於 LLMs 大型語言模型技術的 10 個關鍵字</h1>
+                    <h1>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</h1>
                     <span class="meta">
                         Posted by kdchang on
-                        2024-05-22
+                        2024-05-26
                     </span>
                     <br>
                     <div class="tags">
@@ -197,6 +197,10 @@
                           <a class="tag" href="/tags/#LLM" title="LLM">LLM</a>
                         
                           <a class="tag" href="/tags/#大型語言模型" title="大型語言模型">大型語言模型</a>
+                        
+                          <a class="tag" href="/tags/#fine-tuning" title="fine-tuning">fine-tuning</a>
+                        
+                          <a class="tag" href="/tags/#微調" title="微調">微調</a>
                         
 
                     </div>
@@ -222,23 +226,29 @@
                 </div>
                 <br>
                 <div>
-                    <p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
+                    <h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
 <ol>
-<li><strong>自然語言處理（NLP）</strong>（Natural Language Processing, NLP）</li>
-<li><strong>機器學習</strong>（Machine Learning）</li>
-<li><strong>深度學習</strong>（Deep Learning）</li>
-<li><strong>文本生成</strong>（Text Generation）</li>
-<li><strong>上下文理解</strong>（Contextual Understanding）</li>
-<li><strong>語義分析</strong>（Semantic Analysis）</li>
-<li><strong>模型訓練</strong>（Model Training）</li>
-<li><strong>語言建模</strong>（Language Modeling）</li>
-<li><strong>人工智慧</strong>（Artificial Intelligence, AI）</li>
-<li><strong>轉移學習</strong>（Transfer Learning）</li>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
 </ol>
-<p>這些關鍵字涵蓋了大型語言模型的核心概念、技術和應用領域，有助於幫助我們深入理解 LLMs 的工作原理和用途。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a target="_blank" rel="noopener" href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a target="_blank" rel="noopener" href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a target="_blank" rel="noopener" href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a target="_blank" rel="noopener" href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a target="_blank" rel="noopener" href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
 </ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
 
                 </div>
 
@@ -255,7 +265,7 @@
                 <div>
                     <h3>Related Posts</h3>
                     <div>
-                        <ul class="popular-posts"><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/22/about-llm-app-10-keywords/" title="關於 LLMs 大型語言模型技術應用的 10 個關鍵字" rel="bookmark">關於 LLMs 大型語言模型技術應用的 10 個關鍵字</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/26/llm-model-fine-turning/" title="關於 LLMs 大型語言模型微調（Fine-tuning）入門教學" rel="bookmark">關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/22/llm-app-in-martech/" title="關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字" rel="bookmark">關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/23/llm-langchain-notes/" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學" rel="bookmark">LangChain：LLM 大型語言模型開源框架 Framework 入門教學</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/23/llm-rag-app-notes/" title="擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學" rel="bookmark">擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</a></h3></div></li></ul>
+                        <ul class="popular-posts"><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/22/about-llm-app-10-keywords/" title="關於 LLMs 大型語言模型技術應用的 10 個關鍵字" rel="bookmark">關於 LLMs 大型語言模型技術應用的 10 個關鍵字</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/22/about-llm-tech-10-keywords/" title="關於 LLMs 大型語言模型技術的 10 個關鍵字" rel="bookmark">關於 LLMs 大型語言模型技術的 10 個關鍵字</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/22/llm-app-in-martech/" title="關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字" rel="bookmark">關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/23/llm-langchain-notes/" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學" rel="bookmark">LangChain：LLM 大型語言模型開源框架 Framework 入門教學</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/2024/05/23/llm-rag-app-notes/" title="擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學" rel="bookmark">擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</a></h3></div></li></ul>
                     </div>
                 </div>
                 <!-- Tags -->
@@ -291,8 +301,8 @@
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "kdchang-cc";
-    var disqus_identifier = "https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/";
-    var disqus_url = "https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/";
+    var disqus_identifier = "https://www.kdchang.cc/2024/05/26/llm-model-fine-turning/";
+    var disqus_url = "https://www.kdchang.cc/2024/05/26/llm-model-fine-turning/";
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
