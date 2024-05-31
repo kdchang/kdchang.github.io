@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
+      <link href="/2024/05/27/product-manager-career-development-notes-01/"/>
+      <url>/2024/05/27/product-manager-career-development-notes-01/</url>
+      
+        <content type="html"><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 outcome 而非 output 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p><h2 id="PM-新人入職-90-天"><a href="#PM-新人入職-90-天" class="headerlink" title="PM 新人入職 90 天"></a>PM 新人入職 90 天</h2><p>偉大和優秀的 PM 取決於你規劃和發表的產品是否偉大，是否有解決市場問題的能力。</p><ol><li>花點時間了解公司、團隊和文化</li><li>了解你的產品和客戶</li><li>符合別人對你角色的期望</li><li>與主管和同事一起擬定你的入職計畫和時間表</li><li>與主管和同事建立牢固的人際關係</li><li>贏得聲望</li><li>把握新手時間</li></ol><h1 id="PM-技能樹"><a href="#PM-技能樹" class="headerlink" title="PM 技能樹"></a>PM 技能樹</h1><h2 id="一、產品技能"><a href="#一、產品技能" class="headerlink" title="一、產品技能"></a>一、產品技能</h2><h3 id="1-User-使用者見解和洞察"><a href="#1-User-使用者見解和洞察" class="headerlink" title="1. User 使用者見解和洞察"></a>1. User 使用者見解和洞察</h3><p>理解使用者需求，了解想要用產品來解決的問題。如何蒐集使用者資料並往下挖掘最佳見解。</p><p>常見的概念與框架：</p><p>(1) Jobs To Be Done（JTBD）待辦工作框架</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">當我 &lt;情況&gt; 時，我想要 &lt;動機&gt;。如此一來，我就可以 &lt;期待結果&gt;</span><br></pre></td></tr></table></figure><p>(2) 客戶旅程（Customer Journey）：</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">覺察（Awareness）、考慮（Consideration）、購買（Purchase）、持有（Retention）、推廣（Advocacy）</span><br></pre></td></tr></table></figure><h3 id="2-Data-資料見解和決策"><a href="#2-Data-資料見解和決策" class="headerlink" title="2. Data 資料見解和決策"></a>2. Data 資料見解和決策</h3><p>如何審核資料、分析資料並運資料做出更好的決策。同時檢視公司指標、A&#x2F;B 測試和統計資料。</p><h3 id="3-Analytics-分析性問題解決問題能力"><a href="#3-Analytics-分析性問題解決問題能力" class="headerlink" title="3. Analytics 分析性問題解決問題能力"></a>3. Analytics 分析性問題解決問題能力</h3><p>透過系統框架，幫助做出更好的決策，解決複雜的問題。</p><h3 id="4-Design-產品設計與技能"><a href="#4-Design-產品設計與技能" class="headerlink" title="4. Design 產品設計與技能"></a>4. Design 產品設計與技能</h3><p>發展產品思維，以及推動產品決策的能力。學習 protoptype、Brainstorming 以及決定產品優先順序。</p><h3 id="5-Tech-技術技能"><a href="#5-Tech-技術技能" class="headerlink" title="5. Tech 技術技能"></a>5. Tech 技術技能</h3><p>學習如何與工程師合作，估計開發成本，技術專有名詞：API、部屬、SQL 和演算法。</p><h3 id="6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件"><a href="#6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件" class="headerlink" title="6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件"></a>6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件</h3><p>學習如何撰寫 spec、BRD&#x2F;MRD&#x2F;PRD 等文件，將需求轉換成文件。</p><h2 id="二、執行技能"><a href="#二、執行技能" class="headerlink" title="二、執行技能"></a>二、執行技能</h2><h3 id="1-專案管理技能"><a href="#1-專案管理技能" class="headerlink" title="1. 專案管理技能"></a>1. 專案管理技能</h3><h3 id="2-界定範圍和漸進式開發"><a href="#2-界定範圍和漸進式開發" class="headerlink" title="2. 界定範圍和漸進式開發"></a>2. 界定範圍和漸進式開發</h3><h3 id="3-產品發表"><a href="#3-產品發表" class="headerlink" title="3. 產品發表"></a>3. 產品發表</h3><h3 id="4-把事情做完"><a href="#4-把事情做完" class="headerlink" title="4. 把事情做完"></a>4. 把事情做完</h3><h2 id="三、策略技能"><a href="#三、策略技能" class="headerlink" title="三、策略技能"></a>三、策略技能</h2><h3 id="產品策略概述"><a href="#產品策略概述" class="headerlink" title="產品策略概述"></a>產品策略概述</h3><h3 id="願景"><a href="#願景" class="headerlink" title="願景"></a>願景</h3><h3 id="策略框架"><a href="#策略框架" class="headerlink" title="策略框架"></a>策略框架</h3><h3 id="路線圖和優先順序"><a href="#路線圖和優先順序" class="headerlink" title="路線圖和優先順序"></a>路線圖和優先順序</h3><h3 id="團隊目標"><a href="#團隊目標" class="headerlink" title="團隊目標"></a>團隊目標</h3><h2 id="四、領導技能"><a href="#四、領導技能" class="headerlink" title="四、領導技能"></a>四、領導技能</h2><h2 id="五、人事管理技能"><a href="#五、人事管理技能" class="headerlink" title="五、人事管理技能"></a>五、人事管理技能</h2><h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol><li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li><li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li><li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li><li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> product </tag>
+            
+            <tag> Product Manager </tag>
+            
+            <tag> 產品經理 </tag>
+            
+            <tag> 產品 </tag>
+            
+            <tag> Career </tag>
+            
+            <tag> Career Development </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
       <link href="/2024/05/26/llm-model-fine-turning/"/>
       <url>/2024/05/26/llm-model-fine-turning/</url>
@@ -29,35 +58,6 @@
             <tag> fine-tuning </tag>
             
             <tag> 微調 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>產品經理職涯發展學習筆記</title>
-      <link href="/2024/05/25/product-manager-career-development-notes/"/>
-      <url>/2024/05/25/product-manager-career-development-notes/</url>
-      
-        <content type="html"><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><h2 id="PM-新人入職-90-天"><a href="#PM-新人入職-90-天" class="headerlink" title="PM 新人入職 90 天"></a>PM 新人入職 90 天</h2><h1 id="PM-技能樹"><a href="#PM-技能樹" class="headerlink" title="PM 技能樹"></a>PM 技能樹</h1><h2 id="一、產品技能"><a href="#一、產品技能" class="headerlink" title="一、產品技能"></a>一、產品技能</h2><h3 id="1-User-使用者見解和洞察"><a href="#1-User-使用者見解和洞察" class="headerlink" title="1. User 使用者見解和洞察"></a>1. User 使用者見解和洞察</h3><h3 id="2-Data-資料見解和決策"><a href="#2-Data-資料見解和決策" class="headerlink" title="2. Data 資料見解和決策"></a>2. Data 資料見解和決策</h3><h3 id="3-Analytics-分析性問題解決問題能力"><a href="#3-Analytics-分析性問題解決問題能力" class="headerlink" title="3. Analytics 分析性問題解決問題能力"></a>3. Analytics 分析性問題解決問題能力</h3><h3 id="4-Design-產品設計與技能"><a href="#4-Design-產品設計與技能" class="headerlink" title="4. Design 產品設計與技能"></a>4. Design 產品設計與技能</h3><h3 id="5-Tech-技術技能"><a href="#5-Tech-技術技能" class="headerlink" title="5. Tech 技術技能"></a>5. Tech 技術技能</h3><h3 id="6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件"><a href="#6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件" class="headerlink" title="6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件"></a>6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件</h3><h2 id="二、執行技能"><a href="#二、執行技能" class="headerlink" title="二、執行技能"></a>二、執行技能</h2><h2 id="三、策略技能"><a href="#三、策略技能" class="headerlink" title="三、策略技能"></a>三、策略技能</h2><h2 id="四、領導技能"><a href="#四、領導技能" class="headerlink" title="四、領導技能"></a>四、領導技能</h2><h2 id="五、人事管理技能"><a href="#五、人事管理技能" class="headerlink" title="五、人事管理技能"></a>五、人事管理技能</h2><h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol><li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li><li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li><li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li><li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li></ol>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> product </tag>
-            
-            <tag> Product Manager </tag>
-            
-            <tag> 產品經理 </tag>
-            
-            <tag> 產品 </tag>
-            
-            <tag> Career </tag>
-            
-            <tag> Career Development </tag>
             
         </tags>
       
