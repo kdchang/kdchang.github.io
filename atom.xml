@@ -6,7 +6,7 @@
   <link href="https://www.kdchang.cc/atom.xml" rel="self"/>
   
   <link href="https://www.kdchang.cc/"/>
-  <updated>2024-05-31T06:39:51.947Z</updated>
+  <updated>2024-06-05T02:32:39.434Z</updated>
   <id>https://www.kdchang.cc/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/"/>
     <id>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</id>
     <published>2024-05-27T03:33:41.000Z</published>
-    <updated>2024-05-31T06:39:51.947Z</updated>
+    <updated>2024-06-05T02:32:39.434Z</updated>
     
     
       
@@ -54,7 +54,7 @@
     <link href="https://www.kdchang.cc/2024/05/26/llm-model-fine-turning/"/>
     <id>https://www.kdchang.cc/2024/05/26/llm-model-fine-turning/</id>
     <published>2024-05-26T03:33:41.000Z</published>
-    <updated>2024-05-31T06:39:51.947Z</updated>
+    <updated>2024-06-05T02:32:39.434Z</updated>
     
     
       
@@ -91,7 +91,7 @@
     <link href="https://www.kdchang.cc/2024/05/23/llm-langchain-notes/"/>
     <id>https://www.kdchang.cc/2024/05/23/llm-langchain-notes/</id>
     <published>2024-05-23T03:33:41.000Z</published>
-    <updated>2024-05-31T06:39:51.947Z</updated>
+    <updated>2024-06-05T02:32:39.434Z</updated>
     
     
       
@@ -124,7 +124,7 @@
     <link href="https://www.kdchang.cc/2024/05/23/llm-rag-app-notes/"/>
     <id>https://www.kdchang.cc/2024/05/23/llm-rag-app-notes/</id>
     <published>2024-05-23T03:33:41.000Z</published>
-    <updated>2024-05-31T06:39:51.947Z</updated>
+    <updated>2024-06-05T02:32:39.434Z</updated>
     
     
       
@@ -163,7 +163,7 @@
     <link href="https://www.kdchang.cc/2024/05/22/about-llm-app-10-keywords/"/>
     <id>https://www.kdchang.cc/2024/05/22/about-llm-app-10-keywords/</id>
     <published>2024-05-22T03:33:41.000Z</published>
-    <updated>2024-05-31T06:39:51.947Z</updated>
+    <updated>2024-06-05T02:32:39.434Z</updated>
     
     
       
@@ -198,7 +198,7 @@
     <link href="https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/"/>
     <id>https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/</id>
     <published>2024-05-22T03:33:41.000Z</published>
-    <updated>2024-05-31T06:39:51.947Z</updated>
+    <updated>2024-06-05T02:32:39.434Z</updated>
     
     
       
@@ -233,7 +233,7 @@
     <link href="https://www.kdchang.cc/2024/05/22/llm-app-in-martech/"/>
     <id>https://www.kdchang.cc/2024/05/22/llm-app-in-martech/</id>
     <published>2024-05-22T03:33:41.000Z</published>
-    <updated>2024-05-31T06:39:51.947Z</updated>
+    <updated>2024-06-05T02:32:39.434Z</updated>
     
     
       
@@ -265,7 +265,7 @@
     <link href="https://www.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/"/>
     <id>https://www.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/</id>
     <published>2019-01-04T03:33:41.000Z</published>
-    <updated>2024-05-31T06:39:51.947Z</updated>
+    <updated>2024-06-05T02:32:39.434Z</updated>
     
     
       
@@ -279,10 +279,6 @@
     
     
     
-    
-    <category term="職場" scheme="https://www.kdchang.cc/tags/%E8%81%B7%E5%A0%B4/"/>
-    
-    <category term="career" scheme="https://www.kdchang.cc/tags/career/"/>
     
     <category term="scrum" scheme="https://www.kdchang.cc/tags/scrum/"/>
     
@@ -304,6 +300,10 @@
     
     <category term="產品開發現場" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E9%96%8B%E7%99%BC%E7%8F%BE%E5%A0%B4/"/>
     
+    <category term="職場" scheme="https://www.kdchang.cc/tags/%E8%81%B7%E5%A0%B4/"/>
+    
+    <category term="career" scheme="https://www.kdchang.cc/tags/career/"/>
+    
     <category term="專案管理" scheme="https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/"/>
     
   </entry>
@@ -313,7 +313,7 @@
     <link href="https://www.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/"/>
     <id>https://www.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/</id>
     <published>2017-09-10T14:00:00.000Z</published>
-    <updated>2024-05-31T06:39:51.947Z</updated>
+    <updated>2024-06-05T02:32:39.434Z</updated>
     
     
     <summary type="html">隨著網際網路和科技產品的發展，人們除了時間外，注意力、專注力和深度工作力也成為十分稀缺的資產。現代人號稱一天工作八小時甚至更長，但我們往往在開會、被打斷、逛網站、滑手機、處理私人事務和在茶水間討論公司組織裡的八卦中切換我們的思緒，實際上真正有生產力和進入心流專注狀態可能不過幾個小時。</summary>
@@ -324,6 +324,8 @@
     <category term="財務" scheme="https://www.kdchang.cc/tags/%E8%B2%A1%E5%8B%99/"/>
     
     <category term="職場" scheme="https://www.kdchang.cc/tags/%E8%81%B7%E5%A0%B4/"/>
+    
+    <category term="career" scheme="https://www.kdchang.cc/tags/career/"/>
     
     <category term="商業管理" scheme="https://www.kdchang.cc/tags/%E5%95%86%E6%A5%AD%E7%AE%A1%E7%90%86/"/>
     
@@ -341,8 +343,6 @@
     
     <category term="工作力" scheme="https://www.kdchang.cc/tags/%E5%B7%A5%E4%BD%9C%E5%8A%9B/"/>
     
-    <category term="career" scheme="https://www.kdchang.cc/tags/career/"/>
-    
     <category term="work" scheme="https://www.kdchang.cc/tags/work/"/>
     
     <category term="生產力工具" scheme="https://www.kdchang.cc/tags/%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7/"/>
@@ -354,7 +354,7 @@
     <link href="https://www.kdchang.cc/2017/06/30/financial-statements-analysis-introduction/"/>
     <id>https://www.kdchang.cc/2017/06/30/financial-statements-analysis-introduction/</id>
     <published>2017-06-30T14:00:00.000Z</published>
-    <updated>2024-05-31T06:39:51.947Z</updated>
+    <updated>2024-06-05T02:32:39.434Z</updated>
     
     
       
@@ -391,7 +391,7 @@
     <link href="https://www.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/"/>
     <id>https://www.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/</id>
     <published>2016-06-04T04:26:00.000Z</published>
-    <updated>2024-05-31T06:39:51.947Z</updated>
+    <updated>2024-06-05T02:32:39.434Z</updated>
     
     
       
