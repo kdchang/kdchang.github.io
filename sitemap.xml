@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/06/06/product-manager-reading-list/</loc>
+    <loc>https://www.kdchang.cc/2024/06/03/product-manager-course-list/</loc>
     
     <lastmod>2024-06-07</lastmod>
     
@@ -84,6 +84,15 @@
   
   <url>
     <loc>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</loc>
+    
+    <lastmod>2024-06-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/06/06/product-manager-reading-list/</loc>
     
     <lastmod>2024-06-07</lastmod>
     
@@ -390,7 +399,28 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/tags/%E6%9B%B8%E5%96%AE/</loc>
+    <loc>https://www.kdchang.cc/tags/%E8%AA%B2%E7%A8%8B/</loc>
+    <lastmod>2024-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/course/</loc>
+    <lastmod>2024-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/Online-Course/</loc>
+    <lastmod>2024-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E7%B7%9A%E4%B8%8A%E8%AA%B2%E7%A8%8B/</loc>
     <lastmod>2024-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -419,6 +449,13 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86/</loc>
+    <lastmod>2024-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E6%9B%B8%E5%96%AE/</loc>
     <lastmod>2024-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
