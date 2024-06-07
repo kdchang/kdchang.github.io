@@ -5,11 +5,14 @@ author: kdchang
 tags: 
     - product
     - Product Manager
+    - Project Manager
+    - Program Manager
     - 產品經理
+    - 專案經理
     - 產品
     - Career
     - Career Development
-
+    - PM
 ---
 
 # PM 角色定位
@@ -64,7 +67,7 @@ As a ______, I want to ______, so that ______.
 透過系統框架，幫助做出更好的決策，系統性分析並解決複雜的問題。
 
 ### 4. Design 產品設計與技能
-發展產品思維，以及推動產品決策的能力。學習 protoptype、Brainstorming 以及決定產品優先順序。
+發展產品思維，以及推動產品決策的能力。學習 protoptype、Brainstorming 以及決定產品優先順序（Prioritization）。
 
 ### 5. Tech 技術技能
 學習如何與工程師合作，估計開發成本，技術專有名詞：API、部屬、SQL 和演算法。
