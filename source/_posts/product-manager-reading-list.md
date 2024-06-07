@@ -2,7 +2,6 @@
 title: 產品經理（Product Manager, PM）學習參考書單
 date: 2024-06-06 11:33:41
 author: kdchang
-cover: https://www.kdchang.cc/img/posts/i-am-scrum-master.png
 tags: 
     - 產品專案管理專案全書
     - 產案管理

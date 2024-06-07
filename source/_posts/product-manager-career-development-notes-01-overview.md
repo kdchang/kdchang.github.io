@@ -139,9 +139,13 @@ As a ______, I want to ______, so that ______.
 ### 組織卓越
 
 
+## 六、面試準備
+
+
 # Doc
 1. [12 Things Every Product Manager Should Do in Their First 30 Days at a New Company](https://www.productplan.com/learn/product-manager-first-30-days/)
 2. [11 Revealing Product Manager Interview Questions](https://www.productplan.com/learn/product-manager-interview-questions/)
 3. [The Ultimate List of 72 Product Manager Interview Questions](https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions)
 4. [15 Product Manager Interview Questions to Help You Prepare](https://www.coursera.org/articles/product-manager-interview-questions)
 5. [Atlassian Agile Product Management](https://www.atlassian.com/agile/product-management)
+6. [老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析](https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0)
