@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
-      <link href="/2024/05/27/product-manager-career-development-notes-01-overview/"/>
-      <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
+      <title>產品經理（Product Manager, PM）學習參考書單</title>
+      <link href="/2024/06/06/product-manager-reading-list/"/>
+      <url>/2024/06/06/product-manager-reading-list/</url>
       
-        <content type="html"><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p><h2 id="PM-新人入職-90-天"><a href="#PM-新人入職-90-天" class="headerlink" title="PM 新人入職 90 天"></a>PM 新人入職 90 天</h2><blockquote><p>偉大和優秀的 PM 取決於你規劃和發表的產品是否偉大，是否有解決市場問題的能力。</p></blockquote><p>Product Manager 產品經理新人入職 90 天代表著是試用期，同時也是考驗著 PM 是否能融入公司和團隊的文化和工作流程並贏得其他同事的信任以及學習的黃金期。</p><ol><li>花點時間了解公司、團隊和文化</li><li>了解你的產品和客戶</li><li>符合別人對你角色的期望</li><li>與主管和同事一起擬定你的入職計畫和時間表</li><li>與主管和同事建立牢固的人際關係</li><li>贏得聲望和認可</li><li>把握新手時間多詢問</li></ol><h1 id="PM-技能樹"><a href="#PM-技能樹" class="headerlink" title="PM 技能樹"></a>PM 技能樹</h1><h2 id="一、產品技能"><a href="#一、產品技能" class="headerlink" title="一、產品技能"></a>一、產品技能</h2><h3 id="1-User-使用者見解和洞察"><a href="#1-User-使用者見解和洞察" class="headerlink" title="1. User 使用者見解和洞察"></a>1. User 使用者見解和洞察</h3><p>理解使用者需求，了解想要用產品來解決的問題。如何蒐集使用者資料並往下挖掘最佳見解。</p><p>常見的概念與框架：</p><p>(1) Jobs To Be Done（JTBD）待辦工作框架</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">當我 &lt;情況&gt; 時，我想要 &lt;動機&gt;。如此一來，我就可以 &lt;期待結果&gt;</span><br></pre></td></tr></table></figure><p>(2) 客戶旅程（Customer Journey）：</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">覺察（Awareness）、考慮（Consideration）、購買（Purchase）、持有（Retention）、推廣（Advocacy）</span><br></pre></td></tr></table></figure><p>(3) 使用者故事 User Story：</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">As a ______, I want to ______, so that ______.</span><br><span class="line">身為 ___&lt;使用者角色&gt;___，我需要 ___&lt;做某件事情&gt;___，因為 ___&lt;想解決某個問題&gt;___。</span><br></pre></td></tr></table></figure><h3 id="2-Data-資料見解和決策"><a href="#2-Data-資料見解和決策" class="headerlink" title="2. Data 資料見解和決策"></a>2. Data 資料見解和決策</h3><p>如何審核資料、設定產品北極星（North Star）、分析資料並運資料做出更好的決策。同時檢視公司指標、A&#x2F;B 測試和統計資料並在產品上線後建立指標（metrics）進行監控（monitor）。</p><h3 id="3-Analytics-分析性問題解決問題能力"><a href="#3-Analytics-分析性問題解決問題能力" class="headerlink" title="3. Analytics 分析性問題解決問題能力"></a>3. Analytics 分析性問題解決問題能力</h3><p>透過系統框架，幫助做出更好的決策，系統性分析並解決複雜的問題。</p><h3 id="4-Design-產品設計與技能"><a href="#4-Design-產品設計與技能" class="headerlink" title="4. Design 產品設計與技能"></a>4. Design 產品設計與技能</h3><p>發展產品思維，以及推動產品決策的能力。學習 protoptype、Brainstorming 以及決定產品優先順序。</p><h3 id="5-Tech-技術技能"><a href="#5-Tech-技術技能" class="headerlink" title="5. Tech 技術技能"></a>5. Tech 技術技能</h3><p>學習如何與工程師合作，估計開發成本，技術專有名詞：API、部屬、SQL 和演算法。</p><h3 id="6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件"><a href="#6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件" class="headerlink" title="6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件"></a>6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件</h3><p>學習如何撰寫 spec、BRD&#x2F;MRD&#x2F;PRD 等文件，將需求轉換成文件。</p><h2 id="二、執行技能"><a href="#二、執行技能" class="headerlink" title="二、執行技能"></a>二、執行技能</h2><h3 id="1-專案管理技能"><a href="#1-專案管理技能" class="headerlink" title="1. 專案管理技能"></a>1. 專案管理技能</h3><h3 id="2-界定範圍和漸進式開發"><a href="#2-界定範圍和漸進式開發" class="headerlink" title="2. 界定範圍和漸進式開發"></a>2. 界定範圍和漸進式開發</h3><h3 id="3-產品發表"><a href="#3-產品發表" class="headerlink" title="3. 產品發表"></a>3. 產品發表</h3><h3 id="4-把事情做完"><a href="#4-把事情做完" class="headerlink" title="4. 把事情做完"></a>4. 把事情做完</h3><h2 id="三、策略技能"><a href="#三、策略技能" class="headerlink" title="三、策略技能"></a>三、策略技能</h2><h3 id="產品策略概述"><a href="#產品策略概述" class="headerlink" title="產品策略概述"></a>產品策略概述</h3><h3 id="願景"><a href="#願景" class="headerlink" title="願景"></a>願景</h3><h3 id="策略框架"><a href="#策略框架" class="headerlink" title="策略框架"></a>策略框架</h3><h3 id="路線圖和優先順序"><a href="#路線圖和優先順序" class="headerlink" title="路線圖和優先順序"></a>路線圖和優先順序</h3><h3 id="團隊目標"><a href="#團隊目標" class="headerlink" title="團隊目標"></a>團隊目標</h3><h2 id="四、領導技能"><a href="#四、領導技能" class="headerlink" title="四、領導技能"></a>四、領導技能</h2><h3 id="個人心態"><a href="#個人心態" class="headerlink" title="個人心態"></a>個人心態</h3><h3 id="協作"><a href="#協作" class="headerlink" title="協作"></a>協作</h3><h3 id="不動用權威的影響力"><a href="#不動用權威的影響力" class="headerlink" title="不動用權威的影響力"></a>不動用權威的影響力</h3><h3 id="溝通"><a href="#溝通" class="headerlink" title="溝通"></a>溝通</h3><h3 id="激勵與啟發"><a href="#激勵與啟發" class="headerlink" title="激勵與啟發"></a>激勵與啟發</h3><h3 id="所有權心態"><a href="#所有權心態" class="headerlink" title="所有權心態"></a>所有權心態</h3><h3 id="輔導"><a href="#輔導" class="headerlink" title="輔導"></a>輔導</h3><h3 id="與其他部門的共事"><a href="#與其他部門的共事" class="headerlink" title="與其他部門的共事"></a>與其他部門的共事</h3><h2 id="五、人事管理技能"><a href="#五、人事管理技能" class="headerlink" title="五、人事管理技能"></a>五、人事管理技能</h2><h3 id="成為人事經理"><a href="#成為人事經理" class="headerlink" title="成為人事經理"></a>成為人事經理</h3><h3 id="PM-經理的新領導技能"><a href="#PM-經理的新領導技能" class="headerlink" title="PM 經理的新領導技能"></a>PM 經理的新領導技能</h3><h3 id="教導和培養"><a href="#教導和培養" class="headerlink" title="教導和培養"></a>教導和培養</h3><h3 id="建立團隊"><a href="#建立團隊" class="headerlink" title="建立團隊"></a>建立團隊</h3><h3 id="組織卓越"><a href="#組織卓越" class="headerlink" title="組織卓越"></a>組織卓越</h3><h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol><li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li><li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li><li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li><li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li><li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li></ol>]]></content>
+        <content type="html"><![CDATA[<h1 id="產品經理"><a href="#產品經理" class="headerlink" title="產品經理"></a>產品經理</h1><ol><li>矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課</li><li>矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品</li><li>產品路線圖：從革新到蛻變</li><li>產品領導力：頂尖產品經理打造出色產品與成功團隊的致勝關鍵</li><li>使用者故事對照：User Story Mapping</li><li>產品經理全方位敏捷實踐：從活用 Scrum 到強化 PM 心理素質，成為 AI 無法取代的產品負責人</li></ol><h1 id="使用者體驗設計"><a href="#使用者體驗設計" class="headerlink" title="使用者體驗設計"></a>使用者體驗設計</h1><ol><li>使用者體驗願景設計：從0到1的產品、服務、商業模式創新手法</li><li>資訊架構學：網站、App與資訊生態系統規劃(第四版)</li></ol><h1 id="軟體工程"><a href="#軟體工程" class="headerlink" title="軟體工程"></a>軟體工程</h1><ol><li>Scrum敏捷產品管理：打造客戶喜愛的產品</li></ol><h1 id="專案管理"><a href="#專案管理" class="headerlink" title="專案管理"></a>專案管理</h1><ol><li>人月神話：軟體專案管理之道(20週年紀念版)</li></ol><h1 id="組織管理"><a href="#組織管理" class="headerlink" title="組織管理"></a>組織管理</h1><ol><li>OGSM 打造高敏捷團隊：OKR做不到的，OGSM一頁企畫書精準達成！</li><li>OGSM 變革領導：打造企業創新力，建立靈活、隨時擴充的全公司溝通系統工具</li><li>OKR：做最重要的事</li></ol><h1 id="商業模式"><a href="#商業模式" class="headerlink" title="商業模式"></a>商業模式</h1><ol><li>商業模式轉型：獲利世代2 價值創新的6大途徑</li></ol><h1 id="策略思考"><a href="#策略思考" class="headerlink" title="策略思考"></a>策略思考</h1><ol><li>BCG 問題解決力：一生受用的策略顧問思考法</li><li>底層邏輯：看清這個世界的底牌</li></ol><h1 id="AI-x2F-ML-人工智慧-x2F-機器學習"><a href="#AI-x2F-ML-人工智慧-x2F-機器學習" class="headerlink" title="AI&#x2F;ML 人工智慧&#x2F;機器學習"></a>AI&#x2F;ML 人工智慧&#x2F;機器學習</h1><ol><li>LLM走進你的電腦：自己動手開發大型語言模型應用</li><li>跟 NVIDIA 學深度學習！從基本神經網路到 CNN‧RNN‧LSTM‧seq2seq‧Transformer‧GPT‧BERT…，紮穩機器視覺與大型語言模型 (LLM) 的建模基礎</li></ol><h1 id="美學色彩"><a href="#美學色彩" class="headerlink" title="美學色彩"></a>美學色彩</h1><ol><li>一看就懂配色設計【獨家豪華收錄32頁16色基本色╳7色印刷特殊色演色表】：從色彩知識、配色規則到輸出創意，隨看即用的最強色彩指南</li></ol><h1 id="創新創業"><a href="#創新創業" class="headerlink" title="創新創業"></a>創新創業</h1><ol><li>精實創業：用小實驗玩出大事業(2017書衣新版)</li><li>精實執行：精實創業指南 第二版</li></ol>]]></content>
       
       
       
@@ -25,6 +25,121 @@
             <tag> Career </tag>
             
             <tag> Career Development </tag>
+            
+            <tag> PM </tag>
+            
+            <tag> 產品專案管理專案全書 </tag>
+            
+            <tag> 產案管理 </tag>
+            
+            <tag> 書籍 </tag>
+            
+            <tag> 清單 </tag>
+            
+            <tag> 書單 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>產品專案領導力全書 | 閱讀學習筆記</title>
+      <link href="/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/"/>
+      <url>/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課</span><br><span class="line">EMPOWERED: Ordinary People, Extraordinary Products</span><br></pre></td></tr></table></figure><h1 id="作者介紹"><a href="#作者介紹" class="headerlink" title="[作者介紹]"></a>[作者介紹]</h1><h1 id="一句話總結作者-想傳達的重點和觀念"><a href="#一句話總結作者-想傳達的重點和觀念" class="headerlink" title="[一句話總結作者﻿想傳達的重點和觀念]"></a>[一句話總結作者﻿想傳達的重點和觀念]</h1><h1 id="三個從這本書學到的核心知識點"><a href="#三個從這本書學到的核心知識點" class="headerlink" title="[三個從這本書學到的核心知識點]"></a>[三個從這本書學到的核心知識點]</h1><h1 id="三個可以用在工作和生活上的應用點"><a href="#三個可以用在工作和生活上的應用點" class="headerlink" title="[三個可以用在工作和生活上的應用點]"></a>[三個可以用在工作和生活上的應用點]</h1><h1 id="閱讀心得結論"><a href="#閱讀心得結論" class="headerlink" title="[閱讀心得結論]"></a>[閱讀心得結論]</h1><h1 id="三個行動待辦清單"><a href="#三個行動待辦清單" class="headerlink" title="[三個行動待辦清單]"></a>[三個行動待辦清單]</h1><h1 id="三個問題反思和延伸討論"><a href="#三個問題反思和延伸討論" class="headerlink" title="[三個問題反思和延伸討論]"></a>[三個問題反思和延伸討論]</h1>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> product </tag>
+            
+            <tag> Product Manager </tag>
+            
+            <tag> 產品經理 </tag>
+            
+            <tag> 產品 </tag>
+            
+            <tag> Career </tag>
+            
+            <tag> Career Development </tag>
+            
+            <tag> 產品專案管理專案全書 </tag>
+            
+            <tag> 產案管理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>產品專案管理全書 | 閱讀學習筆記</title>
+      <link href="/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/"/>
+      <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品</span><br><span class="line">INSPIRED: How to Create Tech Products Customers Love</span><br></pre></td></tr></table></figure><h1 id="作者介紹"><a href="#作者介紹" class="headerlink" title="[作者介紹]"></a>[作者介紹]</h1><h1 id="一句話總結作者-想傳達的重點和觀念"><a href="#一句話總結作者-想傳達的重點和觀念" class="headerlink" title="[一句話總結作者﻿想傳達的重點和觀念]"></a>[一句話總結作者﻿想傳達的重點和觀念]</h1><h1 id="三個從這本書學到的核心知識點"><a href="#三個從這本書學到的核心知識點" class="headerlink" title="[三個從這本書學到的核心知識點]"></a>[三個從這本書學到的核心知識點]</h1><h1 id="三個可以用在工作和生活上的應用點"><a href="#三個可以用在工作和生活上的應用點" class="headerlink" title="[三個可以用在工作和生活上的應用點]"></a>[三個可以用在工作和生活上的應用點]</h1><h1 id="閱讀心得結論"><a href="#閱讀心得結論" class="headerlink" title="[閱讀心得結論]"></a>[閱讀心得結論]</h1><h1 id="三個行動待辦清單"><a href="#三個行動待辦清單" class="headerlink" title="[三個行動待辦清單]"></a>[三個行動待辦清單]</h1><h1 id="三個問題反思和延伸討論"><a href="#三個問題反思和延伸討論" class="headerlink" title="[三個問題反思和延伸討論]"></a>[三個問題反思和延伸討論]</h1>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> product </tag>
+            
+            <tag> Product Manager </tag>
+            
+            <tag> 產品經理 </tag>
+            
+            <tag> 產品 </tag>
+            
+            <tag> Career </tag>
+            
+            <tag> Career Development </tag>
+            
+            <tag> 產品專案管理專案全書 </tag>
+            
+            <tag> 產案管理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
+      <link href="/2024/05/27/product-manager-career-development-notes-01-overview/"/>
+      <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
+      
+        <content type="html"><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p><h2 id="PM-新人入職-90-天"><a href="#PM-新人入職-90-天" class="headerlink" title="PM 新人入職 90 天"></a>PM 新人入職 90 天</h2><blockquote><p>偉大和優秀的 PM 取決於你規劃和發表的產品是否偉大，是否有解決市場問題的能力。</p></blockquote><p>Product Manager 產品經理新人入職 90 天代表著是試用期，同時也是考驗著 PM 是否能融入公司和團隊的文化和工作流程並贏得其他同事的信任以及學習的黃金期。</p><ol><li>花點時間了解公司、團隊和文化</li><li>了解你的產品和客戶</li><li>符合別人對你角色的期望</li><li>與主管和同事一起擬定你的入職計畫和時間表</li><li>與主管和同事建立牢固的人際關係</li><li>贏得聲望和認可</li><li>把握新手時間多詢問</li></ol><h1 id="PM-技能樹"><a href="#PM-技能樹" class="headerlink" title="PM 技能樹"></a>PM 技能樹</h1><h2 id="一、產品技能"><a href="#一、產品技能" class="headerlink" title="一、產品技能"></a>一、產品技能</h2><h3 id="1-User-使用者見解和洞察"><a href="#1-User-使用者見解和洞察" class="headerlink" title="1. User 使用者見解和洞察"></a>1. User 使用者見解和洞察</h3><p>理解使用者需求，了解想要用產品來解決的問題。如何蒐集使用者資料並往下挖掘最佳見解。</p><p>常見的概念與框架：</p><p>(1) Jobs To Be Done（JTBD）待辦工作框架</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">當我 &lt;情況&gt; 時，我想要 &lt;動機&gt;。如此一來，我就可以 &lt;期待結果&gt;</span><br></pre></td></tr></table></figure><p>(2) 客戶旅程（Customer Journey）：</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">覺察（Awareness）、考慮（Consideration）、購買（Purchase）、持有（Retention）、推廣（Advocacy）</span><br></pre></td></tr></table></figure><p>(3) 使用者故事 User Story：</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">As a ______, I want to ______, so that ______.</span><br><span class="line">身為 ___&lt;使用者角色&gt;___，我需要 ___&lt;做某件事情&gt;___，因為 ___&lt;想解決某個問題&gt;___。</span><br></pre></td></tr></table></figure><h3 id="2-Data-資料見解和決策"><a href="#2-Data-資料見解和決策" class="headerlink" title="2. Data 資料見解和決策"></a>2. Data 資料見解和決策</h3><p>如何審核資料、設定產品北極星（North Star）、分析資料並運資料做出更好的決策。同時檢視公司指標、A&#x2F;B 測試和統計資料並在產品上線後建立指標（metrics）進行監控（monitor）。</p><h3 id="3-Analytics-分析性問題解決問題能力"><a href="#3-Analytics-分析性問題解決問題能力" class="headerlink" title="3. Analytics 分析性問題解決問題能力"></a>3. Analytics 分析性問題解決問題能力</h3><p>透過系統框架，幫助做出更好的決策，系統性分析並解決複雜的問題。</p><h3 id="4-Design-產品設計與技能"><a href="#4-Design-產品設計與技能" class="headerlink" title="4. Design 產品設計與技能"></a>4. Design 產品設計與技能</h3><p>發展產品思維，以及推動產品決策的能力。學習 protoptype、Brainstorming 以及決定產品優先順序（Prioritization）。</p><h3 id="5-Tech-技術技能"><a href="#5-Tech-技術技能" class="headerlink" title="5. Tech 技術技能"></a>5. Tech 技術技能</h3><p>學習如何與工程師合作，估計開發成本，技術專有名詞：API、部屬、SQL 和演算法。</p><h3 id="6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件"><a href="#6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件" class="headerlink" title="6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件"></a>6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件</h3><p>學習如何撰寫 spec、BRD&#x2F;MRD&#x2F;PRD 等文件，將需求轉換成文件。</p><h2 id="二、執行技能"><a href="#二、執行技能" class="headerlink" title="二、執行技能"></a>二、執行技能</h2><h3 id="1-專案管理技能"><a href="#1-專案管理技能" class="headerlink" title="1. 專案管理技能"></a>1. 專案管理技能</h3><h3 id="2-界定範圍和漸進式開發"><a href="#2-界定範圍和漸進式開發" class="headerlink" title="2. 界定範圍和漸進式開發"></a>2. 界定範圍和漸進式開發</h3><h3 id="3-產品發表"><a href="#3-產品發表" class="headerlink" title="3. 產品發表"></a>3. 產品發表</h3><h3 id="4-把事情做完"><a href="#4-把事情做完" class="headerlink" title="4. 把事情做完"></a>4. 把事情做完</h3><h2 id="三、策略技能"><a href="#三、策略技能" class="headerlink" title="三、策略技能"></a>三、策略技能</h2><h3 id="產品策略概述"><a href="#產品策略概述" class="headerlink" title="產品策略概述"></a>產品策略概述</h3><h3 id="願景"><a href="#願景" class="headerlink" title="願景"></a>願景</h3><h3 id="策略框架"><a href="#策略框架" class="headerlink" title="策略框架"></a>策略框架</h3><h3 id="路線圖和優先順序"><a href="#路線圖和優先順序" class="headerlink" title="路線圖和優先順序"></a>路線圖和優先順序</h3><h3 id="團隊目標"><a href="#團隊目標" class="headerlink" title="團隊目標"></a>團隊目標</h3><h2 id="四、領導技能"><a href="#四、領導技能" class="headerlink" title="四、領導技能"></a>四、領導技能</h2><h3 id="個人心態"><a href="#個人心態" class="headerlink" title="個人心態"></a>個人心態</h3><h3 id="協作"><a href="#協作" class="headerlink" title="協作"></a>協作</h3><h3 id="不動用權威的影響力"><a href="#不動用權威的影響力" class="headerlink" title="不動用權威的影響力"></a>不動用權威的影響力</h3><h3 id="溝通"><a href="#溝通" class="headerlink" title="溝通"></a>溝通</h3><h3 id="激勵與啟發"><a href="#激勵與啟發" class="headerlink" title="激勵與啟發"></a>激勵與啟發</h3><h3 id="所有權心態"><a href="#所有權心態" class="headerlink" title="所有權心態"></a>所有權心態</h3><h3 id="輔導"><a href="#輔導" class="headerlink" title="輔導"></a>輔導</h3><h3 id="與其他部門的共事"><a href="#與其他部門的共事" class="headerlink" title="與其他部門的共事"></a>與其他部門的共事</h3><h2 id="五、人事管理技能"><a href="#五、人事管理技能" class="headerlink" title="五、人事管理技能"></a>五、人事管理技能</h2><h3 id="成為人事經理"><a href="#成為人事經理" class="headerlink" title="成為人事經理"></a>成為人事經理</h3><h3 id="PM-經理的新領導技能"><a href="#PM-經理的新領導技能" class="headerlink" title="PM 經理的新領導技能"></a>PM 經理的新領導技能</h3><h3 id="教導和培養"><a href="#教導和培養" class="headerlink" title="教導和培養"></a>教導和培養</h3><h3 id="建立團隊"><a href="#建立團隊" class="headerlink" title="建立團隊"></a>建立團隊</h3><h3 id="組織卓越"><a href="#組織卓越" class="headerlink" title="組織卓越"></a>組織卓越</h3><h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol><li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li><li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li><li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li><li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li><li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> product </tag>
+            
+            <tag> Product Manager </tag>
+            
+            <tag> Project Manager </tag>
+            
+            <tag> Program Manager </tag>
+            
+            <tag> 產品經理 </tag>
+            
+            <tag> 專案經理 </tag>
+            
+            <tag> 產品 </tag>
+            
+            <tag> Career </tag>
+            
+            <tag> Career Development </tag>
+            
+            <tag> PM </tag>
             
         </tags>
       
@@ -51,9 +166,9 @@
             
             <tag> LLMs </tag>
             
-            <tag> LLM </tag>
-            
             <tag> 大型語言模型 </tag>
+            
+            <tag> LLM </tag>
             
             <tag> fine-tuning </tag>
             
@@ -148,9 +263,9 @@
             
             <tag> LLMs </tag>
             
-            <tag> LLM </tag>
-            
             <tag> 大型語言模型 </tag>
+            
+            <tag> LLM </tag>
             
         </tags>
       
@@ -177,9 +292,9 @@
             
             <tag> LLMs </tag>
             
-            <tag> LLM </tag>
-            
             <tag> 大型語言模型 </tag>
+            
+            <tag> LLM </tag>
             
         </tags>
       
@@ -192,7 +307,7 @@
       <link href="/2024/05/22/llm-app-in-martech/"/>
       <url>/2024/05/22/llm-app-in-martech/</url>
       
-        <content type="html"><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p><h3 id="1-內容生成和改善"><a href="#1-內容生成和改善" class="headerlink" title="1. 內容生成和改善"></a>1. <strong>內容生成和改善</strong></h3><ul><li><strong>部落格文章</strong>：LLMs 可以自動生成高質量的部落格文章、新聞稿和長篇內容。</li><li><strong>社交媒體文章</strong>：自動創建引人入勝的社交媒體內容，適應不同平台的風格和受眾。</li><li><strong>電子郵件行銷</strong>：撰寫個性化的 Email 內容，提高打開率和點擊率。</li></ul><h3 id="2-個人化推薦"><a href="#2-個人化推薦" class="headerlink" title="2. 個人化推薦"></a>2. <strong>個人化推薦</strong></h3><ul><li><strong>產品推薦</strong>：根據使用者的歷史行為和偏好，LLMs 可以生成精確的產品推薦，提高轉化率。</li><li><strong>內容推薦</strong>：在網站或應用中，推薦相關的文章、影片或其他內容，增加用戶黏著性。</li></ul><h3 id="3-客戶服務和互動"><a href="#3-客戶服務和互動" class="headerlink" title="3. 客戶服務和互動"></a>3. <strong>客戶服務和互動</strong></h3><ul><li><strong>聊天機器人</strong>：使用自然語言處理技術的聊天機器人可以處理客戶查詢，提供即時支持和建議。</li><li><strong>客服自動化</strong>：分析和回答常見問題，減少人工客服的工作量，提高回應速度。</li></ul><h3 id="4-市場分析和洞察"><a href="#4-市場分析和洞察" class="headerlink" title="4. 市場分析和洞察"></a>4. <strong>市場分析和洞察</strong></h3><ul><li><strong>社群觀測</strong>：分析社群媒體上的用戶評論和趨勢，幫助企業了解市場需求和品牌形象。</li><li><strong>情感分析</strong>：評估用戶評論和回饋的情感，了解用戶的真實感受和意見。</li></ul><h3 id="5-A-x2F-B-測試和優化"><a href="#5-A-x2F-B-測試和優化" class="headerlink" title="5. A&#x2F;B 測試和優化"></a>5. <strong>A&#x2F;B 測試和優化</strong></h3><ul><li><strong>文案和設計測試</strong>：生成多個版本的廣告文案或設計，進行 A&#x2F;B 測試，找到最有效的組合。</li><li><strong>自動化調整</strong>：根據測試結果，自動調整和優化行銷策略。</li></ul><h3 id="6-語音和影音內容生成"><a href="#6-語音和影音內容生成" class="headerlink" title="6. 語音和影音內容生成"></a>6. <strong>語音和影音內容生成</strong></h3><ul><li><strong>語音助理和 Podcast</strong>：創建和管理企業的語音助理內容或自動生成 Podcast 節目。</li><li><strong>影片腳本和字幕</strong>：自動生成影片腳本，添加字幕，提高內容可及性。</li></ul><h3 id="7-資料分析和報告"><a href="#7-資料分析和報告" class="headerlink" title="7. 資料分析和報告"></a>7. <strong>資料分析和報告</strong></h3><ul><li><strong>智慧報告生成</strong>：根據行銷資料自動生成報告，提供深刻的分析和見解，幫助決策制定。</li><li><strong>趨勢預測</strong>：使用歷史資料和機器學習模型，預測市場趨勢和消費者行為。</li></ul><h3 id="8-SEO-優化"><a href="#8-SEO-優化" class="headerlink" title="8. SEO 優化"></a>8. <strong>SEO 優化</strong></h3><ul><li><strong>關鍵詞建議</strong>：根據內容和目標受眾，提供關鍵字建議，提升搜索引擎排名。</li><li><strong>內容改寫</strong>：改善現有內容，使其更具搜索引擎友好性，提高自然流量。</li></ul><p>LLMs 在 MarTech 領域的應用廣泛且多樣，能夠幫助企業自動化和改善行銷活動，提升效果和效率。隨著技術的不斷進步，LLMs 將在 MarTech 中發揮越來越重要的作用。</p>]]></content>
+        <content type="html"><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p><h3 id="1-內容生成和改善"><a href="#1-內容生成和改善" class="headerlink" title="1. 內容生成和改善"></a>1. <strong>內容生成和改善</strong></h3><ul><li><strong>部落格文章</strong>：LLMs 可以自動生成高質量的部落格文章、新聞稿和長篇內容。</li><li><strong>社交媒體文章</strong>：自動創建引人入勝的社交媒體內容，適應不同平台的風格和受眾。</li><li><strong>電子郵件行銷</strong>：撰寫個性化的 Email 內容，提高打開率和點擊率。</li></ul><h3 id="2-個人化推薦"><a href="#2-個人化推薦" class="headerlink" title="2. 個人化推薦"></a>2. <strong>個人化推薦</strong></h3><ul><li><strong>產品推薦</strong>：根據使用者的歷史行為和偏好，LLMs 可以生成精確的產品推薦，提高轉化率。</li><li><strong>內容推薦</strong>：在網站或應用中，推薦相關的文章、影片或其他內容，增加用戶黏著性。</li></ul><h3 id="3-客戶服務和互動"><a href="#3-客戶服務和互動" class="headerlink" title="3. 客戶服務和互動"></a>3. <strong>客戶服務和互動</strong></h3><ul><li><strong>聊天機器人</strong>：使用自然語言處理技術的聊天機器人可以處理客戶查詢，提供即時支持和建議。</li><li><strong>客服自動化</strong>：分析和回答常見問題，減少人工客服的工作量，提高回應速度。</li></ul><h3 id="4-市場分析和洞察"><a href="#4-市場分析和洞察" class="headerlink" title="4. 市場分析和洞察"></a>4. <strong>市場分析和洞察</strong></h3><ul><li><strong>社群觀測</strong>：分析社群媒體上的用戶評論和趨勢，幫助企業了解市場需求和品牌形象。</li><li><strong>情感分析</strong>：評估用戶評論和回饋的情感，了解用戶的真實感受和意見。</li></ul><h3 id="5-A-x2F-B-測試和優化"><a href="#5-A-x2F-B-測試和優化" class="headerlink" title="5. A&#x2F;B 測試和優化"></a>5. <strong>A&#x2F;B 測試和優化</strong></h3><ul><li><strong>文案和設計測試</strong>：生成多個版本的廣告文案或設計，進行 A&#x2F;B 測試，找到最有效的組合。</li><li><strong>自動化調整</strong>：根據測試結果，自動調整和優化行銷策略。</li></ul><h3 id="6-語音和影音內容生成"><a href="#6-語音和影音內容生成" class="headerlink" title="6. 語音和影音內容生成"></a>6. <strong>語音和影音內容生成</strong></h3><ul><li><strong>語音助理和 Podcast</strong>：創建和管理企業的語音助理內容或自動生成 Podcast 節目。</li><li><strong>影片腳本和字幕</strong>：自動生成影片腳本，新增字幕，提高內容可及性。</li></ul><h3 id="7-資料分析和報告"><a href="#7-資料分析和報告" class="headerlink" title="7. 資料分析和報告"></a>7. <strong>資料分析和報告</strong></h3><ul><li><strong>智慧報告生成</strong>：根據行銷資料自動生成報告，提供深刻的分析和見解，幫助決策制定。</li><li><strong>趨勢預測</strong>：使用歷史資料和機器學習模型，預測市場趨勢和消費者行為。</li></ul><h3 id="8-SEO-優化"><a href="#8-SEO-優化" class="headerlink" title="8. SEO 優化"></a>8. <strong>SEO 優化</strong></h3><ul><li><strong>關鍵詞建議</strong>：根據內容和目標受眾，提供關鍵字建議，提升搜索引擎排名。</li><li><strong>內容改寫</strong>：改善現有內容，使其更具搜索引擎友好性，提高自然有機流量。</li></ul><h3 id="9-自動摘要"><a href="#9-自動摘要" class="headerlink" title="9. 自動摘要"></a>9. <strong>自動摘要</strong></h3><ul><li><strong>商業報告</strong>：自動生成長篇報告的摘要，便於高階主管快速了解重點。</li><li><strong>新聞摘要</strong>：從多篇新聞文章中提取關鍵信息，生成簡短摘要。</li></ul><h3 id="10-語義搜尋"><a href="#10-語義搜尋" class="headerlink" title="10. 語義搜尋"></a>10. <strong>語義搜尋</strong></h3><ul><li><strong>文件管理系統</strong>：提高公司內部文件搜尋的準確性，快速找到所需資料。</li><li><strong>電子商務搜尋</strong>：根據顧客的搜尋意圖（intent）提供更準確的產品推薦。</li></ul><p>LLMs 在 MarTech 領域的應用廣泛且多樣，能夠幫助企業自動化和改善行銷活動，提升效果和效率。隨著技術的不斷進步，LLMs 將在 MarTech 中發揮越來越重要的作用。</p>]]></content>
       
       
       
@@ -225,6 +340,10 @@
       
         <tags>
             
+            <tag> 職場 </tag>
+            
+            <tag> career </tag>
+            
             <tag> scrum </tag>
             
             <tag> scrum master </tag>
@@ -244,10 +363,6 @@
             <tag> agile </tag>
             
             <tag> 產品開發現場 </tag>
-            
-            <tag> 職場 </tag>
-            
-            <tag> career </tag>
             
             <tag> 專案管理 </tag>
             
@@ -272,8 +387,6 @@
             
             <tag> 職場 </tag>
             
-            <tag> career </tag>
-            
             <tag> 商業管理 </tag>
             
             <tag> 人生 </tag>
@@ -289,6 +402,8 @@
             <tag> 深度工作力 </tag>
             
             <tag> 工作力 </tag>
+            
+            <tag> career </tag>
             
             <tag> work </tag>
             
