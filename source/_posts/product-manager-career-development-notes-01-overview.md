@@ -147,8 +147,6 @@ As a ______, I want to ______, so that ______.
 ### 組織卓越
 設計一個良好運作的產品組織，學習產品流程、團隊文化和組織設計。
 
-## 六、面試準備
-
 
 # Doc
 1. [12 Things Every Product Manager Should Do in Their First 30 Days at a New Company](https://www.productplan.com/learn/product-manager-first-30-days/)
