@@ -60,7 +60,7 @@ As a ______, I want to ______, so that ______.
 身為 ___<使用者角色>___，我需要 ___<做某件事情>___，因為 ___<想解決某個問題>___。
 ```
 
-### 2. Data 資料見解和決策
+### 2. Data 資料洞察見解和決策
 如何審核資料、設定產品北極星（North Star）、分析資料並運資料做出更好的決策。同時檢視公司指標、A/B 測試和統計資料並在產品上線後建立指標（metrics）進行監控（monitor）。
 
 ### 3. Analytics 分析性問題解決問題能力
@@ -147,6 +147,25 @@ As a ______, I want to ______, so that ______.
 ### 組織卓越
 設計一個良好運作的產品組織，學習產品流程、團隊文化和組織設計。
 
+# 常見 PM 技能
+1. Communication
+2. Execution
+3. Product sense
+4. Strategic thinking
+5. Collaboration
+6. Data acumen
+7. Technical
+8. Business acumen
+9. Raw intelligence
+10. Empathy
+11. Design/UX
+
+# 提升 Product sense 方法
+一、Observe People Interaction with Products
+二、 Deconstructing Everyday product
+
+# 市場推論
+費米推論的思考五步驟：「定義問題、思考解法、列出算式、計算檢果、檢驗數據」，當您面對無處著力的問題時，就可以借助這五個步驟，像剝洋蔥一般層層思考。學會這五個步驟，就能培養把大問題分解為小問題的「費米化」能力，不僅能提升職場的問題解決力，還會讓主管覺得你的簡報、數據很有道理。
 
 # Doc
 1. [12 Things Every Product Manager Should Do in Their First 30 Days at a New Company](https://www.productplan.com/learn/product-manager-first-30-days/)
