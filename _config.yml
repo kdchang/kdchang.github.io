@@ -34,6 +34,7 @@ keyword: " EduTech 教育科技, 跨領域閱讀/自主學習, 媒體出版, 社
 # zhihu_username:     Demonbane
 github_username:    kdchang
 twitter_username:   kaidichang
+instagram_username:   kdchang.cc
 facebook_username:  kdchang.cc
 # linkedin_username: kaidichang
 
@@ -156,6 +157,7 @@ addthis:
   facebook: true
   twitter: true
   google: true
+  instagram: true
   pinterest: true
 
 ## robots.txt
@@ -181,12 +183,10 @@ archive_generator:
 
 ## Search 
 search:
-  # path: search.xml
-  # field: post
-  path: search.json
+  path: search.xml
   field: post
+  content: true
   format: html
-  limit: 10000
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
