@@ -55,7 +55,7 @@ ga_domain: www.kdchang.cc
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業。是一個軟體工程師，也是一位 PM 產品/專案經理和教育工作者。曾服務過上市網路軟體公司、上市科技電子公司、台灣 AI 人工智慧新創獨角獸公司，也曾參與數個新創組織的創辦和多個網路產品服務的開發。A Software Engineer, Product/Project Manager & Educator.:)"
+sidebar-about-description: "KD Chang 張凱迪（@kdchang），台灣大學，主修經濟學，臺大資管所畢業。是一個軟體工程師，也是一位 PM 產品/專案經理和教育工作者。曾服務過上市網路軟體公司、上市科技電子公司、台灣 AI 人工智慧新創獨角獸公司，也曾參與數個新創組織的創辦和多個網路產品服務的開發。A Software Engineer, Product/Project Manager & Educator.:)"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
