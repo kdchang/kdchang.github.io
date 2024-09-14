@@ -23,8 +23,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>LLM</tag>
         <tag>大型語言模型</tag>
+        <tag>LLM</tag>
       </tags>
   </entry>
   <entry>
@@ -53,8 +53,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>LLM</tag>
         <tag>大型語言模型</tag>
+        <tag>LLM</tag>
       </tags>
   </entry>
   <entry>
@@ -292,8 +292,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>LLM</tag>
         <tag>大型語言模型</tag>
+        <tag>LLM</tag>
         <tag>fine-tuning</tag>
         <tag>微調</tag>
       </tags>
@@ -485,36 +485,6 @@
       </tags>
   </entry>
   <entry>
-    <title>產品經理（Product Manager, PM）課程學習參考清單</title>
-    <url>/2024/06/03/product-manager-course-list/</url>
-    <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
-<li><a href="https://www.pressplay.cc/project/D7BB1024574FB1E143B45A933009E02C/about">產品經理學習營第六屆</a></li>
-<li><a href="https://hahow.in/courses/5d3583687f99a20021f7ebaf">產品思維：Spotify 產品經理帶你快速入門</a></li>
-<li><a href="https://hahow.in/courses/5e689828e612310028027876">產品數據分析 - 打造網路產品的決策引擎</a></li>
-<li><a href="https://hahow.in/courses/5c8e0a0a8d1cc80020951f1a">產品經理職場學：PM 必修的職涯指南！</a></li>
-<li><a href="https://www.pressplay.cc/project/E4C9F63270ADB7ECA54C1D6B1BB84905/about">產品思維－像產品經理一樣思考</a></li>
-<li><a href="https://sat.cool/course/89">產品思維養成術｜從觀念到實踐，矽谷產品經理帶你掌握產品全貌觀</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>PM</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>產案管理</tag>
-        <tag>書籍</tag>
-        <tag>清單</tag>
-        <tag>課程</tag>
-        <tag>course</tag>
-        <tag>Online Course</tag>
-        <tag>線上課程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>產品經理（Product Manager, PM）面試學習筆記 - [1] 總覽</title>
     <url>/2024/05/25/product-manager-interview-notes/</url>
     <content><![CDATA[<h1 id="PM-面試設計"><a href="#PM-面試設計" class="headerlink" title="PM 面試設計"></a>PM 面試設計</h1><p>隨著工作經驗的累積，漸漸會有機會參與面試成為面試官，如何設計 PM 面試流程也是資深產品經理必須學習的重要課題。</p>
@@ -542,6 +512,36 @@
         <tag>PM Interview</tag>
         <tag>PM 面試</tag>
         <tag>面試</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>產品經理（Product Manager, PM）課程學習參考清單</title>
+    <url>/2024/06/03/product-manager-course-list/</url>
+    <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
+<li><a href="https://www.pressplay.cc/project/D7BB1024574FB1E143B45A933009E02C/about">產品經理學習營第六屆</a></li>
+<li><a href="https://hahow.in/courses/5d3583687f99a20021f7ebaf">產品思維：Spotify 產品經理帶你快速入門</a></li>
+<li><a href="https://hahow.in/courses/5e689828e612310028027876">產品數據分析 - 打造網路產品的決策引擎</a></li>
+<li><a href="https://hahow.in/courses/5c8e0a0a8d1cc80020951f1a">產品經理職場學：PM 必修的職涯指南！</a></li>
+<li><a href="https://www.pressplay.cc/project/E4C9F63270ADB7ECA54C1D6B1BB84905/about">產品思維－像產品經理一樣思考</a></li>
+<li><a href="https://sat.cool/course/89">產品思維養成術｜從觀念到實踐，矽谷產品經理帶你掌握產品全貌觀</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>PM</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
+        <tag>書籍</tag>
+        <tag>清單</tag>
+        <tag>課程</tag>
+        <tag>course</tag>
+        <tag>Online Course</tag>
+        <tag>線上課程</tag>
       </tags>
   </entry>
   <entry>
@@ -656,23 +656,6 @@
       </tags>
   </entry>
   <entry>
-    <title>矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品 | 閱讀學習心得筆記</title>
-    <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
-    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品</span><br><span class="line">INSPIRED: How to Create Tech Products Customers Love</span><br></pre></td></tr></table></figure>
-
-<h2 id="作者介紹"><a href="#作者介紹" class="headerlink" title="作者介紹"></a>作者介紹</h2><h2 id="一句話總結作者-想傳達的重點和觀念"><a href="#一句話總結作者-想傳達的重點和觀念" class="headerlink" title="一句話總結作者﻿想傳達的重點和觀念"></a>一句話總結作者﻿想傳達的重點和觀念</h2><h2 id="三個從這本書學到的核心知識點"><a href="#三個從這本書學到的核心知識點" class="headerlink" title="三個從這本書學到的核心知識點"></a>三個從這本書學到的核心知識點</h2><h2 id="三個可以用在工作和生活上的應用點"><a href="#三個可以用在工作和生活上的應用點" class="headerlink" title="三個可以用在工作和生活上的應用點"></a>三個可以用在工作和生活上的應用點</h2><h2 id="閱讀心得結論"><a href="#閱讀心得結論" class="headerlink" title="閱讀心得結論"></a>閱讀心得結論</h2><h2 id="三個行動待辦清單"><a href="#三個行動待辦清單" class="headerlink" title="三個行動待辦清單"></a>三個行動待辦清單</h2><h2 id="三個問題反思和延伸討論"><a href="#三個問題反思和延伸討論" class="headerlink" title="三個問題反思和延伸討論"></a>三個問題反思和延伸討論</h2>]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>產案管理</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>ScrumMaster、敏捷教練及專案經理轉型的最佳指南 | 閱讀學習心得筆記</title>
     <url>/2024/06/06/reading-notes-scrum-master-team/</url>
     <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南</span><br><span class="line">Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition</span><br></pre></td></tr></table></figure>
@@ -691,6 +674,23 @@
         <tag>project</tag>
         <tag>PjM</tag>
         <tag>專案</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品 | 閱讀學習心得筆記</title>
+    <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
+    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品</span><br><span class="line">INSPIRED: How to Create Tech Products Customers Love</span><br></pre></td></tr></table></figure>
+
+<h2 id="作者介紹"><a href="#作者介紹" class="headerlink" title="作者介紹"></a>作者介紹</h2><h2 id="一句話總結作者-想傳達的重點和觀念"><a href="#一句話總結作者-想傳達的重點和觀念" class="headerlink" title="一句話總結作者﻿想傳達的重點和觀念"></a>一句話總結作者﻿想傳達的重點和觀念</h2><h2 id="三個從這本書學到的核心知識點"><a href="#三個從這本書學到的核心知識點" class="headerlink" title="三個從這本書學到的核心知識點"></a>三個從這本書學到的核心知識點</h2><h2 id="三個可以用在工作和生活上的應用點"><a href="#三個可以用在工作和生活上的應用點" class="headerlink" title="三個可以用在工作和生活上的應用點"></a>三個可以用在工作和生活上的應用點</h2><h2 id="閱讀心得結論"><a href="#閱讀心得結論" class="headerlink" title="閱讀心得結論"></a>閱讀心得結論</h2><h2 id="三個行動待辦清單"><a href="#三個行動待辦清單" class="headerlink" title="三個行動待辦清單"></a>三個行動待辦清單</h2><h2 id="三個問題反思和延伸討論"><a href="#三個問題反思和延伸討論" class="headerlink" title="三個問題反思和延伸討論"></a>三個問題反思和延伸討論</h2>]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
       </tags>
   </entry>
   <entry>
