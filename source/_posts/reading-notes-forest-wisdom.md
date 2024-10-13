@@ -2,7 +2,6 @@
 title: 我可能錯了：森林智者的最後一堂人生課 | 閱讀學習心得筆記
 date: 2024-08-06 11:33:41
 author: kdchang
-cover: https://www.kdchang.cc/img/posts/i-am-scrum-master.png
 tags: 
     - 閱讀心得
     - 我可能錯了

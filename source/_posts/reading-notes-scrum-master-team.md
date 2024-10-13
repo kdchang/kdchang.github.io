@@ -2,7 +2,6 @@
 title: ScrumMaster、敏捷教練及專案經理轉型的最佳指南 | 閱讀學習心得筆記
 date: 2024-06-06 11:33:41
 author: kdchang
-cover: https://www.kdchang.cc/img/posts/i-am-scrum-master.png
 tags: 
     - 產品專案管理專案全書
     - 產案管理
