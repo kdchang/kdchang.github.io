@@ -11,6 +11,24 @@
   </url>
   
   <url>
+    <loc>https://www.kdchang.cc/archive/</loc>
+    
+    <lastmod>2024-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/about/</loc>
+    
+    <lastmod>2024-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kdchang.cc/2024/05/22/about-llm-app-10-keywords/</loc>
     
     <lastmod>2024-10-13</lastmod>
@@ -47,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/23/llm-langchain-notes/</loc>
+    <loc>https://www.kdchang.cc/2024/05/26/llm-model-fine-turning/</loc>
     
     <lastmod>2024-10-13</lastmod>
     
@@ -56,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/26/llm-model-fine-turning/</loc>
+    <loc>https://www.kdchang.cc/2024/05/23/llm-langchain-notes/</loc>
     
     <lastmod>2024-10-13</lastmod>
     
@@ -165,24 +183,6 @@
   
   <url>
     <loc>https://www.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/</loc>
-    
-    <lastmod>2024-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/about/</loc>
-    
-    <lastmod>2024-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/archive/</loc>
     
     <lastmod>2024-10-13</lastmod>
     
@@ -307,13 +307,6 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/tags/LangChain/</loc>
-    <lastmod>2024-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/tags/fine-tuning/</loc>
     <lastmod>2024-10-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -322,6 +315,13 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E5%BE%AE%E8%AA%BF/</loc>
+    <lastmod>2024-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/LangChain/</loc>
     <lastmod>2024-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

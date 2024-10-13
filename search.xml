@@ -212,6 +212,44 @@
       </tags>
   </entry>
   <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
     <url>/2024/05/23/llm-langchain-notes/</url>
     <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
@@ -258,44 +296,6 @@
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
         <tag>LangChain</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -643,7 +643,38 @@
     <url>/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</url>
     <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課</span><br><span class="line">EMPOWERED: Ordinary People, Extraordinary Products</span><br></pre></td></tr></table></figure>
 
-<h2 id="作者介紹"><a href="#作者介紹" class="headerlink" title="作者介紹"></a>作者介紹</h2><h2 id="一句話總結作者-想傳達的重點和觀念"><a href="#一句話總結作者-想傳達的重點和觀念" class="headerlink" title="一句話總結作者﻿想傳達的重點和觀念"></a>一句話總結作者﻿想傳達的重點和觀念</h2><h2 id="三個從這本書學到的核心知識點"><a href="#三個從這本書學到的核心知識點" class="headerlink" title="三個從這本書學到的核心知識點"></a>三個從這本書學到的核心知識點</h2><h2 id="三個可以用在工作和生活上的應用點"><a href="#三個可以用在工作和生活上的應用點" class="headerlink" title="三個可以用在工作和生活上的應用點"></a>三個可以用在工作和生活上的應用點</h2><h2 id="閱讀心得結論"><a href="#閱讀心得結論" class="headerlink" title="閱讀心得結論"></a>閱讀心得結論</h2><h2 id="三個行動待辦清單"><a href="#三個行動待辦清單" class="headerlink" title="三個行動待辦清單"></a>三個行動待辦清單</h2><h2 id="三個問題反思和延伸討論"><a href="#三個問題反思和延伸討論" class="headerlink" title="三個問題反思和延伸討論"></a>三個問題反思和延伸討論</h2>]]></content>
+<blockquote>
+<p>「成功的秘訣在於賦能團隊，而非個別人才。」</p>
+</blockquote>
+<h3 id="閱讀心得"><a href="#閱讀心得" class="headerlink" title="閱讀心得"></a>閱讀心得</h3><p>《矽谷最夯‧產品專案領導力全書》以矽谷灣區企業如 Amazon、Google、Netflix、Apple、Tesla 等公司的創新經驗為基礎，強調成功並非取決於個別頂尖人才，而是透過有效的團隊賦權和協作來創造非凡產品。書中提出如何從平凡團隊轉變為一流創新團隊的實踐策略，並且深入探討領導力、教練心態以及賦權團隊的重要性。這些策略對於產品經理、企業領導者及組織轉型有著極高的實用價值，特別適用於希望提升產品力和協作效能的企業。</p>
+<h3 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h3><ol>
+<li><strong>賦權與協作</strong><ul>
+<li>成功的企業並非依賴個別人才，而是建立在賦權的團隊結構之上。</li>
+<li>賦權團隊強調協作、責任分擔及解決整體問題，而非單純依賴個人能力。</li>
+</ul>
+</li>
+<li><strong>產品開發與策略</strong><ul>
+<li>強調產品開發團隊應與功能開發團隊分工合作，提升整體工作效能。</li>
+<li>產品願景需明確，並與公司策略保持一致，以達成長期目標。</li>
+</ul>
+</li>
+<li><strong>教練體制</strong><ul>
+<li>教練不僅是指導技術，而是鼓勵成員成長，並以正確的回饋機制來強化團隊能力。</li>
+<li>領導者應以教練心態為基礎，制定個人化的發展計畫，促進團隊成員的長期成長。</li>
+</ul>
+</li>
+<li><strong>組織拓樸與人員配置</strong><ul>
+<li>團隊結構影響賦權的效果，領導者需靈活調整團隊配置以提高效率。</li>
+<li>打破傳統以功能為基礎的組織架構，整合管理團隊與科技團隊以促進跨職能協作。</li>
+</ul>
+</li>
+<li><strong>實施OKR（目標與關鍵成果）</strong><ul>
+<li>採取自上而下與自下而上的方式制定OKR，使團隊能更清晰地了解並追蹤年度目標。</li>
+<li>強調跨職能團隊在制定與達成共同目標時，需保持緊密合作與持續調整。</li>
+</ul>
+</li>
+</ol>
+]]></content>
       <tags>
         <tag>product</tag>
         <tag>Product Manager</tag>
