@@ -1,5 +1,5 @@
 ---
-title: ScrumMaster、敏捷教練及專案經理轉型的最佳指南 | 閱讀學習心得筆記
+title: 《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》  | 閱讀學習心得筆記
 date: 2024-06-06 11:33:41
 author: kdchang
 tags: 

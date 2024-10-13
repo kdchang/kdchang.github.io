@@ -1,8 +1,7 @@
 ---
-title: 矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品 | 閱讀學習心得筆記
+title: 《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀學習心得筆記
 date: 2024-06-06 11:33:41
 author: kdchang
-cover: https://www.kdchang.cc/img/posts/i-am-scrum-master.png
 tags: 
     - 產品專案管理專案全書
     - 產案管理
