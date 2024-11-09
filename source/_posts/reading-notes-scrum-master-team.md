@@ -26,6 +26,7 @@ tags:
 Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition
 ```
 
+
 《教練敏捷團隊》是一本為敏捷教練、ScrumMaster、專案經理等專業人員提供指引的實用指南。書中強調敏捷教練不僅是技術專業的角色，更是能夠啟發團隊、協助他們自我成長的導師。透過本書，讀者能夠學習如何在不主導團隊的情況下，引導團隊邁向高績效和協同合作，並在過程中靈活調整自己的領導風格。
 
 **敏捷教練的蛻變**： 從傳統的管理者角色轉變為敏捷教練，需要具備全新的思維與技能，包括自我覺察、適應性、引導能力等。
