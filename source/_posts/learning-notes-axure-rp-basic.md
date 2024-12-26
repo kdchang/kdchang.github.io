@@ -23,6 +23,8 @@ tags:
 第一章 簡介
 1-1 Axure RP 10 簡介
 
+![](../img/posts/axure-rp-01.png)
+
 第二章 物件（Widget）
 2-1 物件介紹
 
