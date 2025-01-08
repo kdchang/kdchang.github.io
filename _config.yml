@@ -221,5 +221,3 @@ feed:
   autodiscovery: true
   template:
 
-local_search:
-  enable: true
