@@ -191,6 +191,8 @@ search:
   field: post
   content: true
   format: html
+local_search:
+  enable: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
