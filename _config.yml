@@ -167,8 +167,6 @@ addthis:
 ## robots.txt
 robotstxt:
   useragent: "*"
-  disallow:
-    - ''
   sitemap: 
     - https://www.kdchang.cc/sitemap.xml
   baidusitemap: 
