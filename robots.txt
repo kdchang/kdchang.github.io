@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: 
 Sitemap: https://www.kdchang.cc/sitemap.xml
