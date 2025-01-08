@@ -201,46 +201,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Google Analytics 基礎操作教學 | 學習筆記</title>
-    <url>/2024/11/16/learning-notes-google-analytics-ep-01/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
-        <tag>Google Analytics</tag>
-        <tag>GA4</tag>
-        <tag>數據分析</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>SEO 基礎操作教學 | 學習筆記</title>
-    <url>/2024/11/16/learning-notes-seo-ep1/</url>
-    <content><![CDATA[<ol>
-<li>產品企劃</li>
-<li>產品開發</li>
-<li>產品行銷與營運</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
-        <tag>GA4</tag>
-        <tag>數據分析</tag>
-        <tag>SEO</tag>
-        <tag>GSC</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
     <url>/2024/05/22/llm-app-in-martech/</url>
     <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
@@ -629,6 +589,40 @@
       </tags>
   </entry>
   <entry>
+    <title>常見專案經理（Project Manager）、產品經理（Product Manager, PM）和敏捷開發（Agile）相關證照</title>
+    <url>/2024/07/26/project-manager-product-manager-scrum-certifications/</url>
+    <content><![CDATA[<ol>
+<li><input disabled="" type="checkbox"> PMP</li>
+<li><input disabled="" type="checkbox"> NPDP</li>
+<li><input disabled="" type="checkbox"> Google Project Manager</li>
+<li><input disabled="" type="checkbox"> CSM</li>
+<li><input disabled="" type="checkbox"> CSPO</li>
+<li><input disabled="" type="checkbox"> PMI - ACP &#x2F; PMI - PBA</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>PM</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>書籍</tag>
+        <tag>清單</tag>
+        <tag>書單</tag>
+        <tag>證照</tag>
+        <tag>scrum</tag>
+        <tag>PMP</tag>
+        <tag>NPDP</tag>
+        <tag>Google Project Manager</tag>
+        <tag>CSM</tag>
+        <tag>CSPO</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>產品經理（Product Manager, PM）學習參考書單</title>
     <url>/2024/06/06/product-manager-reading-list/</url>
     <content><![CDATA[<h1 id="產品經理"><a href="#產品經理" class="headerlink" title="產品經理"></a>產品經理</h1><ol>
@@ -686,40 +680,6 @@
         <tag>書籍</tag>
         <tag>清單</tag>
         <tag>書單</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>常見專案經理（Project Manager）、產品經理（Product Manager, PM）和敏捷開發（Agile）相關證照</title>
-    <url>/2024/07/26/project-manager-product-manager-scrum-certifications/</url>
-    <content><![CDATA[<ol>
-<li><input disabled="" type="checkbox"> PMP</li>
-<li><input disabled="" type="checkbox"> NPDP</li>
-<li><input disabled="" type="checkbox"> Google Project Manager</li>
-<li><input disabled="" type="checkbox"> CSM</li>
-<li><input disabled="" type="checkbox"> CSPO</li>
-<li><input disabled="" type="checkbox"> PMI - ACP &#x2F; PMI - PBA</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>PM</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>書籍</tag>
-        <tag>清單</tag>
-        <tag>書單</tag>
-        <tag>證照</tag>
-        <tag>scrum</tag>
-        <tag>PMP</tag>
-        <tag>NPDP</tag>
-        <tag>Google Project Manager</tag>
-        <tag>CSM</tag>
-        <tag>CSPO</tag>
       </tags>
   </entry>
   <entry>

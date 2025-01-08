@@ -47,24 +47,6 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/11/16/learning-notes-google-analytics-ep-01/</loc>
-    
-    <lastmod>2025-01-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/11/16/learning-notes-seo-ep1/</loc>
-    
-    <lastmod>2025-01-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/2024/05/22/llm-app-in-martech/</loc>
     
     <lastmod>2025-01-08</lastmod>
@@ -128,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/06/06/product-manager-reading-list/</loc>
+    <loc>https://www.kdchang.cc/2024/07/26/project-manager-product-manager-scrum-certifications/</loc>
     
     <lastmod>2025-01-08</lastmod>
     
@@ -137,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/07/26/project-manager-product-manager-scrum-certifications/</loc>
+    <loc>https://www.kdchang.cc/2024/06/06/product-manager-reading-list/</loc>
     
     <lastmod>2025-01-08</lastmod>
     
@@ -294,6 +276,27 @@
   </url>
   
   <url>
+    <loc>https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kdchang.cc/tags/%E7%94%9F%E6%88%90%E5%BC%8F-AI/</loc>
     <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -392,27 +395,6 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2025-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2025-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2025-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/tags/Axure-RP-10/</loc>
     <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -421,41 +403,6 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/axure/</loc>
-    <lastmod>2025-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/Google-Analytics/</loc>
-    <lastmod>2025-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/GA4/</loc>
-    <lastmod>2025-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2025-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/SEO/</loc>
-    <lastmod>2025-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/GSC/</loc>
     <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
