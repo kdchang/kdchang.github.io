@@ -1,5 +1,5 @@
 ---
-title: 產品經理（Product Manager, PM）學習參考書單
+title: 產品經理（Product Manager, PM）推薦學習參考書單
 date: 2024-06-06 11:33:41
 author: kdchang
 tags: 
@@ -15,6 +15,7 @@ tags:
     - 清單
     - 書單
     - PM
+    - 推薦書單
 
 ---
 
