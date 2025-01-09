@@ -1,0 +1,35 @@
+---
+layout: layout
+---
+
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('<%= config.root %><%= page["header-img"] || config["header-img"] %>')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
+                <div class="site-heading">
+                    <h1><%= page.title || config.title %></h1>
+                    <!--<hr class="small">-->
+                    <span class="subheading"><%= page.description || config.subtitle || "" %></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="container">
+    <% if (theme.swiftype_key) { %>
+        <div class="form-group has-success has-feedback" id="site_search">
+          <form class="site-search-form">
+              <input type="text" id="st-search-input" name="q" results="0" placeholder="<%= __('Please keyin search keyword') %>" class="st-search-input st-default-search-input form-control" />
+          </form>
+        </div>  
+      <% } else { %>
+        <div id="site_search">
+         <div class="form-group">
+          <input type="text" id="local-search-input" name="q" results="0" placeholder="<%= __('Please keyin search keyword') %>" class="st-search-input st-default-search-input form-control"/>
+         </div>  
+        <div id="local-search-result"></div>
+        </div>
+    <% } %>
+</div>

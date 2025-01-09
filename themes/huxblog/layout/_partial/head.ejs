@@ -3,9 +3,31 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keyword"  content="<%= config.keyword %>">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <link rel="shortcut icon" href="<%= config.root %>img/logo.ico">
     <meta name="google-site-verification" content="cMTgiEFMM7gXpRMBbu_05Lnj0scwhDPCMvpfhQOpENI" />
+    <script src="<%- config.root %>js/search.js"></script> 
 
+    <% if (theme.fancybox){ %>
+    <link rel="stylesheet" href="<%- config.root %>fancybox/jquery.fancybox.css" media="screen" type="text/css">
+    <script src="<%- config.root %>fancybox/jquery.fancybox.pack.js"></script>
+    <script type="text/javascript">
+    (function($){
+      $('.fancybox').fancybox();
+    })(jQuery);
+    </script>
+    <% } %>
+    
+    <% if (config.search) { %>
+       <script type="text/javascript">      
+         var search_path = "<%= config.search.path %>";
+       if (search_path.length == 0) {
+         search_path = "search.xml";
+       }
+       var path = "<%= config.root %>" + search_path;
+         searchFunc(path, 'local-search-input', 'local-search-result');
+       </script>
+    <% } %>
     <title>
         <% if (page.title) { %>
           <%= page.title + ' - ' + config.SEOTitle %>
@@ -26,7 +48,7 @@
     <%- css('css/syntax') %>
 
     <!-- Main CSS -->
-    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/main.css?v=1">
 
     <!-- og tag -->
     <meta name="generator" content="<%- config.title %>">
