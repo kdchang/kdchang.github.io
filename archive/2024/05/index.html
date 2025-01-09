@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Head tag -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keyword"  content=" EduTech 教育科技, 跨領域閱讀/自主學習, 媒體出版, 社會創新, ESG/SDGs 永續發展, 創新創業, 數位科技, 經營管理, 歷史人文, 政治經濟, 公共政策與職場人生的思考與觀察">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="/img/logo.ico">
+    <meta name="google-site-verification" content="cMTgiEFMM7gXpRMBbu_05Lnj0scwhDPCMvpfhQOpENI" />
+    <script src="/js/search.js"></script> 
+
+    
+    
+    
+       <script type="text/javascript">      
+         var search_path = "search.xml";
+       if (search_path.length == 0) {
+         search_path = "search.xml";
+       }
+       var path = "/" + search_path;
+         searchFunc(path, 'local-search-input', 'local-search-result');
+       </script>
+    
+    <title>
+        
+          KD Chang 張凱迪 | 軟體工程師/產品專案經理/教育工作者
+        
+    </title>
+
+    <link rel="canonical" href="https://www.kdchang.cc/archive/2024/05/">
+
+    <!-- Bootstrap Core CSS -->
+    
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+
+    <!-- Custom CSS -->
+    
+<link rel="stylesheet" href="/css/hux-blog.min.css">
+
+
+    <!-- Pygments Github CSS -->
+    
+<link rel="stylesheet" href="/css/syntax.css">
+
+
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="/css/main.css?v=1">
+
+    <!-- og tag -->
+    <meta name="generator" content="I'm KD Chang">
+    
+      <meta name="og:title" content="KD Chang 張凱迪 | 軟體工程師/產品專案經理/教育工作者">
+      <meta name="og:site_name" content="KD Chang 張凱迪 | 軟體工程師/產品專案經理/教育工作者">
+    
+    
+      <meta name="description" content="Hi 我是 KD Chang 張凱迪，我在這書寫我的閱讀思考學習筆記。這裡記錄一個軟體工程師也是一位產品經理和教育工作者對 EduTech 教育科技、跨領域閱讀/自主學習、媒體出版、社會創新、ESG/SDGs 永續發展、創新創業、數位科技、經營管理、歷史人文、政治經濟、公共政策與職場人生的思考與觀察，歡迎一起交流討論，讓這個世界更加開放美好！">
+      <meta name="og:description" content="Hi 我是 KD Chang 張凱迪，我在這書寫我的閱讀思考學習筆記。這裡記錄一個軟體工程師也是一位產品經理和教育工作者對 EduTech 教育科技、跨領域閱讀/自主學習、媒體出版、社會創新、ESG/SDGs 永續發展、創新創業、數位科技、經營管理、歷史人文、政治經濟、公共政策與職場人生的思考與觀察，歡迎一起交流討論，讓這個世界更加開放美好！">
+    
+    
+      <meta name="og:image" content="https://www.kdchang.cc/img/logo.png">
+    
+    <meta name="og:type" content="website">
+    <!--Twitter Graph-->
+    <meta name="twitter:card" content="summary" />
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- ga & ba script hoook -->
+    <script></script>
+<link rel="alternate" href="/atom.xml" title="I'm KD Chang" type="application/atom+xml">
+</head>
+
+
+<!-- hack iOS CSS :active style -->
+<body ontouchstart="">
+
+    <!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">I&#39;m KD Chang</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <!-- Known Issue, found by Hux:
+            <nav>'s height woule be hold on by its content.
+            so, when navbar scale out, the <nav> will cover tags.
+            also mask any touch event of tags, unfortunately.
+        -->
+        <div id="huxblog_navbar">
+            <div class="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                    
+
+                        
+                    
+
+                        
+                        <li>
+                            <a href="/archive/">Archives</a>
+                        </li>
+                        
+                    
+
+                        
+                        <li>
+                            <a href="/about/">About</a>
+                        </li>
+                        
+                    
+
+                        
+                        <li>
+                            <a href="/search/">Search</a>
+                        </li>
+                        
+                    
+
+                        
+                        <li>
+                            <a href="/tags/">Tags</a>
+                        </li>
+                        
+                    
+                    <li>
+                        <a href="/atom.xml">RSS</a>
+                    </li>                 
+                </ul>
+            </div>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+<script>
+    // Drop Bootstarp low-performance Navbar
+    // Use customize navbar with high-quality material design animation
+    // in high-perf jank-free CSS3 implementation
+    var $body   = document.body;
+    var $toggle = document.querySelector('.navbar-toggle');
+    var $navbar = document.querySelector('#huxblog_navbar');
+    var $collapse = document.querySelector('.navbar-collapse');
+
+    $toggle.addEventListener('click', handleMagic)
+    function handleMagic(e){
+        if ($navbar.className.indexOf('in') > 0) {
+        // CLOSE
+            $navbar.className = " ";
+            // wait until animation end.
+            setTimeout(function(){
+                // prevent frequently toggle
+                if($navbar.className.indexOf('in') < 0) {
+                    $collapse.style.height = "0px"
+                }
+            },400)
+        }else{
+        // OPEN
+            $collapse.style.height = "auto"
+            $navbar.className += " in";
+        }
+    }
+</script>
+
+
+    <!-- Main Content -->
+    <!-- Page Header -->
+<header class="intro-header" style="background-image: url('/img/cover.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
+                <div class="site-heading">
+                    <h1>I&#39;m KD Chang</h1>
+                    <!--<hr class="small">-->
+                    <span class="subheading">Hi, 我是 KD Chang 張凱迪，我在這書寫我的職場人生閱讀筆記 | KD&#39;s Life Notes</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+<!-- Main Content -->
+<div class="container">
+    <div class="row">
+        
+
+<!-- USE SIDEBAR -->
+    <!-- Post Container -->
+            <div class="
+                col-lg-8 col-lg-offset-1
+                col-md-8 col-md-offset-1
+                col-sm-12
+                col-xs-12
+                post-container
+            ">
+                <!-- Main Content -->
+
+
+<div class="post-preview">
+
+    <a href="/2024/05/27/product-manager-career-development-notes-01-overview/">
+        <h2 class="post-title">
+            產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽
+        </h2>
+        <hr>
+        
+        <div class="post-content-preview">
+            PM 角色定位PM 是什麼？Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 outcome 而非 output 並管理整個產品生命週期（發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現）。在目前許多數位科技公司（網路軟體公司）：設計師......
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by kdchang on
+        2024-05-27
+    </p>
+
+</div>
+<hr>
+
+<div class="post-preview">
+
+    <a href="/2024/05/26/llm-model-fine-turning/">
+        <h2 class="post-title">
+            關於 LLMs 大型語言模型微調（Fine-tuning）入門教學
+        </h2>
+        <hr>
+        
+        <div class="post-content-preview">
+            重點摘要大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：
+
+原始模型：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。
+
+特定任務需求：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精......
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by kdchang on
+        2024-05-26
+    </p>
+
+</div>
+<hr>
+
+<div class="post-preview">
+
+    <a href="/2024/05/25/product-manager-interview-notes/">
+        <h2 class="post-title">
+            產品經理（Product Manager, PM）面試學習筆記 - [1] 總覽
+        </h2>
+        <hr>
+        
+        <div class="post-content-preview">
+            PM 面試設計隨著工作經驗的累積，漸漸會有機會參與面試成為面試官，如何設計 PM 面試流程也是資深產品經理必須學習的重要課題。
+Doc
+12 Things Every Product Manager Should Do in Their First 30 Days at a New Company
+11 Revealing Product Manager Interview Question......
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by kdchang on
+        2024-05-25
+    </p>
+
+</div>
+<hr>
+
+<div class="post-preview">
+
+    <a href="/2024/05/23/llm-langchain-notes/">
+        <h2 class="post-title">
+            LangChain：LLM 大型語言模型開源框架 Framework 入門教學
+        </h2>
+        <hr>
+        
+        <div class="post-content-preview">
+            LangChain：LLM 大型語言模型開源框架 Framework 入門教學隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。
+1. LangChain 介紹LangChain 是......
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by kdchang on
+        2024-05-23
+    </p>
+
+</div>
+<hr>
+
+<div class="post-preview">
+
+    <a href="/2024/05/23/llm-rag-app-notes/">
+        <h2 class="post-title">
+            擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學
+        </h2>
+        <hr>
+        
+        <div class="post-content-preview">
+            擷取擴增產生&#x2F;檢索增強生成（Retrieval-Augmented Generation, RAG）是一種結合檢索和生成技術的混合模型，用於改善文本生成任務的性能。這種方法能夠在生成文本時引入外部知識，從而生成更準確和上下文相關的內容。以下是對 RAG 的詳細介紹：
+RAG 的工作原理
+檢索階段：
+
+查詢生成：首先，根據輸入文本（例如用戶查詢或初始上下文），生成一個查詢。
+文件檢索......
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by kdchang on
+        2024-05-23
+    </p>
+
+</div>
+<hr>
+
+<div class="post-preview">
+
+    <a href="/2024/05/22/about-llm-app-10-keywords/">
+        <h2 class="post-title">
+            關於 LLMs 大型語言模型技術應用的 10 個關鍵字
+        </h2>
+        <hr>
+        
+        <div class="post-content-preview">
+            當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：
+
+檢索增強生成（Retrieval-Augmented Generation, RAG）
+聊天機器人（Chatbots）
+文字摘要（Text Summarization）
+內容生成（Content Generation）
+情感分析（Sentiment Analysis）
+語......
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by kdchang on
+        2024-05-22
+    </p>
+
+</div>
+<hr>
+
+<div class="post-preview">
+
+    <a href="/2024/05/22/about-llm-tech-10-keywords/">
+        <h2 class="post-title">
+            關於 LLMs 大型語言模型技術的 10 個關鍵字
+        </h2>
+        <hr>
+        
+        <div class="post-content-preview">
+            整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：
+
+自然語言處理（NLP）（Natural Language Processing, NLP）
+機器學習（Machine Learning）
+深度學習（Deep Learning）
+文本生成（Text Generation）
+上下文理解（Contextual Understanding）
+語義分析（Semantic Analysis）......
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by kdchang on
+        2024-05-22
+    </p>
+
+</div>
+<hr>
+
+<div class="post-preview">
+
+    <a href="/2024/05/22/llm-app-in-martech/">
+        <h2 class="post-title">
+            關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字
+        </h2>
+        <hr>
+        
+        <div class="post-content-preview">
+            大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：
+1. 內容生成和改善
+部落格文章：LLMs 可以自動生成高質量的部落格文章、新聞稿和長篇內容。
+社交媒體文章：自動創建引人入勝的社交媒體內容，適應不同平台的風格和受眾。
+電子郵件行銷：撰寫個性化的 E......
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by kdchang on
+        2024-05-22
+    </p>
+
+</div>
+<hr>
+
+
+
+<!-- Pager -->
+
+<ul class="pager">
+    
+    
+</ul>
+
+
+            </div>
+    <!-- Sidebar Container -->
+            <div class="
+                col-lg-3 col-lg-offset-0
+                col-md-3 col-md-offset-0
+                col-sm-12
+                col-xs-12
+                sidebar-container
+            ">
+                <!-- Featured Tags -->
+                
+
+                <!-- Short About -->
+                <section class="visible-md visible-lg">
+                    <hr><h5><a href="/about/">ABOUT ME</a></h5>
+                    <div class="short-about">
+
+                        
+                            <img src="/img/avatar.jpg" />
+                        
+
+                        
+                            <p>KD Chang 張凱迪（@kdchang），台灣大學，主修經濟學，臺大資管所畢業。是一個軟體工程師，也是一位 PM 產品/專案經理和教育工作者。曾服務過上市網路軟體公司、上市科技電子公司、台灣 AI 人工智慧新創獨角獸公司，也曾參與數個新創組織的創辦和多個網路產品服務的開發。A Software Engineer, Product/Project Manager &amp; Educator.:)</p>
+                        
+
+                        <!-- SNS Link -->
+                        <ul class="list-inline">
+                            
+                            
+                                <li>
+                                    <a target="_blank" href="https://twitter.com/kaidichang">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-circle fa-stack-2x"></i>
+                                            <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                        </span>
+                                    </a>
+                                </li>
+                            
+                            
+
+                            
+
+                            
+                                <li>
+                                    <a target="_blank" href="https://www.facebook.com/kdchang.cc">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-circle fa-stack-2x"></i>
+                                            <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                        </span>
+                                    </a>
+                                </li>
+                            
+
+                            
+                                <li>
+                                    <a target="_blank" href="https://www.instagram.com/kdchang.cc">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-circle fa-stack-2x"></i>
+                                            <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+                                        </span>
+                                    </a>
+                                </li>
+                            
+
+                            
+                                <li>
+                                    <a target="_blank"  href="https://github.com/kdchang">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-circle fa-stack-2x"></i>
+                                            <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                        </span>
+                                    </a>
+                                </li>
+                            
+                            
+                            
+                            
+                        </ul>
+                    </div>
+                </section>
+                
+                <!-- Friends Blog -->
+                
+                <hr>
+                <h5>FRIENDS</h5>
+                <ul class="list-inline">
+
+                    
+                        <li><a target="_blank" rel="noopener" href="https://open.firstory.me/user/soft-skills-hacker">聽出職場軟實力 Podcast</a></li>
+                    
+                        <li><a target="_blank" rel="noopener" href="https://www.moxiatek.com/">MOXIATEK Inc. 墨俠科技</a></li>
+                    
+                        <li><a target="_blank" rel="noopener" href="https://tw.coderbridge.com/">CoderBridge</a></li>
+                    
+                        <li><a target="_blank" rel="noopener" href="https://tw.yohowto.com/">Yohowto</a></li>
+                    
+                        <li><a target="_blank" rel="noopener" href="http://weekly.techbridge.cc/">TechBridge Weekly 技術週刊</a></li>
+                    
+                        <li><a target="_blank" rel="noopener" href="http://blog.techbridge.cc/">TechBridge Blog</a></li>
+                    
+                </ul>
+                
+                <hr>
+                <!-- facebook follow -->
+                <a target="_blank" rel="noopener" href="https://twitter.com/kaidichang?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @kaidichang</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                <br>
+                <div class="fb-like" data-href="https://www.facebook.com/kdchang.cc" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
+                <br>
+                <iframe style="margin-left: 2px; margin-bottom:-5px;"
+                    frameborder="0" scrolling="0" width="200px" height="20px" src="https://ghbtns.com/github-btn.html?user=kdchang&type=follow&count=true">
+                </iframe>
+            </div>
+        
+    </div>
+</div>
+
+    <!-- Footer -->
+    <!-- Footer -->
+<a id="scroll-to-top-button">
+    <i class="fas fa-chevron-up"></i>
+</a>
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                
+                
+                    <li>
+                        <a target="_blank" href="https://twitter.com/kaidichang">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                
+                
+
+                
+
+                
+                    <li>
+                        <a target="_blank" href="https://www.facebook.com/kdchang.cc">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                
+
+                
+                    <li>
+                        <a target="_blank" href="https://www.instagram.com/kdchang.cc">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                
+
+                
+                    <li>
+                        <a target="_blank"  href="https://github.com/kdchang">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                
+
+                
+
+                </ul>
+                <hr>
+                <div class="copyright text-muted">
+                    Special thanks <a href="https://www.flickr.com/photos/57265953@N06/" target="_blank">Rafael</a>、<a href="https://www.flickr.com/photos/derek-john-lee/14698093740/in/photolist-ooPzcj-r2kVt-ppV21v-brhFX3-wd3Qsy-cLiKEL-xDR92-28QCtA-29YFZZ-gzuZk-dqbhxt-9FwCBY-q57bEv-bVhZJr-dYxGXn-dxg9g7-8x7gjU-dzjMic-rQhf-9TMgJ3-mEsFjW-qbzd4p-q6cJvc-7zYttk-q2gE5S-bdb4G4-8ifmQN-eivVeg-9ZZFVz-aD6q6r-bnjfWh-qJAn2g-k22Ttf-n9Jhfj-kk4woh-sj43iz-5NYGUn-96wNhi-9ZZFz6-8DJkQf-4wQizw-3bzz8p-9yzTSd-xDQee-68Xwfp-7t5WPx-xDTM5-o5RPYA-kWihhy-7iHDEX" target="_blank">Derek</a>、<a href="https://www.flickr.com/photos/mashleymorgan/" target="_blank">mashleymorgan</a>、<a href="https://www.flickr.com/photos/mustafeez27/" target="_blank">mustafeez27</a>         
+                    and <a href="http://blog.kaijun.rocks" target="_blank">Kaijun</a>
+                    <br> 
+                    Copyright &copy; KD Chang 張凱迪 | 軟體工程師/產品專案經理/教育工作者 2025
+                    <hr>
+                    <!-- facebook follow -->
+                    <div class="fb-like" data-href="https://www.facebook.com/kdchang.cc" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- jQuery -->
+
+<script src="/js/jquery.min.js"></script>
+
+
+<!-- Bootstrap Core JavaScript -->
+
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Custom Theme JavaScript -->
+
+<script src="/js/hux-blog.min.js"></script>
+
+<!-- Custom Main JavaScript -->
+<script src="/js/main.js"></script>
+
+
+<!-- async load function -->
+<script>
+    function async(u, c) {
+      var d = document, t = 'script',
+          o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+      s.parentNode.insertBefore(o, s);
+    }
+</script>
+
+<!-- 
+     Because of the native support for backtick-style fenced code blocks 
+     right within the Markdown is landed in Github Pages, 
+     From V1.6, There is no need for Highlight.js, 
+     so Huxblog drops it officially.
+
+     - https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0  
+     - https://help.github.com/articles/creating-and-highlighting-code-blocks/    
+-->
+<!--
+    <script>
+        async("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function(){
+            hljs.initHighlightingOnLoad();
+        })
+    </script>
+    <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">
+-->
+
+
+<!-- jquery.tagcloud.js -->
+<script>
+    // only load tagcloud.js in tag.html
+    if($('#tag_cloud').length !== 0){
+        async("https://www.kdchang.cc/js/jquery.tagcloud.js",function(){
+            $.fn.tagcloud.defaults = {
+                //size: {start: 1, end: 1, unit: 'em'},
+                color: {start: '#bbbbee', end: '#0085a1'},
+            };
+            $('#tag_cloud a').tagcloud();
+        })
+    }
+</script>
+
+<!--fb.js -->
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v18.0" nonce="X3eUifxc"></script>
+
+
+<!--fastClick.js -->
+<script>
+    async("https://cdn.bootcss.com/fastclick/1.0.6/fastclick.min.js", function(){
+        var $nav = document.querySelector("nav");
+        if($nav) FastClick.attach($nav);
+    })
+</script>
+
+<!-- Google Analytics -->
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4V2CZ8CL7E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4V2CZ8CL7E');
+</script>
+
+
+
+	
+</body>
+
+</html>
