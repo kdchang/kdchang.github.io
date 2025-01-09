@@ -7,7 +7,7 @@ tags:
     - scrum
     - scrum master
     - product owner
-    - dev tame
+    - dev team
     - 軟體工程師
     - 軟體工程
     - software engineering
