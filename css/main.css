@@ -65,3 +65,17 @@
 	opacity: 1;
 	visibility: visible;
 }
+
+/* search */
+.search-result-list {
+	list-style-type: none;
+}
+
+.search-result-list a {
+	font-size: 20px;
+    font-weight: 1000;
+}
+
+.search-result {
+	margin: 10px 0;
+}
