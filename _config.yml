@@ -220,3 +220,5 @@ feed:
   autodiscovery: true
   template:
 
+include:
+  .nojekyll
