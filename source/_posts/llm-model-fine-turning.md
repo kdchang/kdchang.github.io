@@ -30,7 +30,7 @@ tags:
 # 參考文件
 1. [Getting started with LLM fine-tuning](https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning)
 2. [An Introductory Guide to Fine-Tuning LLMs](https://www.datacamp.com/tutorial/fine-tuning-large-language-models)
-3. [【LLM 10大觀念-3】快速建造自己個instruction tuning dataset](etax.nat.gov.tw/etwmain/etw103w)
+3. [【LLM 10大觀念-3】快速建造自己個instruction tuning dataset](https://etax.nat.gov.tw/etwmain/etw103w)
 4. [Fine-tuning large language models (LLMs) in 2024](https://www.superannotate.com/blog/llm-fine-tuning)
 5. [AI / ML領域相關學習筆記入口頁面](https://hackmd.io/@YungHuiHsu/HJ6AT8XG6)
 6. [LLM Note Day 24 - 語言模型微調 LLM Finetuning](https://ithelp.ithome.com.tw/articles/10336323)
