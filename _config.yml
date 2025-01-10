@@ -203,6 +203,8 @@ deploy:
 # hexo sitemap
 sitemap:
   path: sitemap.xml
+  template: ./sitemap_template.xml
+
 baidusitemap:
   path: baidusitemap.xml
 
