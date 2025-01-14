@@ -67,12 +67,12 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "聽出職場軟實力 Podcast",
-        href: "https://open.firstory.me/user/soft-skills-hacker"
+        title: "KD's Tech Blog",
+        href: "https://tech.kdchang.cc/"
     },
     {
-        title: "MOXIATEK Inc. 墨俠科技",
-        href: "https://www.moxiatek.com/"
+        title: "聽出職場軟實力 Podcast",
+        href: "https://open.firstory.me/user/soft-skills-hacker"
     },
     {
         title: "CoderBridge",
