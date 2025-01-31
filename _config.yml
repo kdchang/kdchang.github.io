@@ -166,12 +166,12 @@ addthis:
   pinterest: true
 
 ## robots.txt
-robotstxt:
-  useragent: "*"
-  sitemap: 
-    - https://www.kdchang.cc/sitemap.xml
-  baidusitemap: 
-    - /baidusitemap.xml
+# robotstxt:
+#   useragent: "*"
+#   sitemap: 
+#     - https://www.kdchang.cc/sitemap.xml
+#   baidusitemap: 
+#     - /baidusitemap.xml
 
 ## category
 category_generator:
