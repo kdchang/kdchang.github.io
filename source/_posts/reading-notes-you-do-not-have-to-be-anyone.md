@@ -20,7 +20,7 @@ tags:
 
 ---
 
-![](img/posts/reading-notes-you-do-not-have-to-be-anyone.jpg)
+![](img/posts/reading-notes-you-do-not-have-to-be-anyone-1.jpg)
 
 ```
 《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》
