@@ -16,21 +16,7 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/23/llm-rag-app-notes/</loc>
-    
-    <lastmod>2025-02-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</loc>
-    
-    <lastmod>2025-02-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/06/03/product-manager-course-list/</loc>
+    <loc>https://www.kdchang.cc/2024/06/06/product-manager-reading-list/</loc>
     
     <lastmod>2025-02-03</lastmod>
     
@@ -38,13 +24,6 @@
   
   <url>
     <loc>https://www.kdchang.cc/2024/05/25/product-manager-interview-notes/</loc>
-    
-    <lastmod>2025-02-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/06/06/product-manager-reading-list/</loc>
     
     <lastmod>2025-02-03</lastmod>
     
@@ -164,6 +143,27 @@
   
   <url>
     <loc>https://www.kdchang.cc/2024/05/26/llm-model-fine-turning/</loc>
+    
+    <lastmod>2025-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/23/llm-rag-app-notes/</loc>
+    
+    <lastmod>2025-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</loc>
+    
+    <lastmod>2025-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/06/03/product-manager-course-list/</loc>
     
     <lastmod>2025-02-03</lastmod>
     
@@ -319,6 +319,16 @@
   </url>
   
   <url>
+    <loc>https://www.kdchang.cc/tags/fine-tuning/</loc>
+    <lastmod>2025-02-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E5%BE%AE%E8%AA%BF/</loc>
+    <lastmod>2025-02-03</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.kdchang.cc/tags/RAG/</loc>
     <lastmod>2025-02-03</lastmod>
   </url>
@@ -335,16 +345,6 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E6%AA%A2%E7%B4%A2%E5%A2%9E%E5%BC%B7%E7%94%9F%E6%88%90/</loc>
-    <lastmod>2025-02-03</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/fine-tuning/</loc>
-    <lastmod>2025-02-03</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/%E5%BE%AE%E8%AA%BF/</loc>
     <lastmod>2025-02-03</lastmod>
   </url>
   
@@ -404,26 +404,6 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/tags/interview/</loc>
-    <lastmod>2025-02-03</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/PM-Interview/</loc>
-    <lastmod>2025-02-03</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/PM-%E9%9D%A2%E8%A9%A6/</loc>
-    <lastmod>2025-02-03</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/%E9%9D%A2%E8%A9%A6/</loc>
-    <lastmod>2025-02-03</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/tags/%E6%9B%B8%E5%96%AE/</loc>
     <lastmod>2025-02-03</lastmod>
   </url>
@@ -445,6 +425,26 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/PdM/</loc>
+    <lastmod>2025-02-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/interview/</loc>
+    <lastmod>2025-02-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/PM-Interview/</loc>
+    <lastmod>2025-02-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/PM-%E9%9D%A2%E8%A9%A6/</loc>
+    <lastmod>2025-02-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E9%9D%A2%E8%A9%A6/</loc>
     <lastmod>2025-02-03</lastmod>
   </url>
   
