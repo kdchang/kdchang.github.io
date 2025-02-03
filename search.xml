@@ -256,6 +256,44 @@
       </tags>
   </entry>
   <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
     <url>/2024/05/23/llm-langchain-notes/</url>
     <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
@@ -302,44 +340,6 @@
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
         <tag>LangChain</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -589,6 +589,76 @@
       </tags>
   </entry>
   <entry>
+    <title>產品經理（Product Manager, PM）推薦學習參考書單</title>
+    <url>/2024/06/06/product-manager-reading-list/</url>
+    <content><![CDATA[<p>產品經理（Product Manager, PdM）和專案經理（Project Manager, PjM）在工作上需要跟許多跨部門和跨單位的團隊合作，必須具備溝通和解決問題的能力，是一個跨職能和跨領域的綜合性職務。因此，透過大量閱讀不同領域的書籍，將讓自己可以掌握更多產品經理所需具備的軟實力和硬實力。以下透過整理不同構面的產品經理&#x2F;專案經理（PM）推薦書單，讓我們可以透過閱讀學習點滿我們的技能樹。</p>
+<h1 id="產品經理"><a href="#產品經理" class="headerlink" title="產品經理"></a>產品經理</h1><ol>
+<li><input disabled="" type="checkbox"> 矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課</li>
+<li><input checked="" disabled="" type="checkbox"> 矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品</li>
+<li><input disabled="" type="checkbox"> 產品路線圖：從革新到蛻變</li>
+<li><input disabled="" type="checkbox"> 產品領導力：頂尖產品經理打造出色產品與成功團隊的致勝關鍵</li>
+<li><input disabled="" type="checkbox"> 使用者故事對照：User Story Mapping</li>
+<li><input disabled="" type="checkbox"> 產品經理全方位敏捷實踐：從活用 Scrum 到強化 PM 心理素質，成為 AI 無法取代的產品負責人</li>
+</ol>
+<h1 id="專案管理"><a href="#專案管理" class="headerlink" title="專案管理"></a>專案管理</h1><ol>
+<li><input disabled="" type="checkbox"> 專案管理輕鬆學:PMP國際專案管理師教戰寶典</li>
+<li><input disabled="" type="checkbox"> 專案管理革命</li>
+<li><input disabled="" type="checkbox"> 世界第一簡單專案管理</li>
+</ol>
+<h1 id="軟體工程"><a href="#軟體工程" class="headerlink" title="軟體工程"></a>軟體工程</h1><ol>
+<li><input disabled="" type="checkbox"> Scrum敏捷產品管理：打造客戶喜愛的產品</li>
+<li><input disabled="" type="checkbox"> Peopleware：腦力密集產業的人才管理之道</li>
+<li><input disabled="" type="checkbox"> 人月神話：軟體專案管理之道(20週年紀念版)</li>
+</ol>
+<h1 id="使用者體驗設計"><a href="#使用者體驗設計" class="headerlink" title="使用者體驗設計"></a>使用者體驗設計</h1><ol>
+<li><input disabled="" type="checkbox"> 使用者體驗願景設計：從0到1的產品、服務、商業模式創新手法</li>
+<li><input disabled="" type="checkbox"> 資訊架構學：網站、App與資訊生態系統規劃(第四版)</li>
+</ol>
+<h1 id="組織管理"><a href="#組織管理" class="headerlink" title="組織管理"></a>組織管理</h1><ol>
+<li><input disabled="" type="checkbox"> OGSM 打造高敏捷團隊：OKR做不到的，OGSM一頁企畫書精準達成！</li>
+<li><input disabled="" type="checkbox"> OGSM 變革領導：打造企業創新力，建立靈活、隨時擴充的全公司溝通系統工具</li>
+<li><input disabled="" type="checkbox"> OKR：做最重要的事</li>
+</ol>
+<h1 id="商業模式"><a href="#商業模式" class="headerlink" title="商業模式"></a>商業模式</h1><ol>
+<li><input disabled="" type="checkbox"> 商業模式轉型：獲利世代2 價值創新的6大途徑</li>
+</ol>
+<h1 id="策略思考"><a href="#策略思考" class="headerlink" title="策略思考"></a>策略思考</h1><ol>
+<li><input disabled="" type="checkbox"> BCG 問題解決力：一生受用的策略顧問思考法</li>
+<li><input disabled="" type="checkbox"> 底層邏輯：看清這個世界的底牌</li>
+</ol>
+<h1 id="AI-x2F-ML-人工智慧-x2F-機器學習"><a href="#AI-x2F-ML-人工智慧-x2F-機器學習" class="headerlink" title="AI&#x2F;ML 人工智慧&#x2F;機器學習"></a>AI&#x2F;ML 人工智慧&#x2F;機器學習</h1><ol>
+<li><input disabled="" type="checkbox"> LLM走進你的電腦：自己動手開發大型語言模型應用</li>
+<li><input disabled="" type="checkbox"> 跟 NVIDIA 學深度學習！從基本神經網路到 CNN‧RNN‧LSTM‧seq2seq‧Transformer‧GPT‧BERT…，紮穩機器視覺與大型語言模型 (LLM) 的建模基礎</li>
+</ol>
+<h1 id="美學色彩"><a href="#美學色彩" class="headerlink" title="美學色彩"></a>美學色彩</h1><ol>
+<li><input disabled="" type="checkbox"> 一看就懂配色設計【獨家豪華收錄32頁16色基本色╳7色印刷特殊色演色表】：從色彩知識、配色規則到輸出創意，隨看即用的最強色彩指南</li>
+</ol>
+<h1 id="創新創業"><a href="#創新創業" class="headerlink" title="創新創業"></a>創新創業</h1><ol>
+<li><input disabled="" type="checkbox"> 精實創業：用小實驗玩出大事業(2017書衣新版)</li>
+<li><input disabled="" type="checkbox"> 精實執行：精實創業指南 第二版</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>Project Manager</tag>
+        <tag>PM</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>書籍</tag>
+        <tag>清單</tag>
+        <tag>書單</tag>
+        <tag>推薦書單</tag>
+        <tag>Project Management</tag>
+        <tag>PjM</tag>
+        <tag>PdM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>常見專案經理（Project Manager）、產品經理（Product Manager, PM）和敏捷開發（Agile）相關證照</title>
     <url>/2024/07/26/project-manager-product-manager-scrum-certifications/</url>
     <content><![CDATA[<ol>
@@ -671,76 +741,6 @@
       </tags>
   </entry>
   <entry>
-    <title>產品經理（Product Manager, PM）推薦學習參考書單</title>
-    <url>/2024/06/06/product-manager-reading-list/</url>
-    <content><![CDATA[<p>產品經理（Product Manager, PdM）和專案經理（Project Manager, PjM）在工作上需要跟許多跨部門和跨單位的團隊合作，必須具備溝通和解決問題的能力，是一個跨職能和跨領域的綜合性職務。因此，透過大量閱讀不同領域的書籍，將讓自己可以掌握更多產品經理所需具備的軟實力和硬實力。以下透過整理不同構面的產品經理&#x2F;專案經理（PM）推薦書單，讓我們可以透過閱讀學習點滿我們的技能樹。</p>
-<h1 id="產品經理"><a href="#產品經理" class="headerlink" title="產品經理"></a>產品經理</h1><ol>
-<li><input disabled="" type="checkbox"> 矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課</li>
-<li><input checked="" disabled="" type="checkbox"> 矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品</li>
-<li><input disabled="" type="checkbox"> 產品路線圖：從革新到蛻變</li>
-<li><input disabled="" type="checkbox"> 產品領導力：頂尖產品經理打造出色產品與成功團隊的致勝關鍵</li>
-<li><input disabled="" type="checkbox"> 使用者故事對照：User Story Mapping</li>
-<li><input disabled="" type="checkbox"> 產品經理全方位敏捷實踐：從活用 Scrum 到強化 PM 心理素質，成為 AI 無法取代的產品負責人</li>
-</ol>
-<h1 id="專案管理"><a href="#專案管理" class="headerlink" title="專案管理"></a>專案管理</h1><ol>
-<li><input disabled="" type="checkbox"> 專案管理輕鬆學:PMP國際專案管理師教戰寶典</li>
-<li><input disabled="" type="checkbox"> 專案管理革命</li>
-<li><input disabled="" type="checkbox"> 世界第一簡單專案管理</li>
-</ol>
-<h1 id="軟體工程"><a href="#軟體工程" class="headerlink" title="軟體工程"></a>軟體工程</h1><ol>
-<li><input disabled="" type="checkbox"> Scrum敏捷產品管理：打造客戶喜愛的產品</li>
-<li><input disabled="" type="checkbox"> Peopleware：腦力密集產業的人才管理之道</li>
-<li><input disabled="" type="checkbox"> 人月神話：軟體專案管理之道(20週年紀念版)</li>
-</ol>
-<h1 id="使用者體驗設計"><a href="#使用者體驗設計" class="headerlink" title="使用者體驗設計"></a>使用者體驗設計</h1><ol>
-<li><input disabled="" type="checkbox"> 使用者體驗願景設計：從0到1的產品、服務、商業模式創新手法</li>
-<li><input disabled="" type="checkbox"> 資訊架構學：網站、App與資訊生態系統規劃(第四版)</li>
-</ol>
-<h1 id="組織管理"><a href="#組織管理" class="headerlink" title="組織管理"></a>組織管理</h1><ol>
-<li><input disabled="" type="checkbox"> OGSM 打造高敏捷團隊：OKR做不到的，OGSM一頁企畫書精準達成！</li>
-<li><input disabled="" type="checkbox"> OGSM 變革領導：打造企業創新力，建立靈活、隨時擴充的全公司溝通系統工具</li>
-<li><input disabled="" type="checkbox"> OKR：做最重要的事</li>
-</ol>
-<h1 id="商業模式"><a href="#商業模式" class="headerlink" title="商業模式"></a>商業模式</h1><ol>
-<li><input disabled="" type="checkbox"> 商業模式轉型：獲利世代2 價值創新的6大途徑</li>
-</ol>
-<h1 id="策略思考"><a href="#策略思考" class="headerlink" title="策略思考"></a>策略思考</h1><ol>
-<li><input disabled="" type="checkbox"> BCG 問題解決力：一生受用的策略顧問思考法</li>
-<li><input disabled="" type="checkbox"> 底層邏輯：看清這個世界的底牌</li>
-</ol>
-<h1 id="AI-x2F-ML-人工智慧-x2F-機器學習"><a href="#AI-x2F-ML-人工智慧-x2F-機器學習" class="headerlink" title="AI&#x2F;ML 人工智慧&#x2F;機器學習"></a>AI&#x2F;ML 人工智慧&#x2F;機器學習</h1><ol>
-<li><input disabled="" type="checkbox"> LLM走進你的電腦：自己動手開發大型語言模型應用</li>
-<li><input disabled="" type="checkbox"> 跟 NVIDIA 學深度學習！從基本神經網路到 CNN‧RNN‧LSTM‧seq2seq‧Transformer‧GPT‧BERT…，紮穩機器視覺與大型語言模型 (LLM) 的建模基礎</li>
-</ol>
-<h1 id="美學色彩"><a href="#美學色彩" class="headerlink" title="美學色彩"></a>美學色彩</h1><ol>
-<li><input disabled="" type="checkbox"> 一看就懂配色設計【獨家豪華收錄32頁16色基本色╳7色印刷特殊色演色表】：從色彩知識、配色規則到輸出創意，隨看即用的最強色彩指南</li>
-</ol>
-<h1 id="創新創業"><a href="#創新創業" class="headerlink" title="創新創業"></a>創新創業</h1><ol>
-<li><input disabled="" type="checkbox"> 精實創業：用小實驗玩出大事業(2017書衣新版)</li>
-<li><input disabled="" type="checkbox"> 精實執行：精實創業指南 第二版</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>Project Manager</tag>
-        <tag>PM</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>書籍</tag>
-        <tag>清單</tag>
-        <tag>書單</tag>
-        <tag>推薦書單</tag>
-        <tag>Project Management</tag>
-        <tag>PjM</tag>
-        <tag>PdM</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀學習心得筆記</title>
     <url>/2024/08/06/reading-notes-forest-wisdom/</url>
     <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我可能錯了：森林智者的最後一堂人生課》</span><br><span class="line">作者： 比約恩．納提科．林德布勞, 卡洛琳．班克勒, 納維德．莫迪里</span><br><span class="line">原文作者： Björn Natthiko Lindeblad, Caroline Bankler, Navid Modiri</span><br><span class="line">出版社：先覺</span><br></pre></td></tr></table></figure>
@@ -766,39 +766,6 @@
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀學習心得筆記</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀學習心得筆記</title>
-    <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
-    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品</span><br><span class="line">INSPIRED: How to Create Tech Products Customers Love</span><br></pre></td></tr></table></figure>
-
-<p>《矽谷最夯‧產品專案管理全書》這本書為產品經理提供了實戰經驗與理論基礎的結合，深入淺出地剖析了矽谷科技巨頭成功的產品開發秘訣。作者馬提·凱根強調，成功的產品不僅僅是技術的堆砌，更需要深入了解使用者需求、打造優秀團隊，並建立一套行之有效的產品開發流程。</p>
-<h3 id="產品開發的關鍵要素"><a href="#產品開發的關鍵要素" class="headerlink" title="產品開發的關鍵要素"></a><strong>產品開發的關鍵要素</strong></h3><ul>
-<li><strong>以使用者為中心：</strong> 產品開發的出發點應始終以使用者需求為中心，透過深入的使用者研究與反覆迭代，打造出真正能滿足使用者需求的產品。</li>
-<li><strong>跨功能團隊：</strong> 建立一個由產品經理、設計師、工程師等不同角色組成的跨功能團隊，促進團隊成員之間的協作與溝通。</li>
-<li><strong>敏捷開發：</strong> 採用敏捷開發方法，能夠快速響應市場變化，提高產品的適應性。</li>
-<li><strong>產品路徑圖：</strong> 產品路徑圖是產品開發的指南針，能幫助團隊保持方向，並做出明智的決策。</li>
-<li><strong>產品文化：</strong> 建立一個鼓勵創新、重視使用者體驗的產品文化，是產品開發成功的關鍵。</li>
-</ul>
-<h3 id="重點整理"><a href="#重點整理" class="headerlink" title="重點整理"></a><strong>重點整理</strong></h3><ul>
-<li><strong>產品與專案的區別：</strong> 產品注重結果（outcome），專案注重產出（output）。</li>
-<li><strong>產品開發流程：</strong> 從產品探索、產品設計到產品發布的完整流程。</li>
-<li><strong>團隊組建與管理：</strong> 如何組建一個高績效的產品團隊，以及各角色的職責。</li>
-<li><strong>產品策略與目標：</strong> 如何制定清晰的產品願景、策略和目標。</li>
-<li><strong>敏捷開發方法：</strong> 敏捷開發在產品開發中的應用與優勢。</li>
-</ul>
-<h3 id="閱讀心得總結"><a href="#閱讀心得總結" class="headerlink" title="閱讀心得總結"></a><strong>閱讀心得總結</strong></h3><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>產品專案管理專案全書</tag>
       </tags>
   </entry>
   <entry>
@@ -856,8 +823,41 @@
       </tags>
   </entry>
   <entry>
+    <title>《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀學習心得筆記</title>
+    <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
+    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品</span><br><span class="line">INSPIRED: How to Create Tech Products Customers Love</span><br></pre></td></tr></table></figure>
+
+<p>《矽谷最夯‧產品專案管理全書》這本書為產品經理提供了實戰經驗與理論基礎的結合，深入淺出地剖析了矽谷科技巨頭成功的產品開發秘訣。作者馬提·凱根強調，成功的產品不僅僅是技術的堆砌，更需要深入了解使用者需求、打造優秀團隊，並建立一套行之有效的產品開發流程。</p>
+<h3 id="產品開發的關鍵要素"><a href="#產品開發的關鍵要素" class="headerlink" title="產品開發的關鍵要素"></a><strong>產品開發的關鍵要素</strong></h3><ul>
+<li><strong>以使用者為中心：</strong> 產品開發的出發點應始終以使用者需求為中心，透過深入的使用者研究與反覆迭代，打造出真正能滿足使用者需求的產品。</li>
+<li><strong>跨功能團隊：</strong> 建立一個由產品經理、設計師、工程師等不同角色組成的跨功能團隊，促進團隊成員之間的協作與溝通。</li>
+<li><strong>敏捷開發：</strong> 採用敏捷開發方法，能夠快速響應市場變化，提高產品的適應性。</li>
+<li><strong>產品路徑圖：</strong> 產品路徑圖是產品開發的指南針，能幫助團隊保持方向，並做出明智的決策。</li>
+<li><strong>產品文化：</strong> 建立一個鼓勵創新、重視使用者體驗的產品文化，是產品開發成功的關鍵。</li>
+</ul>
+<h3 id="重點整理"><a href="#重點整理" class="headerlink" title="重點整理"></a><strong>重點整理</strong></h3><ul>
+<li><strong>產品與專案的區別：</strong> 產品注重結果（outcome），專案注重產出（output）。</li>
+<li><strong>產品開發流程：</strong> 從產品探索、產品設計到產品發布的完整流程。</li>
+<li><strong>團隊組建與管理：</strong> 如何組建一個高績效的產品團隊，以及各角色的職責。</li>
+<li><strong>產品策略與目標：</strong> 如何制定清晰的產品願景、策略和目標。</li>
+<li><strong>敏捷開發方法：</strong> 敏捷開發在產品開發中的應用與優勢。</li>
+</ul>
+<h3 id="閱讀心得總結"><a href="#閱讀心得總結" class="headerlink" title="閱讀心得總結"></a><strong>閱讀心得總結</strong></h3><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>產品專案管理專案全書</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》| 閱讀學習心得筆記</title>
-    <url>/2024/09/01/reading-notes-you-do-not-have-to-be-anyone/</url>
+    <url>/2025/01/01/reading-notes-you-do-not-have-to-be-anyone/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone.jpg"></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》</span><br><span class="line">作者： 朴藝真  </span><br><span class="line">譯者： 劉宛昀</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
 
@@ -870,12 +870,12 @@
 </li>
 <li><p><strong>記憶與心理模式</strong><br><code>童年經驗</code>塑造了我們的<code>自卑</code>與<code>優越感</code>，影響成年後的人際關係與決策模式。<br><code>記憶並非客觀事實</code>，而是我們選擇記住的片段，改變解讀方式可影響當下心態。<br><code>心理創傷不等於決定未來</code>，透過<code>重構記憶</code>，我們能超越過去的陰影。</p>
 </li>
-<li><p><strong>人際關係與愛情</strong><br>過度渴望認可容易陷入依賴，真正的幸福來自<code>自我接納</code>與<code>內在穩定</code>。<br>愛情關係需以<code>尊重</code>為基礎，避免透過戀愛來填補內心空虛。<br><code>家庭與社會環境</code>影響我們的愛情模式，需<code>覺察</code>並<code>調整</code>不健康的互動模式。</p>
+<li><p><strong>人際關係與愛情</strong><br>過度渴望認可容易陷入依賴，真正的幸福來自<code>自我接納</code>與<code>內在穩定</code>。<br>愛情關係需以<code>尊重</code>為基礎，<code>避免透過戀愛來填補內心空虛</code>。<br><code>家庭與社會環境</code>影響我們的愛情模式，需<code>覺察</code>並<code>調整</code>不健康的互動模式。</p>
 </li>
 <li><p><strong>活出真實自我</strong><br>社會價值與自我價值不一定相符，學習擺脫外在期待才能活得自在。<br>自尊來自內在認可，而非外界評價，勇敢<code>面對不完美</code>，才能真正成長。<br>每個人都有選擇權，可以決定<code>如何詮釋自己的過去</code>，並<code>創造未來</code>。<br>這本書鼓勵我們<code>接受自己的不完美</code>，並透過<code>自省</code>與<code>行動</code>，逐步活出自己真正想要的人生。</p>
 </li>
 </ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書探討<code>自卑感</code>的成因，鼓勵我們接受自己的不完美，並透過自省與行動，逐步活出自己真正想要的人生。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>每個人對於成功與失敗的判斷標準各不相同，原因在於人們追求的理想中的我有所差異。這本書探討<code>自卑感</code>的成因，鼓勵我們接受自己的不完美，並透過自省與行動，逐步活出自己真正想要的人生。過去是無法改變的，現在能做的就是承認錯誤並且反省，為了改進而持續努力。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -951,51 +951,6 @@
         <tag>SketchPrototyping</tag>
         <tag>Wireframe</tag>
         <tag>Mockup</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在注意力稀缺的時代重新找回深度工作力（Deep Work）</title>
-    <url>/2017/09/10/stay-focus-and-keep-deep-working/</url>
-    <content><![CDATA[<p><img src="/img/posts/deep-work.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>隨著網際網路和科技產品的發展，人們除了時間外，注意力、專注力和深度工作力也成為十分稀缺的資產。現代人號稱一天工作八小時甚至更長，但我們往往在開會、被打斷、逛網站、滑手機、處理私人事務和在茶水間討論公司組織裡的八卦中切換我們的思緒，實際上真正有生產力和進入心流專注狀態可能不過幾個小時。</p>
-<p>或許是希望在日常工作之餘多一點自我時間，在生活瑣事襲來時能保有自我的追求，我很喜歡閱讀各類型有關提高工作生產力和自我學習的書籍並在生活中實踐。最近看的這本由 Cal Newport 撰寫的 <a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692">Deep Work: Rules for Focused Success in a Distracted World Hardcover</a>（<a href="http://www.books.com.tw/products/0010758381">中文書名：深度工作力</a>）討論了最近幾年在工作生產力書籍中時常被談到的議題：專注力和工作效率，並明確定義了深度工作力和淺薄工作力的區別。書中沒有複雜的理論，取而代之的是淺顯的範例和建議，蠻適合希望在競爭激烈的知識經濟時代保有核心工作力的朋友當做入門的概論書來看。</p>
-<h1 id="在新經濟社會需要具備的深度工作力"><a href="#在新經濟社會需要具備的深度工作力" class="headerlink" title="在新經濟社會需要具備的深度工作力"></a>在新經濟社會需要具備的深度工作力</h1><p>本書一開始定義了什麼是<code>深度工作</code>，什麼是<code>淺薄工作</code>。所謂的深度工作是在一段充分專注的情況下所從事的職業活動。在深度工作的狀態下你可以將你的認知能力發揮到極限，進而改善並學習困難的專業技術，創造新的價值並建立他人難以模仿的專業能力和思考洞察。相對而言，淺薄工作主要是不需要高認知需求，偏向回覆性、協調性工作，通常不太需要太多專注力就可以執行，通常這類型工作創造價值有限，且容易被模仿。</p>
-<p>當然書中也提到了一些比較特別的例子，包括身兼 Twitter 執行長和 Squard CEO 的 Jack Dorsey，工作上確實花很多時間在做淺薄工作，例如：擔任主管開各種會議、不斷被打斷、收發 Email 等。然而這類主管、業務員和網路行銷企劃人員隨時保持社會連線是很重要的事情，因為這些淺薄工作就是驅動他們工作的重要因子。</p>
-<p>儘管如此，若能在這類工作中適度的融入深度工作或許也有機會發揮意想不到的成果，例如：微軟共同創辦人 Bill Gates 就以一年兩次的沉思週而聞名。在沉思期間他會離群索居於湖濱小屋中思考未來的趨勢發展，也是在沉思期間 Gates 寫下來網際網路浪潮的備忘錄，將注意力轉往當時才剛發展不久的全球第一個商用瀏覽器 Netscape（網景），進而揭開了第一次瀏覽器大戰。</p>
-<h1 id="在注意力稀缺的時代重新找回深度工作力"><a href="#在注意力稀缺的時代重新找回深度工作力" class="headerlink" title="在注意力稀缺的時代重新找回深度工作力"></a>在注意力稀缺的時代重新找回深度工作力</h1><p>對於一般沒有初始化繼承衣缽的經濟資本的人來說，透過深度工作力的培養是達成職涯目標的一個可以嘗試的方式。尤其在世界公民的時代，現在是人類歷史上工作力流動最頻繁的年代，擁有無可取代的技術和專業能力的超級明星比起從前任何時候所能發揮的影響力更大更深遠。</p>
-<p>讀到這裡，如果你認同深度工作力，在這邊我融合了書中一些方法建議和我個人的經驗整理和大家分享，也歡迎讀者們補充：</p>
-<h3 id="1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"><a href="#1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容" class="headerlink" title="1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"></a>1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容</h3><p>這邊推薦使用 <a href="http://wiki.mbalib.com/zh-tw/OKR">Objectives and Key Results，OKR</a> 來定義一年和每季需要完成的目標並使用 <a href="http://blog.idonethis.com/google-snippets-internal-tool/">Google Snippets template</a>（感謝一位朋友推薦使用）追蹤記錄每天的工作內容。另外，雖不用到古人吾日三省吾身的狀態，但可以參考 <a href="https://zh.wikipedia.org/zh-tw/Scrum">Scrum</a> 敏捷開發方法中的 Stand up meeting 每天自問自己昨天做了什麼，今天打算做什麼，有沒有遇到哪些困難。</p>
-<p><img src="/img/posts/snippet.png" alt="在注意力稀缺的時代重新找回深度工作力"></p>
-<h3 id="2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"><a href="#2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏" class="headerlink" title="2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"></a>2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏</h3><p>在記錄完自己一到兩週的工作內容後，便可以利用這些 data 進行資料分析，找到自己最具生產力的時段。有的人習慣早上工作，像我一般習慣在一大早起來頭腦清楚時進行思考和需要專注度的工作，而有的人習慣在深夜夜深人靜時工作，沒什麼對錯，就是充分了解自己就好。</p>
-<h3 id="3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"><a href="#3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式" class="headerlink" title="3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"></a>3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式</h3><p>拜智慧型手機所賜，現代人使用網路的時間遠遠大於過去，然而我們常常在使用網路過程中有意無意浪費了許多寶貴時間和專注力。建議可以從中篩選合適自己的社群網站和媒體以及使用方式。</p>
-<h3 id="4-定義自己回覆訊息和電子郵件的方法和原則"><a href="#4-定義自己回覆訊息和電子郵件的方法和原則" class="headerlink" title="4. 定義自己回覆訊息和電子郵件的方法和原則"></a>4. 定義自己回覆訊息和電子郵件的方法和原則</h3><p>現在人上網很多時間是在回覆訊息和電子郵件，有些工作者每天甚至被數百封電子郵件給淹沒。若能掌握幾個原則則有機會可以提高自己的工作效率：例如：公告了自己的電子信箱同時就明確定義發信的範本和收信規則讓發信過來的人可以具體化自己的問題，一方面也篩選掉了沒有準備好的聯絡者。定義好收信、回信時間和回信規則，不需要時時刻刻 context switch 去收發電子信箱。</p>
-<h3 id="5-打造屬於自己的工作環境和工作儀式"><a href="#5-打造屬於自己的工作環境和工作儀式" class="headerlink" title="5. 打造屬於自己的工作環境和工作儀式"></a>5. 打造屬於自己的工作環境和工作儀式</h3><p>人會因為服裝和環境而改變自己的行為，建立起自己的高效率工作環境和工作儀式，例如有的人喜歡在咖啡廳工作，在來杯拿鐵咖啡或是聽一首熟悉的歌後開啟自己的工作模式，所以找到自己的那杯咖啡吧！</p>
-<h3 id="6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"><a href="#6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者" class="headerlink" title="6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"></a>6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者</h3><p>隨著科技的指數性成長，各種科技工具推陳出新（例如：追蹤上網時間的 <a href="https://toggl.com/">toggl</a>、todo 工具：<a href="https://pomotodo.com/">番茄土豆</a>、<a href="https://zhtw.todoist.com/">todoist</a>），如何善用不同的工作技巧和生產力工具並培養自己快速學習各種跨領域技術的能力將可以讓自己持續保有專業活力。</p>
-<h3 id="7-定期運動、規律飲食和作息，保持身心靈健康"><a href="#7-定期運動、規律飲食和作息，保持身心靈健康" class="headerlink" title="7. 定期運動、規律飲食和作息，保持身心靈健康"></a>7. 定期運動、規律飲食和作息，保持身心靈健康</h3><p>雖然是老生常談，但定期運動、規律飲食和作息可以讓自己在忙碌的工作中儲備好能力，迎接生活中的每一個挑戰！</p>
-<p><img src="/img/posts/book.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>以上分享了幾個我覺得蠻實用的工作生產力技巧和深度工作力這本書的一些讀後心得，在這個專注力稀缺的年代，注意力和深度工作力是除了時間外珍貴的稀缺資源。把握幾個核心原則並刻意練習，相信你也可以在注意力稀缺的時代重新找回深度工作力，也歡迎讀者若有覺得不錯的提高工作生產力技巧補充分享！</p>
-<h1 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h1><ol>
-<li><a href="http://blog.idonethis.com/silicon-valleys-productivity-secret/">Silicon Valley’s Productivity Secret</a></li>
-<li><a href="http://dannyimages.com/2012/06/05/2106-smart-working-with-snippets/">敏捷工作術(1) — snippet</a></li>
-<li><a href="https://www.zhihu.com/question/22471467">谷歌内部考核制度 OKR 是怎样的？</a></li>
-<li><a href="http://www.cheers.com.tw/article/article.action?id=5083664">【每日熱門網摘】別再多工了！「深度工作法」才能讓你提早下班</a></li>
-</ol>
-<p>（image via <a href="https://associatesmind.com/wp-content/uploads/2016/01/Cal-Newport-Deep-Work.jpg">associatesmind</a>、<a href="https://cdn.kingstone.com.tw/book/images/product/20149/2014941495564/2014941495564b.jpg">kingstone</a>）</p>
-]]></content>
-      <tags>
-        <tag>財務</tag>
-        <tag>職場</tag>
-        <tag>商業管理</tag>
-        <tag>人生</tag>
-        <tag>溝通</tag>
-        <tag>專注力</tag>
-        <tag>focus</tag>
-        <tag>deep work</tag>
-        <tag>深度工作力</tag>
-        <tag>工作力</tag>
-        <tag>career</tag>
-        <tag>work</tag>
-        <tag>生產力工具</tag>
       </tags>
   </entry>
   <entry>
@@ -1081,8 +1036,6 @@
         <tag>scrum</tag>
         <tag>敏捷開發</tag>
         <tag>agile</tag>
-        <tag>職場</tag>
-        <tag>career</tag>
         <tag>scrum master</tag>
         <tag>product owner</tag>
         <tag>dev team</tag>
@@ -1090,6 +1043,53 @@
         <tag>軟體工程</tag>
         <tag>software engineering</tag>
         <tag>產品開發現場</tag>
+        <tag>職場</tag>
+        <tag>career</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在注意力稀缺的時代重新找回深度工作力（Deep Work）</title>
+    <url>/2017/09/10/stay-focus-and-keep-deep-working/</url>
+    <content><![CDATA[<p><img src="/img/posts/deep-work.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>隨著網際網路和科技產品的發展，人們除了時間外，注意力、專注力和深度工作力也成為十分稀缺的資產。現代人號稱一天工作八小時甚至更長，但我們往往在開會、被打斷、逛網站、滑手機、處理私人事務和在茶水間討論公司組織裡的八卦中切換我們的思緒，實際上真正有生產力和進入心流專注狀態可能不過幾個小時。</p>
+<p>或許是希望在日常工作之餘多一點自我時間，在生活瑣事襲來時能保有自我的追求，我很喜歡閱讀各類型有關提高工作生產力和自我學習的書籍並在生活中實踐。最近看的這本由 Cal Newport 撰寫的 <a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692">Deep Work: Rules for Focused Success in a Distracted World Hardcover</a>（<a href="http://www.books.com.tw/products/0010758381">中文書名：深度工作力</a>）討論了最近幾年在工作生產力書籍中時常被談到的議題：專注力和工作效率，並明確定義了深度工作力和淺薄工作力的區別。書中沒有複雜的理論，取而代之的是淺顯的範例和建議，蠻適合希望在競爭激烈的知識經濟時代保有核心工作力的朋友當做入門的概論書來看。</p>
+<h1 id="在新經濟社會需要具備的深度工作力"><a href="#在新經濟社會需要具備的深度工作力" class="headerlink" title="在新經濟社會需要具備的深度工作力"></a>在新經濟社會需要具備的深度工作力</h1><p>本書一開始定義了什麼是<code>深度工作</code>，什麼是<code>淺薄工作</code>。所謂的深度工作是在一段充分專注的情況下所從事的職業活動。在深度工作的狀態下你可以將你的認知能力發揮到極限，進而改善並學習困難的專業技術，創造新的價值並建立他人難以模仿的專業能力和思考洞察。相對而言，淺薄工作主要是不需要高認知需求，偏向回覆性、協調性工作，通常不太需要太多專注力就可以執行，通常這類型工作創造價值有限，且容易被模仿。</p>
+<p>當然書中也提到了一些比較特別的例子，包括身兼 Twitter 執行長和 Squard CEO 的 Jack Dorsey，工作上確實花很多時間在做淺薄工作，例如：擔任主管開各種會議、不斷被打斷、收發 Email 等。然而這類主管、業務員和網路行銷企劃人員隨時保持社會連線是很重要的事情，因為這些淺薄工作就是驅動他們工作的重要因子。</p>
+<p>儘管如此，若能在這類工作中適度的融入深度工作或許也有機會發揮意想不到的成果，例如：微軟共同創辦人 Bill Gates 就以一年兩次的沉思週而聞名。在沉思期間他會離群索居於湖濱小屋中思考未來的趨勢發展，也是在沉思期間 Gates 寫下來網際網路浪潮的備忘錄，將注意力轉往當時才剛發展不久的全球第一個商用瀏覽器 Netscape（網景），進而揭開了第一次瀏覽器大戰。</p>
+<h1 id="在注意力稀缺的時代重新找回深度工作力"><a href="#在注意力稀缺的時代重新找回深度工作力" class="headerlink" title="在注意力稀缺的時代重新找回深度工作力"></a>在注意力稀缺的時代重新找回深度工作力</h1><p>對於一般沒有初始化繼承衣缽的經濟資本的人來說，透過深度工作力的培養是達成職涯目標的一個可以嘗試的方式。尤其在世界公民的時代，現在是人類歷史上工作力流動最頻繁的年代，擁有無可取代的技術和專業能力的超級明星比起從前任何時候所能發揮的影響力更大更深遠。</p>
+<p>讀到這裡，如果你認同深度工作力，在這邊我融合了書中一些方法建議和我個人的經驗整理和大家分享，也歡迎讀者們補充：</p>
+<h3 id="1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"><a href="#1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容" class="headerlink" title="1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"></a>1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容</h3><p>這邊推薦使用 <a href="http://wiki.mbalib.com/zh-tw/OKR">Objectives and Key Results，OKR</a> 來定義一年和每季需要完成的目標並使用 <a href="http://blog.idonethis.com/google-snippets-internal-tool/">Google Snippets template</a>（感謝一位朋友推薦使用）追蹤記錄每天的工作內容。另外，雖不用到古人吾日三省吾身的狀態，但可以參考 <a href="https://zh.wikipedia.org/zh-tw/Scrum">Scrum</a> 敏捷開發方法中的 Stand up meeting 每天自問自己昨天做了什麼，今天打算做什麼，有沒有遇到哪些困難。</p>
+<p><img src="/img/posts/snippet.png" alt="在注意力稀缺的時代重新找回深度工作力"></p>
+<h3 id="2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"><a href="#2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏" class="headerlink" title="2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"></a>2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏</h3><p>在記錄完自己一到兩週的工作內容後，便可以利用這些 data 進行資料分析，找到自己最具生產力的時段。有的人習慣早上工作，像我一般習慣在一大早起來頭腦清楚時進行思考和需要專注度的工作，而有的人習慣在深夜夜深人靜時工作，沒什麼對錯，就是充分了解自己就好。</p>
+<h3 id="3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"><a href="#3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式" class="headerlink" title="3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"></a>3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式</h3><p>拜智慧型手機所賜，現代人使用網路的時間遠遠大於過去，然而我們常常在使用網路過程中有意無意浪費了許多寶貴時間和專注力。建議可以從中篩選合適自己的社群網站和媒體以及使用方式。</p>
+<h3 id="4-定義自己回覆訊息和電子郵件的方法和原則"><a href="#4-定義自己回覆訊息和電子郵件的方法和原則" class="headerlink" title="4. 定義自己回覆訊息和電子郵件的方法和原則"></a>4. 定義自己回覆訊息和電子郵件的方法和原則</h3><p>現在人上網很多時間是在回覆訊息和電子郵件，有些工作者每天甚至被數百封電子郵件給淹沒。若能掌握幾個原則則有機會可以提高自己的工作效率：例如：公告了自己的電子信箱同時就明確定義發信的範本和收信規則讓發信過來的人可以具體化自己的問題，一方面也篩選掉了沒有準備好的聯絡者。定義好收信、回信時間和回信規則，不需要時時刻刻 context switch 去收發電子信箱。</p>
+<h3 id="5-打造屬於自己的工作環境和工作儀式"><a href="#5-打造屬於自己的工作環境和工作儀式" class="headerlink" title="5. 打造屬於自己的工作環境和工作儀式"></a>5. 打造屬於自己的工作環境和工作儀式</h3><p>人會因為服裝和環境而改變自己的行為，建立起自己的高效率工作環境和工作儀式，例如有的人喜歡在咖啡廳工作，在來杯拿鐵咖啡或是聽一首熟悉的歌後開啟自己的工作模式，所以找到自己的那杯咖啡吧！</p>
+<h3 id="6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"><a href="#6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者" class="headerlink" title="6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"></a>6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者</h3><p>隨著科技的指數性成長，各種科技工具推陳出新（例如：追蹤上網時間的 <a href="https://toggl.com/">toggl</a>、todo 工具：<a href="https://pomotodo.com/">番茄土豆</a>、<a href="https://zhtw.todoist.com/">todoist</a>），如何善用不同的工作技巧和生產力工具並培養自己快速學習各種跨領域技術的能力將可以讓自己持續保有專業活力。</p>
+<h3 id="7-定期運動、規律飲食和作息，保持身心靈健康"><a href="#7-定期運動、規律飲食和作息，保持身心靈健康" class="headerlink" title="7. 定期運動、規律飲食和作息，保持身心靈健康"></a>7. 定期運動、規律飲食和作息，保持身心靈健康</h3><p>雖然是老生常談，但定期運動、規律飲食和作息可以讓自己在忙碌的工作中儲備好能力，迎接生活中的每一個挑戰！</p>
+<p><img src="/img/posts/book.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>以上分享了幾個我覺得蠻實用的工作生產力技巧和深度工作力這本書的一些讀後心得，在這個專注力稀缺的年代，注意力和深度工作力是除了時間外珍貴的稀缺資源。把握幾個核心原則並刻意練習，相信你也可以在注意力稀缺的時代重新找回深度工作力，也歡迎讀者若有覺得不錯的提高工作生產力技巧補充分享！</p>
+<h1 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h1><ol>
+<li><a href="http://blog.idonethis.com/silicon-valleys-productivity-secret/">Silicon Valley’s Productivity Secret</a></li>
+<li><a href="http://dannyimages.com/2012/06/05/2106-smart-working-with-snippets/">敏捷工作術(1) — snippet</a></li>
+<li><a href="https://www.zhihu.com/question/22471467">谷歌内部考核制度 OKR 是怎样的？</a></li>
+<li><a href="http://www.cheers.com.tw/article/article.action?id=5083664">【每日熱門網摘】別再多工了！「深度工作法」才能讓你提早下班</a></li>
+</ol>
+<p>（image via <a href="https://associatesmind.com/wp-content/uploads/2016/01/Cal-Newport-Deep-Work.jpg">associatesmind</a>、<a href="https://cdn.kingstone.com.tw/book/images/product/20149/2014941495564/2014941495564b.jpg">kingstone</a>）</p>
+]]></content>
+      <tags>
+        <tag>財務</tag>
+        <tag>職場</tag>
+        <tag>career</tag>
+        <tag>商業管理</tag>
+        <tag>人生</tag>
+        <tag>溝通</tag>
+        <tag>專注力</tag>
+        <tag>focus</tag>
+        <tag>deep work</tag>
+        <tag>深度工作力</tag>
+        <tag>工作力</tag>
+        <tag>work</tag>
+        <tag>生產力工具</tag>
       </tags>
   </entry>
 </search>
