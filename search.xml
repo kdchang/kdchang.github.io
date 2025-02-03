@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-app-10-keywords/</url>
+    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
+<ol>
+<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
+<li><strong>聊天機器人</strong>（Chatbots）</li>
+<li><strong>文字摘要</strong>（Text Summarization）</li>
+<li><strong>內容生成</strong>（Content Generation）</li>
+<li><strong>情感分析</strong>（Sentiment Analysis）</li>
+<li><strong>語音助手</strong>（Voice Assistants）</li>
+<li><strong>自動翻譯</strong>（Automatic Translation）</li>
+<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
+<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
+<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
+</ol>
+<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
     <url>/2024/05/22/about-llm-tech-10-keywords/</url>
     <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
@@ -20,33 +47,6 @@
 <h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
 <li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
 </ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-app-10-keywords/</url>
-    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
-<ol>
-<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
-<li><strong>聊天機器人</strong>（Chatbots）</li>
-<li><strong>文字摘要</strong>（Text Summarization）</li>
-<li><strong>內容生成</strong>（Content Generation）</li>
-<li><strong>情感分析</strong>（Sentiment Analysis）</li>
-<li><strong>語音助手</strong>（Voice Assistants）</li>
-<li><strong>自動翻譯</strong>（Automatic Translation）</li>
-<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
-<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
-<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
-</ol>
-<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
 ]]></content>
       <tags>
         <tag>生成式 AI</tag>
@@ -743,20 +743,23 @@
   <entry>
     <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀學習心得筆記</title>
     <url>/2024/08/06/reading-notes-forest-wisdom/</url>
-    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我可能錯了：森林智者的最後一堂人生課》</span><br><span class="line">作者： 比約恩．納提科．林德布勞, 卡洛琳．班克勒, 納維德．莫迪里</span><br><span class="line">原文作者： Björn Natthiko Lindeblad, Caroline Bankler, Navid Modiri</span><br><span class="line">出版社：先覺</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我可能錯了：森林智者的最後一堂人生課》</span><br><span class="line">作者： 比約恩．納提科．林德布勞, 卡洛琳．班克勒, 納維德．莫迪里</span><br><span class="line">原文作者： Björn Natthiko Lindeblad, Caroline Bankler, Navid Modiri</span><br><span class="line">出版社：先覺</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>下次，當你感覺到衝突開始悄悄醞釀……只要對自己重複三次：「我可能錯了」，你的擔憂就會雲消霧散。</p>
+<p>下次，當你感覺到衝突開始悄悄醞釀……只要對自己重複三次：「我可能錯了」，你的擔憂就會雲消霧散。<br>「我可能錯了，但這正是學習與成長的開始。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《我可能錯了》這本書是作者比約恩·納提科·林德布勞在生命的最後階段，將他在森林寺院修行17年的深刻體悟，以及與疾病抗爭的經驗，濃縮成一本充滿智慧與溫暖的書。作者透過簡單易懂的語言，分享了他對生命、死亡、自我和人際關係的獨到見解。</p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>自我覺察的重要性： 作者強調覺察自己念頭的重要性，並教導讀者如何透過覺察來擺脫固有的思維模式。</li>
-<li>放下執著： 作者鼓勵讀者放下對事物的執著，以更開放的心態面對生活中的變故。</li>
-<li>接納不完美： 作者提醒我們，每個人都是不完美的，接納自己的不足，也是一種智慧。</li>
-<li>活在當下： 作者強調活在當下的重要性，不要讓過去的遺憾和未來的恐懼困擾自己。</li>
-<li>人際關係的維護： 作者分享了他在人際關係中所學到的智慧，教導我們如何與他人建立更和諧的關係。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《我可能錯了》這本書不僅僅是一本心靈勵志書，更是一本實用的生活指南。作者透過自己的親身經歷，為我們提供了一套面對生活挑戰的方法。這本書的價值在於，它讓我們看到，即使在面對生命的困境時，我們依然可以找到內心的平靜與力量。</p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>比約恩．納提科．林德布勞的《我可能錯了》是一場深刻的心靈對話，他以坦誠、幽默而智慧的筆觸，分享自己從金融界菁英轉身成為森林僧人，再回歸俗世與漸凍症共存的生命歷程。本書沒有說教，而是透過自身經驗，帶領讀者學會放下執著，接受無常，以更自由的心態面對人生的種種挑戰。對於陷入焦慮、迷惘或生命低潮的人來說，這是一本能帶來安慰與啟發的書。</p>
+<p><img src="/img/posts/reading-notes-forest-wisdom-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>「我可能錯了」的智慧</strong>：這句話不只是謙遜的表達，而是一種認識自我執著、學會開放心態的重要工具。  </li>
+<li><strong>放下對思想的盲目信任</strong>：比約恩認為，我們的念頭並非絕對真實，學會質疑與釋放念頭，能帶來內在自由。  </li>
+<li><strong>焦慮是最嚴格的精神導師</strong>：與其抗拒焦慮，不如視之為學習機會，透過觀察與接納，找到內在平靜。  </li>
+<li><strong>不要強求正面思考</strong>：比約恩不鼓勵刻意正向思考，而是提倡以平靜與開放的態度面對現實。  </li>
+<li><strong>學會喜歡別人本來的樣子</strong>：接受他人，而非試圖改變對方，才是建立和諧關係的關鍵。  </li>
+<li><strong>「應該」帶來痛苦</strong>：過度執著於「應該如何」會讓人受困，試著鬆開執念，才能真正放下。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《我可能錯了》這本書不僅僅是一本心靈勵志書，更是一本實用的生活指南。作者透過自己的親身經歷，為我們提供了一套面對生活挑戰的方法。這本書的價值在於，它讓我們看到，即使在面對生命的困境時，我們依然可以找到內心的平靜與力量。人生充滿不確定性，而我們唯一能掌控的，是如何選擇看待世界的方式。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -864,7 +867,8 @@
 <blockquote>
 <p>「只要活著，就會感到自卑。」<br>「請鼓起勇氣全面肯定和接納努力活到現在的自己」<br>「請別和他人比較，請專注在自己達成的事情上，鼓起勇氣依照自己的步調過日子」<br>「請勇敢地放棄不屬於自己的東西，改變你的選擇」——阿德勒</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>阿德勒是現代心理學的三大巨擘（與大名鼎鼎的佛洛依德和榮格齊名），同時也是個體心理學的創始人，奠定了現代諮商心理學的基礎。本書以<code>阿德勒</code>心理學為基礎，探討<code>自卑感</code>的成因、影響及轉化方式，幫助讀者理解自我價值，並鼓勵在焦慮與比較中找到自己的步調。書中透過 27 個案例與分析，引導我們將自卑感視為成長的動力，而非阻礙，並提供實際方法來面對人際關係、愛情、職場壓力等議題。本書適合正在迷惘、渴望突破自我的讀者，幫助他們學習如何接納不完美，並活出屬於自己的節奏與價值。</p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>阿德勒是現代心理學的三大巨擘（與大名鼎鼎的佛洛依德和榮格齊名），同時也是個體心理學的創始人，奠定了現代諮商心理學的基礎。阿德勒從小</p>
+<p>本書以<code>阿德勒</code>心理學為基礎，探討<code>自卑感</code>的成因、影響及轉化方式，幫助讀者理解自我價值，並鼓勵在焦慮與比較中找到自己的步調。書中透過 27 個案例與分析，引導我們將自卑感視為成長的動力，而非阻礙，並提供實際方法來面對人際關係、愛情、職場壓力等議題。本書適合正在迷惘、渴望突破自我的讀者，幫助他們學習如何接納不完美，並活出屬於自己的節奏與價值。</p>
 <p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-2.jpg"></p>
 <h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
 <li><strong>自卑感：成長的原動力</strong></li>
@@ -889,6 +893,7 @@
 <li>過度渴望認可容易陷入依賴，真正的幸福來自<code>自我接納</code>與<code>內在穩定</code>。</li>
 <li>愛情關係需以<code>尊重</code>為基礎，<code>避免透過戀愛來填補內心空虛</code>。</li>
 <li><code>家庭與社會環境</code>影響我們的愛情模式，需<code>覺察</code>並<code>調整</code>不健康的互動模式。</li>
+<li>家庭結構產生的競爭意識、忌妒心和手足之情對於個性有長遠影響</li>
 </ul>
 <ol start="4">
 <li><strong>活出真實自我</strong></li>
