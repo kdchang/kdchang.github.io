@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.kdchang.cc/tags/</loc>
-    
-    <lastmod>2025-02-03</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/search/</loc>
     
     <lastmod>2025-02-03</lastmod>
@@ -16,28 +9,7 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</loc>
-    
-    <lastmod>2025-02-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-scrum-master-team/</loc>
-    
-    <lastmod>2025-02-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/09/01/reading-notes-you-do-not-have-to-be-anyone/</loc>
-    
-    <lastmod>2025-02-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/</loc>
+    <loc>https://www.kdchang.cc/tags/</loc>
     
     <lastmod>2025-02-03</lastmod>
     
@@ -65,14 +37,14 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/22/about-llm-app-10-keywords/</loc>
+    <loc>https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/</loc>
     
     <lastmod>2025-02-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/</loc>
+    <loc>https://www.kdchang.cc/2024/05/22/about-llm-app-10-keywords/</loc>
     
     <lastmod>2025-02-03</lastmod>
     
@@ -164,6 +136,34 @@
   
   <url>
     <loc>https://www.kdchang.cc/2024/08/06/reading-notes-forest-wisdom/</loc>
+    
+    <lastmod>2025-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</loc>
+    
+    <lastmod>2025-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-scrum-master-team/</loc>
+    
+    <lastmod>2025-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/09/01/reading-notes-you-do-not-have-to-be-anyone/</loc>
+    
+    <lastmod>2025-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/</loc>
     
     <lastmod>2025-02-03</lastmod>
     
