@@ -28,6 +28,36 @@
       </tags>
   </entry>
   <entry>
+    <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-tech-10-keywords/</url>
+    <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
+<ol>
+<li><strong>自然語言處理（NLP）</strong>（Natural Language Processing, NLP）</li>
+<li><strong>機器學習</strong>（Machine Learning）</li>
+<li><strong>深度學習</strong>（Deep Learning）</li>
+<li><strong>文本生成</strong>（Text Generation）</li>
+<li><strong>上下文理解</strong>（Contextual Understanding）</li>
+<li><strong>語義分析</strong>（Semantic Analysis）</li>
+<li><strong>模型訓練</strong>（Model Training）</li>
+<li><strong>語言建模</strong>（Language Modeling）</li>
+<li><strong>人工智慧</strong>（Artificial Intelligence, AI）</li>
+<li><strong>轉移學習</strong>（Transfer Learning）</li>
+</ol>
+<p>這些關鍵字涵蓋了大型語言模型的核心概念、技術和應用領域，有助於幫助我們深入理解 LLMs 的工作原理和用途。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>財報分析入門筆記</title>
     <url>/2017/06/30/financial-statements-analysis-introduction/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>財務報表是一家公司的體質檢查表，透過財務報表可以了解這家公司的財務狀況和營運狀況，也就是說可以透過財務報表去一窺公司的身體健康是否硬朗或是漸漸亮起紅燈。許多人以為財務報表晦澀難懂，只有經營者、會計師或是財務分析師才需要了解。事實上，財務報表的觀念並不難懂，不管是投資大眾甚至是公司員工應該都要對自己投資和工作的公司要有所掌握，一般投資人若能了解財報就有機會從中挖掘被低估的優質股票進而獲取相對報酬（賺錢），而一般員工若能掌握財報資訊，更能全面性了解公司營運狀況和未來發展方向，為自己的職涯加分。</p>
@@ -124,36 +154,6 @@
         <tag>Cash flow statement</tag>
         <tag>finance</tag>
         <tag>財務</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-tech-10-keywords/</url>
-    <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
-<ol>
-<li><strong>自然語言處理（NLP）</strong>（Natural Language Processing, NLP）</li>
-<li><strong>機器學習</strong>（Machine Learning）</li>
-<li><strong>深度學習</strong>（Deep Learning）</li>
-<li><strong>文本生成</strong>（Text Generation）</li>
-<li><strong>上下文理解</strong>（Contextual Understanding）</li>
-<li><strong>語義分析</strong>（Semantic Analysis）</li>
-<li><strong>模型訓練</strong>（Model Training）</li>
-<li><strong>語言建模</strong>（Language Modeling）</li>
-<li><strong>人工智慧</strong>（Artificial Intelligence, AI）</li>
-<li><strong>轉移學習</strong>（Transfer Learning）</li>
-</ol>
-<p>這些關鍵字涵蓋了大型語言模型的核心概念、技術和應用領域，有助於幫助我們深入理解 LLMs 的工作原理和用途。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
       </tags>
   </entry>
   <entry>
@@ -305,6 +305,44 @@
       </tags>
   </entry>
   <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</title>
     <url>/2024/05/23/llm-rag-app-notes/</url>
     <content><![CDATA[<p>擷取擴增產生&#x2F;檢索增強生成（Retrieval-Augmented Generation, RAG）是一種結合檢索和生成技術的混合模型，用於改善文本生成任務的性能。這種方法能夠在生成文本時引入外部知識，從而生成更準確和上下文相關的內容。以下是對 RAG 的詳細介紹：</p>
@@ -397,44 +435,6 @@
         <tag>Retrieval-Augmented Generation</tag>
         <tag>擷取擴增產生</tag>
         <tag>檢索增強生成</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -743,25 +743,29 @@
   <entry>
     <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀學習心得筆記</title>
     <url>/2024/08/06/reading-notes-forest-wisdom/</url>
-    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">我可能錯了：森林智者的最後一堂人生課</span><br><span class="line">比約恩．納提科．林德布勞</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我可能錯了：森林智者的最後一堂人生課》</span><br><span class="line">作者： 比約恩．納提科．林德布勞, 卡洛琳．班克勒, 納維德．莫迪里</span><br><span class="line">原文作者： Björn Natthiko Lindeblad, Caroline Bankler, Navid Modiri</span><br><span class="line">出版社：先覺</span><br></pre></td></tr></table></figure>
 
 <blockquote>
 <p>下次，當你感覺到衝突開始悄悄醞釀……只要對自己重複三次：「我可能錯了」，你的擔憂就會雲消霧散。</p>
 </blockquote>
-<h1 id="書籍核心概念"><a href="#書籍核心概念" class="headerlink" title="書籍核心概念"></a>書籍核心概念</h1><p>《我可能錯了》這本書是作者比約恩·納提科·林德布勞在生命的最後階段，將他在森林寺院修行17年的深刻體悟，以及與疾病抗爭的經驗，濃縮成一本充滿智慧與溫暖的書。作者透過簡單易懂的語言，分享了他對生命、死亡、自我和人際關係的獨到見解。</p>
-<h1 id="書籍重點條列"><a href="#書籍重點條列" class="headerlink" title="書籍重點條列"></a>書籍重點條列</h1><ol>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《我可能錯了》這本書是作者比約恩·納提科·林德布勞在生命的最後階段，將他在森林寺院修行17年的深刻體悟，以及與疾病抗爭的經驗，濃縮成一本充滿智慧與溫暖的書。作者透過簡單易懂的語言，分享了他對生命、死亡、自我和人際關係的獨到見解。</p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
 <li>自我覺察的重要性： 作者強調覺察自己念頭的重要性，並教導讀者如何透過覺察來擺脫固有的思維模式。</li>
 <li>放下執著： 作者鼓勵讀者放下對事物的執著，以更開放的心態面對生活中的變故。</li>
 <li>接納不完美： 作者提醒我們，每個人都是不完美的，接納自己的不足，也是一種智慧。</li>
 <li>活在當下： 作者強調活在當下的重要性，不要讓過去的遺憾和未來的恐懼困擾自己。</li>
 <li>人際關係的維護： 作者分享了他在人際關係中所學到的智慧，教導我們如何與他人建立更和諧的關係。</li>
 </ol>
-<h1 id="閱讀心得總結"><a href="#閱讀心得總結" class="headerlink" title="閱讀心得總結"></a>閱讀心得總結</h1><p>《我可能錯了》這本書不僅僅是一本心靈勵志書，更是一本實用的生活指南。作者透過自己的親身經歷，為我們提供了一套面對生活挑戰的方法。這本書的價值在於，它讓我們看到，即使在面對生命的困境時，我們依然可以找到內心的平靜與力量。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《我可能錯了》這本書不僅僅是一本心靈勵志書，更是一本實用的生活指南。作者透過自己的親身經歷，為我們提供了一套面對生活挑戰的方法。這本書的價值在於，它讓我們看到，即使在面對生命的困境時，我們依然可以找到內心的平靜與力量。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
         <tag>我可能錯了</tag>
         <tag>森林智者</tag>
+        <tag>森林智者的最後一堂人生課</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀學習心得筆記</tag>
       </tags>
   </entry>
   <entry>
@@ -873,6 +877,10 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書探討<code>自卑感</code>的成因，鼓勵我們接受自己的不完美，並透過自省與行動，逐步活出自己真正想要的人生。</p>
 ]]></content>
       <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀學習心得筆記</tag>
         <tag>心理學</tag>
         <tag>佛洛依德</tag>
         <tag>榮格</tag>
