@@ -16,34 +16,6 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/25/product-manager-interview-notes/</loc>
-    
-    <lastmod>2025-02-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/06/06/product-manager-reading-list/</loc>
-    
-    <lastmod>2025-02-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/07/26/project-manager-product-manager-scrum-certifications/</loc>
-    
-    <lastmod>2025-02-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</loc>
-    
-    <lastmod>2025-02-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/2024/08/06/reading-notes-forest-wisdom/</loc>
     
     <lastmod>2025-02-04</lastmod>
@@ -51,14 +23,14 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</loc>
+    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-scrum-master-team/</loc>
     
     <lastmod>2025-02-04</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-scrum-master-team/</loc>
+    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</loc>
     
     <lastmod>2025-02-04</lastmod>
     
@@ -149,13 +121,6 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</loc>
-    
-    <lastmod>2025-02-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/2024/05/23/llm-rag-app-notes/</loc>
     
     <lastmod>2025-02-04</lastmod>
@@ -163,7 +128,42 @@
   </url>
   
   <url>
+    <loc>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.kdchang.cc/2024/06/03/product-manager-course-list/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/25/product-manager-interview-notes/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/06/06/product-manager-reading-list/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/07/26/project-manager-product-manager-scrum-certifications/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</loc>
     
     <lastmod>2025-02-04</lastmod>
     
@@ -329,26 +329,6 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/tags/Project-Manager/</loc>
-    <lastmod>2025-02-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/Program-Manager/</loc>
-    <lastmod>2025-02-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86/</loc>
-    <lastmod>2025-02-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/PM/</loc>
-    <lastmod>2025-02-04</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/tags/RAG/</loc>
     <lastmod>2025-02-04</lastmod>
   </url>
@@ -365,6 +345,26 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E6%AA%A2%E7%B4%A2%E5%A2%9E%E5%BC%B7%E7%94%9F%E6%88%90/</loc>
+    <lastmod>2025-02-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/Project-Manager/</loc>
+    <lastmod>2025-02-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/Program-Manager/</loc>
+    <lastmod>2025-02-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86/</loc>
+    <lastmod>2025-02-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/PM/</loc>
     <lastmod>2025-02-04</lastmod>
   </url>
   
