@@ -3,7 +3,7 @@ layout: "about"
 title: "About"
 date: 2016-04-21 04:48:33
 header-img: "img/about-bg.jpg"
-description: ""
+description: "Something about me."
 ---
 
 > KD 職場人生閱讀筆記。Hi 我是 KD Chang 張凱迪，我在這書寫我的職場人生閱讀筆記。這裡記錄一個軟體工程師也是一位產品專案經理和教育工作者對於個人成長、財經商管、投資理財、心靈勵志、歷史人文、公共政策與職場人生的閱讀思考與觀察。歡迎一起交流討論，讓這個世界更加開放美好！
