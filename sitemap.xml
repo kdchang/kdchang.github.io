@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.kdchang.cc/search/</loc>
-    
-    <lastmod>2025-02-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/tags/</loc>
     
     <lastmod>2025-02-04</lastmod>
@@ -16,28 +9,7 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</loc>
-    
-    <lastmod>2025-02-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/</loc>
-    
-    <lastmod>2025-02-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/</loc>
-    
-    <lastmod>2025-02-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/</loc>
+    <loc>https://www.kdchang.cc/search/</loc>
     
     <lastmod>2025-02-04</lastmod>
     
@@ -52,20 +24,6 @@
   
   <url>
     <loc>https://www.kdchang.cc/books/</loc>
-    
-    <lastmod>2025-02-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/05/22/about-llm-app-10-keywords/</loc>
-    
-    <lastmod>2025-02-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/</loc>
     
     <lastmod>2025-02-04</lastmod>
     
@@ -107,14 +65,14 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</loc>
+    <loc>https://www.kdchang.cc/2024/05/23/llm-rag-app-notes/</loc>
     
     <lastmod>2025-02-04</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/23/llm-rag-app-notes/</loc>
+    <loc>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</loc>
     
     <lastmod>2025-02-04</lastmod>
     
@@ -163,6 +121,13 @@
   </url>
   
   <url>
+    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-scrum-master-team/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.kdchang.cc/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</loc>
     
     <lastmod>2025-02-04</lastmod>
@@ -170,7 +135,42 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-scrum-master-team/</loc>
+    <loc>https://www.kdchang.cc/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/22/about-llm-app-10-keywords/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/</loc>
     
     <lastmod>2025-02-04</lastmod>
     
@@ -336,26 +336,6 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/tags/Project-Manager/</loc>
-    <lastmod>2025-02-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/Program-Manager/</loc>
-    <lastmod>2025-02-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86/</loc>
-    <lastmod>2025-02-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/PM/</loc>
-    <lastmod>2025-02-04</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/tags/RAG/</loc>
     <lastmod>2025-02-04</lastmod>
   </url>
@@ -372,6 +352,26 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E6%AA%A2%E7%B4%A2%E5%A2%9E%E5%BC%B7%E7%94%9F%E6%88%90/</loc>
+    <lastmod>2025-02-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/Project-Manager/</loc>
+    <lastmod>2025-02-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/Program-Manager/</loc>
+    <lastmod>2025-02-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86/</loc>
+    <lastmod>2025-02-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/PM/</loc>
     <lastmod>2025-02-04</lastmod>
   </url>
   
