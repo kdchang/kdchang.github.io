@@ -3,7 +3,7 @@ layout: "about"
 title: "Books"
 date: 2016-04-21 04:48:33
 header-img: "img/books-bg.jpg"
-description: "閱讀筆記清單 | 書籍推薦清單"
+description: "Reading list collections"
 ---
 
 # 閱讀筆記清單
