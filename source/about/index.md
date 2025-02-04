@@ -6,7 +6,7 @@ header-img: "img/about-bg.jpg"
 description: ""
 ---
 
-> I'm KD Chang 張凱迪這個網站記錄一個軟體工程師也是一位 PM 產品經理/專案經理和教育工作者對 EduTech 教育科技、財經商管、投資理財、心理學/心靈勵志、社會創新、ESG/SDGs 永續發展、創新創業、歷史人文、公共政策與職場人生的思考與觀察，歡迎一起交流討論，讓這個世界更加開放美好！
+> Hi 我是 KD Chang 張凱迪，我在這書寫我的閱讀思考學習筆記。這裡記錄一個軟體工程師也是一位產品經理和教育工作者對於個人成長、財經商管、投資理財、心靈勵志、歷史人文、公共政策與職場人生的思考與觀察，歡迎一起交流討論，讓這個世界更加開放美好！
 
 KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業。是一個軟體工程師，也是一位 PM 產品經理和教育工作者。曾服務過上市科技電子公司、台灣 AI 人工智慧新創獨角獸公司、全球前三大瀏覽器製造商與電子商務平台，也曾參與數個新創組織的創辦和嘗試過多個網路產品服務的開發。同時也是 [CoderBridge 開發者技術內容創作分享與職涯發展平台](https://www.coderbridge.com/) 創辦人、[TechBridge Weekly 技術週刊](http://weekly.techbridge.cc/) 、React 入門教學書[《從零開始學 ReactJS》](https://www.gitbook.com/book/kdchang/react101/details)作者和 [HackNTU 臺大黑客松](https://github.com/HackNTU) 的創辦人。同時具備電腦科學與社會科學的背景知識，致力於整合科技與人文，讓這個世界更加開放美好。
 
