@@ -256,6 +256,44 @@
       </tags>
   </entry>
   <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
     <url>/2024/05/23/llm-langchain-notes/</url>
     <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
@@ -302,44 +340,6 @@
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
         <tag>LangChain</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -830,38 +830,36 @@
   <entry>
     <title>《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》  | 閱讀學習心得筆記</title>
     <url>/2024/06/06/reading-notes-scrum-master-team/</url>
-    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南</span><br><span class="line">Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南</span><br><span class="line">Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition</span><br><span class="line">作者： Lyssa Adkins  </span><br><span class="line">譯者： 教練敏捷團隊志工群</span><br><span class="line">出版社：博碩</span><br></pre></td></tr></table></figure>
 
-
-<p>《教練敏捷團隊》是一本為敏捷教練、ScrumMaster、專案經理等專業人員提供指引的實用指南。書中強調敏捷教練不僅是技術專業的角色，更是能夠啟發團隊、協助他們自我成長的導師。透過本書，讀者能夠學習如何在不主導團隊的情況下，引導團隊邁向高績效和協同合作，並在過程中靈活調整自己的領導風格。</p>
-<p><strong>敏捷教練的蛻變</strong>： 從傳統的管理者角色轉變為敏捷教練，需要具備全新的思維與技能，包括自我覺察、適應性、引導能力等。<br><strong>多重角色扮演</strong>： 敏捷教練身兼多職，如導師、老師、問題解決者、衝突調解者等，需要根據團隊的需求靈活調整角色。<br><strong>建立高績效團隊</strong>： 教練應協助團隊建立一個能激發創新與高績效的環境，培養團隊成員的協同合作能力。<br><strong>持續學習與成長</strong>： 敏捷教練的成長是一個永無止境的過程，需要不斷學習新的知識與技能，以應對複雜多變的敏捷環境。</p>
-<p><strong>敏捷教練的核心價值觀</strong>：服務、信任、尊重、勇氣、開放。<br><strong>敏捷教練的技能</strong>：教練、引導、溝通、衝突管理、問題解決。<br><strong>建立高績效團隊的關鍵</strong>：清晰的目標、有效的溝通、持續的改進。<br><strong>敏捷教練的成長之路</strong>：自我覺察、持續學習、尋求反饋。</p>
-<h3 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h3><ol>
-<li><strong>敏捷教練的角色定位</strong><ul>
-<li>需要從「命令控制」轉變為引導和支持角色。</li>
-<li>敏捷教練的關鍵在於創造自組織與高績效團隊的環境。</li>
+<blockquote>
+<p>「優秀的敏捷教練，不是領導團隊，而是點燃團隊內在動力。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>在敏捷轉型的浪潮中，教練不再只是指導者，更是促進者與賦能者。本書由 Lyssa Adkins 撰寫，提供敏捷教練如何帶領團隊從協作走向卓越的實用指南。透過具體方法與案例，讀者能學習如何從控制風格轉變為引導者，打造自組織與高績效團隊。</p>
+<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><h4 id="1-敏捷教練的角色轉變"><a href="#1-敏捷教練的角色轉變" class="headerlink" title="1. 敏捷教練的角色轉變"></a><strong>1. 敏捷教練的角色轉變</strong></h4><ul>
+<li>從「<code>發號施令</code>者」轉變為「<code>賦能團隊的教練</code>」。</li>
+<li>教練不僅是管理者，更是<code>導師</code>、<code>引導者</code>與<code>問題解決者</code>。</li>
 </ul>
-</li>
-<li><strong>不同敏捷教練風格</strong><ul>
-<li><strong>老師型教練：</strong> 在團隊初期或新成員加入時提供指導。</li>
-<li><strong>導師型教練：</strong> 一對一指導團隊成員，針對個人需求調整策略。</li>
-<li><strong>引導者型教練：</strong> 引導各類敏捷會議，使團隊在討論中達成共識。</li>
-<li><strong>問題解決者型教練：</strong> 掌握問題解決技巧，協助團隊突破障礙。</li>
-<li><strong>衝突駕馭者型教練：</strong> 管理衝突並引導團隊找到和平解決的方式。</li>
-<li><strong>協同合作領導者型教練：</strong> 從協力配合到全面性的協同合作。</li>
+<h4 id="2-五大敏捷教練風格"><a href="#2-五大敏捷教練風格" class="headerlink" title="2. 五大敏捷教練風格"></a><strong>2. 五大敏捷教練風格</strong></h4><ul>
+<li><strong>導師型</strong>：提供<code>敏捷思維</code>與<code>實踐指導</code>。</li>
+<li><strong>引導者型</strong>：協助團隊<code>自發性進行會議</code>與<code>決策</code>。</li>
+<li><strong>老師型</strong>：持續<code>教育團隊敏捷相關知識</code>與<code>技巧</code>。</li>
+<li><strong>問題解決者型</strong>：帶領<code>團隊分析</code>、<code>解決問題</code>，<code>提升決策能力</code>。</li>
+<li><strong>衝突駕馭者型</strong>：有效<code>處理衝突</code>，使團隊穩健成長。</li>
 </ul>
-</li>
-<li><strong>自我精進與團隊成長</strong><ul>
-<li>敏捷教練應不斷自我精進，適應團隊變化。</li>
-<li>在團隊成長的過程中調整領導風格，並學習如何在失敗中快速復原。</li>
+<h4 id="3-打造高績效團隊"><a href="#3-打造高績效團隊" class="headerlink" title="3. 打造高績效團隊"></a><strong>3. 打造高績效團隊</strong></h4><ul>
+<li>設定明確的<code>期望</code>，幫助團隊理解高績效標準。</li>
+<li>透過「<code>協同合作</code>」而非單純「協力配合」來強化團隊運作。</li>
+<li>培養團隊的「<code>敏捷肌肉</code>」，讓變革成為自然習慣。</li>
 </ul>
-</li>
-<li><strong>敏捷教練的成功模式</strong><ul>
-<li>成功的敏捷教練能夠創造一個能激發團隊潛力的環境。</li>
-<li>鼓勵團隊成員積極參與，不斷挑戰自己並進行反思和改進。</li>
+<h4 id="4-敏捷教練的失敗與成長"><a href="#4-敏捷教練的失敗與成長" class="headerlink" title="4. 敏捷教練的失敗與成長"></a><strong>4. 敏捷教練的失敗與成長</strong></h4><ul>
+<li>失敗模式：<code>過度介入</code>、<code>強加控制</code>、<code>忽視團隊文</code>化。</li>
+<li>復原策略：<code>建立信任</code>、<code>適時退場</code>、<code>強化反思與回顧</code>。</li>
+<li>成功關鍵：持續<code>學習與適應</code>，<code>不斷進化自身的教練技巧</code>。</li>
 </ul>
-</li>
-</ol>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
 ]]></content>
       <tags>
         <tag>產案管理</tag>
