@@ -1,33 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-app-10-keywords/</url>
-    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
-<ol>
-<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
-<li><strong>聊天機器人</strong>（Chatbots）</li>
-<li><strong>文字摘要</strong>（Text Summarization）</li>
-<li><strong>內容生成</strong>（Content Generation）</li>
-<li><strong>情感分析</strong>（Sentiment Analysis）</li>
-<li><strong>語音助手</strong>（Voice Assistants）</li>
-<li><strong>自動翻譯</strong>（Automatic Translation）</li>
-<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
-<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
-<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
-</ol>
-<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
     <url>/2024/05/22/about-llm-tech-10-keywords/</url>
     <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
@@ -47,6 +20,33 @@
 <h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
 <li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
 </ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-app-10-keywords/</url>
+    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
+<ol>
+<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
+<li><strong>聊天機器人</strong>（Chatbots）</li>
+<li><strong>文字摘要</strong>（Text Summarization）</li>
+<li><strong>內容生成</strong>（Content Generation）</li>
+<li><strong>情感分析</strong>（Sentiment Analysis）</li>
+<li><strong>語音助手</strong>（Voice Assistants）</li>
+<li><strong>自動翻譯</strong>（Automatic Translation）</li>
+<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
+<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
+<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
+</ol>
+<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
 ]]></content>
       <tags>
         <tag>生成式 AI</tag>
@@ -694,40 +694,49 @@
   </entry>
   <entry>
     <title>《矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課》 | 閱讀學習心得筆記</title>
-    <url>/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product%20copy/</url>
-    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課</span><br><span class="line">EMPOWERED: Ordinary People, Extraordinary Products</span><br></pre></td></tr></table></figure>
+    <url>/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-empowered-ordinary-people-extraordinary-product-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課</span><br><span class="line">EMPOWERED: Ordinary People, Extraordinary Products</span><br><span class="line">作者： 馬提．凱根, 克里斯．瓊斯  </span><br><span class="line">原文作者： MARTY CAGAN, CHRIS JONES</span><br><span class="line">譯者： 陳文和</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「成功的秘訣在於賦能團隊，而非個別人才。」</p>
+<p>「成功的秘訣在於賦能團隊，而非個別人才。」<br>「成就他人的同時，也就成就自己。」</p>
 </blockquote>
-<h3 id="閱讀心得"><a href="#閱讀心得" class="headerlink" title="閱讀心得"></a>閱讀心得</h3><p>《矽谷最夯‧產品專案領導力全書》以矽谷灣區企業如 Amazon、Google、Netflix、Apple、Tesla 等公司的創新經驗為基礎，強調成功並非取決於個別頂尖人才，而是透過有效的團隊賦權和協作來創造非凡產品。書中提出如何從平凡團隊轉變為一流創新團隊的實踐策略，並且深入探討領導力、教練心態以及賦權團隊的重要性。這些策略對於產品經理、企業領導者及組織轉型有著極高的實用價值，特別適用於希望提升產品力和協作效能的企業。</p>
-<h3 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h3><ol>
-<li><strong>賦權與協作</strong><ul>
-<li>成功的企業並非依賴個別人才，而是建立在賦權的團隊結構之上。</li>
-<li>賦權團隊強調協作、責任分擔及解決整體問題，而非單純依賴個人能力。</li>
+<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h3><p>矽谷最夯‧產品專案領導力全書這本書強調「<code>授權與賦能</code>」的重要性，並指出數位轉型的核心不在於工具，而是組織與人的轉型。透過案例分析與理論探討，書中闡述了如何有效領導團隊，打造高效能組織，並強調建立企業文化與員工幸福感對於競爭力的影響。  </p>
+<p><img src="/img/posts/reading-notes-empowered-ordinary-people-extraordinary-product-2.jpg"></p>
+<h3 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h3><ol>
+<li><p><strong>數位轉型的真諦</strong>  </p>
+<ul>
+<li>轉型的關鍵在於「<code>人</code>」，<code>科技只是輔助工具</code>。  </li>
+<li>成功轉型需仰賴<code>授權與賦能</code>，提升員工的<code>自主能力與決策權</code>。</li>
 </ul>
 </li>
-<li><strong>產品開發與策略</strong><ul>
-<li>強調產品開發團隊應與功能開發團隊分工合作，提升整體工作效能。</li>
-<li>產品願景需明確，並與公司策略保持一致，以達成長期目標。</li>
+<li><p><strong>授權與賦能的核心概念</strong>  </p>
+<ul>
+<li><strong>授權</strong>：將職責下放，讓員工獲得執行權限。  </li>
+<li><strong>賦能</strong>：不僅給權力，還要提供技能與資源，使員工能獨立完成任務。</li>
 </ul>
 </li>
-<li><strong>教練體制</strong><ul>
-<li>教練不僅是指導技術，而是鼓勵成員成長，並以正確的回饋機制來強化團隊能力。</li>
-<li>領導者應以教練心態為基礎，制定個人化的發展計畫，促進團隊成員的長期成長。</li>
+<li><p><strong>組織文化的建立</strong>  </p>
+<ul>
+<li>透過「<code>安全感</code>、<code>歸屬感</code>、<code>成就感</code>」形塑企業文化，提高員工幸福感與凝聚力。  </li>
+<li>領導者應扮演<code>教練</code>角色，鼓勵團隊<code>自主決策</code>，並引導團隊<code>持續學習與成長</code>。</li>
 </ul>
 </li>
-<li><strong>組織拓樸與人員配置</strong><ul>
-<li>團隊結構影響賦權的效果，領導者需靈活調整團隊配置以提高效率。</li>
-<li>打破傳統以功能為基礎的組織架構，整合管理團隊與科技團隊以促進跨職能協作。</li>
+<li><p><strong>從產品開發到組織管理的進階挑戰</strong>  </p>
+<ul>
+<li>初期專注於<code>市場與產品驗證</code>，中期建立<code>可複製的方法</code>，最終進入<code>賦權</code>階段。  </li>
+<li>高效團隊的建立依賴<code>跨領域專業合作</code>，透過<code>授權</code>與<code>迭代</code>創造創新產品。</li>
 </ul>
 </li>
-<li><strong>實施OKR（目標與關鍵成果）</strong><ul>
-<li>採取自上而下與自下而上的方式制定OKR，使團隊能更清晰地了解並追蹤年度目標。</li>
-<li>強調跨職能團隊在制定與達成共同目標時，需保持緊密合作與持續調整。</li>
+<li><p><strong>領導者的核心能力</strong>  </p>
+<ul>
+<li>接受「<code>不知道正確答案</code>」的事實，鼓勵試驗與持續優化。  </li>
+<li>在風險可控範圍內，給予<code>團隊信任</code>與<code>充分授權</code>。  </li>
+<li>透過<code>開放溝通</code>與<code>激烈討論</code>，激發創新與最佳解決方案。</li>
 </ul>
 </li>
 </ol>
+<h3 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h3><p>本書不僅適用於產品專案管理者，更是所有企業領導人應該深入研究的課題。數位轉型的成功關鍵在於建立「授權與賦能」的文化，使組織成員能夠自主決策與創新，最終提升企業競爭力。透過培養 <code>Sense of Ownership</code>（責任感），企業與員工才能實現共榮共存。</p>
 ]]></content>
       <tags>
         <tag>產案管理</tag>
@@ -738,6 +747,9 @@
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>產品專案管理專案全書</tag>
+        <tag>矽谷最夯‧產品專案領導力全書</tag>
+        <tag>領導力</tag>
+        <tag>leadership</tag>
       </tags>
   </entry>
   <entry>
