@@ -25,6 +25,7 @@ Education 學歷
 • 國立台中一中（TCFSH）
 
 Experience 經歷
+• 一零四資訊科技（104.com.tw）技術專案經理 TPM & Scrum Master
 • Taichung City 臺中市政府青年諮詢委員
 • TCCSIU 臺中社會創新實驗基地進駐團隊入選
 • Appier 沛星互動科技資深軟體工程師 & Scrum Master
