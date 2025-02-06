@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-app-10-keywords/</url>
+    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
+<ol>
+<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
+<li><strong>聊天機器人</strong>（Chatbots）</li>
+<li><strong>文字摘要</strong>（Text Summarization）</li>
+<li><strong>內容生成</strong>（Content Generation）</li>
+<li><strong>情感分析</strong>（Sentiment Analysis）</li>
+<li><strong>語音助手</strong>（Voice Assistants）</li>
+<li><strong>自動翻譯</strong>（Automatic Translation）</li>
+<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
+<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
+<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
+</ol>
+<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
     <url>/2024/05/22/about-llm-tech-10-keywords/</url>
     <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
@@ -20,33 +47,6 @@
 <h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
 <li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
 </ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-app-10-keywords/</url>
-    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
-<ol>
-<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
-<li><strong>聊天機器人</strong>（Chatbots）</li>
-<li><strong>文字摘要</strong>（Text Summarization）</li>
-<li><strong>內容生成</strong>（Content Generation）</li>
-<li><strong>情感分析</strong>（Sentiment Analysis）</li>
-<li><strong>語音助手</strong>（Voice Assistants）</li>
-<li><strong>自動翻譯</strong>（Automatic Translation）</li>
-<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
-<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
-<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
-</ol>
-<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
 ]]></content>
       <tags>
         <tag>生成式 AI</tag>
@@ -736,7 +736,7 @@
 </ul>
 </li>
 </ol>
-<h3 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h3><p>本書不僅適用於產品專案管理者，更是所有企業領導人應該深入研究的課題。數位轉型的成功關鍵在於建立「授權與賦能」的文化，使組織成員能夠自主決策與創新，最終提升企業競爭力。透過培養 <code>Sense of Ownership</code>（責任感），企業與員工才能實現共榮共存。</p>
+<h3 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h3><p>本書不僅適用於產品專案管理者，更是所有企業領導人應該深入研究的課題。數位轉型的成功關鍵在於建立「授權與賦能」的文化，使組織成員能夠自主決策與創新，最終提升企業競爭力。透過培養 <code>Sense of Ownership</code>（責任感），企業與員工才能實現共榮共存。</p>
 ]]></content>
       <tags>
         <tag>產案管理</tag>
@@ -786,24 +786,35 @@
   <entry>
     <title>《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀學習心得筆記</title>
     <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
-    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品</span><br><span class="line">INSPIRED: How to Create Tech Products Customers Love</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品</span><br><span class="line">INSPIRED: How to Create Tech Products Customers Love</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
 
-<p>《矽谷最夯‧產品專案管理全書》這本書為產品經理提供了實戰經驗與理論基礎的結合，深入淺出地剖析了矽谷科技巨頭成功的產品開發秘訣。作者馬提·凱根強調，成功的產品不僅僅是技術的堆砌，更需要深入了解使用者需求、打造優秀團隊，並建立一套行之有效的產品開發流程。</p>
-<h3 id="產品開發的關鍵要素"><a href="#產品開發的關鍵要素" class="headerlink" title="產品開發的關鍵要素"></a><strong>產品開發的關鍵要素</strong></h3><ul>
-<li><strong>以使用者為中心：</strong> 產品開發的出發點應始終以使用者需求為中心，透過深入的使用者研究與反覆迭代，打造出真正能滿足使用者需求的產品。</li>
-<li><strong>跨功能團隊：</strong> 建立一個由產品經理、設計師、工程師等不同角色組成的跨功能團隊，促進團隊成員之間的協作與溝通。</li>
-<li><strong>敏捷開發：</strong> 採用敏捷開發方法，能夠快速響應市場變化，提高產品的適應性。</li>
-<li><strong>產品路徑圖：</strong> 產品路徑圖是產品開發的指南針，能幫助團隊保持方向，並做出明智的決策。</li>
-<li><strong>產品文化：</strong> 建立一個鼓勵創新、重視使用者體驗的產品文化，是產品開發成功的關鍵。</li>
+<blockquote>
+<p>「產品管理的藝術就是生活的藝術。與優秀人才為伍，專注於產品魅力，誠實打造卓越產品，想法堅定但態度淡定。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>這本書被譽為產品經理的聖經，自 2008 年出版以來，暢銷至今。作者馬提．凱根（Marty Cagan）是矽谷產品團隊公司（SVPG）的創辦人，擁有豐富的產品開發經驗。本書集結了作者多年來的實戰經驗，以及當今頂尖科技公司的產品開發案例，旨在幫助產品經理打造出受市場歡迎的產品。成功的產品不僅僅是技術的堆砌，更需要深入了解使用者需求、打造優秀團隊，並建立一套行之有效的產品開發流程。</p>
+<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><ul>
+<li><p><strong>以使用者為中心：</strong> 產品開發的出發點應始終<code>以使用者需求為中心</code>，透過深入的<code>使用者研究</code>與<code>反覆迭代</code>，打造出<code>真正能滿足使用者需求的產品</code>。</p>
+</li>
+<li><p><strong>組成跨功能團隊：</strong> 建立一個由<code>產品經理</code>、<code>設計師</code>、<code>工程師</code>等不同角色組成的跨功能團隊，促進團隊成員之間的協作與溝通。</p>
+</li>
+<li><p><strong>推動敏捷開發：</strong> 採用<code>敏捷開發方法</code>，能夠快速響應市場變化，提高產品的適應性。</p>
+</li>
+<li><p><strong>建立產品路徑圖：</strong> <code>產品路徑圖</code>是產品開發的指南針，能幫助團隊保持方向，並做出明智的決策。</p>
+</li>
+<li><p><strong>打造產品文化：</strong> 建立一個<code>鼓勵創新</code>、<code>重視使用者體驗的產品文化</code>，是產品開發成功的關鍵。</p>
+</li>
+<li><p><strong>卓越的產品不是套公式來的：</strong>Amazon、Google、Facebook、Netflix、Apple 等企業之所以成功，是因為他們知道如何定義、設計、開發出全球數十億人喜愛的產品。他們深知專案是<code>產出（output）</code>，但產品完全看<code>結果（outcome）</code>，如果開發出來的產品沒有市場價值，開發團隊再怎麼優秀也是枉然。</p>
+</li>
+<li><p><strong>先進技術和實務做法是兩碼事：</strong>多數公司在開發產品及執行計畫時，仍使用缺乏效率的老方法。同時，就算導入新技術，也搞錯流程規則。本書作者指導大家如何打造一個獲得授權及高效的產品團隊，配置優秀的人才，發掘顧客喜愛及適合事業的產品並順利地推出上市。</p>
+</li>
+<li><p><strong>本書串起產品開發的整套流程：</strong>本書具備各環節的實務技巧與最前緣的技術說明，從產品與服務定義與實務、適用的流程與技術、人才招募與職能分工、測試與量化的執行到創造出有市場性的產品。</p>
+</li>
+<li><p><strong>當紅公司的產品開發經驗：</strong>本書除了作者親身經驗外，也介紹當今成功的產品經理和科技產品公司，包括 Adobe、Apple、BBC、Google、Microsoft、Netflix。看產品怪獸公司的專案經理如何思考、布局。</p>
+</li>
 </ul>
-<h3 id="重點整理"><a href="#重點整理" class="headerlink" title="重點整理"></a><strong>重點整理</strong></h3><ul>
-<li><strong>產品與專案的區別：</strong> 產品注重結果（outcome），專案注重產出（output）。</li>
-<li><strong>產品開發流程：</strong> 從產品探索、產品設計到產品發布的完整流程。</li>
-<li><strong>團隊組建與管理：</strong> 如何組建一個高績效的產品團隊，以及各角色的職責。</li>
-<li><strong>產品策略與目標：</strong> 如何制定清晰的產品願景、策略和目標。</li>
-<li><strong>敏捷開發方法：</strong> 敏捷開發在產品開發中的應用與優勢。</li>
-</ul>
-<h3 id="閱讀心得總結"><a href="#閱讀心得總結" class="headerlink" title="閱讀心得總結"></a><strong>閱讀心得總結</strong></h3><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
 ]]></content>
       <tags>
         <tag>產案管理</tag>
@@ -905,7 +916,7 @@
 <li>透過與顧客、銷售、行銷、財務等部門的緊密合作，確保產品策略的一致性。  </li>
 <li>以數據驗證成果，持續改善與優化產品營運模式。</li>
 </ul>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
 ]]></content>
       <tags>
         <tag>產案管理</tag>
