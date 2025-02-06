@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.kdchang.cc/search/</loc>
-    
-    <lastmod>2025-02-06</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/tags/</loc>
     
     <lastmod>2025-02-06</lastmod>
@@ -16,49 +9,7 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/25/product-manager-interview-notes/</loc>
-    
-    <lastmod>2025-02-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/06/06/product-manager-reading-list/</loc>
-    
-    <lastmod>2025-02-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/07/26/project-manager-product-manager-scrum-certifications/</loc>
-    
-    <lastmod>2025-02-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</loc>
-    
-    <lastmod>2025-02-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/08/06/reading-notes-forest-wisdom/</loc>
-    
-    <lastmod>2025-02-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</loc>
-    
-    <lastmod>2025-02-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</loc>
+    <loc>https://www.kdchang.cc/search/</loc>
     
     <lastmod>2025-02-06</lastmod>
     
@@ -66,6 +17,13 @@
   
   <url>
     <loc>https://www.kdchang.cc/2024/06/06/reading-notes-scrum-master-team/</loc>
+    
+    <lastmod>2025-02-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</loc>
     
     <lastmod>2025-02-06</lastmod>
     
@@ -142,14 +100,14 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/23/llm-langchain-notes/</loc>
+    <loc>https://www.kdchang.cc/2024/05/22/llm-app-in-martech/</loc>
     
     <lastmod>2025-02-06</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/22/llm-app-in-martech/</loc>
+    <loc>https://www.kdchang.cc/2024/05/23/llm-langchain-notes/</loc>
     
     <lastmod>2025-02-06</lastmod>
     
@@ -178,6 +136,48 @@
   
   <url>
     <loc>https://www.kdchang.cc/2024/06/03/product-manager-course-list/</loc>
+    
+    <lastmod>2025-02-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/25/product-manager-interview-notes/</loc>
+    
+    <lastmod>2025-02-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/06/06/product-manager-reading-list/</loc>
+    
+    <lastmod>2025-02-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/07/26/project-manager-product-manager-scrum-certifications/</loc>
+    
+    <lastmod>2025-02-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</loc>
+    
+    <lastmod>2025-02-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/08/06/reading-notes-forest-wisdom/</loc>
+    
+    <lastmod>2025-02-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</loc>
     
     <lastmod>2025-02-06</lastmod>
     
@@ -548,11 +548,6 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E7%87%9F%E9%81%8B%E6%A8%A1%E5%BC%8F%E8%BD%89%E5%9E%8B%E5%85%A8%E6%9B%B8/</loc>
-    <lastmod>2025-02-06</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/tags/project/</loc>
     <lastmod>2025-02-06</lastmod>
   </url>
@@ -584,6 +579,11 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/agile-coach/</loc>
+    <lastmod>2025-02-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E7%87%9F%E9%81%8B%E6%A8%A1%E5%BC%8F%E8%BD%89%E5%9E%8B%E5%85%A8%E6%9B%B8/</loc>
     <lastmod>2025-02-06</lastmod>
   </url>
   
