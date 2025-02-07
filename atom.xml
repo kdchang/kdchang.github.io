@@ -6,7 +6,7 @@
   <link href="https://www.kdchang.cc/atom.xml" rel="self"/>
   
   <link href="https://www.kdchang.cc/"/>
-  <updated>2025-02-07T03:11:56.634Z</updated>
+  <updated>2025-02-07T03:53:58.576Z</updated>
   <id>https://www.kdchang.cc/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.kdchang.cc/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/"/>
     <id>https://www.kdchang.cc/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</id>
     <published>2025-01-31T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.576Z</updated>
     
     
     <summary type="html">本書以`阿德勒`心理學為基礎，探討`自卑感`的成因、影響及轉化方式，幫助讀者理解自我價值，並鼓勵在焦慮與比較中找到自己的步調。書中透過 27 個案例與分析，引導我們將自卑感視為成長的動力，而非阻礙，並提供實際方法來面對人際關係、愛情、職場壓力等議題。本書適合正在迷惘、渴望突破自我的讀者，幫助他們學習如何接納不完美，並活出屬於自己的節奏與價值。</summary>
@@ -60,13 +60,15 @@
     <link href="https://www.kdchang.cc/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/"/>
     <id>https://www.kdchang.cc/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</id>
     <published>2024-11-10T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.576Z</updated>
     
     
     <summary type="html">本書探討如何透過「產品營運模式」取代傳統 IT 專案管理，讓企業能夠更靈活且高效地打造成功產品。透過矽谷科技公司的實際案例，作者馬提·凱根是多本矽谷產品專業書籍作者，解析了產品管理轉型的挑戰與方法，幫助企業落實技術驅動的產品開發模式。</summary>
     
     
     
+    
+    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
     
     <category term="product" scheme="https://www.kdchang.cc/tags/product/"/>
     
@@ -82,8 +84,6 @@
     
     <category term="產品專案管理專案全書" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E5%B0%88%E6%A1%88%E5%85%A8%E6%9B%B8/"/>
     
-    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
-    
     <category term="產品營運模式轉型全書" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E7%87%9F%E9%81%8B%E6%A8%A1%E5%BC%8F%E8%BD%89%E5%9E%8B%E5%85%A8%E6%9B%B8/"/>
     
   </entry>
@@ -93,7 +93,7 @@
     <link href="https://www.kdchang.cc/2024/08/06/reading-notes-forest-wisdom/"/>
     <id>https://www.kdchang.cc/2024/08/06/reading-notes-forest-wisdom/</id>
     <published>2024-08-06T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.576Z</updated>
     
     
     <summary type="html">比約恩．納提科．林德布勞的《我可能錯了》是一場深刻的心靈對話，他以坦誠、幽默而智慧的筆觸，分享自己從金融界菁英轉身成為森林僧人，再回歸俗世與漸凍症共存的生命歷程。本書沒有說教，而是透過自身經驗，帶領讀者學會放下執著，接受無常，以更自由的心態面對人生的種種挑戰。對於陷入焦慮、迷惘或生命低潮的人來說，這是一本能帶來安慰與啟發的書。</summary>
@@ -122,7 +122,7 @@
     <link href="https://www.kdchang.cc/2024/07/26/project-manager-product-manager-scrum-certifications/"/>
     <id>https://www.kdchang.cc/2024/07/26/project-manager-product-manager-scrum-certifications/</id>
     <published>2024-07-26T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.576Z</updated>
     
     
       
@@ -139,6 +139,8 @@
     
     
     
+    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
+    
     <category term="product" scheme="https://www.kdchang.cc/tags/product/"/>
     
     <category term="Product Manager" scheme="https://www.kdchang.cc/tags/Product-Manager/"/>
@@ -154,8 +156,6 @@
     <category term="PM" scheme="https://www.kdchang.cc/tags/PM/"/>
     
     <category term="產品專案管理專案全書" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E5%B0%88%E6%A1%88%E5%85%A8%E6%9B%B8/"/>
-    
-    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
     
     <category term="書籍" scheme="https://www.kdchang.cc/tags/%E6%9B%B8%E7%B1%8D/"/>
     
@@ -184,7 +184,7 @@
     <link href="https://www.kdchang.cc/2024/06/06/learning-notes-axure-rp-basic/"/>
     <id>https://www.kdchang.cc/2024/06/06/learning-notes-axure-rp-basic/</id>
     <published>2024-06-06T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.633Z</updated>
+    <updated>2025-02-07T03:53:58.575Z</updated>
     
     
       
@@ -199,12 +199,6 @@
     
     
     
-    <category term="產品專案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/"/>
-    
-    <category term="產品管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E7%AE%A1%E7%90%86/"/>
-    
-    <category term="專案管理" scheme="https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/"/>
-    
     <category term="product" scheme="https://www.kdchang.cc/tags/product/"/>
     
     <category term="Product Manager" scheme="https://www.kdchang.cc/tags/Product-Manager/"/>
@@ -212,6 +206,12 @@
     <category term="產品經理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86/"/>
     
     <category term="產品" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81/"/>
+    
+    <category term="產品專案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="產品管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="專案管理" scheme="https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/"/>
     
     <category term="Axure RP 10" scheme="https://www.kdchang.cc/tags/Axure-RP-10/"/>
     
@@ -224,7 +224,7 @@
     <link href="https://www.kdchang.cc/2024/06/06/product-manager-reading-list/"/>
     <id>https://www.kdchang.cc/2024/06/06/product-manager-reading-list/</id>
     <published>2024-06-06T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.575Z</updated>
     
     
       
@@ -238,6 +238,8 @@
     
     
     
+    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
+    
     <category term="product" scheme="https://www.kdchang.cc/tags/product/"/>
     
     <category term="Product Manager" scheme="https://www.kdchang.cc/tags/Product-Manager/"/>
@@ -246,17 +248,15 @@
     
     <category term="產品" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81/"/>
     
-    <category term="Project Manager" scheme="https://www.kdchang.cc/tags/Project-Manager/"/>
-    
     <category term="Career" scheme="https://www.kdchang.cc/tags/Career/"/>
     
     <category term="Career Development" scheme="https://www.kdchang.cc/tags/Career-Development/"/>
     
+    <category term="Project Manager" scheme="https://www.kdchang.cc/tags/Project-Manager/"/>
+    
     <category term="PM" scheme="https://www.kdchang.cc/tags/PM/"/>
     
     <category term="產品專案管理專案全書" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E5%B0%88%E6%A1%88%E5%85%A8%E6%9B%B8/"/>
-    
-    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
     
     <category term="書籍" scheme="https://www.kdchang.cc/tags/%E6%9B%B8%E7%B1%8D/"/>
     
@@ -279,13 +279,15 @@
     <link href="https://www.kdchang.cc/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/"/>
     <id>https://www.kdchang.cc/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</id>
     <published>2024-06-06T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.576Z</updated>
     
     
     <summary type="html">矽谷最夯‧產品專案領導力全書這本書強調「`授權與賦能`」的重要性，並指出數位轉型的核心不在於工具，而是組織與人的轉型。透過案例分析與理論探討，書中闡述了如何有效領導團隊，打造高效能組織，並強調建立企業文化與員工幸福感對於競爭力的影響。</summary>
     
     
     
+    
+    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
     
     <category term="product" scheme="https://www.kdchang.cc/tags/product/"/>
     
@@ -300,8 +302,6 @@
     <category term="Career Development" scheme="https://www.kdchang.cc/tags/Career-Development/"/>
     
     <category term="產品專案管理專案全書" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E5%B0%88%E6%A1%88%E5%85%A8%E6%9B%B8/"/>
-    
-    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
     
     <category term="矽谷最夯‧產品專案領導力全書" scheme="https://www.kdchang.cc/tags/%E7%9F%BD%E8%B0%B7%E6%9C%80%E5%A4%AF%E2%80%A7%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E9%A0%98%E5%B0%8E%E5%8A%9B%E5%85%A8%E6%9B%B8/"/>
     
@@ -316,13 +316,15 @@
     <link href="https://www.kdchang.cc/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/"/>
     <id>https://www.kdchang.cc/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</id>
     <published>2024-06-06T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.576Z</updated>
     
     
     <summary type="html">本書探討如何透過「產品營運模式」取代傳統 IT 專案管理，讓企業能夠更靈活且高效地打造成功產品。透過矽谷科技公司的實際案例，作者馬提·凱根是多本矽谷產品專業書籍作者，解析了產品管理轉型的挑戰與方法，幫助企業落實技術驅動的產品開發模式。</summary>
     
     
     
+    
+    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
     
     <category term="product" scheme="https://www.kdchang.cc/tags/product/"/>
     
@@ -338,8 +340,6 @@
     
     <category term="產品專案管理專案全書" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E5%B0%88%E6%A1%88%E5%85%A8%E6%9B%B8/"/>
     
-    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
-    
   </entry>
   
   <entry>
@@ -347,7 +347,7 @@
     <link href="https://www.kdchang.cc/2024/06/06/reading-notes-scrum-master-team/"/>
     <id>https://www.kdchang.cc/2024/06/06/reading-notes-scrum-master-team/</id>
     <published>2024-06-06T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.576Z</updated>
     
     
     <summary type="html">在敏捷轉型的浪潮中，教練不再只是指導者，更是促進者與賦能者。本書由 Lyssa Adkins 撰寫，提供敏捷教練如何帶領團隊從協作走向卓越的實用指南。透過具體方法與案例，讀者能學習如何從控制風格轉變為引導者，打造自組織與高績效團隊。</summary>
@@ -355,19 +355,19 @@
     
     
     
+    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
+    
     <category term="產品" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81/"/>
-    
-    <category term="Project Manager" scheme="https://www.kdchang.cc/tags/Project-Manager/"/>
-    
-    <category term="專案經理" scheme="https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86/"/>
     
     <category term="Career" scheme="https://www.kdchang.cc/tags/Career/"/>
     
     <category term="Career Development" scheme="https://www.kdchang.cc/tags/Career-Development/"/>
     
-    <category term="產品專案管理專案全書" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E5%B0%88%E6%A1%88%E5%85%A8%E6%9B%B8/"/>
+    <category term="Project Manager" scheme="https://www.kdchang.cc/tags/Project-Manager/"/>
     
-    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
+    <category term="專案經理" scheme="https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86/"/>
+    
+    <category term="產品專案管理專案全書" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E5%B0%88%E6%A1%88%E5%85%A8%E6%9B%B8/"/>
     
     <category term="PjM" scheme="https://www.kdchang.cc/tags/PjM/"/>
     
@@ -392,7 +392,7 @@
     <link href="https://www.kdchang.cc/2024/06/03/product-manager-course-list/"/>
     <id>https://www.kdchang.cc/2024/06/03/product-manager-course-list/</id>
     <published>2024-06-03T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.575Z</updated>
     
     
       
@@ -406,6 +406,8 @@
     
     
     
+    
+    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
     
     <category term="product" scheme="https://www.kdchang.cc/tags/product/"/>
     
@@ -422,8 +424,6 @@
     <category term="PM" scheme="https://www.kdchang.cc/tags/PM/"/>
     
     <category term="產品專案管理專案全書" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E5%B0%88%E6%A1%88%E5%85%A8%E6%9B%B8/"/>
-    
-    <category term="產案管理" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/"/>
     
     <category term="書籍" scheme="https://www.kdchang.cc/tags/%E6%9B%B8%E7%B1%8D/"/>
     
@@ -444,7 +444,7 @@
     <link href="https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/"/>
     <id>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</id>
     <published>2024-05-27T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.575Z</updated>
     
     
       
@@ -466,15 +466,15 @@
     
     <category term="產品" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81/"/>
     
+    <category term="Career" scheme="https://www.kdchang.cc/tags/Career/"/>
+    
+    <category term="Career Development" scheme="https://www.kdchang.cc/tags/Career-Development/"/>
+    
     <category term="Project Manager" scheme="https://www.kdchang.cc/tags/Project-Manager/"/>
     
     <category term="Program Manager" scheme="https://www.kdchang.cc/tags/Program-Manager/"/>
     
     <category term="專案經理" scheme="https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86/"/>
-    
-    <category term="Career" scheme="https://www.kdchang.cc/tags/Career/"/>
-    
-    <category term="Career Development" scheme="https://www.kdchang.cc/tags/Career-Development/"/>
     
     <category term="PM" scheme="https://www.kdchang.cc/tags/PM/"/>
     
@@ -485,7 +485,7 @@
     <link href="https://www.kdchang.cc/2024/05/26/llm-model-fine-turning/"/>
     <id>https://www.kdchang.cc/2024/05/26/llm-model-fine-turning/</id>
     <published>2024-05-26T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.633Z</updated>
+    <updated>2025-02-07T03:53:58.575Z</updated>
     
     
       
@@ -507,9 +507,9 @@
     
     <category term="LLMs" scheme="https://www.kdchang.cc/tags/LLMs/"/>
     
-    <category term="LLM" scheme="https://www.kdchang.cc/tags/LLM/"/>
-    
     <category term="大型語言模型" scheme="https://www.kdchang.cc/tags/%E5%A4%A7%E5%9E%8B%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="LLM" scheme="https://www.kdchang.cc/tags/LLM/"/>
     
     <category term="fine-tuning" scheme="https://www.kdchang.cc/tags/fine-tuning/"/>
     
@@ -522,7 +522,7 @@
     <link href="https://www.kdchang.cc/2024/05/25/product-manager-interview-notes/"/>
     <id>https://www.kdchang.cc/2024/05/25/product-manager-interview-notes/</id>
     <published>2024-05-25T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.575Z</updated>
     
     
       
@@ -544,15 +544,15 @@
     
     <category term="產品" scheme="https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81/"/>
     
+    <category term="Career" scheme="https://www.kdchang.cc/tags/Career/"/>
+    
+    <category term="Career Development" scheme="https://www.kdchang.cc/tags/Career-Development/"/>
+    
     <category term="Project Manager" scheme="https://www.kdchang.cc/tags/Project-Manager/"/>
     
     <category term="Program Manager" scheme="https://www.kdchang.cc/tags/Program-Manager/"/>
     
     <category term="專案經理" scheme="https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86/"/>
-    
-    <category term="Career" scheme="https://www.kdchang.cc/tags/Career/"/>
-    
-    <category term="Career Development" scheme="https://www.kdchang.cc/tags/Career-Development/"/>
     
     <category term="PM" scheme="https://www.kdchang.cc/tags/PM/"/>
     
@@ -571,7 +571,7 @@
     <link href="https://www.kdchang.cc/2024/05/23/llm-langchain-notes/"/>
     <id>https://www.kdchang.cc/2024/05/23/llm-langchain-notes/</id>
     <published>2024-05-23T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.633Z</updated>
+    <updated>2025-02-07T03:53:58.575Z</updated>
     
     
       
@@ -604,7 +604,7 @@
     <link href="https://www.kdchang.cc/2024/05/23/llm-rag-app-notes/"/>
     <id>https://www.kdchang.cc/2024/05/23/llm-rag-app-notes/</id>
     <published>2024-05-23T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.575Z</updated>
     
     
       
@@ -643,7 +643,7 @@
     <link href="https://www.kdchang.cc/2024/05/22/about-llm-app-10-keywords/"/>
     <id>https://www.kdchang.cc/2024/05/22/about-llm-app-10-keywords/</id>
     <published>2024-05-22T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.633Z</updated>
+    <updated>2025-02-07T03:53:58.575Z</updated>
     
     
       
@@ -667,9 +667,9 @@
     
     <category term="LLMs" scheme="https://www.kdchang.cc/tags/LLMs/"/>
     
-    <category term="LLM" scheme="https://www.kdchang.cc/tags/LLM/"/>
-    
     <category term="大型語言模型" scheme="https://www.kdchang.cc/tags/%E5%A4%A7%E5%9E%8B%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="LLM" scheme="https://www.kdchang.cc/tags/LLM/"/>
     
   </entry>
   
@@ -678,7 +678,7 @@
     <link href="https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/"/>
     <id>https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/</id>
     <published>2024-05-22T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.633Z</updated>
+    <updated>2025-02-07T03:53:58.575Z</updated>
     
     
       
@@ -702,9 +702,9 @@
     
     <category term="LLMs" scheme="https://www.kdchang.cc/tags/LLMs/"/>
     
-    <category term="LLM" scheme="https://www.kdchang.cc/tags/LLM/"/>
-    
     <category term="大型語言模型" scheme="https://www.kdchang.cc/tags/%E5%A4%A7%E5%9E%8B%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="LLM" scheme="https://www.kdchang.cc/tags/LLM/"/>
     
   </entry>
   
@@ -713,7 +713,7 @@
     <link href="https://www.kdchang.cc/2024/05/22/llm-app-in-martech/"/>
     <id>https://www.kdchang.cc/2024/05/22/llm-app-in-martech/</id>
     <published>2024-05-22T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.633Z</updated>
+    <updated>2025-02-07T03:53:58.575Z</updated>
     
     
       
@@ -745,7 +745,7 @@
     <link href="https://www.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/"/>
     <id>https://www.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/</id>
     <published>2019-01-04T03:33:41.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.576Z</updated>
     
     
       
@@ -793,7 +793,7 @@
     <link href="https://www.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/"/>
     <id>https://www.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/</id>
     <published>2017-09-10T14:00:00.000Z</published>
-    <updated>2025-02-07T03:11:56.634Z</updated>
+    <updated>2025-02-07T03:53:58.576Z</updated>
     
     
     <summary type="html">隨著網際網路和科技產品的發展，人們除了時間外，注意力、專注力和深度工作力也成為十分稀缺的資產。現代人號稱一天工作八小時甚至更長，但我們往往在開會、被打斷、逛網站、滑手機、處理私人事務和在茶水間討論公司組織裡的八卦中切換我們的思緒，實際上真正有生產力和進入心流專注狀態可能不過幾個小時。</summary>
