@@ -23,8 +23,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
         <tag>LLM</tag>
+        <tag>大型語言模型</tag>
       </tags>
   </entry>
   <entry>
@@ -53,8 +53,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
         <tag>LLM</tag>
+        <tag>大型語言模型</tag>
       </tags>
   </entry>
   <entry>
@@ -157,50 +157,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
-    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
-    <content><![CDATA[<blockquote>
-<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
-<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
-<p>Axure RP 主要有幾個常用的功能區塊：</p>
-<ol>
-<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
-<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
-<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
-<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
-<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
-</ol>
-<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
-<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
-<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
-<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
-<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
-<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
-<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
-<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
-<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
-<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
-<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
-<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
-<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
-<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
-<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
-        <tag>Axure RP 10</tag>
-        <tag>axure</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
     <url>/2024/05/22/llm-app-in-martech/</url>
     <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
@@ -253,6 +209,50 @@
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
+    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
+    <content><![CDATA[<blockquote>
+<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
+<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
+<p>Axure RP 主要有幾個常用的功能區塊：</p>
+<ol>
+<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
+<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
+<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
+<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
+<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
+</ol>
+<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
+<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
+<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
+<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
+<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
+<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
+<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
+<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
+<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
+<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
+<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
+<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
+<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
+<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
+<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
+      <tags>
+        <tag>產品專案管理</tag>
+        <tag>產品管理</tag>
+        <tag>專案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Axure RP 10</tag>
+        <tag>axure</tag>
       </tags>
   </entry>
   <entry>
@@ -336,8 +336,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
         <tag>LLM</tag>
+        <tag>大型語言模型</tag>
         <tag>fine-tuning</tag>
         <tag>微調</tag>
       </tags>
@@ -520,11 +520,11 @@
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
         <tag>Project Manager</tag>
         <tag>Program Manager</tag>
         <tag>專案經理</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
         <tag>PM</tag>
       </tags>
   </entry>
@@ -541,7 +541,6 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
@@ -550,6 +549,7 @@
         <tag>Career Development</tag>
         <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
         <tag>課程</tag>
@@ -576,11 +576,11 @@
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
         <tag>Project Manager</tag>
         <tag>Program Manager</tag>
         <tag>專案經理</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
         <tag>PM</tag>
         <tag>interview</tag>
         <tag>PM Interview</tag>
@@ -639,16 +639,16 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>Project Manager</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
-        <tag>Project Manager</tag>
         <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
         <tag>書單</tag>
@@ -656,40 +656,6 @@
         <tag>Project Management</tag>
         <tag>PjM</tag>
         <tag>PdM</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>常見專案經理（Project Manager）、產品經理（Product Manager, PM）和敏捷開發（Agile）相關證照</title>
-    <url>/2024/07/26/project-manager-product-manager-scrum-certifications/</url>
-    <content><![CDATA[<ol>
-<li><input disabled="" type="checkbox"> PMP</li>
-<li><input disabled="" type="checkbox"> NPDP</li>
-<li><input disabled="" type="checkbox"> Google Project Manager</li>
-<li><input disabled="" type="checkbox"> CSM</li>
-<li><input disabled="" type="checkbox"> CSPO</li>
-<li><input disabled="" type="checkbox"> PMI - ACP &#x2F; PMI - PBA</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>PM</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>書籍</tag>
-        <tag>清單</tag>
-        <tag>書單</tag>
-        <tag>證照</tag>
-        <tag>scrum</tag>
-        <tag>PMP</tag>
-        <tag>NPDP</tag>
-        <tag>Google Project Manager</tag>
-        <tag>CSM</tag>
-        <tag>CSPO</tag>
       </tags>
   </entry>
   <entry>
@@ -739,7 +705,6 @@
 <h3 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h3><p>本書不僅適用於產品專案管理者，更是所有企業領導人應該深入研究的課題。數位轉型的成功關鍵在於建立「授權與賦能」的文化，使組織成員能夠自主決策與創新，最終提升企業競爭力。透過培養 <code>Sense of Ownership</code>（責任感），企業與員工才能實現共榮共存。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
@@ -747,9 +712,44 @@
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
         <tag>矽谷最夯‧產品專案領導力全書</tag>
         <tag>領導力</tag>
         <tag>leadership</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>常見專案經理（Project Manager）、產品經理（Product Manager, PM）和敏捷開發（Agile）相關證照</title>
+    <url>/2024/07/26/project-manager-product-manager-scrum-certifications/</url>
+    <content><![CDATA[<ol>
+<li><input disabled="" type="checkbox"> PMP</li>
+<li><input disabled="" type="checkbox"> NPDP</li>
+<li><input disabled="" type="checkbox"> Google Project Manager</li>
+<li><input disabled="" type="checkbox"> CSM</li>
+<li><input disabled="" type="checkbox"> CSPO</li>
+<li><input disabled="" type="checkbox"> PMI - ACP &#x2F; PMI - PBA</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>PM</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
+        <tag>書籍</tag>
+        <tag>清單</tag>
+        <tag>書單</tag>
+        <tag>證照</tag>
+        <tag>scrum</tag>
+        <tag>PMP</tag>
+        <tag>NPDP</tag>
+        <tag>Google Project Manager</tag>
+        <tag>CSM</tag>
+        <tag>CSPO</tag>
       </tags>
   </entry>
   <entry>
@@ -817,7 +817,6 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
@@ -825,6 +824,7 @@
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
       </tags>
   </entry>
   <entry>
@@ -862,13 +862,13 @@
 <h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
         <tag>Project Manager</tag>
         <tag>專案經理</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
         <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
         <tag>PjM</tag>
         <tag>project</tag>
         <tag>專案</tag>
@@ -917,7 +917,6 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
@@ -925,6 +924,7 @@
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
         <tag>產品營運模式轉型全書</tag>
       </tags>
   </entry>
@@ -935,7 +935,7 @@
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》</span><br><span class="line">作者： 朴藝真  </span><br><span class="line">譯者： 劉宛昀</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「只要活著，就會感到自卑。」<br>「請別和他人比較，專注在自己達成的事情上。鼓起勇氣依照自己的步調過日子並全面肯定和接納努力活到現在的自己。」</p>
+<p>「只要活著，就會感到自卑。請別和他人比較，專注在自己達成的事情上。鼓起勇氣依照自己的步調過日子並全面肯定和接納努力活到現在的自己。」</p>
 </blockquote>
 <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>阿德勒是現代心理學的三大巨擘（與大名鼎鼎的佛洛依德和榮格齊名），同時也是個體心理學的創始人，奠定了現代諮商心理學的基礎。</p>
 <p>本書以<code>阿德勒</code>心理學為基礎，探討<code>自卑感</code>的成因、影響及轉化方式，幫助讀者理解自我價值，並鼓勵在焦慮與比較中找到自己的步調。書中透過 27 個案例與分析，引導我們將自卑感視為成長的動力，而非阻礙，並提供實際方法來面對人際關係、愛情、職場壓力等議題。本書適合正在迷惘、渴望突破自我的讀者，幫助他們學習如何接納不完美，並活出屬於自己的節奏與價值。</p>
