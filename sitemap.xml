@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.kdchang.cc/search/</loc>
-    
-    <lastmod>2025-02-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/tags/</loc>
     
     <lastmod>2025-02-07</lastmod>
@@ -16,21 +9,7 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/books/</loc>
-    
-    <lastmod>2025-02-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/05/22/llm-app-in-martech/</loc>
-    
-    <lastmod>2025-02-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/05/23/llm-langchain-notes/</loc>
+    <loc>https://www.kdchang.cc/search/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
@@ -44,14 +23,14 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/23/llm-rag-app-notes/</loc>
+    <loc>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</loc>
+    <loc>https://www.kdchang.cc/2024/05/23/llm-rag-app-notes/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
@@ -128,14 +107,14 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/</loc>
+    <loc>https://www.kdchang.cc/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</loc>
+    <loc>https://www.kdchang.cc/2016/06/04/sketch-prototyping-for-engineer/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
@@ -163,7 +142,7 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/</loc>
+    <loc>https://www.kdchang.cc/books/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
@@ -171,6 +150,13 @@
   
   <url>
     <loc>https://www.kdchang.cc/2024/05/22/about-llm-app-10-keywords/</loc>
+    
+    <lastmod>2025-02-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
@@ -185,6 +171,20 @@
   
   <url>
     <loc>https://www.kdchang.cc/2024/06/06/learning-notes-axure-rp-basic/</loc>
+    
+    <lastmod>2025-02-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/22/llm-app-in-martech/</loc>
+    
+    <lastmod>2025-02-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/23/llm-langchain-notes/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
@@ -350,26 +350,6 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/tags/RAG/</loc>
-    <lastmod>2025-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/Retrieval-Augmented-Generation/</loc>
-    <lastmod>2025-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/%E6%93%B7%E5%8F%96%E6%93%B4%E5%A2%9E%E7%94%A2%E7%94%9F/</loc>
-    <lastmod>2025-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/%E6%AA%A2%E7%B4%A2%E5%A2%9E%E5%BC%B7%E7%94%9F%E6%88%90/</loc>
-    <lastmod>2025-02-07</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/tags/Project-Manager/</loc>
     <lastmod>2025-02-07</lastmod>
   </url>
@@ -386,6 +366,26 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/PM/</loc>
+    <lastmod>2025-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/RAG/</loc>
+    <lastmod>2025-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/Retrieval-Augmented-Generation/</loc>
+    <lastmod>2025-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E6%93%B7%E5%8F%96%E6%93%B4%E5%A2%9E%E7%94%A2%E7%94%9F/</loc>
+    <lastmod>2025-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E6%AA%A2%E7%B4%A2%E5%A2%9E%E5%BC%B7%E7%94%9F%E6%88%90/</loc>
     <lastmod>2025-02-07</lastmod>
   </url>
   
@@ -605,21 +605,6 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/tags/SketchPrototyping/</loc>
-    <lastmod>2025-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/Wireframe/</loc>
-    <lastmod>2025-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/Mockup/</loc>
-    <lastmod>2025-02-07</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/tags/%E5%BF%83%E7%90%86%E5%AD%B8/</loc>
     <lastmod>2025-02-07</lastmod>
   </url>
@@ -656,6 +641,21 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E9%98%BF%E5%BE%B7%E5%8B%92%E5%BF%83%E7%90%86%E5%AD%B8/</loc>
+    <lastmod>2025-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/SketchPrototyping/</loc>
+    <lastmod>2025-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/Wireframe/</loc>
+    <lastmod>2025-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/Mockup/</loc>
     <lastmod>2025-02-07</lastmod>
   </url>
   

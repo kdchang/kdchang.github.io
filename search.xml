@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-app-10-keywords/</url>
+    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
+<ol>
+<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
+<li><strong>聊天機器人</strong>（Chatbots）</li>
+<li><strong>文字摘要</strong>（Text Summarization）</li>
+<li><strong>內容生成</strong>（Content Generation）</li>
+<li><strong>情感分析</strong>（Sentiment Analysis）</li>
+<li><strong>語音助手</strong>（Voice Assistants）</li>
+<li><strong>自動翻譯</strong>（Automatic Translation）</li>
+<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
+<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
+<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
+</ol>
+<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
     <url>/2024/05/22/about-llm-tech-10-keywords/</url>
     <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
@@ -20,33 +47,6 @@
 <h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
 <li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
 </ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-app-10-keywords/</url>
-    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
-<ol>
-<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
-<li><strong>聊天機器人</strong>（Chatbots）</li>
-<li><strong>文字摘要</strong>（Text Summarization）</li>
-<li><strong>內容生成</strong>（Content Generation）</li>
-<li><strong>情感分析</strong>（Sentiment Analysis）</li>
-<li><strong>語音助手</strong>（Voice Assistants）</li>
-<li><strong>自動翻譯</strong>（Automatic Translation）</li>
-<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
-<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
-<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
-</ol>
-<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
 ]]></content>
       <tags>
         <tag>生成式 AI</tag>
@@ -343,6 +343,97 @@
       </tags>
   </entry>
   <entry>
+    <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
+    <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
+    <content><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p>
+<h2 id="PM-新人入職-90-天"><a href="#PM-新人入職-90-天" class="headerlink" title="PM 新人入職 90 天"></a>PM 新人入職 90 天</h2><blockquote>
+<p>偉大和優秀的 PM 取決於你規劃和發表的產品是否偉大，是否有解決市場問題的能力。</p>
+</blockquote>
+<p>Product Manager 產品經理新人入職 90 天代表著是試用期，同時也是考驗著 PM 是否能融入公司和團隊的文化和工作流程並贏得其他同事的信任以及學習的黃金期。</p>
+<ol>
+<li>花點時間了解公司、團隊和文化</li>
+<li>了解你的產品和客戶</li>
+<li>符合別人對你角色的期望</li>
+<li>與主管和同事一起擬定你的入職計畫和時間表</li>
+<li>與主管和同事建立牢固的人際關係</li>
+<li>贏得聲望和認可</li>
+<li>把握新手時間多詢問</li>
+</ol>
+<h1 id="PM-技能樹"><a href="#PM-技能樹" class="headerlink" title="PM 技能樹"></a>PM 技能樹</h1><h2 id="一、產品技能"><a href="#一、產品技能" class="headerlink" title="一、產品技能"></a>一、產品技能</h2><h3 id="1-User-使用者見解和洞察"><a href="#1-User-使用者見解和洞察" class="headerlink" title="1. User 使用者見解和洞察"></a>1. User 使用者見解和洞察</h3><p>理解使用者需求，了解想要用產品來解決的問題。如何蒐集使用者資料並往下挖掘最佳見解。</p>
+<p>常見的概念與框架：</p>
+<p>(1) Jobs To Be Done（JTBD）待辦工作框架</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">當我 &lt;情況&gt; 時，我想要 &lt;動機&gt;。如此一來，我就可以 &lt;期待結果&gt;</span><br></pre></td></tr></table></figure>
+
+<p>(2) 客戶旅程（Customer Journey）：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">覺察（Awareness）、考慮（Consideration）、購買（Purchase）、持有（Retention）、推廣（Advocacy）</span><br></pre></td></tr></table></figure>
+
+<p>(3) 使用者故事 User Story：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">As a ______, I want to ______, so that ______.</span><br><span class="line">身為 ___&lt;使用者角色&gt;___，我需要 ___&lt;做某件事情&gt;___，因為 ___&lt;想解決某個問題&gt;___。</span><br></pre></td></tr></table></figure>
+
+<h3 id="2-Data-資料洞察見解和決策"><a href="#2-Data-資料洞察見解和決策" class="headerlink" title="2. Data 資料洞察見解和決策"></a>2. Data 資料洞察見解和決策</h3><p>如何審核資料、設定產品北極星（North Star）、分析資料並運資料做出更好的決策。同時檢視公司指標、A&#x2F;B 測試和統計資料並在產品上線後建立指標（metrics）進行監控（monitor）。</p>
+<h3 id="3-Analytics-分析性問題解決問題能力"><a href="#3-Analytics-分析性問題解決問題能力" class="headerlink" title="3. Analytics 分析性問題解決問題能力"></a>3. Analytics 分析性問題解決問題能力</h3><p>透過系統框架，幫助做出更好的決策，系統性分析並解決複雜的問題。</p>
+<h3 id="4-Design-產品設計與技能"><a href="#4-Design-產品設計與技能" class="headerlink" title="4. Design 產品設計與技能"></a>4. Design 產品設計與技能</h3><p>發展產品思維，以及推動產品決策的能力。學習 protoptype、Brainstorming 以及決定產品優先順序（Prioritization）。</p>
+<h3 id="5-Tech-技術技能"><a href="#5-Tech-技術技能" class="headerlink" title="5. Tech 技術技能"></a>5. Tech 技術技能</h3><p>學習如何與工程師合作，估計開發成本，技術專有名詞：API、部屬、SQL 和演算法。</p>
+<h3 id="6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件"><a href="#6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件" class="headerlink" title="6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件"></a>6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件</h3><p>學習如何撰寫 spec、BRD&#x2F;MRD&#x2F;PRD 等文件，將需求轉換成文件。</p>
+<h2 id="二、執行技能"><a href="#二、執行技能" class="headerlink" title="二、執行技能"></a>二、執行技能</h2><h3 id="1-Project-Management-專案管理技能"><a href="#1-Project-Management-專案管理技能" class="headerlink" title="1. Project Management 專案管理技能"></a>1. Project Management 專案管理技能</h3><p>如何規劃專案並讓它保持在正軌上，學習 Agile 敏捷開發、Lean、Scrum、Kanban，提高團隊的速度的最佳實踐。</p>
+<h3 id="2-界定範圍和漸進式開發"><a href="#2-界定範圍和漸進式開發" class="headerlink" title="2. 界定範圍和漸進式開發"></a>2. 界定範圍和漸進式開發</h3><p>如何將工作拆分為多個發行版本，從而更快速且更成功地發行（launch）。學習最簡單可行性產品（MVP），以及真正讓使用者使用的產品。</p>
+<h3 id="3-產品發表"><a href="#3-產品發表" class="headerlink" title="3. 產品發表"></a>3. 產品發表</h3><p>如何準備發表日，你將學習如何選擇發表日期並將發表檢查清單納入細節並討論各種發表策略。</p>
+<h3 id="4-把事情做完"><a href="#4-把事情做完" class="headerlink" title="4. 把事情做完"></a>4. 把事情做完</h3><p>管理時間和克服障礙，學習 4D 框架，以及如何與遠端團隊高效地工作。</p>
+<h2 id="三、策略技能"><a href="#三、策略技能" class="headerlink" title="三、策略技能"></a>三、策略技能</h2><h3 id="產品策略概述"><a href="#產品策略概述" class="headerlink" title="產品策略概述"></a>產品策略概述</h3><p>學習了解什麼是策略，以及策略的涵義。包含策略三元素和制定策略的框架。</p>
+<h3 id="願景"><a href="#願景" class="headerlink" title="願景"></a>願景</h3><p>如何為產品建立一個令人嚮往的願景。學習如何逆向工作框架，看看遠大的願景如何協助團隊成功。</p>
+<h3 id="策略框架"><a href="#策略框架" class="headerlink" title="策略框架"></a>策略框架</h3><p>學習將願景和市場連結起來，創造成功的產品。學習 4P、5C 和 Porter 五力分析等框架。</p>
+<h3 id="路線圖和優先順序"><a href="#路線圖和優先順序" class="headerlink" title="路線圖和優先順序"></a>路線圖和優先順序</h3><h3 id="團隊目標"><a href="#團隊目標" class="headerlink" title="團隊目標"></a>團隊目標</h3><p>建立有效目標來激勵團隊。學習 OKR 等指標以及設定目標。</p>
+<h2 id="四、領導技能"><a href="#四、領導技能" class="headerlink" title="四、領導技能"></a>四、領導技能</h2><h3 id="個人心態"><a href="#個人心態" class="headerlink" title="個人心態"></a>個人心態</h3><p>學習克服阻礙成為偉大 PM 的心理陷阱，我們將學習成長心態、成熟度、無我和冒牌者症候群。</p>
+<h3 id="協作"><a href="#協作" class="headerlink" title="協作"></a>協作</h3><p>學習如何和夥伴共事，我們將學習如何化解衝突、心理安全感和個性差異。</p>
+<h3 id="不動用權威的影響力"><a href="#不動用權威的影響力" class="headerlink" title="不動用權威的影響力"></a>不動用權威的影響力</h3><p>學習利害關係人管理以及如何推動決策。</p>
+<h3 id="溝通"><a href="#溝通" class="headerlink" title="溝通"></a>溝通</h3><p>學習如何書面對話、現場對話以及如何推動決策。</p>
+<h3 id="激勵與啟發"><a href="#激勵與啟發" class="headerlink" title="激勵與啟發"></a>激勵與啟發</h3><p>如何保持團隊積極度，學習內在動機和外在動機，以及在關鍵時刻該怎麼做。</p>
+<h3 id="所有權心態"><a href="#所有權心態" class="headerlink" title="所有權心態"></a>所有權心態</h3><p>學習如何為團隊和產品負全責。學習如何填補空白，並在產品團隊外做出貢獻。</p>
+<h3 id="輔導"><a href="#輔導" class="headerlink" title="輔導"></a>輔導</h3><p>教我們輔導他人。學習學徒制、支持學員以及給予回饋。</p>
+<h3 id="與其他部門的共事"><a href="#與其他部門的共事" class="headerlink" title="與其他部門的共事"></a>與其他部門的共事</h3><p>深入討論如何與設計師、工程師和高層共事，學習如何建立信任關係。</p>
+<h2 id="五、人事管理技能"><a href="#五、人事管理技能" class="headerlink" title="五、人事管理技能"></a>五、人事管理技能</h2><h3 id="成為人事經理"><a href="#成為人事經理" class="headerlink" title="成為人事經理"></a>成為人事經理</h3><p>將幫助你了解是否要進入管理層，如何邁出第一步，以及公司如何選擇新的經理。</p>
+<h3 id="PM-經理的新領導技能"><a href="#PM-經理的新領導技能" class="headerlink" title="PM 經理的新領導技能"></a>PM 經理的新領導技能</h3><p>如何成為領導團隊一員。負起責任、學習溝通。</p>
+<h3 id="教導和培養"><a href="#教導和培養" class="headerlink" title="教導和培養"></a>教導和培養</h3><p>學習如何幫助團隊成員成長和發展技能，學習個人發展計畫，指派專案和評估績效。</p>
+<h3 id="建立團隊"><a href="#建立團隊" class="headerlink" title="建立團隊"></a>建立團隊</h3><p>如何招募優秀的 PM，學習設計面試流程、說服吸引人選，如何尋找人選。</p>
+<h3 id="組織卓越"><a href="#組織卓越" class="headerlink" title="組織卓越"></a>組織卓越</h3><p>設計一個良好運作的產品組織，學習產品流程、團隊文化和組織設計。</p>
+<h1 id="常見-PM-技能"><a href="#常見-PM-技能" class="headerlink" title="常見 PM 技能"></a>常見 PM 技能</h1><ol>
+<li>Communication</li>
+<li>Execution</li>
+<li>Product sense</li>
+<li>Strategic thinking</li>
+<li>Collaboration</li>
+<li>Data acumen</li>
+<li>Technical</li>
+<li>Business acumen</li>
+<li>Raw intelligence</li>
+<li>Empathy</li>
+<li>Design&#x2F;UX</li>
+</ol>
+<h1 id="提升-Product-sense-方法"><a href="#提升-Product-sense-方法" class="headerlink" title="提升 Product sense 方法"></a>提升 Product sense 方法</h1><p>一、Observe People Interaction with Products<br>二、 Deconstructing Everyday product</p>
+<h1 id="市場推論"><a href="#市場推論" class="headerlink" title="市場推論"></a>市場推論</h1><p>費米推論的思考五步驟：「定義問題、思考解法、列出算式、計算檢果、檢驗數據」，當您面對無處著力的問題時，就可以借助這五個步驟，像剝洋蔥一般層層思考。學會這五個步驟，就能培養把大問題分解為小問題的「費米化」能力，不僅能提升職場的問題解決力，還會讓主管覺得你的簡報、數據很有道理。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
+<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
+<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
+<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
+<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
+<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>Project Manager</tag>
+        <tag>Program Manager</tag>
+        <tag>專案經理</tag>
+        <tag>PM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</title>
     <url>/2024/05/23/llm-rag-app-notes/</url>
     <content><![CDATA[<p>擷取擴增產生&#x2F;檢索增強生成（Retrieval-Augmented Generation, RAG）是一種結合檢索和生成技術的混合模型，用於改善文本生成任務的性能。這種方法能夠在生成文本時引入外部知識，從而生成更準確和上下文相關的內容。以下是對 RAG 的詳細介紹：</p>
@@ -435,97 +526,6 @@
         <tag>Retrieval-Augmented Generation</tag>
         <tag>擷取擴增產生</tag>
         <tag>檢索增強生成</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
-    <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
-    <content><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p>
-<h2 id="PM-新人入職-90-天"><a href="#PM-新人入職-90-天" class="headerlink" title="PM 新人入職 90 天"></a>PM 新人入職 90 天</h2><blockquote>
-<p>偉大和優秀的 PM 取決於你規劃和發表的產品是否偉大，是否有解決市場問題的能力。</p>
-</blockquote>
-<p>Product Manager 產品經理新人入職 90 天代表著是試用期，同時也是考驗著 PM 是否能融入公司和團隊的文化和工作流程並贏得其他同事的信任以及學習的黃金期。</p>
-<ol>
-<li>花點時間了解公司、團隊和文化</li>
-<li>了解你的產品和客戶</li>
-<li>符合別人對你角色的期望</li>
-<li>與主管和同事一起擬定你的入職計畫和時間表</li>
-<li>與主管和同事建立牢固的人際關係</li>
-<li>贏得聲望和認可</li>
-<li>把握新手時間多詢問</li>
-</ol>
-<h1 id="PM-技能樹"><a href="#PM-技能樹" class="headerlink" title="PM 技能樹"></a>PM 技能樹</h1><h2 id="一、產品技能"><a href="#一、產品技能" class="headerlink" title="一、產品技能"></a>一、產品技能</h2><h3 id="1-User-使用者見解和洞察"><a href="#1-User-使用者見解和洞察" class="headerlink" title="1. User 使用者見解和洞察"></a>1. User 使用者見解和洞察</h3><p>理解使用者需求，了解想要用產品來解決的問題。如何蒐集使用者資料並往下挖掘最佳見解。</p>
-<p>常見的概念與框架：</p>
-<p>(1) Jobs To Be Done（JTBD）待辦工作框架</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">當我 &lt;情況&gt; 時，我想要 &lt;動機&gt;。如此一來，我就可以 &lt;期待結果&gt;</span><br></pre></td></tr></table></figure>
-
-<p>(2) 客戶旅程（Customer Journey）：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">覺察（Awareness）、考慮（Consideration）、購買（Purchase）、持有（Retention）、推廣（Advocacy）</span><br></pre></td></tr></table></figure>
-
-<p>(3) 使用者故事 User Story：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">As a ______, I want to ______, so that ______.</span><br><span class="line">身為 ___&lt;使用者角色&gt;___，我需要 ___&lt;做某件事情&gt;___，因為 ___&lt;想解決某個問題&gt;___。</span><br></pre></td></tr></table></figure>
-
-<h3 id="2-Data-資料洞察見解和決策"><a href="#2-Data-資料洞察見解和決策" class="headerlink" title="2. Data 資料洞察見解和決策"></a>2. Data 資料洞察見解和決策</h3><p>如何審核資料、設定產品北極星（North Star）、分析資料並運資料做出更好的決策。同時檢視公司指標、A&#x2F;B 測試和統計資料並在產品上線後建立指標（metrics）進行監控（monitor）。</p>
-<h3 id="3-Analytics-分析性問題解決問題能力"><a href="#3-Analytics-分析性問題解決問題能力" class="headerlink" title="3. Analytics 分析性問題解決問題能力"></a>3. Analytics 分析性問題解決問題能力</h3><p>透過系統框架，幫助做出更好的決策，系統性分析並解決複雜的問題。</p>
-<h3 id="4-Design-產品設計與技能"><a href="#4-Design-產品設計與技能" class="headerlink" title="4. Design 產品設計與技能"></a>4. Design 產品設計與技能</h3><p>發展產品思維，以及推動產品決策的能力。學習 protoptype、Brainstorming 以及決定產品優先順序（Prioritization）。</p>
-<h3 id="5-Tech-技術技能"><a href="#5-Tech-技術技能" class="headerlink" title="5. Tech 技術技能"></a>5. Tech 技術技能</h3><p>學習如何與工程師合作，估計開發成本，技術專有名詞：API、部屬、SQL 和演算法。</p>
-<h3 id="6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件"><a href="#6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件" class="headerlink" title="6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件"></a>6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件</h3><p>學習如何撰寫 spec、BRD&#x2F;MRD&#x2F;PRD 等文件，將需求轉換成文件。</p>
-<h2 id="二、執行技能"><a href="#二、執行技能" class="headerlink" title="二、執行技能"></a>二、執行技能</h2><h3 id="1-Project-Management-專案管理技能"><a href="#1-Project-Management-專案管理技能" class="headerlink" title="1. Project Management 專案管理技能"></a>1. Project Management 專案管理技能</h3><p>如何規劃專案並讓它保持在正軌上，學習 Agile 敏捷開發、Lean、Scrum、Kanban，提高團隊的速度的最佳實踐。</p>
-<h3 id="2-界定範圍和漸進式開發"><a href="#2-界定範圍和漸進式開發" class="headerlink" title="2. 界定範圍和漸進式開發"></a>2. 界定範圍和漸進式開發</h3><p>如何將工作拆分為多個發行版本，從而更快速且更成功地發行（launch）。學習最簡單可行性產品（MVP），以及真正讓使用者使用的產品。</p>
-<h3 id="3-產品發表"><a href="#3-產品發表" class="headerlink" title="3. 產品發表"></a>3. 產品發表</h3><p>如何準備發表日，你將學習如何選擇發表日期並將發表檢查清單納入細節並討論各種發表策略。</p>
-<h3 id="4-把事情做完"><a href="#4-把事情做完" class="headerlink" title="4. 把事情做完"></a>4. 把事情做完</h3><p>管理時間和克服障礙，學習 4D 框架，以及如何與遠端團隊高效地工作。</p>
-<h2 id="三、策略技能"><a href="#三、策略技能" class="headerlink" title="三、策略技能"></a>三、策略技能</h2><h3 id="產品策略概述"><a href="#產品策略概述" class="headerlink" title="產品策略概述"></a>產品策略概述</h3><p>學習了解什麼是策略，以及策略的涵義。包含策略三元素和制定策略的框架。</p>
-<h3 id="願景"><a href="#願景" class="headerlink" title="願景"></a>願景</h3><p>如何為產品建立一個令人嚮往的願景。學習如何逆向工作框架，看看遠大的願景如何協助團隊成功。</p>
-<h3 id="策略框架"><a href="#策略框架" class="headerlink" title="策略框架"></a>策略框架</h3><p>學習將願景和市場連結起來，創造成功的產品。學習 4P、5C 和 Porter 五力分析等框架。</p>
-<h3 id="路線圖和優先順序"><a href="#路線圖和優先順序" class="headerlink" title="路線圖和優先順序"></a>路線圖和優先順序</h3><h3 id="團隊目標"><a href="#團隊目標" class="headerlink" title="團隊目標"></a>團隊目標</h3><p>建立有效目標來激勵團隊。學習 OKR 等指標以及設定目標。</p>
-<h2 id="四、領導技能"><a href="#四、領導技能" class="headerlink" title="四、領導技能"></a>四、領導技能</h2><h3 id="個人心態"><a href="#個人心態" class="headerlink" title="個人心態"></a>個人心態</h3><p>學習克服阻礙成為偉大 PM 的心理陷阱，我們將學習成長心態、成熟度、無我和冒牌者症候群。</p>
-<h3 id="協作"><a href="#協作" class="headerlink" title="協作"></a>協作</h3><p>學習如何和夥伴共事，我們將學習如何化解衝突、心理安全感和個性差異。</p>
-<h3 id="不動用權威的影響力"><a href="#不動用權威的影響力" class="headerlink" title="不動用權威的影響力"></a>不動用權威的影響力</h3><p>學習利害關係人管理以及如何推動決策。</p>
-<h3 id="溝通"><a href="#溝通" class="headerlink" title="溝通"></a>溝通</h3><p>學習如何書面對話、現場對話以及如何推動決策。</p>
-<h3 id="激勵與啟發"><a href="#激勵與啟發" class="headerlink" title="激勵與啟發"></a>激勵與啟發</h3><p>如何保持團隊積極度，學習內在動機和外在動機，以及在關鍵時刻該怎麼做。</p>
-<h3 id="所有權心態"><a href="#所有權心態" class="headerlink" title="所有權心態"></a>所有權心態</h3><p>學習如何為團隊和產品負全責。學習如何填補空白，並在產品團隊外做出貢獻。</p>
-<h3 id="輔導"><a href="#輔導" class="headerlink" title="輔導"></a>輔導</h3><p>教我們輔導他人。學習學徒制、支持學員以及給予回饋。</p>
-<h3 id="與其他部門的共事"><a href="#與其他部門的共事" class="headerlink" title="與其他部門的共事"></a>與其他部門的共事</h3><p>深入討論如何與設計師、工程師和高層共事，學習如何建立信任關係。</p>
-<h2 id="五、人事管理技能"><a href="#五、人事管理技能" class="headerlink" title="五、人事管理技能"></a>五、人事管理技能</h2><h3 id="成為人事經理"><a href="#成為人事經理" class="headerlink" title="成為人事經理"></a>成為人事經理</h3><p>將幫助你了解是否要進入管理層，如何邁出第一步，以及公司如何選擇新的經理。</p>
-<h3 id="PM-經理的新領導技能"><a href="#PM-經理的新領導技能" class="headerlink" title="PM 經理的新領導技能"></a>PM 經理的新領導技能</h3><p>如何成為領導團隊一員。負起責任、學習溝通。</p>
-<h3 id="教導和培養"><a href="#教導和培養" class="headerlink" title="教導和培養"></a>教導和培養</h3><p>學習如何幫助團隊成員成長和發展技能，學習個人發展計畫，指派專案和評估績效。</p>
-<h3 id="建立團隊"><a href="#建立團隊" class="headerlink" title="建立團隊"></a>建立團隊</h3><p>如何招募優秀的 PM，學習設計面試流程、說服吸引人選，如何尋找人選。</p>
-<h3 id="組織卓越"><a href="#組織卓越" class="headerlink" title="組織卓越"></a>組織卓越</h3><p>設計一個良好運作的產品組織，學習產品流程、團隊文化和組織設計。</p>
-<h1 id="常見-PM-技能"><a href="#常見-PM-技能" class="headerlink" title="常見 PM 技能"></a>常見 PM 技能</h1><ol>
-<li>Communication</li>
-<li>Execution</li>
-<li>Product sense</li>
-<li>Strategic thinking</li>
-<li>Collaboration</li>
-<li>Data acumen</li>
-<li>Technical</li>
-<li>Business acumen</li>
-<li>Raw intelligence</li>
-<li>Empathy</li>
-<li>Design&#x2F;UX</li>
-</ol>
-<h1 id="提升-Product-sense-方法"><a href="#提升-Product-sense-方法" class="headerlink" title="提升 Product sense 方法"></a>提升 Product sense 方法</h1><p>一、Observe People Interaction with Products<br>二、 Deconstructing Everyday product</p>
-<h1 id="市場推論"><a href="#市場推論" class="headerlink" title="市場推論"></a>市場推論</h1><p>費米推論的思考五步驟：「定義問題、思考解法、列出算式、計算檢果、檢驗數據」，當您面對無處著力的問題時，就可以借助這五個步驟，像剝洋蔥一般層層思考。學會這五個步驟，就能培養把大問題分解為小問題的「費米化」能力，不僅能提升職場的問題解決力，還會讓主管覺得你的簡報、數據很有道理。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
-<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
-<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
-<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
-<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
-<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>Project Manager</tag>
-        <tag>Program Manager</tag>
-        <tag>專案經理</tag>
-        <tag>PM</tag>
       </tags>
   </entry>
   <entry>
@@ -978,67 +978,6 @@
       </tags>
   </entry>
   <entry>
-    <title>給工程師的 Sketch Prototyping 簡易入門教學</title>
-    <url>/2016/06/04/sketch-prototyping-for-engineer/</url>
-    <content><![CDATA[<p><img src="/img/posts/sketchapp.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><a href="http://www.sketchapp.com/">Sketch</a> 是近來非常火紅的輕量級 UI 設計工具，簡易好上手的設計讓許多設計師紛紛從 PS 和以拉等其他工具跳槽過來，整個 Sketch 生態系也蓬勃發展。雖然筆者本業是工程師，但前陣子趁著買 Flinto （可以很輕易將 Sketch 的靜態頁面轉成 Prototype）送 Sketch 的行銷活動時同時入手了這兩套設計工具（雖然我把它當成買 Sketch 送 Flinto 啦：P），因此藉著機會分享一下給工程師的 Sketch Prototyping 簡易入門教學。當然有些讀者會疑惑：工程師學 Sketch 是要設計師搶飯碗嗎？（事實上很難啦）</p>
-<p>一般來說，在整個產品開發的過程當中，工程師和設計師的愛恨情仇已經可以編成好幾檔連續劇了，然而溝通不良的原因除了設計流程的問題外，有很大一部分是因為對於彼此的世界不了解（一個住火星，一個住土星？）。因此工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本，從此相親相愛了呢！而天賦異秉的人甚至有機會成為新創團隊人見人愛的超全端工程師（super full-stack<br>engineer）獨角獸，集設計、前後端、行動端、行銷業務技能於一身（咦）？好啦，言歸正傳，接下來就讓我們好好了解 Sketch 這個好用工具吧！</p>
-<p><img src="/img/posts/sketch-ui-kit.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="Sketch-基本介紹"><a href="#Sketch-基本介紹" class="headerlink" title="Sketch 基本介紹"></a>Sketch 基本介紹</h2><p>Sketch 是一個 Mac 上的輕量級介面設計工具。2010 年由荷蘭公司 Bohemian Coding 所創建，目前提供 30 天試用版，正式版 99 鎂（教育價5折優惠），不過目前只有提供 Mac 版本，所以只能先跟使用其他作業系統的朋友說聲 Sorry 啦！</p>
-<p>究竟 Sketch 有哪些優點，讓許多設計師因此琵琶別抱呢？</p>
-<h3 id="Sketch-優點"><a href="#Sketch-優點" class="headerlink" title="Sketch 優點"></a>Sketch 優點</h3><ol>
-<li>活躍的第三方套件生態系！</li>
-<li>專為 UI 設計而生（Artboard 設計可以方便 UI 設計） </li>
-<li>輕量級，簡單好上手（工程師 OS：就像 Sublime 之於 Eclipse）</li>
-<li>內建和可擴充的豐富 UI 模版（iOS、Material Design 等）</li>
-<li>搭配 <a href="https://www.flinto.com/">Flinto</a>、<a href="https://zeplin.io/">Zeplin</a> 可讓工程師更開心，設計師提早下班</li>
-<li>可以取代大部分 PS、以拉、Fireworks 等功能</li>
-<li>知名網路、科技公司都在用</li>
-</ol>
-<p>看完了 Sketch 優點，相信讀者們一定摩拳擦掌準備牛刀小試啦！</p>
-<h2 id="使用-Sketch-設計-Mobile-App-UI"><a href="#使用-Sketch-設計-Mobile-App-UI" class="headerlink" title="使用 Sketch 設計 Mobile App UI"></a>使用 Sketch 設計 Mobile App UI</h2><p>一般設計流程我們通常會有以下三種階段：</p>
-<ol>
-<li>Wireframe（線框圖）<br>保真度低（low fidelity ）、修改成本低。適合初期討論產品架構和基本功能。通常使用紙筆手繪，但建議於完成後電子化</li>
-<li>Mockup（視覺稿）<br>保真度中（middle fidelity ）、修改成本中。於 Mockup 階段著重於整體視覺、排版的靜態討論和確認，而 Sketch 主要會是在 Mockup 階段進行設計</li>
-<li>Prototype（原型）<br>保真度高（high fidelity ），接近最終產品、修改成本高。確認互動設計的流程並確認架構和視覺規劃是否有需要調整之處</li>
-</ol>
-<p>先介紹一下 Sketch 工作空間，左邊是圖層區，右邊是屬性、中間是工作區、上面是工具欄：</p>
-<p><img src="/img/posts/sketch-0.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>工具欄可以點擊右鍵自定義：</p>
-<p><img src="/img/posts/sketch-0-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>由於 UI 設計是 Sketch 主要的強項（尤其是行動端），在 Sketch 中 Artboard 是基礎的設計單元（成果展示區域），我們可以在一個 Page 中定義多個 Artboard。根據 Sketch 的設計，我們可以一次瀏覽多個 Artboard（也可說是多個介面），這樣可以更清楚整個設計 flow ，這是 Sketch 蠻大的一個優點（一覽眾山小？）。</p>
-<p>現在，我們終於開始設計我們的新 App UI 啦！首先，我們透過左上方的新增按鈕新增了一個 Artboard ，並選擇了 iPhone6 當做設計基底（有 iPhone、Android、RWD等可以選）。接下來我們要打開在 Sketch 中內建的元件模版，iOS 和 Material Design、icon設計等（網路上也有很多網友提供自己的設計可以下載），這邊因為是使用 iPhone6 的 Artboard，因此我們打開 iOS 元件模版。</p>
-<p><img src="/img/posts/sketch-7.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/sketch-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/sketch-2.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>接下來進行複製貼上大法！將元件複製到 Artboard 上就可以了！現在小工程師也可以設計簡單的 UI 啦！可以透過右上角工具預覽或是分享的方式看到成果！</p>
-<p><img src="/img/posts/sketch-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="從-Mockup-到-Prototype"><a href="#從-Mockup-到-Prototype" class="headerlink" title="從 Mockup 到 Prototype"></a>從 Mockup 到 Prototype</h2><p><img src="/img/posts/sketch-flinto.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"><br>透過 Sketch 設計完成靜態檔案，若我們想將靜態檔案轉成 Prototype 進行使用者測試，我們可以使用 Flinto 好工具！透過簡單的連結就可以讓你的 Sketch 動起來啦（目前支援了簡單的手勢和動畫）！</p>
-<p><img src="/img/posts/flinto-3.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/flinto-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/flinto-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>以上就是給工程師的 Sketch Prototyping 簡易入門教學。事實上透過整合 <a href="https://zeplin.io/">Zeplin</a>（可以方便註解和查詢設計相對位置和色碼）、<a href="https://www.invisionapp.com/">Invision</a>（支援變更記錄，可以當做版本控管使用）等工具進行協作，還可以更加加快整個產品設計流程。透過前期的完善溝通討論，不但可以降低後續的溝通成本更可以讓完成的產品更接近最初的設計，更重要的是讓工程師和設計師的感情更好了！若你對於 Sketch 有興趣可以<a href="http://slides.com/kd-chang/sketch-prototyping-for-engineer">參考這份投影片</a>有更完整的教學介紹。另外也可以參考<a href="http://www.sketchapp.com/learn/">官方教學影片</a>。最後再次強調工程師學 Sketch 並非要去搶設計師搶飯碗。而是工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本。同理也建議設計師們可以去試著學一些簡單的程式語言基礎概念。筆者才疏學淺，若讀者有任何學習心得也歡迎分享交流：）</p>
-<p><img src="/img/posts/sketch-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="常用外掛"><a href="#常用外掛" class="headerlink" title="常用外掛"></a>常用外掛</h2><ol start="0">
-<li><a href="http://sketchtoolbox.com/">外掛管理工具 Sketch Toolbox</a></li>
-<li>Notebook 註解好幫手</li>
-<li>Sketch Flinto 從 Mockup 到 Prototype</li>
-<li>Content Generator Sketch Plugin 生成假資料</li>
-<li>Sketch Measure 測量位置、大小</li>
-<li>Icon Stamper 簡單生成不同大小 icon</li>
-</ol>
-<h2 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h2><ol>
-<li><a href="http://www.sketchcn.com/">Sketch 簡體中文教學</a></li>
-<li><a href="http://www.sketchchina.com/">Sketch 問答</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>SketchPrototyping</tag>
-        <tag>Wireframe</tag>
-        <tag>Mockup</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》| 閱讀學習心得筆記</title>
     <url>/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-1.jpg"></p>
@@ -1100,6 +1039,67 @@
         <tag>自卑感</tag>
         <tag>自卑與超越</tag>
         <tag>阿德勒心理學</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>給工程師的 Sketch Prototyping 簡易入門教學</title>
+    <url>/2016/06/04/sketch-prototyping-for-engineer/</url>
+    <content><![CDATA[<p><img src="/img/posts/sketchapp.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><a href="http://www.sketchapp.com/">Sketch</a> 是近來非常火紅的輕量級 UI 設計工具，簡易好上手的設計讓許多設計師紛紛從 PS 和以拉等其他工具跳槽過來，整個 Sketch 生態系也蓬勃發展。雖然筆者本業是工程師，但前陣子趁著買 Flinto （可以很輕易將 Sketch 的靜態頁面轉成 Prototype）送 Sketch 的行銷活動時同時入手了這兩套設計工具（雖然我把它當成買 Sketch 送 Flinto 啦：P），因此藉著機會分享一下給工程師的 Sketch Prototyping 簡易入門教學。當然有些讀者會疑惑：工程師學 Sketch 是要設計師搶飯碗嗎？（事實上很難啦）</p>
+<p>一般來說，在整個產品開發的過程當中，工程師和設計師的愛恨情仇已經可以編成好幾檔連續劇了，然而溝通不良的原因除了設計流程的問題外，有很大一部分是因為對於彼此的世界不了解（一個住火星，一個住土星？）。因此工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本，從此相親相愛了呢！而天賦異秉的人甚至有機會成為新創團隊人見人愛的超全端工程師（super full-stack<br>engineer）獨角獸，集設計、前後端、行動端、行銷業務技能於一身（咦）？好啦，言歸正傳，接下來就讓我們好好了解 Sketch 這個好用工具吧！</p>
+<p><img src="/img/posts/sketch-ui-kit.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="Sketch-基本介紹"><a href="#Sketch-基本介紹" class="headerlink" title="Sketch 基本介紹"></a>Sketch 基本介紹</h2><p>Sketch 是一個 Mac 上的輕量級介面設計工具。2010 年由荷蘭公司 Bohemian Coding 所創建，目前提供 30 天試用版，正式版 99 鎂（教育價5折優惠），不過目前只有提供 Mac 版本，所以只能先跟使用其他作業系統的朋友說聲 Sorry 啦！</p>
+<p>究竟 Sketch 有哪些優點，讓許多設計師因此琵琶別抱呢？</p>
+<h3 id="Sketch-優點"><a href="#Sketch-優點" class="headerlink" title="Sketch 優點"></a>Sketch 優點</h3><ol>
+<li>活躍的第三方套件生態系！</li>
+<li>專為 UI 設計而生（Artboard 設計可以方便 UI 設計） </li>
+<li>輕量級，簡單好上手（工程師 OS：就像 Sublime 之於 Eclipse）</li>
+<li>內建和可擴充的豐富 UI 模版（iOS、Material Design 等）</li>
+<li>搭配 <a href="https://www.flinto.com/">Flinto</a>、<a href="https://zeplin.io/">Zeplin</a> 可讓工程師更開心，設計師提早下班</li>
+<li>可以取代大部分 PS、以拉、Fireworks 等功能</li>
+<li>知名網路、科技公司都在用</li>
+</ol>
+<p>看完了 Sketch 優點，相信讀者們一定摩拳擦掌準備牛刀小試啦！</p>
+<h2 id="使用-Sketch-設計-Mobile-App-UI"><a href="#使用-Sketch-設計-Mobile-App-UI" class="headerlink" title="使用 Sketch 設計 Mobile App UI"></a>使用 Sketch 設計 Mobile App UI</h2><p>一般設計流程我們通常會有以下三種階段：</p>
+<ol>
+<li>Wireframe（線框圖）<br>保真度低（low fidelity ）、修改成本低。適合初期討論產品架構和基本功能。通常使用紙筆手繪，但建議於完成後電子化</li>
+<li>Mockup（視覺稿）<br>保真度中（middle fidelity ）、修改成本中。於 Mockup 階段著重於整體視覺、排版的靜態討論和確認，而 Sketch 主要會是在 Mockup 階段進行設計</li>
+<li>Prototype（原型）<br>保真度高（high fidelity ），接近最終產品、修改成本高。確認互動設計的流程並確認架構和視覺規劃是否有需要調整之處</li>
+</ol>
+<p>先介紹一下 Sketch 工作空間，左邊是圖層區，右邊是屬性、中間是工作區、上面是工具欄：</p>
+<p><img src="/img/posts/sketch-0.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>工具欄可以點擊右鍵自定義：</p>
+<p><img src="/img/posts/sketch-0-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>由於 UI 設計是 Sketch 主要的強項（尤其是行動端），在 Sketch 中 Artboard 是基礎的設計單元（成果展示區域），我們可以在一個 Page 中定義多個 Artboard。根據 Sketch 的設計，我們可以一次瀏覽多個 Artboard（也可說是多個介面），這樣可以更清楚整個設計 flow ，這是 Sketch 蠻大的一個優點（一覽眾山小？）。</p>
+<p>現在，我們終於開始設計我們的新 App UI 啦！首先，我們透過左上方的新增按鈕新增了一個 Artboard ，並選擇了 iPhone6 當做設計基底（有 iPhone、Android、RWD等可以選）。接下來我們要打開在 Sketch 中內建的元件模版，iOS 和 Material Design、icon設計等（網路上也有很多網友提供自己的設計可以下載），這邊因為是使用 iPhone6 的 Artboard，因此我們打開 iOS 元件模版。</p>
+<p><img src="/img/posts/sketch-7.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/sketch-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/sketch-2.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>接下來進行複製貼上大法！將元件複製到 Artboard 上就可以了！現在小工程師也可以設計簡單的 UI 啦！可以透過右上角工具預覽或是分享的方式看到成果！</p>
+<p><img src="/img/posts/sketch-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="從-Mockup-到-Prototype"><a href="#從-Mockup-到-Prototype" class="headerlink" title="從 Mockup 到 Prototype"></a>從 Mockup 到 Prototype</h2><p><img src="/img/posts/sketch-flinto.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"><br>透過 Sketch 設計完成靜態檔案，若我們想將靜態檔案轉成 Prototype 進行使用者測試，我們可以使用 Flinto 好工具！透過簡單的連結就可以讓你的 Sketch 動起來啦（目前支援了簡單的手勢和動畫）！</p>
+<p><img src="/img/posts/flinto-3.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/flinto-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/flinto-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>以上就是給工程師的 Sketch Prototyping 簡易入門教學。事實上透過整合 <a href="https://zeplin.io/">Zeplin</a>（可以方便註解和查詢設計相對位置和色碼）、<a href="https://www.invisionapp.com/">Invision</a>（支援變更記錄，可以當做版本控管使用）等工具進行協作，還可以更加加快整個產品設計流程。透過前期的完善溝通討論，不但可以降低後續的溝通成本更可以讓完成的產品更接近最初的設計，更重要的是讓工程師和設計師的感情更好了！若你對於 Sketch 有興趣可以<a href="http://slides.com/kd-chang/sketch-prototyping-for-engineer">參考這份投影片</a>有更完整的教學介紹。另外也可以參考<a href="http://www.sketchapp.com/learn/">官方教學影片</a>。最後再次強調工程師學 Sketch 並非要去搶設計師搶飯碗。而是工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本。同理也建議設計師們可以去試著學一些簡單的程式語言基礎概念。筆者才疏學淺，若讀者有任何學習心得也歡迎分享交流：）</p>
+<p><img src="/img/posts/sketch-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="常用外掛"><a href="#常用外掛" class="headerlink" title="常用外掛"></a>常用外掛</h2><ol start="0">
+<li><a href="http://sketchtoolbox.com/">外掛管理工具 Sketch Toolbox</a></li>
+<li>Notebook 註解好幫手</li>
+<li>Sketch Flinto 從 Mockup 到 Prototype</li>
+<li>Content Generator Sketch Plugin 生成假資料</li>
+<li>Sketch Measure 測量位置、大小</li>
+<li>Icon Stamper 簡單生成不同大小 icon</li>
+</ol>
+<h2 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h2><ol>
+<li><a href="http://www.sketchcn.com/">Sketch 簡體中文教學</a></li>
+<li><a href="http://www.sketchchina.com/">Sketch 問答</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>SketchPrototyping</tag>
+        <tag>Wireframe</tag>
+        <tag>Mockup</tag>
       </tags>
   </entry>
   <entry>
