@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.kdchang.cc/tags/</loc>
+    
+    <lastmod>2025-02-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.kdchang.cc/search/</loc>
     
     <lastmod>2025-02-07</lastmod>
@@ -9,7 +16,7 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/tags/</loc>
+    <loc>https://www.kdchang.cc/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
@@ -37,14 +44,14 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/books/</loc>
+    <loc>https://www.kdchang.cc/about/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/about/</loc>
+    <loc>https://www.kdchang.cc/books/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
@@ -107,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/06/03/product-manager-course-list/</loc>
+    <loc>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</loc>
+    <loc>https://www.kdchang.cc/2024/06/03/product-manager-course-list/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
@@ -170,14 +177,14 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</loc>
+    <loc>https://www.kdchang.cc/2024/12/06/reading-notes-walking-around-old-shops-in-tainan/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</loc>
+    <loc>https://www.kdchang.cc/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</loc>
     
     <lastmod>2025-02-07</lastmod>
     
@@ -363,6 +370,26 @@
   </url>
   
   <url>
+    <loc>https://www.kdchang.cc/tags/Project-Manager/</loc>
+    <lastmod>2025-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/Program-Manager/</loc>
+    <lastmod>2025-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86/</loc>
+    <lastmod>2025-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/PM/</loc>
+    <lastmod>2025-02-07</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E5%B0%88%E6%A1%88%E5%85%A8%E6%9B%B8/</loc>
     <lastmod>2025-02-07</lastmod>
   </url>
@@ -394,26 +421,6 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/%E7%B7%9A%E4%B8%8A%E8%AA%B2%E7%A8%8B/</loc>
-    <lastmod>2025-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/PM/</loc>
-    <lastmod>2025-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/Project-Manager/</loc>
-    <lastmod>2025-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/Program-Manager/</loc>
-    <lastmod>2025-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86/</loc>
     <lastmod>2025-02-07</lastmod>
   </url>
   
@@ -579,6 +586,16 @@
   
   <url>
     <loc>https://www.kdchang.cc/tags/agile-coach/</loc>
+    <lastmod>2025-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E5%9B%9E%E5%91%B3%E6%9C%AC%E7%94%BA%E6%91%A9%E7%99%BB%E8%80%81%E6%99%82%E5%85%89/</loc>
+    <lastmod>2025-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E5%8F%B0%E5%8D%97%E8%80%81%E5%BA%97%E6%95%A3%E6%AD%A5/</loc>
     <lastmod>2025-02-07</lastmod>
   </url>
   
