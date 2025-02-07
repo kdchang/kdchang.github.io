@@ -6,7 +6,6 @@ description: "Reading list collections."
 ---
 
 # 閱讀筆記清單
-
 以下是 KD 整理覺得內容不錯的推薦好書和推薦書單，整理分享給大家！也歡迎留言分享你推薦的好書喔：）
 
 ## 個人成長
