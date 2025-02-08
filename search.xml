@@ -58,6 +58,50 @@
       </tags>
   </entry>
   <entry>
+    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
+    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
+    <content><![CDATA[<blockquote>
+<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
+<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
+<p>Axure RP 主要有幾個常用的功能區塊：</p>
+<ol>
+<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
+<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
+<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
+<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
+<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
+</ol>
+<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
+<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
+<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
+<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
+<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
+<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
+<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
+<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
+<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
+<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
+<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
+<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
+<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
+<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
+<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>產品專案管理</tag>
+        <tag>產品管理</tag>
+        <tag>專案管理</tag>
+        <tag>Axure RP 10</tag>
+        <tag>axure</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>財報分析入門筆記</title>
     <url>/2017/06/30/financial-statements-analysis-introduction/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>財務報表是一家公司的體質檢查表，透過財務報表可以了解這家公司的財務狀況和營運狀況，也就是說可以透過財務報表去一窺公司的身體健康是否硬朗或是漸漸亮起紅燈。許多人以為財務報表晦澀難懂，只有經營者、會計師或是財務分析師才需要了解。事實上，財務報表的觀念並不難懂，不管是投資大眾甚至是公司員工應該都要對自己投資和工作的公司要有所掌握，一般投資人若能了解財報就有機會從中挖掘被低估的優質股票進而獲取相對報酬（賺錢），而一般員工若能掌握財報資訊，更能全面性了解公司營運狀況和未來發展方向，為自己的職涯加分。</p>
@@ -154,50 +198,6 @@
         <tag>Cash flow statement</tag>
         <tag>finance</tag>
         <tag>財務</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
-    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
-    <content><![CDATA[<blockquote>
-<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
-<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
-<p>Axure RP 主要有幾個常用的功能區塊：</p>
-<ol>
-<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
-<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
-<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
-<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
-<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
-</ol>
-<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
-<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
-<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
-<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
-<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
-<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
-<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
-<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
-<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
-<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
-<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
-<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
-<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
-<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
-<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
-        <tag>Axure RP 10</tag>
-        <tag>axure</tag>
       </tags>
   </entry>
   <entry>
@@ -880,6 +880,55 @@
       </tags>
   </entry>
   <entry>
+    <title>《台南老店散步：回味本町摩登老時光(新版)》 | 閱讀學習心得筆記</title>
+    <url>/2024/12/06/reading-notes-walking-around-old-shops-in-tainan/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-around-old-shops-in-tainan-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《台南老店散步：回味本町摩登老時光(新版)》</span><br><span class="line">作者： 陳貴芳(鱷魚)  </span><br><span class="line">出版社：馬可孛羅 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「歷史不只存在於書本裡，更藏在街角老店的每一道門檻之間。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>台南是台灣歷史最悠久的城市之一，而本町大街（今民權路與新美街）更是府城最繁華的老街。陳貴芳（鱷魚）透過細膩的手繪插畫與深入的故事挖掘，帶領讀者走進這些屹立百年的老店，體驗台南人的生活原味。</p>
+<p><img src="/img/posts/reading-notes-walking-around-old-shops-in-tainan-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>本町的歷史演變</strong></p>
+<ul>
+<li>由荷治時期「<code>普羅民遮街</code>」發展至清領、日本時代及光復後，長久以來皆為台南最重要的商業街。</li>
+<li>經歷時代變遷，<code>老店</code>與<code>職人</code>仍堅守傳統技藝。</li>
+</ul>
+</li>
+<li><p><strong>45 家老店的故事</strong></p>
+<ul>
+<li>特色飲食：<code>石精臼牛肉湯</code>、<code>武廟炭烤三明治</code>、<code>合成帆布行</code>等。</li>
+<li>傳統手工技藝：<code>魏俊邦雕刻研究社</code>、<code>明章榻榻米</code>、<code>左藤紙藝</code>。</li>
+<li>文化地標：<code>全美戲院</code>、<code>新建國戲院</code>、<code>台南公會堂</code>。</li>
+</ul>
+</li>
+<li><p><strong>手繪記錄老街風貌</strong></p>
+<ul>
+<li>作者以 144 張手繪插圖呈現府城老街的景物、人物與店鋪。</li>
+<li>透過視覺導覽，讓讀者身臨其境，感受老台南的生活韻味。</li>
+</ul>
+</li>
+<li><p><strong>文化與傳承的重要性</strong></p>
+<ul>
+<li>這些老店不僅販售商品，更承載著台南人的歷史與回憶。</li>
+<li>在現代化衝擊下，保存這些文化資產尤顯珍貴。</li>
+</ul>
+</li>
+</ol>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《台南最多老店的本町大街》不僅是一部台南老街的歷史紀錄，更是一本充滿溫度的文化之書。透過這些店鋪與職人的故事，我們得以見證台南數百年來的繁華變遷，也體會到傳統技藝的價值與珍貴。這本書適合所有喜愛台南、文化歷史與手繪藝術的讀者。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀學習心得筆記</tag>
+        <tag>回味本町摩登老時光</tag>
+        <tag>台南老店散步</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》 | 閱讀學習心得筆記</title>
     <url>/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg"></p>
@@ -929,52 +978,64 @@
       </tags>
   </entry>
   <entry>
-    <title>《台南老店散步：回味本町摩登老時光(新版)》 | 閱讀學習心得筆記</title>
-    <url>/2024/12/06/reading-notes-walking-around-old-shops-in-tainan/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-around-old-shops-in-tainan-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《台南老店散步：回味本町摩登老時光(新版)》</span><br><span class="line">作者： 陳貴芳(鱷魚)  </span><br><span class="line">出版社：馬可孛羅 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「歷史不只存在於書本裡，更藏在街角老店的每一道門檻之間。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>台南是台灣歷史最悠久的城市之一，而本町大街（今民權路與新美街）更是府城最繁華的老街。陳貴芳（鱷魚）透過細膩的手繪插畫與深入的故事挖掘，帶領讀者走進這些屹立百年的老店，體驗台南人的生活原味。</p>
-<p><img src="/img/posts/reading-notes-walking-around-old-shops-in-tainan-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>本町的歷史演變</strong></p>
-<ul>
-<li>由荷治時期「<code>普羅民遮街</code>」發展至清領、日本時代及光復後，長久以來皆為台南最重要的商業街。</li>
-<li>經歷時代變遷，<code>老店</code>與<code>職人</code>仍堅守傳統技藝。</li>
-</ul>
-</li>
-<li><p><strong>45 家老店的故事</strong></p>
-<ul>
-<li>特色飲食：<code>石精臼牛肉湯</code>、<code>武廟炭烤三明治</code>、<code>合成帆布行</code>等。</li>
-<li>傳統手工技藝：<code>魏俊邦雕刻研究社</code>、<code>明章榻榻米</code>、<code>左藤紙藝</code>。</li>
-<li>文化地標：<code>全美戲院</code>、<code>新建國戲院</code>、<code>台南公會堂</code>。</li>
-</ul>
-</li>
-<li><p><strong>手繪記錄老街風貌</strong></p>
-<ul>
-<li>作者以 144 張手繪插圖呈現府城老街的景物、人物與店鋪。</li>
-<li>透過視覺導覽，讓讀者身臨其境，感受老台南的生活韻味。</li>
-</ul>
-</li>
-<li><p><strong>文化與傳承的重要性</strong></p>
-<ul>
-<li>這些老店不僅販售商品，更承載著台南人的歷史與回憶。</li>
-<li>在現代化衝擊下，保存這些文化資產尤顯珍貴。</li>
-</ul>
-</li>
+    <title>給工程師的 Sketch Prototyping 簡易入門教學</title>
+    <url>/2016/06/04/sketch-prototyping-for-engineer/</url>
+    <content><![CDATA[<p><img src="/img/posts/sketchapp.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><a href="http://www.sketchapp.com/">Sketch</a> 是近來非常火紅的輕量級 UI 設計工具，簡易好上手的設計讓許多設計師紛紛從 PS 和以拉等其他工具跳槽過來，整個 Sketch 生態系也蓬勃發展。雖然筆者本業是工程師，但前陣子趁著買 Flinto （可以很輕易將 Sketch 的靜態頁面轉成 Prototype）送 Sketch 的行銷活動時同時入手了這兩套設計工具（雖然我把它當成買 Sketch 送 Flinto 啦：P），因此藉著機會分享一下給工程師的 Sketch Prototyping 簡易入門教學。當然有些讀者會疑惑：工程師學 Sketch 是要設計師搶飯碗嗎？（事實上很難啦）</p>
+<p>一般來說，在整個產品開發的過程當中，工程師和設計師的愛恨情仇已經可以編成好幾檔連續劇了，然而溝通不良的原因除了設計流程的問題外，有很大一部分是因為對於彼此的世界不了解（一個住火星，一個住土星？）。因此工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本，從此相親相愛了呢！而天賦異秉的人甚至有機會成為新創團隊人見人愛的超全端工程師（super full-stack<br>engineer）獨角獸，集設計、前後端、行動端、行銷業務技能於一身（咦）？好啦，言歸正傳，接下來就讓我們好好了解 Sketch 這個好用工具吧！</p>
+<p><img src="/img/posts/sketch-ui-kit.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="Sketch-基本介紹"><a href="#Sketch-基本介紹" class="headerlink" title="Sketch 基本介紹"></a>Sketch 基本介紹</h2><p>Sketch 是一個 Mac 上的輕量級介面設計工具。2010 年由荷蘭公司 Bohemian Coding 所創建，目前提供 30 天試用版，正式版 99 鎂（教育價5折優惠），不過目前只有提供 Mac 版本，所以只能先跟使用其他作業系統的朋友說聲 Sorry 啦！</p>
+<p>究竟 Sketch 有哪些優點，讓許多設計師因此琵琶別抱呢？</p>
+<h3 id="Sketch-優點"><a href="#Sketch-優點" class="headerlink" title="Sketch 優點"></a>Sketch 優點</h3><ol>
+<li>活躍的第三方套件生態系！</li>
+<li>專為 UI 設計而生（Artboard 設計可以方便 UI 設計） </li>
+<li>輕量級，簡單好上手（工程師 OS：就像 Sublime 之於 Eclipse）</li>
+<li>內建和可擴充的豐富 UI 模版（iOS、Material Design 等）</li>
+<li>搭配 <a href="https://www.flinto.com/">Flinto</a>、<a href="https://zeplin.io/">Zeplin</a> 可讓工程師更開心，設計師提早下班</li>
+<li>可以取代大部分 PS、以拉、Fireworks 等功能</li>
+<li>知名網路、科技公司都在用</li>
 </ol>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《台南最多老店的本町大街》不僅是一部台南老街的歷史紀錄，更是一本充滿溫度的文化之書。透過這些店鋪與職人的故事，我們得以見證台南數百年來的繁華變遷，也體會到傳統技藝的價值與珍貴。這本書適合所有喜愛台南、文化歷史與手繪藝術的讀者。</p>
+<p>看完了 Sketch 優點，相信讀者們一定摩拳擦掌準備牛刀小試啦！</p>
+<h2 id="使用-Sketch-設計-Mobile-App-UI"><a href="#使用-Sketch-設計-Mobile-App-UI" class="headerlink" title="使用 Sketch 設計 Mobile App UI"></a>使用 Sketch 設計 Mobile App UI</h2><p>一般設計流程我們通常會有以下三種階段：</p>
+<ol>
+<li>Wireframe（線框圖）<br>保真度低（low fidelity ）、修改成本低。適合初期討論產品架構和基本功能。通常使用紙筆手繪，但建議於完成後電子化</li>
+<li>Mockup（視覺稿）<br>保真度中（middle fidelity ）、修改成本中。於 Mockup 階段著重於整體視覺、排版的靜態討論和確認，而 Sketch 主要會是在 Mockup 階段進行設計</li>
+<li>Prototype（原型）<br>保真度高（high fidelity ），接近最終產品、修改成本高。確認互動設計的流程並確認架構和視覺規劃是否有需要調整之處</li>
+</ol>
+<p>先介紹一下 Sketch 工作空間，左邊是圖層區，右邊是屬性、中間是工作區、上面是工具欄：</p>
+<p><img src="/img/posts/sketch-0.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>工具欄可以點擊右鍵自定義：</p>
+<p><img src="/img/posts/sketch-0-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>由於 UI 設計是 Sketch 主要的強項（尤其是行動端），在 Sketch 中 Artboard 是基礎的設計單元（成果展示區域），我們可以在一個 Page 中定義多個 Artboard。根據 Sketch 的設計，我們可以一次瀏覽多個 Artboard（也可說是多個介面），這樣可以更清楚整個設計 flow ，這是 Sketch 蠻大的一個優點（一覽眾山小？）。</p>
+<p>現在，我們終於開始設計我們的新 App UI 啦！首先，我們透過左上方的新增按鈕新增了一個 Artboard ，並選擇了 iPhone6 當做設計基底（有 iPhone、Android、RWD等可以選）。接下來我們要打開在 Sketch 中內建的元件模版，iOS 和 Material Design、icon設計等（網路上也有很多網友提供自己的設計可以下載），這邊因為是使用 iPhone6 的 Artboard，因此我們打開 iOS 元件模版。</p>
+<p><img src="/img/posts/sketch-7.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/sketch-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/sketch-2.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>接下來進行複製貼上大法！將元件複製到 Artboard 上就可以了！現在小工程師也可以設計簡單的 UI 啦！可以透過右上角工具預覽或是分享的方式看到成果！</p>
+<p><img src="/img/posts/sketch-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="從-Mockup-到-Prototype"><a href="#從-Mockup-到-Prototype" class="headerlink" title="從 Mockup 到 Prototype"></a>從 Mockup 到 Prototype</h2><p><img src="/img/posts/sketch-flinto.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"><br>透過 Sketch 設計完成靜態檔案，若我們想將靜態檔案轉成 Prototype 進行使用者測試，我們可以使用 Flinto 好工具！透過簡單的連結就可以讓你的 Sketch 動起來啦（目前支援了簡單的手勢和動畫）！</p>
+<p><img src="/img/posts/flinto-3.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/flinto-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/flinto-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>以上就是給工程師的 Sketch Prototyping 簡易入門教學。事實上透過整合 <a href="https://zeplin.io/">Zeplin</a>（可以方便註解和查詢設計相對位置和色碼）、<a href="https://www.invisionapp.com/">Invision</a>（支援變更記錄，可以當做版本控管使用）等工具進行協作，還可以更加加快整個產品設計流程。透過前期的完善溝通討論，不但可以降低後續的溝通成本更可以讓完成的產品更接近最初的設計，更重要的是讓工程師和設計師的感情更好了！若你對於 Sketch 有興趣可以<a href="http://slides.com/kd-chang/sketch-prototyping-for-engineer">參考這份投影片</a>有更完整的教學介紹。另外也可以參考<a href="http://www.sketchapp.com/learn/">官方教學影片</a>。最後再次強調工程師學 Sketch 並非要去搶設計師搶飯碗。而是工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本。同理也建議設計師們可以去試著學一些簡單的程式語言基礎概念。筆者才疏學淺，若讀者有任何學習心得也歡迎分享交流：）</p>
+<p><img src="/img/posts/sketch-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="常用外掛"><a href="#常用外掛" class="headerlink" title="常用外掛"></a>常用外掛</h2><ol start="0">
+<li><a href="http://sketchtoolbox.com/">外掛管理工具 Sketch Toolbox</a></li>
+<li>Notebook 註解好幫手</li>
+<li>Sketch Flinto 從 Mockup 到 Prototype</li>
+<li>Content Generator Sketch Plugin 生成假資料</li>
+<li>Sketch Measure 測量位置、大小</li>
+<li>Icon Stamper 簡單生成不同大小 icon</li>
+</ol>
+<h2 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h2><ol>
+<li><a href="http://www.sketchcn.com/">Sketch 簡體中文教學</a></li>
+<li><a href="http://www.sketchchina.com/">Sketch 問答</a></li>
+</ol>
 ]]></content>
       <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀學習心得筆記</tag>
-        <tag>回味本町摩登老時光</tag>
-        <tag>台南老店散步</tag>
+        <tag>SketchPrototyping</tag>
+        <tag>Wireframe</tag>
+        <tag>Mockup</tag>
       </tags>
   </entry>
   <entry>
@@ -1039,67 +1100,6 @@
         <tag>自卑感</tag>
         <tag>自卑與超越</tag>
         <tag>阿德勒心理學</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>給工程師的 Sketch Prototyping 簡易入門教學</title>
-    <url>/2016/06/04/sketch-prototyping-for-engineer/</url>
-    <content><![CDATA[<p><img src="/img/posts/sketchapp.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><a href="http://www.sketchapp.com/">Sketch</a> 是近來非常火紅的輕量級 UI 設計工具，簡易好上手的設計讓許多設計師紛紛從 PS 和以拉等其他工具跳槽過來，整個 Sketch 生態系也蓬勃發展。雖然筆者本業是工程師，但前陣子趁著買 Flinto （可以很輕易將 Sketch 的靜態頁面轉成 Prototype）送 Sketch 的行銷活動時同時入手了這兩套設計工具（雖然我把它當成買 Sketch 送 Flinto 啦：P），因此藉著機會分享一下給工程師的 Sketch Prototyping 簡易入門教學。當然有些讀者會疑惑：工程師學 Sketch 是要設計師搶飯碗嗎？（事實上很難啦）</p>
-<p>一般來說，在整個產品開發的過程當中，工程師和設計師的愛恨情仇已經可以編成好幾檔連續劇了，然而溝通不良的原因除了設計流程的問題外，有很大一部分是因為對於彼此的世界不了解（一個住火星，一個住土星？）。因此工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本，從此相親相愛了呢！而天賦異秉的人甚至有機會成為新創團隊人見人愛的超全端工程師（super full-stack<br>engineer）獨角獸，集設計、前後端、行動端、行銷業務技能於一身（咦）？好啦，言歸正傳，接下來就讓我們好好了解 Sketch 這個好用工具吧！</p>
-<p><img src="/img/posts/sketch-ui-kit.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="Sketch-基本介紹"><a href="#Sketch-基本介紹" class="headerlink" title="Sketch 基本介紹"></a>Sketch 基本介紹</h2><p>Sketch 是一個 Mac 上的輕量級介面設計工具。2010 年由荷蘭公司 Bohemian Coding 所創建，目前提供 30 天試用版，正式版 99 鎂（教育價5折優惠），不過目前只有提供 Mac 版本，所以只能先跟使用其他作業系統的朋友說聲 Sorry 啦！</p>
-<p>究竟 Sketch 有哪些優點，讓許多設計師因此琵琶別抱呢？</p>
-<h3 id="Sketch-優點"><a href="#Sketch-優點" class="headerlink" title="Sketch 優點"></a>Sketch 優點</h3><ol>
-<li>活躍的第三方套件生態系！</li>
-<li>專為 UI 設計而生（Artboard 設計可以方便 UI 設計） </li>
-<li>輕量級，簡單好上手（工程師 OS：就像 Sublime 之於 Eclipse）</li>
-<li>內建和可擴充的豐富 UI 模版（iOS、Material Design 等）</li>
-<li>搭配 <a href="https://www.flinto.com/">Flinto</a>、<a href="https://zeplin.io/">Zeplin</a> 可讓工程師更開心，設計師提早下班</li>
-<li>可以取代大部分 PS、以拉、Fireworks 等功能</li>
-<li>知名網路、科技公司都在用</li>
-</ol>
-<p>看完了 Sketch 優點，相信讀者們一定摩拳擦掌準備牛刀小試啦！</p>
-<h2 id="使用-Sketch-設計-Mobile-App-UI"><a href="#使用-Sketch-設計-Mobile-App-UI" class="headerlink" title="使用 Sketch 設計 Mobile App UI"></a>使用 Sketch 設計 Mobile App UI</h2><p>一般設計流程我們通常會有以下三種階段：</p>
-<ol>
-<li>Wireframe（線框圖）<br>保真度低（low fidelity ）、修改成本低。適合初期討論產品架構和基本功能。通常使用紙筆手繪，但建議於完成後電子化</li>
-<li>Mockup（視覺稿）<br>保真度中（middle fidelity ）、修改成本中。於 Mockup 階段著重於整體視覺、排版的靜態討論和確認，而 Sketch 主要會是在 Mockup 階段進行設計</li>
-<li>Prototype（原型）<br>保真度高（high fidelity ），接近最終產品、修改成本高。確認互動設計的流程並確認架構和視覺規劃是否有需要調整之處</li>
-</ol>
-<p>先介紹一下 Sketch 工作空間，左邊是圖層區，右邊是屬性、中間是工作區、上面是工具欄：</p>
-<p><img src="/img/posts/sketch-0.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>工具欄可以點擊右鍵自定義：</p>
-<p><img src="/img/posts/sketch-0-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>由於 UI 設計是 Sketch 主要的強項（尤其是行動端），在 Sketch 中 Artboard 是基礎的設計單元（成果展示區域），我們可以在一個 Page 中定義多個 Artboard。根據 Sketch 的設計，我們可以一次瀏覽多個 Artboard（也可說是多個介面），這樣可以更清楚整個設計 flow ，這是 Sketch 蠻大的一個優點（一覽眾山小？）。</p>
-<p>現在，我們終於開始設計我們的新 App UI 啦！首先，我們透過左上方的新增按鈕新增了一個 Artboard ，並選擇了 iPhone6 當做設計基底（有 iPhone、Android、RWD等可以選）。接下來我們要打開在 Sketch 中內建的元件模版，iOS 和 Material Design、icon設計等（網路上也有很多網友提供自己的設計可以下載），這邊因為是使用 iPhone6 的 Artboard，因此我們打開 iOS 元件模版。</p>
-<p><img src="/img/posts/sketch-7.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/sketch-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/sketch-2.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>接下來進行複製貼上大法！將元件複製到 Artboard 上就可以了！現在小工程師也可以設計簡單的 UI 啦！可以透過右上角工具預覽或是分享的方式看到成果！</p>
-<p><img src="/img/posts/sketch-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="從-Mockup-到-Prototype"><a href="#從-Mockup-到-Prototype" class="headerlink" title="從 Mockup 到 Prototype"></a>從 Mockup 到 Prototype</h2><p><img src="/img/posts/sketch-flinto.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"><br>透過 Sketch 設計完成靜態檔案，若我們想將靜態檔案轉成 Prototype 進行使用者測試，我們可以使用 Flinto 好工具！透過簡單的連結就可以讓你的 Sketch 動起來啦（目前支援了簡單的手勢和動畫）！</p>
-<p><img src="/img/posts/flinto-3.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/flinto-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/flinto-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>以上就是給工程師的 Sketch Prototyping 簡易入門教學。事實上透過整合 <a href="https://zeplin.io/">Zeplin</a>（可以方便註解和查詢設計相對位置和色碼）、<a href="https://www.invisionapp.com/">Invision</a>（支援變更記錄，可以當做版本控管使用）等工具進行協作，還可以更加加快整個產品設計流程。透過前期的完善溝通討論，不但可以降低後續的溝通成本更可以讓完成的產品更接近最初的設計，更重要的是讓工程師和設計師的感情更好了！若你對於 Sketch 有興趣可以<a href="http://slides.com/kd-chang/sketch-prototyping-for-engineer">參考這份投影片</a>有更完整的教學介紹。另外也可以參考<a href="http://www.sketchapp.com/learn/">官方教學影片</a>。最後再次強調工程師學 Sketch 並非要去搶設計師搶飯碗。而是工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本。同理也建議設計師們可以去試著學一些簡單的程式語言基礎概念。筆者才疏學淺，若讀者有任何學習心得也歡迎分享交流：）</p>
-<p><img src="/img/posts/sketch-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="常用外掛"><a href="#常用外掛" class="headerlink" title="常用外掛"></a>常用外掛</h2><ol start="0">
-<li><a href="http://sketchtoolbox.com/">外掛管理工具 Sketch Toolbox</a></li>
-<li>Notebook 註解好幫手</li>
-<li>Sketch Flinto 從 Mockup 到 Prototype</li>
-<li>Content Generator Sketch Plugin 生成假資料</li>
-<li>Sketch Measure 測量位置、大小</li>
-<li>Icon Stamper 簡單生成不同大小 icon</li>
-</ol>
-<h2 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h2><ol>
-<li><a href="http://www.sketchcn.com/">Sketch 簡體中文教學</a></li>
-<li><a href="http://www.sketchchina.com/">Sketch 問答</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>SketchPrototyping</tag>
-        <tag>Wireframe</tag>
-        <tag>Mockup</tag>
       </tags>
   </entry>
   <entry>
