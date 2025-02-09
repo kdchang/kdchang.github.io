@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.kdchang.cc/tags/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/search/</loc>
     
     <lastmod>2025-02-09</lastmod>
@@ -16,98 +9,7 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/books/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/about/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/05/22/llm-app-in-martech/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/05/23/llm-langchain-notes/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/05/26/llm-model-fine-turning/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/05/23/llm-rag-app-notes/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/06/03/product-manager-course-list/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/05/25/product-manager-interview-notes/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/06/06/product-manager-reading-list/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2024/07/26/project-manager-product-manager-scrum-certifications/</loc>
-    
-    <lastmod>2025-02-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/2023/06/30/reading-notes-adultology-breakthrough-thinking/</loc>
+    <loc>https://www.kdchang.cc/tags/</loc>
     
     <lastmod>2025-02-09</lastmod>
     
@@ -198,7 +100,28 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/2024/05/22/about-llm-app-10-keywords/</loc>
+    <loc>https://www.kdchang.cc/2017/09/10/stay-focus-and-keep-deep-working/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2019/01/04/what-is-the-experience-of-be-a-scrum-master/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/about/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/books/</loc>
     
     <lastmod>2025-02-09</lastmod>
     
@@ -206,6 +129,13 @@
   
   <url>
     <loc>https://www.kdchang.cc/2024/05/22/about-llm-tech-10-keywords/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/22/about-llm-app-10-keywords/</loc>
     
     <lastmod>2025-02-09</lastmod>
     
@@ -226,6 +156,76 @@
   </url>
   
   <url>
+    <loc>https://www.kdchang.cc/2024/05/22/llm-app-in-martech/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/23/llm-langchain-notes/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/26/llm-model-fine-turning/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/23/llm-rag-app-notes/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/27/product-manager-career-development-notes-01-overview/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/06/03/product-manager-course-list/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/05/25/product-manager-interview-notes/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/06/06/product-manager-reading-list/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2024/07/26/project-manager-product-manager-scrum-certifications/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/2023/06/30/reading-notes-adultology-breakthrough-thinking/</loc>
+    
+    <lastmod>2025-02-09</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.kdchang.cc/404</loc>
     
     <lastmod>2025-02-09</lastmod>
@@ -240,17 +240,7 @@
 
   
   <url>
-    <loc>https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2025-02-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2025-02-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</loc>
+    <loc>https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2025-02-09</lastmod>
   </url>
   
@@ -275,17 +265,27 @@
   </url>
   
   <url>
-    <loc>https://www.kdchang.cc/tags/%E7%94%A2%E6%A1%88%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2025-02-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.kdchang.cc/tags/Career/</loc>
     <lastmod>2025-02-09</lastmod>
   </url>
   
   <url>
     <loc>https://www.kdchang.cc/tags/Career-Development/</loc>
+    <lastmod>2025-02-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2025-02-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E7%94%A2%E5%93%81%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2025-02-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kdchang.cc/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2025-02-09</lastmod>
   </url>
   
