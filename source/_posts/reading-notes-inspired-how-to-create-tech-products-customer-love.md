@@ -1,5 +1,5 @@
 ---
-title: 《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀學習心得筆記
+title: 《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀心得學習筆記
 date: 2024-06-06 11:33:41
 description: 本書探討如何透過「產品營運模式」取代傳統 IT 專案管理，讓企業能夠更靈活且高效地打造成功產品。透過矽谷科技公司的實際案例，作者馬提·凱根是多本矽谷產品專業書籍作者，解析了產品管理轉型的挑戰與方法，幫助企業落實技術驅動的產品開發模式。
 cover: https://www.kdchang.cc/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-1.jpg
@@ -13,6 +13,7 @@ tags:
     - 產品
     - Career
     - Career Development
+    - 閱讀心得學習筆記
 
 ---
 
