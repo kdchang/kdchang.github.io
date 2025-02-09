@@ -189,13 +189,13 @@
 <p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
       <tags>
+        <tag>產品專案管理</tag>
+        <tag>產品管理</tag>
+        <tag>專案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
         <tag>Axure RP 10</tag>
         <tag>axure</tag>
       </tags>
@@ -302,6 +302,44 @@
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
         <tag>LangChain</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -491,44 +529,6 @@
       </tags>
   </entry>
   <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>產品經理（Product Manager, PM）課程學習參考清單</title>
     <url>/2024/06/03/product-manager-course-list/</url>
     <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
@@ -541,11 +541,11 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>PM</tag>
@@ -639,11 +639,11 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>Project Manager</tag>
@@ -671,11 +671,11 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>PM</tag>
@@ -804,6 +804,59 @@
       </tags>
   </entry>
   <entry>
+    <title>《蛤蟆先生去看心理師》| 閱讀心得學習筆記</title>
+    <url>/2022/01/26/reading-notes-counselling-for-roads-a-psychological-adventure/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《蛤蟆先生去看心理師》</span><br><span class="line">作者： 羅伯．狄保德  </span><br><span class="line">原文作者： Robert de Board</span><br><span class="line">譯者： 張美惠</span><br><span class="line">繪者： Dinner Illustration</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「每個人生下來都是王子，卻被父母變成青蛙。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會，心理健康已逐漸被重視，但許多人仍對心理諮商存有疑慮。蛤蟆先生去看心理師透過<code>童話故事</code>的方式，<code>生動展現心理諮商的過程</code>，幫助讀者理解<code>心理治療</code>如何促進<code>個人成長</code>。本書不僅是一部<code>心理學入門書</code>，更是一場關於<code>自我覺察</code>與<code>情緒療癒</code>的旅程。</p>
+<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>心理諮商的過程</strong>  </p>
+<ul>
+<li>透過蛤蟆先生與心理師蒼鷺的 10 次諮商，呈現<code>心理治療的典型模式</code>。  </li>
+<li>解析個人如何透過<code>自我探索</code>，<code>理解過往經驗對自身行為的影響</code>。</li>
+</ul>
+</li>
+<li><p><strong>溝通分析（TA）理論應用</strong>  </p>
+<ul>
+<li>書中介紹 Eric Berne 的溝通分析理論，包括「<code>內在小孩</code>」、「<code>父母</code>」、「<code>成人</code>」三種自我狀態。  </li>
+<li>透過分析自己的內在對話，提升情緒智商。</li>
+</ul>
+</li>
+<li><p><strong>童年經歷與人格形成</strong>  </p>
+<ul>
+<li><code>童年的創傷</code>、<code>家庭環境對自我認同</code>的影響深遠。  </li>
+<li>透過諮商，蛤蟆先生重新審視自己的過去，<code>學習自我接納</code>與<code>成長</code>。</li>
+</ul>
+</li>
+<li><p><strong>心理遊戲與情緒模式</strong>  </p>
+<ul>
+<li>書中探討「<code>心理遊戲</code>」，如<code>受害者</code>、<code>迫害者</code>與<code>拯救者</code>的角色互動。  </li>
+<li>讀者可藉由案例，反思自己在人際關係中的模式。</li>
+</ul>
+</li>
+<li><p><strong>改變的可能與挑戰</strong>  </p>
+<ul>
+<li>真正的改變來自內在動機，外在壓力難以促成持久的改變。  </li>
+<li>成長是循序漸進的，必須經歷自我懷疑、掙扎與突破的過程。</li>
+</ul>
+</li>
+</ol>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>蛤蟆先生去看心理師 以輕鬆的方式傳遞深刻的心理學知識，讓讀者理解諮商如何幫助個人突破心理困境。無論是對心理學感興趣，或是想尋找內心平衡的人，都能在書中找到共鳴，並學習如何更好地理解自己與他人。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>蛤蟆先生去看心理師</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》| 閱讀心得學習筆記</title>
     <url>/2024/12/18/reading-notes-do-not-react-to-everything/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-react-to-everything-1.jpg"></p>
@@ -905,11 +958,11 @@
 <h3 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h3><p>本書不僅適用於產品專案管理者，更是所有企業領導人應該深入研究的課題。數位轉型的成功關鍵在於建立「授權與賦能」的文化，使組織成員能夠自主決策與創新，最終提升企業競爭力。透過培養 <code>Sense of Ownership</code>（責任感），企業與員工才能實現共榮共存。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>產品專案管理專案全書</tag>
@@ -983,67 +1036,15 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>產品專案管理專案全書</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》  | 閱讀心得學習筆記</title>
-    <url>/2024/06/06/reading-notes-scrum-master-team/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南</span><br><span class="line">Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition</span><br><span class="line">作者： Lyssa Adkins  </span><br><span class="line">譯者： 教練敏捷團隊志工群</span><br><span class="line">出版社：博碩</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「優秀的敏捷教練，不是領導團隊，而是點燃團隊內在動力。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>在敏捷轉型的浪潮中，教練不再只是指導者，更是促進者與賦能者。本書由 Lyssa Adkins 撰寫，提供敏捷教練如何帶領團隊從協作走向卓越的實用指南。透過具體方法與案例，讀者能學習如何從控制風格轉變為引導者，打造自組織與高績效團隊。</p>
-<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><h4 id="1-敏捷教練的角色轉變"><a href="#1-敏捷教練的角色轉變" class="headerlink" title="1. 敏捷教練的角色轉變"></a><strong>1. 敏捷教練的角色轉變</strong></h4><ul>
-<li>從「<code>發號施令</code>者」轉變為「<code>賦能團隊的教練</code>」。</li>
-<li>教練不僅是管理者，更是<code>導師</code>、<code>引導者</code>與<code>問題解決者</code>。</li>
-</ul>
-<h4 id="2-五大敏捷教練風格"><a href="#2-五大敏捷教練風格" class="headerlink" title="2. 五大敏捷教練風格"></a><strong>2. 五大敏捷教練風格</strong></h4><ul>
-<li><strong>導師型</strong>：提供<code>敏捷思維</code>與<code>實踐指導</code>。</li>
-<li><strong>引導者型</strong>：協助團隊<code>自發性進行會議</code>與<code>決策</code>。</li>
-<li><strong>老師型</strong>：持續<code>教育團隊敏捷相關知識</code>與<code>技巧</code>。</li>
-<li><strong>問題解決者型</strong>：帶領<code>團隊分析</code>、<code>解決問題</code>，<code>提升決策能力</code>。</li>
-<li><strong>衝突駕馭者型</strong>：有效<code>處理衝突</code>，使團隊穩健成長。</li>
-</ul>
-<h4 id="3-打造高績效團隊"><a href="#3-打造高績效團隊" class="headerlink" title="3. 打造高績效團隊"></a><strong>3. 打造高績效團隊</strong></h4><ul>
-<li>設定明確的<code>期望</code>，幫助團隊理解高績效標準。</li>
-<li>透過「<code>協同合作</code>」而非單純「協力配合」來強化團隊運作。</li>
-<li>培養團隊的「<code>敏捷肌肉</code>」，讓變革成為自然習慣。</li>
-</ul>
-<h4 id="4-敏捷教練的失敗與成長"><a href="#4-敏捷教練的失敗與成長" class="headerlink" title="4. 敏捷教練的失敗與成長"></a><strong>4. 敏捷教練的失敗與成長</strong></h4><ul>
-<li>失敗模式：<code>過度介入</code>、<code>強加控制</code>、<code>忽視團隊文</code>化。</li>
-<li>復原策略：<code>建立信任</code>、<code>適時退場</code>、<code>強化反思與回顧</code>。</li>
-<li>成功關鍵：持續<code>學習與適應</code>，<code>不斷進化自身的教練技巧</code>。</li>
-</ul>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>Project Manager</tag>
-        <tag>專案經理</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>PjM</tag>
-        <tag>project</tag>
-        <tag>專案</tag>
-        <tag>Scrum Master</tag>
-        <tag>敏捷教練</tag>
-        <tag>敏捷開發</tag>
-        <tag>agile</tag>
-        <tag>agile coach</tag>
       </tags>
   </entry>
   <entry>
@@ -1084,6 +1085,58 @@
       </tags>
   </entry>
   <entry>
+    <title>《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》  | 閱讀心得學習筆記</title>
+    <url>/2024/06/06/reading-notes-scrum-master-team/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南</span><br><span class="line">Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition</span><br><span class="line">作者： Lyssa Adkins  </span><br><span class="line">譯者： 教練敏捷團隊志工群</span><br><span class="line">出版社：博碩</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「優秀的敏捷教練，不是領導團隊，而是點燃團隊內在動力。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>在敏捷轉型的浪潮中，教練不再只是指導者，更是促進者與賦能者。本書由 Lyssa Adkins 撰寫，提供敏捷教練如何帶領團隊從協作走向卓越的實用指南。透過具體方法與案例，讀者能學習如何從控制風格轉變為引導者，打造自組織與高績效團隊。</p>
+<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><h4 id="1-敏捷教練的角色轉變"><a href="#1-敏捷教練的角色轉變" class="headerlink" title="1. 敏捷教練的角色轉變"></a><strong>1. 敏捷教練的角色轉變</strong></h4><ul>
+<li>從「<code>發號施令</code>者」轉變為「<code>賦能團隊的教練</code>」。</li>
+<li>教練不僅是管理者，更是<code>導師</code>、<code>引導者</code>與<code>問題解決者</code>。</li>
+</ul>
+<h4 id="2-五大敏捷教練風格"><a href="#2-五大敏捷教練風格" class="headerlink" title="2. 五大敏捷教練風格"></a><strong>2. 五大敏捷教練風格</strong></h4><ul>
+<li><strong>導師型</strong>：提供<code>敏捷思維</code>與<code>實踐指導</code>。</li>
+<li><strong>引導者型</strong>：協助團隊<code>自發性進行會議</code>與<code>決策</code>。</li>
+<li><strong>老師型</strong>：持續<code>教育團隊敏捷相關知識</code>與<code>技巧</code>。</li>
+<li><strong>問題解決者型</strong>：帶領<code>團隊分析</code>、<code>解決問題</code>，<code>提升決策能力</code>。</li>
+<li><strong>衝突駕馭者型</strong>：有效<code>處理衝突</code>，使團隊穩健成長。</li>
+</ul>
+<h4 id="3-打造高績效團隊"><a href="#3-打造高績效團隊" class="headerlink" title="3. 打造高績效團隊"></a><strong>3. 打造高績效團隊</strong></h4><ul>
+<li>設定明確的<code>期望</code>，幫助團隊理解高績效標準。</li>
+<li>透過「<code>協同合作</code>」而非單純「協力配合」來強化團隊運作。</li>
+<li>培養團隊的「<code>敏捷肌肉</code>」，讓變革成為自然習慣。</li>
+</ul>
+<h4 id="4-敏捷教練的失敗與成長"><a href="#4-敏捷教練的失敗與成長" class="headerlink" title="4. 敏捷教練的失敗與成長"></a><strong>4. 敏捷教練的失敗與成長</strong></h4><ul>
+<li>失敗模式：<code>過度介入</code>、<code>強加控制</code>、<code>忽視團隊文</code>化。</li>
+<li>復原策略：<code>建立信任</code>、<code>適時退場</code>、<code>強化反思與回顧</code>。</li>
+<li>成功關鍵：持續<code>學習與適應</code>，<code>不斷進化自身的教練技巧</code>。</li>
+</ul>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
+]]></content>
+      <tags>
+        <tag>產品</tag>
+        <tag>產案管理</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>Project Manager</tag>
+        <tag>專案經理</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>PjM</tag>
+        <tag>project</tag>
+        <tag>專案</tag>
+        <tag>Scrum Master</tag>
+        <tag>敏捷教練</tag>
+        <tag>敏捷開發</tag>
+        <tag>agile</tag>
+        <tag>agile coach</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》 | 閱讀心得學習筆記</title>
     <url>/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg"></p>
@@ -1121,11 +1174,11 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
