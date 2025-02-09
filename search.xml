@@ -23,8 +23,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
         <tag>LLM</tag>
+        <tag>大型語言模型</tag>
       </tags>
   </entry>
   <entry>
@@ -53,52 +53,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
         <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
-    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
-    <content><![CDATA[<blockquote>
-<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
-<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
-<p>Axure RP 主要有幾個常用的功能區塊：</p>
-<ol>
-<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
-<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
-<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
-<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
-<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
-</ol>
-<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
-<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
-<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
-<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
-<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
-<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
-<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
-<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
-<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
-<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
-<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
-<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
-<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
-<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
-<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
-        <tag>Axure RP 10</tag>
-        <tag>axure</tag>
+        <tag>大型語言模型</tag>
       </tags>
   </entry>
   <entry>
@@ -201,6 +157,50 @@
       </tags>
   </entry>
   <entry>
+    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
+    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
+    <content><![CDATA[<blockquote>
+<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
+<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
+<p>Axure RP 主要有幾個常用的功能區塊：</p>
+<ol>
+<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
+<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
+<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
+<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
+<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
+</ol>
+<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
+<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
+<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
+<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
+<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
+<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
+<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
+<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
+<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
+<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
+<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
+<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
+<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
+<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
+<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
+      <tags>
+        <tag>產品專案管理</tag>
+        <tag>產品管理</tag>
+        <tag>專案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Axure RP 10</tag>
+        <tag>axure</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
     <url>/2024/05/22/llm-app-in-martech/</url>
     <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
@@ -253,93 +253,6 @@
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
-    <url>/2024/05/23/llm-langchain-notes/</url>
-    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
-<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
-<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
-
-<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
-<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
-<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
-<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
-<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
-<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
-<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
-<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
-<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
-<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
-<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
-<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
-<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
-<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
-<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
-<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LangChain</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -438,6 +351,93 @@
       </tags>
   </entry>
   <entry>
+    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
+    <url>/2024/05/23/llm-langchain-notes/</url>
+    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
+<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
+<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
+<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
+<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
+<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
+<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
+<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
+<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
+<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
+<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
+<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
+<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
+<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
+<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
+<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
+<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
+<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LangChain</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>LLM</tag>
+        <tag>大型語言模型</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
     <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
     <content><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p>
@@ -520,11 +520,11 @@
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
         <tag>Project Manager</tag>
         <tag>Program Manager</tag>
         <tag>專案經理</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
         <tag>PM</tag>
       </tags>
   </entry>
@@ -541,7 +541,6 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
@@ -550,6 +549,7 @@
         <tag>Career Development</tag>
         <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
         <tag>課程</tag>
@@ -576,11 +576,11 @@
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
         <tag>Project Manager</tag>
         <tag>Program Manager</tag>
         <tag>專案經理</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
         <tag>PM</tag>
         <tag>interview</tag>
         <tag>PM Interview</tag>
@@ -639,16 +639,16 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>Project Manager</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
-        <tag>Project Manager</tag>
         <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
         <tag>書單</tag>
@@ -671,7 +671,6 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
@@ -680,6 +679,7 @@
         <tag>Career Development</tag>
         <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
         <tag>書單</tag>
@@ -693,7 +693,63 @@
       </tags>
   </entry>
   <entry>
-    <title>《矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課》 | 閱讀學習心得筆記</title>
+    <title>《大人學破局思考:從關鍵小事看出職場大局【大人的Small Talk 1】》| 閱讀心得學習筆記</title>
+    <url>/2023/06/30/reading-notes-adultology-breakthrough-thinking/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-adultology-breakthrough-thinking-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《大人學破局思考:從關鍵小事看出職場大局【大人的Small Talk 1】》</span><br><span class="line">作者： 姚詩豪, 張國洋</span><br><span class="line">出版社：三采 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「職場如同一場遊戲，唯有跳脫 2D 視角，才能真正看懂局。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>在職場中，許多人努力工作，卻總覺得升遷遙不可及，甚至陷入被忽視的困境。本書由「大人學」創辦人 Bryan 與 Joe 共同撰寫，透過多年企業顧問經驗，揭示職場運行的「<code>隱形規則</code>」，幫助讀者從「<code>螞蟻視角</code>」提升至「<code>俯瞰全局</code>」，跳脫既有思維模式，取得真正的職涯主導權。</p>
+<p><img src="/img/posts/reading-notes-adultology-breakthrough-thinking-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><ol>
+<li><p><strong>職場不公平？找出隱藏的評選標準</strong></p>
+<ul>
+<li>企業的晉升與評價機制並非完全公開，理解「<code>不明說的規則</code>」，才能真正掌握公平競爭的關鍵。</li>
+</ul>
+</li>
+<li><p><strong>努力卻不被看見？學會職場曝光</strong></p>
+<ul>
+<li>默默努力並非美德，<code>適當展現成果</code>、<code>對齊老闆語言</code>，才能獲得認可。</li>
+</ul>
+</li>
+<li><p><strong>當責≠被壓榨，主動掌握職涯方向</strong></p>
+<ul>
+<li>「<code>當責</code>」不是為了老闆，而是為了自己，找到熱情與專長，讓工作變得有價值。</li>
+</ul>
+</li>
+<li><p><strong>破除能者過勞，掌握向上管理</strong></p>
+<ul>
+<li>不是所有的事都該親力親為，<code>學會與老闆及團隊協作</code>，才能有效提升影響力。</li>
+</ul>
+</li>
+<li><p><strong>職場競爭中的公平法則</strong></p>
+<ul>
+<li>「<code>能力</code>」與「<code>能見度</code>」並重，善用人際關係與影響力，才能在職場棋局中搶得先機。</li>
+</ul>
+</li>
+</ol>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h1><p>職場如同一場遊戲，唯有跳脫單一視角，理解職場運行法則，才能真正掌握破局升級的關鍵。本書提供的策略與思維模式，將幫助讀者在競爭激烈的環境中立於不敗之地。</p>
+]]></content>
+      <tags>
+        <tag>大人學破局思考</tag>
+        <tag>大人學</tag>
+        <tag>姚詩豪</tag>
+        <tag>張國洋</tag>
+        <tag>從關鍵小事看出職場大局</tag>
+        <tag>大人的Small Talk</tag>
+        <tag>自卑感</tag>
+        <tag>自卑與超越</tag>
+        <tag>阿德勒心理學</tag>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課》 | 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-empowered-ordinary-people-extraordinary-product-1.jpg"></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課</span><br><span class="line">EMPOWERED: Ordinary People, Extraordinary Products</span><br><span class="line">作者： 馬提．凱根, 克里斯．瓊斯  </span><br><span class="line">原文作者： MARTY CAGAN, CHRIS JONES</span><br><span class="line">譯者： 陳文和</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
@@ -739,7 +795,6 @@
 <h3 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h3><p>本書不僅適用於產品專案管理者，更是所有企業領導人應該深入研究的課題。數位轉型的成功關鍵在於建立「授權與賦能」的文化，使組織成員能夠自主決策與創新，最終提升企業競爭力。透過培養 <code>Sense of Ownership</code>（責任感），企業與員工才能實現共榮共存。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
@@ -747,13 +802,14 @@
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
         <tag>矽谷最夯‧產品專案領導力全書</tag>
         <tag>領導力</tag>
         <tag>leadership</tag>
       </tags>
   </entry>
   <entry>
-    <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀學習心得筆記</title>
+    <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
     <url>/2024/08/06/reading-notes-forest-wisdom/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我可能錯了：森林智者的最後一堂人生課》</span><br><span class="line">作者： 比約恩．納提科．林德布勞, 卡洛琳．班克勒, 納維德．莫迪里</span><br><span class="line">原文作者： Björn Natthiko Lindeblad, Caroline Bankler, Navid Modiri</span><br><span class="line">出版社：先覺</span><br></pre></td></tr></table></figure>
@@ -775,16 +831,16 @@
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
         <tag>我可能錯了</tag>
         <tag>森林智者</tag>
         <tag>森林智者的最後一堂人生課</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀學習心得筆記</tag>
       </tags>
   </entry>
   <entry>
-    <title>《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀學習心得筆記</title>
+    <title>《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-1.jpg"></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品</span><br><span class="line">INSPIRED: How to Create Tech Products Customers Love</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
@@ -817,7 +873,6 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
@@ -825,10 +880,49 @@
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
+        <tag>閱讀心得學習筆記</tag>
       </tags>
   </entry>
   <entry>
-    <title>《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》  | 閱讀學習心得筆記</title>
+    <title>《非暴力溝通：愛的語言》| 閱讀心得學習筆記</title>
+    <url>/2019/08/01/reading-notes-nonviolent-communication-a-language-of-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-nonviolent-communication-a-language-of-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《非暴力溝通：愛的語言》</span><br><span class="line">作者： 馬歇爾．盧森堡</span><br><span class="line">譯者： 蕭寶森</span><br><span class="line">出版社：光啟文化</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「關注自身與他人的情感需求，而不是執著於誰對誰錯。當我們對自己殘忍時，就很難真正對他人懷抱善意。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《非暴力溝通》由馬歇爾‧盧森堡博士所著，這本書提供了一套深具啟發性的溝通技巧，旨在幫助人們建立真誠與他人的聯繫，並能有效地化解衝突。盧森堡博士將溝通視為一種藝術，提出「<code>觀察</code>、<code>表達感受</code>、<code>了解需要</code>、<code>做出請求</code>」四個步驟，讓讀者在互動中能夠更具<code>同理心</code>，避免<code>言語暴力</code>與<code>無意識的傷害</code>，達到<code>心靈的和諧</code>。</p>
+<p><img src="/img/posts/reading-notes-nonviolent-communication-a-language-of-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><ol>
+<li><strong>非暴力溝通的核心</strong>：本書強調的溝通方法<code>不以批判</code>、<code>指責</code>為基礎，而是透過「<code>觀察</code>、<code>表達感受</code>、<code>滿足需求</code>、<code>具體請求</code>」來促進有效的交流。</li>
+<li><strong>暴力的溝通方式</strong>：我們生活中的許多溝通方式可能無意中帶有暴力性，如<code>批評</code>、<code>侮辱</code>、<code>歧視</code>等，這會造成<code>情感創傷</code>，<code>疏遠彼此的關係</code>。</li>
+<li><strong>同理心與心靈連結</strong>：非暴力溝通強調以<code>同理心</code>來<code>理解對方的需求</code>，建立<code>真誠</code>的連結，避免將注意力集中在<code>「對錯」的爭論上</code>。</li>
+<li><strong>非暴力溝通四步驟溝通法</strong>：<ul>
+<li><strong>觀察</strong>：<code>不帶評價客觀地描述</code>行為或情況。</li>
+<li><strong>感受</strong>：<code>表達自己內心的真實感受</code>。</li>
+<li><strong>需求</strong>：<code>清晰地指出未被滿足的需求</code>。</li>
+<li><strong>請求</strong>：<code>提出具體的行動請求</code>。</li>
+</ul>
+</li>
+<li><strong>衝突的化解</strong>：這種方法可有效化解<code>家庭</code>、<code>工作場所</code>等各種環境中的衝突，<code>促進理解與和解</code>。</li>
+<li><strong>實踐與應用</strong>：書中多個案例和實際應用的技巧，幫助讀者將非暴力溝通的原則融入日常生活。</li>
+</ol>
+<p><strong>心得體會</strong><br>《非暴力溝通》不僅是一種溝通技巧，它實際上是一種哲學，強調<code>尊重</code>和<code>同理心</code>的力量。對我而言，這本書最重要的啟發是學會如何<code>關注自身與他人的情感需求</code>，而不是執著於「<code>誰對誰錯</code>」。這種溝通方式讓人感到舒適且富有力量，尤其在面對衝突時，能夠避免傷害他人並促進彼此的理解。在職場和家庭中，這些技巧不僅能促進更有效的合作，還能讓人際關係變得更加和諧。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>心理學</tag>
+        <tag>非暴力溝通</tag>
+        <tag>愛的語言</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》  | 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-scrum-master-team/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南</span><br><span class="line">Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition</span><br><span class="line">作者： Lyssa Adkins  </span><br><span class="line">譯者： 教練敏捷團隊志工群</span><br><span class="line">出版社：博碩</span><br></pre></td></tr></table></figure>
@@ -862,13 +956,13 @@
 <h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
         <tag>Project Manager</tag>
         <tag>專案經理</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
         <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
         <tag>PjM</tag>
         <tag>project</tag>
         <tag>專案</tag>
@@ -880,7 +974,57 @@
       </tags>
   </entry>
   <entry>
-    <title>《台南老店散步：回味本町摩登老時光(新版)》 | 閱讀學習心得筆記</title>
+    <title>《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》 | 閱讀心得學習筆記</title>
+    <url>/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品</span><br><span class="line">Transformed: Moving to the Product Operating Model</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「產品營運模式不是流程，而是一種文化與思維的轉變。」<br>「成功的關鍵，不在於開發更多功能，而是打造客戶真正需要的產品。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>本書探討如何透過「產品營運模式」取代傳統 IT 專案管理，讓企業能夠更靈活且高效地打造成功產品。透過矽谷科技公司的實際案例，作者馬提·凱根是多本矽谷產品專業書籍作者，解析了產品管理轉型的挑戰與方法，幫助企業落實技術驅動的產品開發模式。</p>
+<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><h3 id="1-產品營運模式的重要性"><a href="#1-產品營運模式的重要性" class="headerlink" title="1. 產品營運模式的重要性"></a><strong>1. 產品營運模式的重要性</strong></h3><ul>
+<li>將產品開發從單次專案轉變為<code>持續迭代</code>運行的模式，提升創新與市場適應能力。  </li>
+<li>產品營運模式能夠確保開發的產品符合<code>客戶需求</code>，而非僅憑內部假設與推測。</li>
+</ul>
+<h3 id="2-產品開發的三大變革"><a href="#2-產品開發的三大變革" class="headerlink" title="2. 產品開發的三大變革"></a><strong>2. 產品開發的三大變革</strong></h3><ul>
+<li><strong>改變打造產品的方式</strong>：採用<code>跨職能團隊</code>，<code>提高決策效率</code>。  </li>
+<li><strong>改變解決問題的方式</strong>：讓團隊<code>自主尋找問題</code>並<code>驗證解決方案</code>。  </li>
+<li><strong>改變決定解決什麼問題的方式</strong>：高層<code>提供方向</code>，<code>團隊負責實際策略與執行</code>。</li>
+</ul>
+<h2 id="3-產品職能與風險承擔"><a href="#3-產品職能與風險承擔" class="headerlink" title="3. 產品職能與風險承擔"></a><strong>3. 產品職能與風險承擔</strong></h2><ul>
+<li><strong>產品經理</strong>：負責<code>價值風險</code>與<code>商業可行性</code>。  </li>
+<li><strong>產品設計師</strong>：確保產品<code>可用性與用戶體驗</code>。  </li>
+<li><strong>工程師</strong>：確保<code>技術可行性與開發效率</code>。</li>
+</ul>
+<h2 id="4-團隊領導與組織文化"><a href="#4-團隊領導與組織文化" class="headerlink" title="4. 團隊領導與組織文化"></a><strong>4. 團隊領導與組織文化</strong></h2><ul>
+<li>團隊應該被賦權，為「<code>outcome 結果</code>」負責，而非僅關注「<code>output 產出</code>」。  </li>
+<li>領導者應專注於<code>策略</code>、<code>團隊組成</code>與<code>技術指導</code>，而非細節管理。  </li>
+<li>產品團隊應透過<code>數據</code>與<code>用戶研究</code>來<code>驅動決策</code>，而非僅依賴直覺。</li>
+</ul>
+<h2 id="5-企業轉型的挑戰與策略"><a href="#5-企業轉型的挑戰與策略" class="headerlink" title="5. 企業轉型的挑戰與策略"></a><strong>5. 企業轉型的挑戰與策略</strong></h2><ul>
+<li>轉型過程困難重重，需從企業文化、組織架構到流程全面調整。  </li>
+<li>透過與顧客、銷售、行銷、財務等部門的緊密合作，確保產品策略的一致性。  </li>
+<li>以數據驗證成果，持續改善與優化產品營運模式。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>產案管理</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>產品營運模式轉型全書</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《台南老店散步：回味本町摩登老時光(新版)》 | 閱讀心得學習筆記</title>
     <url>/2024/12/06/reading-notes-walking-around-old-shops-in-tainan/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-around-old-shops-in-tainan-1.jpg"></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《台南老店散步：回味本町摩登老時光(新版)》</span><br><span class="line">作者： 陳貴芳(鱷魚)  </span><br><span class="line">出版社：馬可孛羅 </span><br></pre></td></tr></table></figure>
@@ -923,58 +1067,73 @@
         <tag>閱讀心得</tag>
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
-        <tag>閱讀學習心得筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
         <tag>回味本町摩登老時光</tag>
         <tag>台南老店散步</tag>
       </tags>
   </entry>
   <entry>
-    <title>《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》 | 閱讀學習心得筆記</title>
-    <url>/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品</span><br><span class="line">Transformed: Moving to the Product Operating Model</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+    <title>《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》| 閱讀心得學習筆記</title>
+    <url>/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》</span><br><span class="line">作者： 朴藝真  </span><br><span class="line">譯者： 劉宛昀</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「產品營運模式不是流程，而是一種文化與思維的轉變。」<br>「成功的關鍵，不在於開發更多功能，而是打造客戶真正需要的產品。」</p>
+<p>「只要活著，就會感到自卑。請別和他人比較，專注在自己達成的事情上。鼓起勇氣依照自己的步調過日子並全面肯定和接納努力活到現在的自己。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>本書探討如何透過「產品營運模式」取代傳統 IT 專案管理，讓企業能夠更靈活且高效地打造成功產品。透過矽谷科技公司的實際案例，作者馬提·凱根是多本矽谷產品專業書籍作者，解析了產品管理轉型的挑戰與方法，幫助企業落實技術驅動的產品開發模式。</p>
-<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><h3 id="1-產品營運模式的重要性"><a href="#1-產品營運模式的重要性" class="headerlink" title="1. 產品營運模式的重要性"></a><strong>1. 產品營運模式的重要性</strong></h3><ul>
-<li>將產品開發從單次專案轉變為<code>持續迭代</code>運行的模式，提升創新與市場適應能力。  </li>
-<li>產品營運模式能夠確保開發的產品符合<code>客戶需求</code>，而非僅憑內部假設與推測。</li>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>阿德勒是現代心理學的三大巨擘（與大名鼎鼎的佛洛依德和榮格齊名），同時也是個體心理學的創始人，奠定了現代諮商心理學的基礎。</p>
+<p>本書以<code>阿德勒</code>心理學為基礎，探討<code>自卑感</code>的成因、影響及轉化方式，幫助讀者理解自我價值，並鼓勵在焦慮與比較中找到自己的步調。書中透過 27 個案例與分析，引導我們將自卑感視為成長的動力，而非阻礙，並提供實際方法來面對人際關係、愛情、職場壓力等議題。本書適合正在迷惘、渴望突破自我的讀者，幫助他們學習如何接納不完美，並活出屬於自己的節奏與價值。</p>
+<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>自卑感：成長的原動力</strong></li>
+</ol>
+<ul>
+<li><code>自卑感</code>無法避免，但可以轉化為提升自己的動力。</li>
+<li><code>與他人比較是焦慮來源</code>，唯有<code>專注自我成長</code>才能獲得真正的自由。</li>
+<li><code>社會期待</code>與<code>個人價值觀</code>常互相拉扯，<code>找到平衡</code>才能獲得<code>內心安定</code>。</li>
 </ul>
-<h3 id="2-產品開發的三大變革"><a href="#2-產品開發的三大變革" class="headerlink" title="2. 產品開發的三大變革"></a><strong>2. 產品開發的三大變革</strong></h3><ul>
-<li><strong>改變打造產品的方式</strong>：採用<code>跨職能團隊</code>，<code>提高決策效率</code>。  </li>
-<li><strong>改變解決問題的方式</strong>：讓團隊<code>自主尋找問題</code>並<code>驗證解決方案</code>。  </li>
-<li><strong>改變決定解決什麼問題的方式</strong>：高層<code>提供方向</code>，<code>團隊負責實際策略與執行</code>。</li>
+<ol start="2">
+<li><strong>記憶與心理模式</strong></li>
+</ol>
+<ul>
+<li><code>童年經驗</code>塑造了我們的<code>自卑</code>與<code>優越感</code>，影響成年後的人際關係與決策模式。</li>
+<li><code>記憶並非客觀事實</code>，而是我們選擇記住的片段，改變解讀方式可影響當下心態。</li>
+<li><code>心理創傷不等於決定未來</code>，透過<code>重構記憶</code>，我們能超越過去的陰影。</li>
 </ul>
-<h2 id="3-產品職能與風險承擔"><a href="#3-產品職能與風險承擔" class="headerlink" title="3. 產品職能與風險承擔"></a><strong>3. 產品職能與風險承擔</strong></h2><ul>
-<li><strong>產品經理</strong>：負責<code>價值風險</code>與<code>商業可行性</code>。  </li>
-<li><strong>產品設計師</strong>：確保產品<code>可用性與用戶體驗</code>。  </li>
-<li><strong>工程師</strong>：確保<code>技術可行性與開發效率</code>。</li>
+<ol start="3">
+<li><strong>人際關係與愛情</strong></li>
+</ol>
+<ul>
+<li>過度渴望認可容易陷入依賴，真正的幸福來自<code>自我接納</code>與<code>內在穩定</code>。</li>
+<li>愛情關係需以<code>尊重</code>為基礎，<code>避免透過戀愛來填補內心空虛</code>。</li>
+<li><code>家庭與社會環境</code>影響我們的愛情模式，需<code>覺察</code>並<code>調整</code>不健康的互動模式。</li>
+<li>家庭結構產生的競爭意識、忌妒心和手足之情對於個性有長遠影響</li>
 </ul>
-<h2 id="4-團隊領導與組織文化"><a href="#4-團隊領導與組織文化" class="headerlink" title="4. 團隊領導與組織文化"></a><strong>4. 團隊領導與組織文化</strong></h2><ul>
-<li>團隊應該被賦權，為「<code>outcome 結果</code>」負責，而非僅關注「<code>output 產出</code>」。  </li>
-<li>領導者應專注於<code>策略</code>、<code>團隊組成</code>與<code>技術指導</code>，而非細節管理。  </li>
-<li>產品團隊應透過<code>數據</code>與<code>用戶研究</code>來<code>驅動決策</code>，而非僅依賴直覺。</li>
+<ol start="4">
+<li><strong>活出真實自我</strong></li>
+</ol>
+<ul>
+<li>社會價值與自我價值不一定相符，<code>學習擺脫外在期待</code>才能活得自在。</li>
+<li>自尊來自內在認可，而非外界評價，勇敢<code>面對不完美</code>，才能真正成長。</li>
+<li>每個人都有選擇權，可以決定<code>如何詮釋自己的過去</code>，並<code>創造未來</code>。</li>
+<li>這本書鼓勵我們<code>接受自己的不完美</code>，並透過<code>自省</code>與<code>行動</code>，逐步活出自己真正想要的人生。</li>
 </ul>
-<h2 id="5-企業轉型的挑戰與策略"><a href="#5-企業轉型的挑戰與策略" class="headerlink" title="5. 企業轉型的挑戰與策略"></a><strong>5. 企業轉型的挑戰與策略</strong></h2><ul>
-<li>轉型過程困難重重，需從企業文化、組織架構到流程全面調整。  </li>
-<li>透過與顧客、銷售、行銷、財務等部門的緊密合作，確保產品策略的一致性。  </li>
-<li>以數據驗證成果，持續改善與優化產品營運模式。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>每個人對於成功與失敗的判斷標準各不相同，原因在於人們追求的理想中的我有所差異。這本書探討<code>自卑感</code>的成因，鼓勵我們接受自己的不完美，並透過自省與行動，逐步活出自己真正想要的人生。過去是無法改變的，現在能做的就是承認錯誤並且反省，為了改進而持續努力。</p>
+<p>沒有完美的孩子也沒有完美的大人。在這個時時刻刻充滿比較的世界裡，請試著肯定那個從小就在無止盡競爭之中早已疲憊不堪的自己，發現並珍視自己所有擁有的長處，並給曾因自我苛責而受傷的自己一份真摯的鼓勵。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>產品營運模式轉型全書</tag>
+        <tag>自卑感</tag>
+        <tag>自卑與超越</tag>
+        <tag>阿德勒心理學</tag>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>心理學</tag>
+        <tag>佛洛依德</tag>
+        <tag>榮格</tag>
+        <tag>阿德勒</tag>
+        <tag>你不必成為任何人</tag>
       </tags>
   </entry>
   <entry>
@@ -1036,70 +1195,6 @@
         <tag>SketchPrototyping</tag>
         <tag>Wireframe</tag>
         <tag>Mockup</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》| 閱讀學習心得筆記</title>
-    <url>/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》</span><br><span class="line">作者： 朴藝真  </span><br><span class="line">譯者： 劉宛昀</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「只要活著，就會感到自卑。請別和他人比較，專注在自己達成的事情上。鼓起勇氣依照自己的步調過日子並全面肯定和接納努力活到現在的自己。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>阿德勒是現代心理學的三大巨擘（與大名鼎鼎的佛洛依德和榮格齊名），同時也是個體心理學的創始人，奠定了現代諮商心理學的基礎。</p>
-<p>本書以<code>阿德勒</code>心理學為基礎，探討<code>自卑感</code>的成因、影響及轉化方式，幫助讀者理解自我價值，並鼓勵在焦慮與比較中找到自己的步調。書中透過 27 個案例與分析，引導我們將自卑感視為成長的動力，而非阻礙，並提供實際方法來面對人際關係、愛情、職場壓力等議題。本書適合正在迷惘、渴望突破自我的讀者，幫助他們學習如何接納不完美，並活出屬於自己的節奏與價值。</p>
-<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>自卑感：成長的原動力</strong></li>
-</ol>
-<ul>
-<li><code>自卑感</code>無法避免，但可以轉化為提升自己的動力。</li>
-<li><code>與他人比較是焦慮來源</code>，唯有<code>專注自我成長</code>才能獲得真正的自由。</li>
-<li><code>社會期待</code>與<code>個人價值觀</code>常互相拉扯，<code>找到平衡</code>才能獲得<code>內心安定</code>。</li>
-</ul>
-<ol start="2">
-<li><strong>記憶與心理模式</strong></li>
-</ol>
-<ul>
-<li><code>童年經驗</code>塑造了我們的<code>自卑</code>與<code>優越感</code>，影響成年後的人際關係與決策模式。</li>
-<li><code>記憶並非客觀事實</code>，而是我們選擇記住的片段，改變解讀方式可影響當下心態。</li>
-<li><code>心理創傷不等於決定未來</code>，透過<code>重構記憶</code>，我們能超越過去的陰影。</li>
-</ul>
-<ol start="3">
-<li><strong>人際關係與愛情</strong></li>
-</ol>
-<ul>
-<li>過度渴望認可容易陷入依賴，真正的幸福來自<code>自我接納</code>與<code>內在穩定</code>。</li>
-<li>愛情關係需以<code>尊重</code>為基礎，<code>避免透過戀愛來填補內心空虛</code>。</li>
-<li><code>家庭與社會環境</code>影響我們的愛情模式，需<code>覺察</code>並<code>調整</code>不健康的互動模式。</li>
-<li>家庭結構產生的競爭意識、忌妒心和手足之情對於個性有長遠影響</li>
-</ul>
-<ol start="4">
-<li><strong>活出真實自我</strong></li>
-</ol>
-<ul>
-<li>社會價值與自我價值不一定相符，<code>學習擺脫外在期待</code>才能活得自在。</li>
-<li>自尊來自內在認可，而非外界評價，勇敢<code>面對不完美</code>，才能真正成長。</li>
-<li>每個人都有選擇權，可以決定<code>如何詮釋自己的過去</code>，並<code>創造未來</code>。</li>
-<li>這本書鼓勵我們<code>接受自己的不完美</code>，並透過<code>自省</code>與<code>行動</code>，逐步活出自己真正想要的人生。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>每個人對於成功與失敗的判斷標準各不相同，原因在於人們追求的理想中的我有所差異。這本書探討<code>自卑感</code>的成因，鼓勵我們接受自己的不完美，並透過自省與行動，逐步活出自己真正想要的人生。過去是無法改變的，現在能做的就是承認錯誤並且反省，為了改進而持續努力。</p>
-<p>沒有完美的孩子也沒有完美的大人。在這個時時刻刻充滿比較的世界裡，請試著肯定那個從小就在無止盡競爭之中早已疲憊不堪的自己，發現並珍視自己所有擁有的長處，並給曾因自我苛責而受傷的自己一份真摯的鼓勵。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀學習心得筆記</tag>
-        <tag>心理學</tag>
-        <tag>佛洛依德</tag>
-        <tag>榮格</tag>
-        <tag>阿德勒</tag>
-        <tag>你不必成為任何人</tag>
-        <tag>自卑感</tag>
-        <tag>自卑與超越</tag>
-        <tag>阿德勒心理學</tag>
       </tags>
   </entry>
   <entry>
