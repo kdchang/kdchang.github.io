@@ -189,13 +189,13 @@
 <p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
       <tags>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產品專案管理</tag>
+        <tag>產品管理</tag>
+        <tag>專案管理</tag>
         <tag>Axure RP 10</tag>
         <tag>axure</tag>
       </tags>
@@ -343,97 +343,6 @@
       </tags>
   </entry>
   <entry>
-    <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
-    <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
-    <content><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p>
-<h2 id="PM-新人入職-90-天"><a href="#PM-新人入職-90-天" class="headerlink" title="PM 新人入職 90 天"></a>PM 新人入職 90 天</h2><blockquote>
-<p>偉大和優秀的 PM 取決於你規劃和發表的產品是否偉大，是否有解決市場問題的能力。</p>
-</blockquote>
-<p>Product Manager 產品經理新人入職 90 天代表著是試用期，同時也是考驗著 PM 是否能融入公司和團隊的文化和工作流程並贏得其他同事的信任以及學習的黃金期。</p>
-<ol>
-<li>花點時間了解公司、團隊和文化</li>
-<li>了解你的產品和客戶</li>
-<li>符合別人對你角色的期望</li>
-<li>與主管和同事一起擬定你的入職計畫和時間表</li>
-<li>與主管和同事建立牢固的人際關係</li>
-<li>贏得聲望和認可</li>
-<li>把握新手時間多詢問</li>
-</ol>
-<h1 id="PM-技能樹"><a href="#PM-技能樹" class="headerlink" title="PM 技能樹"></a>PM 技能樹</h1><h2 id="一、產品技能"><a href="#一、產品技能" class="headerlink" title="一、產品技能"></a>一、產品技能</h2><h3 id="1-User-使用者見解和洞察"><a href="#1-User-使用者見解和洞察" class="headerlink" title="1. User 使用者見解和洞察"></a>1. User 使用者見解和洞察</h3><p>理解使用者需求，了解想要用產品來解決的問題。如何蒐集使用者資料並往下挖掘最佳見解。</p>
-<p>常見的概念與框架：</p>
-<p>(1) Jobs To Be Done（JTBD）待辦工作框架</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">當我 &lt;情況&gt; 時，我想要 &lt;動機&gt;。如此一來，我就可以 &lt;期待結果&gt;</span><br></pre></td></tr></table></figure>
-
-<p>(2) 客戶旅程（Customer Journey）：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">覺察（Awareness）、考慮（Consideration）、購買（Purchase）、持有（Retention）、推廣（Advocacy）</span><br></pre></td></tr></table></figure>
-
-<p>(3) 使用者故事 User Story：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">As a ______, I want to ______, so that ______.</span><br><span class="line">身為 ___&lt;使用者角色&gt;___，我需要 ___&lt;做某件事情&gt;___，因為 ___&lt;想解決某個問題&gt;___。</span><br></pre></td></tr></table></figure>
-
-<h3 id="2-Data-資料洞察見解和決策"><a href="#2-Data-資料洞察見解和決策" class="headerlink" title="2. Data 資料洞察見解和決策"></a>2. Data 資料洞察見解和決策</h3><p>如何審核資料、設定產品北極星（North Star）、分析資料並運資料做出更好的決策。同時檢視公司指標、A&#x2F;B 測試和統計資料並在產品上線後建立指標（metrics）進行監控（monitor）。</p>
-<h3 id="3-Analytics-分析性問題解決問題能力"><a href="#3-Analytics-分析性問題解決問題能力" class="headerlink" title="3. Analytics 分析性問題解決問題能力"></a>3. Analytics 分析性問題解決問題能力</h3><p>透過系統框架，幫助做出更好的決策，系統性分析並解決複雜的問題。</p>
-<h3 id="4-Design-產品設計與技能"><a href="#4-Design-產品設計與技能" class="headerlink" title="4. Design 產品設計與技能"></a>4. Design 產品設計與技能</h3><p>發展產品思維，以及推動產品決策的能力。學習 protoptype、Brainstorming 以及決定產品優先順序（Prioritization）。</p>
-<h3 id="5-Tech-技術技能"><a href="#5-Tech-技術技能" class="headerlink" title="5. Tech 技術技能"></a>5. Tech 技術技能</h3><p>學習如何與工程師合作，估計開發成本，技術專有名詞：API、部屬、SQL 和演算法。</p>
-<h3 id="6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件"><a href="#6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件" class="headerlink" title="6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件"></a>6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件</h3><p>學習如何撰寫 spec、BRD&#x2F;MRD&#x2F;PRD 等文件，將需求轉換成文件。</p>
-<h2 id="二、執行技能"><a href="#二、執行技能" class="headerlink" title="二、執行技能"></a>二、執行技能</h2><h3 id="1-Project-Management-專案管理技能"><a href="#1-Project-Management-專案管理技能" class="headerlink" title="1. Project Management 專案管理技能"></a>1. Project Management 專案管理技能</h3><p>如何規劃專案並讓它保持在正軌上，學習 Agile 敏捷開發、Lean、Scrum、Kanban，提高團隊的速度的最佳實踐。</p>
-<h3 id="2-界定範圍和漸進式開發"><a href="#2-界定範圍和漸進式開發" class="headerlink" title="2. 界定範圍和漸進式開發"></a>2. 界定範圍和漸進式開發</h3><p>如何將工作拆分為多個發行版本，從而更快速且更成功地發行（launch）。學習最簡單可行性產品（MVP），以及真正讓使用者使用的產品。</p>
-<h3 id="3-產品發表"><a href="#3-產品發表" class="headerlink" title="3. 產品發表"></a>3. 產品發表</h3><p>如何準備發表日，你將學習如何選擇發表日期並將發表檢查清單納入細節並討論各種發表策略。</p>
-<h3 id="4-把事情做完"><a href="#4-把事情做完" class="headerlink" title="4. 把事情做完"></a>4. 把事情做完</h3><p>管理時間和克服障礙，學習 4D 框架，以及如何與遠端團隊高效地工作。</p>
-<h2 id="三、策略技能"><a href="#三、策略技能" class="headerlink" title="三、策略技能"></a>三、策略技能</h2><h3 id="產品策略概述"><a href="#產品策略概述" class="headerlink" title="產品策略概述"></a>產品策略概述</h3><p>學習了解什麼是策略，以及策略的涵義。包含策略三元素和制定策略的框架。</p>
-<h3 id="願景"><a href="#願景" class="headerlink" title="願景"></a>願景</h3><p>如何為產品建立一個令人嚮往的願景。學習如何逆向工作框架，看看遠大的願景如何協助團隊成功。</p>
-<h3 id="策略框架"><a href="#策略框架" class="headerlink" title="策略框架"></a>策略框架</h3><p>學習將願景和市場連結起來，創造成功的產品。學習 4P、5C 和 Porter 五力分析等框架。</p>
-<h3 id="路線圖和優先順序"><a href="#路線圖和優先順序" class="headerlink" title="路線圖和優先順序"></a>路線圖和優先順序</h3><h3 id="團隊目標"><a href="#團隊目標" class="headerlink" title="團隊目標"></a>團隊目標</h3><p>建立有效目標來激勵團隊。學習 OKR 等指標以及設定目標。</p>
-<h2 id="四、領導技能"><a href="#四、領導技能" class="headerlink" title="四、領導技能"></a>四、領導技能</h2><h3 id="個人心態"><a href="#個人心態" class="headerlink" title="個人心態"></a>個人心態</h3><p>學習克服阻礙成為偉大 PM 的心理陷阱，我們將學習成長心態、成熟度、無我和冒牌者症候群。</p>
-<h3 id="協作"><a href="#協作" class="headerlink" title="協作"></a>協作</h3><p>學習如何和夥伴共事，我們將學習如何化解衝突、心理安全感和個性差異。</p>
-<h3 id="不動用權威的影響力"><a href="#不動用權威的影響力" class="headerlink" title="不動用權威的影響力"></a>不動用權威的影響力</h3><p>學習利害關係人管理以及如何推動決策。</p>
-<h3 id="溝通"><a href="#溝通" class="headerlink" title="溝通"></a>溝通</h3><p>學習如何書面對話、現場對話以及如何推動決策。</p>
-<h3 id="激勵與啟發"><a href="#激勵與啟發" class="headerlink" title="激勵與啟發"></a>激勵與啟發</h3><p>如何保持團隊積極度，學習內在動機和外在動機，以及在關鍵時刻該怎麼做。</p>
-<h3 id="所有權心態"><a href="#所有權心態" class="headerlink" title="所有權心態"></a>所有權心態</h3><p>學習如何為團隊和產品負全責。學習如何填補空白，並在產品團隊外做出貢獻。</p>
-<h3 id="輔導"><a href="#輔導" class="headerlink" title="輔導"></a>輔導</h3><p>教我們輔導他人。學習學徒制、支持學員以及給予回饋。</p>
-<h3 id="與其他部門的共事"><a href="#與其他部門的共事" class="headerlink" title="與其他部門的共事"></a>與其他部門的共事</h3><p>深入討論如何與設計師、工程師和高層共事，學習如何建立信任關係。</p>
-<h2 id="五、人事管理技能"><a href="#五、人事管理技能" class="headerlink" title="五、人事管理技能"></a>五、人事管理技能</h2><h3 id="成為人事經理"><a href="#成為人事經理" class="headerlink" title="成為人事經理"></a>成為人事經理</h3><p>將幫助你了解是否要進入管理層，如何邁出第一步，以及公司如何選擇新的經理。</p>
-<h3 id="PM-經理的新領導技能"><a href="#PM-經理的新領導技能" class="headerlink" title="PM 經理的新領導技能"></a>PM 經理的新領導技能</h3><p>如何成為領導團隊一員。負起責任、學習溝通。</p>
-<h3 id="教導和培養"><a href="#教導和培養" class="headerlink" title="教導和培養"></a>教導和培養</h3><p>學習如何幫助團隊成員成長和發展技能，學習個人發展計畫，指派專案和評估績效。</p>
-<h3 id="建立團隊"><a href="#建立團隊" class="headerlink" title="建立團隊"></a>建立團隊</h3><p>如何招募優秀的 PM，學習設計面試流程、說服吸引人選，如何尋找人選。</p>
-<h3 id="組織卓越"><a href="#組織卓越" class="headerlink" title="組織卓越"></a>組織卓越</h3><p>設計一個良好運作的產品組織，學習產品流程、團隊文化和組織設計。</p>
-<h1 id="常見-PM-技能"><a href="#常見-PM-技能" class="headerlink" title="常見 PM 技能"></a>常見 PM 技能</h1><ol>
-<li>Communication</li>
-<li>Execution</li>
-<li>Product sense</li>
-<li>Strategic thinking</li>
-<li>Collaboration</li>
-<li>Data acumen</li>
-<li>Technical</li>
-<li>Business acumen</li>
-<li>Raw intelligence</li>
-<li>Empathy</li>
-<li>Design&#x2F;UX</li>
-</ol>
-<h1 id="提升-Product-sense-方法"><a href="#提升-Product-sense-方法" class="headerlink" title="提升 Product sense 方法"></a>提升 Product sense 方法</h1><p>一、Observe People Interaction with Products<br>二、 Deconstructing Everyday product</p>
-<h1 id="市場推論"><a href="#市場推論" class="headerlink" title="市場推論"></a>市場推論</h1><p>費米推論的思考五步驟：「定義問題、思考解法、列出算式、計算檢果、檢驗數據」，當您面對無處著力的問題時，就可以借助這五個步驟，像剝洋蔥一般層層思考。學會這五個步驟，就能培養把大問題分解為小問題的「費米化」能力，不僅能提升職場的問題解決力，還會讓主管覺得你的簡報、數據很有道理。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
-<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
-<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
-<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
-<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
-<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>Project Manager</tag>
-        <tag>Program Manager</tag>
-        <tag>專案經理</tag>
-        <tag>PM</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</title>
     <url>/2024/05/23/llm-rag-app-notes/</url>
     <content><![CDATA[<p>擷取擴增產生&#x2F;檢索增強生成（Retrieval-Augmented Generation, RAG）是一種結合檢索和生成技術的混合模型，用於改善文本生成任務的性能。這種方法能夠在生成文本時引入外部知識，從而生成更準確和上下文相關的內容。以下是對 RAG 的詳細介紹：</p>
@@ -529,6 +438,97 @@
       </tags>
   </entry>
   <entry>
+    <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
+    <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
+    <content><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p>
+<h2 id="PM-新人入職-90-天"><a href="#PM-新人入職-90-天" class="headerlink" title="PM 新人入職 90 天"></a>PM 新人入職 90 天</h2><blockquote>
+<p>偉大和優秀的 PM 取決於你規劃和發表的產品是否偉大，是否有解決市場問題的能力。</p>
+</blockquote>
+<p>Product Manager 產品經理新人入職 90 天代表著是試用期，同時也是考驗著 PM 是否能融入公司和團隊的文化和工作流程並贏得其他同事的信任以及學習的黃金期。</p>
+<ol>
+<li>花點時間了解公司、團隊和文化</li>
+<li>了解你的產品和客戶</li>
+<li>符合別人對你角色的期望</li>
+<li>與主管和同事一起擬定你的入職計畫和時間表</li>
+<li>與主管和同事建立牢固的人際關係</li>
+<li>贏得聲望和認可</li>
+<li>把握新手時間多詢問</li>
+</ol>
+<h1 id="PM-技能樹"><a href="#PM-技能樹" class="headerlink" title="PM 技能樹"></a>PM 技能樹</h1><h2 id="一、產品技能"><a href="#一、產品技能" class="headerlink" title="一、產品技能"></a>一、產品技能</h2><h3 id="1-User-使用者見解和洞察"><a href="#1-User-使用者見解和洞察" class="headerlink" title="1. User 使用者見解和洞察"></a>1. User 使用者見解和洞察</h3><p>理解使用者需求，了解想要用產品來解決的問題。如何蒐集使用者資料並往下挖掘最佳見解。</p>
+<p>常見的概念與框架：</p>
+<p>(1) Jobs To Be Done（JTBD）待辦工作框架</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">當我 &lt;情況&gt; 時，我想要 &lt;動機&gt;。如此一來，我就可以 &lt;期待結果&gt;</span><br></pre></td></tr></table></figure>
+
+<p>(2) 客戶旅程（Customer Journey）：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">覺察（Awareness）、考慮（Consideration）、購買（Purchase）、持有（Retention）、推廣（Advocacy）</span><br></pre></td></tr></table></figure>
+
+<p>(3) 使用者故事 User Story：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">As a ______, I want to ______, so that ______.</span><br><span class="line">身為 ___&lt;使用者角色&gt;___，我需要 ___&lt;做某件事情&gt;___，因為 ___&lt;想解決某個問題&gt;___。</span><br></pre></td></tr></table></figure>
+
+<h3 id="2-Data-資料洞察見解和決策"><a href="#2-Data-資料洞察見解和決策" class="headerlink" title="2. Data 資料洞察見解和決策"></a>2. Data 資料洞察見解和決策</h3><p>如何審核資料、設定產品北極星（North Star）、分析資料並運資料做出更好的決策。同時檢視公司指標、A&#x2F;B 測試和統計資料並在產品上線後建立指標（metrics）進行監控（monitor）。</p>
+<h3 id="3-Analytics-分析性問題解決問題能力"><a href="#3-Analytics-分析性問題解決問題能力" class="headerlink" title="3. Analytics 分析性問題解決問題能力"></a>3. Analytics 分析性問題解決問題能力</h3><p>透過系統框架，幫助做出更好的決策，系統性分析並解決複雜的問題。</p>
+<h3 id="4-Design-產品設計與技能"><a href="#4-Design-產品設計與技能" class="headerlink" title="4. Design 產品設計與技能"></a>4. Design 產品設計與技能</h3><p>發展產品思維，以及推動產品決策的能力。學習 protoptype、Brainstorming 以及決定產品優先順序（Prioritization）。</p>
+<h3 id="5-Tech-技術技能"><a href="#5-Tech-技術技能" class="headerlink" title="5. Tech 技術技能"></a>5. Tech 技術技能</h3><p>學習如何與工程師合作，估計開發成本，技術專有名詞：API、部屬、SQL 和演算法。</p>
+<h3 id="6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件"><a href="#6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件" class="headerlink" title="6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件"></a>6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件</h3><p>學習如何撰寫 spec、BRD&#x2F;MRD&#x2F;PRD 等文件，將需求轉換成文件。</p>
+<h2 id="二、執行技能"><a href="#二、執行技能" class="headerlink" title="二、執行技能"></a>二、執行技能</h2><h3 id="1-Project-Management-專案管理技能"><a href="#1-Project-Management-專案管理技能" class="headerlink" title="1. Project Management 專案管理技能"></a>1. Project Management 專案管理技能</h3><p>如何規劃專案並讓它保持在正軌上，學習 Agile 敏捷開發、Lean、Scrum、Kanban，提高團隊的速度的最佳實踐。</p>
+<h3 id="2-界定範圍和漸進式開發"><a href="#2-界定範圍和漸進式開發" class="headerlink" title="2. 界定範圍和漸進式開發"></a>2. 界定範圍和漸進式開發</h3><p>如何將工作拆分為多個發行版本，從而更快速且更成功地發行（launch）。學習最簡單可行性產品（MVP），以及真正讓使用者使用的產品。</p>
+<h3 id="3-產品發表"><a href="#3-產品發表" class="headerlink" title="3. 產品發表"></a>3. 產品發表</h3><p>如何準備發表日，你將學習如何選擇發表日期並將發表檢查清單納入細節並討論各種發表策略。</p>
+<h3 id="4-把事情做完"><a href="#4-把事情做完" class="headerlink" title="4. 把事情做完"></a>4. 把事情做完</h3><p>管理時間和克服障礙，學習 4D 框架，以及如何與遠端團隊高效地工作。</p>
+<h2 id="三、策略技能"><a href="#三、策略技能" class="headerlink" title="三、策略技能"></a>三、策略技能</h2><h3 id="產品策略概述"><a href="#產品策略概述" class="headerlink" title="產品策略概述"></a>產品策略概述</h3><p>學習了解什麼是策略，以及策略的涵義。包含策略三元素和制定策略的框架。</p>
+<h3 id="願景"><a href="#願景" class="headerlink" title="願景"></a>願景</h3><p>如何為產品建立一個令人嚮往的願景。學習如何逆向工作框架，看看遠大的願景如何協助團隊成功。</p>
+<h3 id="策略框架"><a href="#策略框架" class="headerlink" title="策略框架"></a>策略框架</h3><p>學習將願景和市場連結起來，創造成功的產品。學習 4P、5C 和 Porter 五力分析等框架。</p>
+<h3 id="路線圖和優先順序"><a href="#路線圖和優先順序" class="headerlink" title="路線圖和優先順序"></a>路線圖和優先順序</h3><h3 id="團隊目標"><a href="#團隊目標" class="headerlink" title="團隊目標"></a>團隊目標</h3><p>建立有效目標來激勵團隊。學習 OKR 等指標以及設定目標。</p>
+<h2 id="四、領導技能"><a href="#四、領導技能" class="headerlink" title="四、領導技能"></a>四、領導技能</h2><h3 id="個人心態"><a href="#個人心態" class="headerlink" title="個人心態"></a>個人心態</h3><p>學習克服阻礙成為偉大 PM 的心理陷阱，我們將學習成長心態、成熟度、無我和冒牌者症候群。</p>
+<h3 id="協作"><a href="#協作" class="headerlink" title="協作"></a>協作</h3><p>學習如何和夥伴共事，我們將學習如何化解衝突、心理安全感和個性差異。</p>
+<h3 id="不動用權威的影響力"><a href="#不動用權威的影響力" class="headerlink" title="不動用權威的影響力"></a>不動用權威的影響力</h3><p>學習利害關係人管理以及如何推動決策。</p>
+<h3 id="溝通"><a href="#溝通" class="headerlink" title="溝通"></a>溝通</h3><p>學習如何書面對話、現場對話以及如何推動決策。</p>
+<h3 id="激勵與啟發"><a href="#激勵與啟發" class="headerlink" title="激勵與啟發"></a>激勵與啟發</h3><p>如何保持團隊積極度，學習內在動機和外在動機，以及在關鍵時刻該怎麼做。</p>
+<h3 id="所有權心態"><a href="#所有權心態" class="headerlink" title="所有權心態"></a>所有權心態</h3><p>學習如何為團隊和產品負全責。學習如何填補空白，並在產品團隊外做出貢獻。</p>
+<h3 id="輔導"><a href="#輔導" class="headerlink" title="輔導"></a>輔導</h3><p>教我們輔導他人。學習學徒制、支持學員以及給予回饋。</p>
+<h3 id="與其他部門的共事"><a href="#與其他部門的共事" class="headerlink" title="與其他部門的共事"></a>與其他部門的共事</h3><p>深入討論如何與設計師、工程師和高層共事，學習如何建立信任關係。</p>
+<h2 id="五、人事管理技能"><a href="#五、人事管理技能" class="headerlink" title="五、人事管理技能"></a>五、人事管理技能</h2><h3 id="成為人事經理"><a href="#成為人事經理" class="headerlink" title="成為人事經理"></a>成為人事經理</h3><p>將幫助你了解是否要進入管理層，如何邁出第一步，以及公司如何選擇新的經理。</p>
+<h3 id="PM-經理的新領導技能"><a href="#PM-經理的新領導技能" class="headerlink" title="PM 經理的新領導技能"></a>PM 經理的新領導技能</h3><p>如何成為領導團隊一員。負起責任、學習溝通。</p>
+<h3 id="教導和培養"><a href="#教導和培養" class="headerlink" title="教導和培養"></a>教導和培養</h3><p>學習如何幫助團隊成員成長和發展技能，學習個人發展計畫，指派專案和評估績效。</p>
+<h3 id="建立團隊"><a href="#建立團隊" class="headerlink" title="建立團隊"></a>建立團隊</h3><p>如何招募優秀的 PM，學習設計面試流程、說服吸引人選，如何尋找人選。</p>
+<h3 id="組織卓越"><a href="#組織卓越" class="headerlink" title="組織卓越"></a>組織卓越</h3><p>設計一個良好運作的產品組織，學習產品流程、團隊文化和組織設計。</p>
+<h1 id="常見-PM-技能"><a href="#常見-PM-技能" class="headerlink" title="常見 PM 技能"></a>常見 PM 技能</h1><ol>
+<li>Communication</li>
+<li>Execution</li>
+<li>Product sense</li>
+<li>Strategic thinking</li>
+<li>Collaboration</li>
+<li>Data acumen</li>
+<li>Technical</li>
+<li>Business acumen</li>
+<li>Raw intelligence</li>
+<li>Empathy</li>
+<li>Design&#x2F;UX</li>
+</ol>
+<h1 id="提升-Product-sense-方法"><a href="#提升-Product-sense-方法" class="headerlink" title="提升 Product sense 方法"></a>提升 Product sense 方法</h1><p>一、Observe People Interaction with Products<br>二、 Deconstructing Everyday product</p>
+<h1 id="市場推論"><a href="#市場推論" class="headerlink" title="市場推論"></a>市場推論</h1><p>費米推論的思考五步驟：「定義問題、思考解法、列出算式、計算檢果、檢驗數據」，當您面對無處著力的問題時，就可以借助這五個步驟，像剝洋蔥一般層層思考。學會這五個步驟，就能培養把大問題分解為小問題的「費米化」能力，不僅能提升職場的問題解決力，還會讓主管覺得你的簡報、數據很有道理。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
+<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
+<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
+<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
+<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
+<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>Project Manager</tag>
+        <tag>Program Manager</tag>
+        <tag>專案經理</tag>
+        <tag>PM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>產品經理（Product Manager, PM）課程學習參考清單</title>
     <url>/2024/06/03/product-manager-course-list/</url>
     <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
@@ -541,11 +541,11 @@
 </ol>
 ]]></content>
       <tags>
+        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>PM</tag>
@@ -639,11 +639,11 @@
 </ol>
 ]]></content>
       <tags>
+        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>Project Manager</tag>
@@ -671,11 +671,11 @@
 </ol>
 ]]></content>
       <tags>
+        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>PM</tag>
@@ -812,9 +812,9 @@
 <blockquote>
 <p>「放下，不是逃避，而是給自己自由的機會。不執著於無法控制的事物，專注於當下所能改變的，便能活得更加輕鬆自在。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>在現代社會中，我們面臨著來自工作、人際關係與生活壓力的各種挑戰。本書由日本知名禪師枡野俊明撰寫，透過99個生活準則，教導我們如何運用禪學的智慧，學會「<code>放下</code>」，<code>讓心靈重獲自由</code>。本書不僅適合對<code>禪學</code>有興趣的讀者，也特別適合正在<code>面臨人生困境</code>、<code>希望減少內心煩惱</code>的人。  </p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會中，我們面臨著來自工作、人際關係與生活壓力的各種挑戰。本書由日本知名禪師枡野俊明撰寫，透過99個生活準則，教導我們如何運用禪學的智慧，學會「<code>放下</code>」，<code>讓心靈重獲自由</code>。本書不僅適合對<code>禪學</code>有興趣的讀者，也特別適合正在<code>面臨人生困境</code>、<code>希望減少內心煩惱</code>的人。  </p>
 <p><img src="/img/posts/reading-notes-do-not-react-to-everything-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><ol>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
 <li><strong>人際關係：學會適度距離</strong></li>
 </ol>
 <ul>
@@ -846,7 +846,7 @@
 <li><code>不必事事爭辯是非</code>，學會<code>退一步海闊天空</code>  </li>
 <li><code>對自己的選擇負責</code>，勇敢接受每一步帶來的結果</li>
 </ul>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -905,11 +905,11 @@
 <h3 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h3><p>本書不僅適用於產品專案管理者，更是所有企業領導人應該深入研究的課題。數位轉型的成功關鍵在於建立「授權與賦能」的文化，使組織成員能夠自主決策與創新，最終提升企業競爭力。透過培養 <code>Sense of Ownership</code>（責任感），企業與員工才能實現共榮共存。</p>
 ]]></content>
       <tags>
+        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>產品專案管理專案全書</tag>
@@ -983,11 +983,11 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
 ]]></content>
       <tags>
+        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
@@ -1066,8 +1066,8 @@
 <h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
 ]]></content>
       <tags>
-        <tag>產品</tag>
         <tag>產案管理</tag>
+        <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>Project Manager</tag>
@@ -1121,11 +1121,11 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
 ]]></content>
       <tags>
+        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
