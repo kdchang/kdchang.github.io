@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-app-10-keywords/</url>
+    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
+<ol>
+<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
+<li><strong>聊天機器人</strong>（Chatbots）</li>
+<li><strong>文字摘要</strong>（Text Summarization）</li>
+<li><strong>內容生成</strong>（Content Generation）</li>
+<li><strong>情感分析</strong>（Sentiment Analysis）</li>
+<li><strong>語音助手</strong>（Voice Assistants）</li>
+<li><strong>自動翻譯</strong>（Automatic Translation）</li>
+<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
+<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
+<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
+</ol>
+<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
     <url>/2024/05/22/about-llm-tech-10-keywords/</url>
     <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
@@ -20,33 +47,6 @@
 <h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
 <li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
 </ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-app-10-keywords/</url>
-    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
-<ol>
-<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
-<li><strong>聊天機器人</strong>（Chatbots）</li>
-<li><strong>文字摘要</strong>（Text Summarization）</li>
-<li><strong>內容生成</strong>（Content Generation）</li>
-<li><strong>情感分析</strong>（Sentiment Analysis）</li>
-<li><strong>語音助手</strong>（Voice Assistants）</li>
-<li><strong>自動翻譯</strong>（Automatic Translation）</li>
-<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
-<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
-<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
-</ol>
-<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
 ]]></content>
       <tags>
         <tag>生成式 AI</tag>
@@ -693,61 +693,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《原子習慣：細微改變帶來巨大成就的實證法則》| 閱讀心得學習筆記</title>
-    <url>/2019/06/01/reading-notes-atomic-habits/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-atomic-habits-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子習慣：細微改變帶來巨大成就的實證法則》</span><br><span class="line">作者： 詹姆斯‧克利爾  </span><br><span class="line">原文作者： James Clear</span><br><span class="line">譯者： 蔡世偉</span><br><span class="line">出版社：方智</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「真正的改變來自於微小但持續的習慣累積，就像複利效應一般，日積月累後帶來巨大成果。」  </p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為改變人生需要驚天動地的決定，實則不然。本書《原子習慣》告訴我們，真正的改變來自於<code>微小但持續的習慣累積</code>，就像<code>複利效應</code>一般，<code>日積月累後帶來巨大成果</code>。作者詹姆斯·克利爾透過科學研究與實證案例，提供了一套實用的方法論，讓我們能夠掌握習慣的力量，擺脫壞習慣，培養能帶來成功的好習慣。  </p>
-<p><img src="/img/posts/reading-notes-atomic-habits-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>習慣的影響力</strong></p>
-<ul>
-<li><code>習慣不是一次性的選擇</code>，<code>而是日常行為的累積</code>，影響最終結果。  </li>
-<li><code>人生的成果是無數習慣的總和</code>，而非單一決策的結果。</li>
-</ul>
-</li>
-<li><p><strong>四大習慣法則</strong>  </p>
-<ul>
-<li><strong>提示</strong>：讓好習慣變得<code>顯而易見</code>，例如：將運動服擺在床邊提醒自己運動。  </li>
-<li><strong>渴望</strong>：讓好習慣變得<code>有吸引力</code>，例如：將習慣與喜愛的活動結合。  </li>
-<li><strong>回應</strong>：讓好習慣變得<code>簡單易行</code>，例如：減少執行步驟，讓運動變得更輕鬆開始。  </li>
-<li><strong>獎賞</strong>：讓好習慣變得<code>令人滿足</code>，例如：記錄進步並給予小獎勵。</li>
-</ul>
-</li>
-<li><p><strong>微小改變的複利效應</strong></p>
-<ul>
-<li><code>1% 的日常進步</code>，<code>長期累積</code>後帶來<code>巨大變化</code>。  </li>
-<li>即使短期內看不到成果，習慣的影響會隨時間擴大。</li>
-</ul>
-</li>
-<li><p><strong>環境對習慣的影響</strong></p>
-<ul>
-<li><code>環境</code>塑造習慣，比意志力更重要。  </li>
-<li>透過<code>改變環境來強化好習慣</code>，例如：將健康零食擺在顯眼處，減少垃圾食物的誘惑。</li>
-</ul>
-</li>
-<li><p><strong>如何擺脫壞習慣</strong></p>
-<ul>
-<li>讓壞習慣變得<code>不明顯</code>、<code>不吸引人</code>、<code>難以執行</code>、<code>不具獎勵效果</code>，例如：移除讓人分心的手機應用程式。</li>
-</ul>
-</li>
-</ol>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《原子習慣》提供了一個簡單但有效的<code>習慣養成方法</code>，不依賴意志力，而是透過<code>環境設計</code>與<code>行為調整</code>，讓改變變得自然而然。如果我們能夠掌握這些原則，每天進步 1%，長期下來，人生將會迎來翻天覆地的變化。改變，不是來自一時的決心，而是來自每天不經意的小行動。</p>
-]]></content>
-      <tags>
-        <tag>原子習慣</tag>
-        <tag>細微改變帶來巨大成就的實證法則</tag>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《大人學破局思考:從關鍵小事看出職場大局【大人的Small Talk 1】》| 閱讀心得學習筆記</title>
     <url>/2023/06/30/reading-notes-adultology-breakthrough-thinking/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-adultology-breakthrough-thinking-1.jpg"></p>
@@ -804,56 +749,58 @@
       </tags>
   </entry>
   <entry>
-    <title>《蛤蟆先生去看心理師》| 閱讀心得學習筆記</title>
-    <url>/2022/01/26/reading-notes-counselling-for-roads-a-psychological-adventure/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《蛤蟆先生去看心理師》</span><br><span class="line">作者： 羅伯．狄保德  </span><br><span class="line">原文作者： Robert de Board</span><br><span class="line">譯者： 張美惠</span><br><span class="line">繪者： Dinner Illustration</span><br></pre></td></tr></table></figure>
+    <title>《原子習慣：細微改變帶來巨大成就的實證法則》| 閱讀心得學習筆記</title>
+    <url>/2019/06/01/reading-notes-atomic-habits/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-atomic-habits-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子習慣：細微改變帶來巨大成就的實證法則》</span><br><span class="line">作者： 詹姆斯‧克利爾  </span><br><span class="line">原文作者： James Clear</span><br><span class="line">譯者： 蔡世偉</span><br><span class="line">出版社：方智</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「每個人生下來都是王子，卻被父母變成青蛙。」</p>
+<p>「真正的改變來自於微小但持續的習慣累積，就像複利效應一般，日積月累後帶來巨大成果。」  </p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會，心理健康已逐漸被重視，但許多人仍對心理諮商存有疑慮。蛤蟆先生去看心理師透過<code>童話故事</code>的方式，<code>生動展現心理諮商的過程</code>，幫助讀者理解<code>心理治療</code>如何促進<code>個人成長</code>。本書不僅是一部<code>心理學入門書</code>，更是一場關於<code>自我覺察</code>與<code>情緒療癒</code>的旅程。</p>
-<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-2.jpg"></p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為改變人生需要驚天動地的決定，實則不然。本書《原子習慣》告訴我們，真正的改變來自於<code>微小但持續的習慣累積</code>，就像<code>複利效應</code>一般，<code>日積月累後帶來巨大成果</code>。作者詹姆斯·克利爾透過科學研究與實證案例，提供了一套實用的方法論，讓我們能夠掌握習慣的力量，擺脫壞習慣，培養能帶來成功的好習慣。  </p>
+<p><img src="/img/posts/reading-notes-atomic-habits-2.jpg"></p>
 <h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>心理諮商的過程</strong>  </p>
+<li><p><strong>習慣的影響力</strong></p>
 <ul>
-<li>透過蛤蟆先生與心理師蒼鷺的 10 次諮商，呈現<code>心理治療的典型模式</code>。  </li>
-<li>解析個人如何透過<code>自我探索</code>，<code>理解過往經驗對自身行為的影響</code>。</li>
+<li><code>習慣不是一次性的選擇</code>，<code>而是日常行為的累積</code>，影響最終結果。  </li>
+<li><code>人生的成果是無數習慣的總和</code>，而非單一決策的結果。</li>
 </ul>
 </li>
-<li><p><strong>溝通分析（TA）理論應用</strong>  </p>
+<li><p><strong>四大習慣法則</strong>  </p>
 <ul>
-<li>書中介紹 Eric Berne 的溝通分析理論，包括「<code>內在小孩</code>」、「<code>父母</code>」、「<code>成人</code>」三種自我狀態。  </li>
-<li>透過分析自己的內在對話，提升情緒智商。</li>
+<li><strong>提示</strong>：讓好習慣變得<code>顯而易見</code>，例如：將運動服擺在床邊提醒自己運動。  </li>
+<li><strong>渴望</strong>：讓好習慣變得<code>有吸引力</code>，例如：將習慣與喜愛的活動結合。  </li>
+<li><strong>回應</strong>：讓好習慣變得<code>簡單易行</code>，例如：減少執行步驟，讓運動變得更輕鬆開始。  </li>
+<li><strong>獎賞</strong>：讓好習慣變得<code>令人滿足</code>，例如：記錄進步並給予小獎勵。</li>
 </ul>
 </li>
-<li><p><strong>童年經歷與人格形成</strong>  </p>
+<li><p><strong>微小改變的複利效應</strong></p>
 <ul>
-<li><code>童年的創傷</code>、<code>家庭環境對自我認同</code>的影響深遠。  </li>
-<li>透過諮商，蛤蟆先生重新審視自己的過去，<code>學習自我接納</code>與<code>成長</code>。</li>
+<li><code>1% 的日常進步</code>，<code>長期累積</code>後帶來<code>巨大變化</code>。  </li>
+<li>即使短期內看不到成果，習慣的影響會隨時間擴大。</li>
 </ul>
 </li>
-<li><p><strong>心理遊戲與情緒模式</strong>  </p>
+<li><p><strong>環境對習慣的影響</strong></p>
 <ul>
-<li>書中探討「<code>心理遊戲</code>」，如<code>受害者</code>、<code>迫害者</code>與<code>拯救者</code>的角色互動。  </li>
-<li>讀者可藉由案例，反思自己在人際關係中的模式。</li>
+<li><code>環境</code>塑造習慣，比意志力更重要。  </li>
+<li>透過<code>改變環境來強化好習慣</code>，例如：將健康零食擺在顯眼處，減少垃圾食物的誘惑。</li>
 </ul>
 </li>
-<li><p><strong>改變的可能與挑戰</strong>  </p>
+<li><p><strong>如何擺脫壞習慣</strong></p>
 <ul>
-<li>真正的改變來自內在動機，外在壓力難以促成持久的改變。  </li>
-<li>成長是循序漸進的，必須經歷自我懷疑、掙扎與突破的過程。</li>
+<li>讓壞習慣變得<code>不明顯</code>、<code>不吸引人</code>、<code>難以執行</code>、<code>不具獎勵效果</code>，例如：移除讓人分心的手機應用程式。</li>
 </ul>
 </li>
 </ol>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>蛤蟆先生去看心理師 以輕鬆的方式傳遞深刻的心理學知識，讓讀者理解諮商如何幫助個人突破心理困境。無論是對心理學感興趣，或是想尋找內心平衡的人，都能在書中找到共鳴，並學習如何更好地理解自己與他人。</p>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《原子習慣》提供了一個簡單但有效的<code>習慣養成方法</code>，不依賴意志力，而是透過<code>環境設計</code>與<code>行為調整</code>，讓改變變得自然而然。如果我們能夠掌握這些原則，每天進步 1%，長期下來，人生將會迎來翻天覆地的變化。改變，不是來自一時的決心，而是來自每天不經意的小行動。</p>
 ]]></content>
       <tags>
+        <tag>原子習慣</tag>
+        <tag>細微改變帶來巨大成就的實證法則</tag>
         <tag>閱讀心得</tag>
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>蛤蟆先生去看心理師</tag>
       </tags>
   </entry>
   <entry>
@@ -969,6 +916,59 @@
         <tag>矽谷最夯‧產品專案領導力全書</tag>
         <tag>領導力</tag>
         <tag>leadership</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《蛤蟆先生去看心理師》| 閱讀心得學習筆記</title>
+    <url>/2022/01/26/reading-notes-counselling-for-roads-a-psychological-adventure/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《蛤蟆先生去看心理師》</span><br><span class="line">作者： 羅伯．狄保德  </span><br><span class="line">原文作者： Robert de Board</span><br><span class="line">譯者： 張美惠</span><br><span class="line">繪者： Dinner Illustration</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「每個人生下來都是王子，卻被父母變成青蛙。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會，心理健康已逐漸被重視，但許多人仍對心理諮商存有疑慮。蛤蟆先生去看心理師透過<code>童話故事</code>的方式，<code>生動展現心理諮商的過程</code>，幫助讀者理解<code>心理治療</code>如何促進<code>個人成長</code>。本書不僅是一部<code>心理學入門書</code>，更是一場關於<code>自我覺察</code>與<code>情緒療癒</code>的旅程。</p>
+<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>心理諮商的過程</strong>  </p>
+<ul>
+<li>透過蛤蟆先生與心理師蒼鷺的 10 次諮商，呈現<code>心理治療的典型模式</code>。  </li>
+<li>解析個人如何透過<code>自我探索</code>，<code>理解過往經驗對自身行為的影響</code>。</li>
+</ul>
+</li>
+<li><p><strong>溝通分析（TA）理論應用</strong>  </p>
+<ul>
+<li>書中介紹 Eric Berne 的溝通分析理論，包括「<code>內在小孩</code>」、「<code>父母</code>」、「<code>成人</code>」三種自我狀態。  </li>
+<li>透過分析自己的內在對話，提升情緒智商。</li>
+</ul>
+</li>
+<li><p><strong>童年經歷與人格形成</strong>  </p>
+<ul>
+<li><code>童年的創傷</code>、<code>家庭環境對自我認同</code>的影響深遠。  </li>
+<li>透過諮商，蛤蟆先生重新審視自己的過去，<code>學習自我接納</code>與<code>成長</code>。</li>
+</ul>
+</li>
+<li><p><strong>心理遊戲與情緒模式</strong>  </p>
+<ul>
+<li>書中探討「<code>心理遊戲</code>」，如<code>受害者</code>、<code>迫害者</code>與<code>拯救者</code>的角色互動。  </li>
+<li>讀者可藉由案例，反思自己在人際關係中的模式。</li>
+</ul>
+</li>
+<li><p><strong>改變的可能與挑戰</strong>  </p>
+<ul>
+<li>真正的改變來自內在動機，外在壓力難以促成持久的改變。  </li>
+<li>成長是循序漸進的，必須經歷自我懷疑、掙扎與突破的過程。</li>
+</ul>
+</li>
+</ol>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>蛤蟆先生去看心理師 以輕鬆的方式傳遞深刻的心理學知識，讓讀者理解諮商如何幫助個人突破心理困境。無論是對心理學感興趣，或是想尋找內心平衡的人，都能在書中找到共鳴，並學習如何更好地理解自己與他人。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>蛤蟆先生去看心理師</tag>
       </tags>
   </entry>
   <entry>
@@ -1137,53 +1137,37 @@
       </tags>
   </entry>
   <entry>
-    <title>《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》 | 閱讀心得學習筆記</title>
-    <url>/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品</span><br><span class="line">Transformed: Moving to the Product Operating Model</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+    <title>《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》| 閱讀心得學習筆記</title>
+    <url>/2024/02/29/reading-notes-wait-what-and-lifes-essential-questions/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》</span><br><span class="line">作者： 詹姆斯．萊恩</span><br><span class="line">原文作者： James E. Ryan</span><br><span class="line">譯者： 廖月娟</span><br><span class="line">出版社：天下文化 </span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「產品營運模式不是流程，而是一種文化與思維的轉變。」<br>「成功的關鍵，不在於開發更多功能，而是打造客戶真正需要的產品。」</p>
+<p>「不論你所處的領域為何，提出好問題都是生涯成功的關鍵。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>本書探討如何透過「產品營運模式」取代傳統 IT 專案管理，讓企業能夠更靈活且高效地打造成功產品。透過矽谷科技公司的實際案例，作者馬提·凱根是多本矽谷產品專業書籍作者，解析了產品管理轉型的挑戰與方法，幫助企業落實技術驅動的產品開發模式。</p>
-<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><h3 id="1-產品營運模式的重要性"><a href="#1-產品營運模式的重要性" class="headerlink" title="1. 產品營運模式的重要性"></a><strong>1. 產品營運模式的重要性</strong></h3><ul>
-<li>將產品開發從單次專案轉變為<code>持續迭代</code>運行的模式，提升創新與市場適應能力。  </li>
-<li>產品營運模式能夠確保開發的產品符合<code>客戶需求</code>，而非僅憑內部假設與推測。</li>
-</ul>
-<h3 id="2-產品開發的三大變革"><a href="#2-產品開發的三大變革" class="headerlink" title="2. 產品開發的三大變革"></a><strong>2. 產品開發的三大變革</strong></h3><ul>
-<li><strong>改變打造產品的方式</strong>：採用<code>跨職能團隊</code>，<code>提高決策效率</code>。  </li>
-<li><strong>改變解決問題的方式</strong>：讓團隊<code>自主尋找問題</code>並<code>驗證解決方案</code>。  </li>
-<li><strong>改變決定解決什麼問題的方式</strong>：高層<code>提供方向</code>，<code>團隊負責實際策略與執行</code>。</li>
-</ul>
-<h2 id="3-產品職能與風險承擔"><a href="#3-產品職能與風險承擔" class="headerlink" title="3. 產品職能與風險承擔"></a><strong>3. 產品職能與風險承擔</strong></h2><ul>
-<li><strong>產品經理</strong>：負責<code>價值風險</code>與<code>商業可行性</code>。  </li>
-<li><strong>產品設計師</strong>：確保產品<code>可用性與用戶體驗</code>。  </li>
-<li><strong>工程師</strong>：確保<code>技術可行性與開發效率</code>。</li>
-</ul>
-<h2 id="4-團隊領導與組織文化"><a href="#4-團隊領導與組織文化" class="headerlink" title="4. 團隊領導與組織文化"></a><strong>4. 團隊領導與組織文化</strong></h2><ul>
-<li>團隊應該被賦權，為「<code>outcome 結果</code>」負責，而非僅關注「<code>output 產出</code>」。  </li>
-<li>領導者應專注於<code>策略</code>、<code>團隊組成</code>與<code>技術指導</code>，而非細節管理。  </li>
-<li>產品團隊應透過<code>數據</code>與<code>用戶研究</code>來<code>驅動決策</code>，而非僅依賴直覺。</li>
-</ul>
-<h2 id="5-企業轉型的挑戰與策略"><a href="#5-企業轉型的挑戰與策略" class="headerlink" title="5. 企業轉型的挑戰與策略"></a><strong>5. 企業轉型的挑戰與策略</strong></h2><ul>
-<li>轉型過程困難重重，需從企業文化、組織架構到流程全面調整。  </li>
-<li>透過與顧客、銷售、行銷、財務等部門的緊密合作，確保產品策略的一致性。  </li>
-<li>以數據驗證成果，持續改善與優化產品營運模式。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書《#人生思考題》由維吉尼亞大學校長詹姆斯．萊恩所著，深入探討了人生中最重要的五個問題，並提供了對應的思維方式來幫助讀者突破生涯中的障礙。這些問題並非尋常的答案，而是能引發深刻思考、促進自我成長並改善人際關係的提問。透過幽默的小故事和實際的生活例子，萊恩向我們展示了思考的力量，並告訴我們如何用問題來開創一個充滿智慧的未來。</p>
+<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>「等等，你說什麼？」</strong><br>這是深入了解的根源。<code>學會傾聽</code>和<code>確保你理解對方的話語</code>，可以讓你從根本上把握對話的方向。</p>
+</li>
+<li><p><strong>「我想知道……？」</strong><br><code>好奇心</code>是學習的驅動力。提出這個問題能夠激發探索精神，開啟思考的邊界。</p>
+</li>
+<li><p><strong>「至少，我們是不是能夠……？」</strong><br>這個問題啟動了<code>行動的開始</code>，幫助我們從理論轉向實踐，尋找進步的途徑。</p>
+</li>
+<li><p><strong>「我能夠幫什麼忙？」</strong><br>這是建立關係的基礎。透過詢問自己能為他人做什麼，我們能夠創造<code>良好的互動與合作</code>。</p>
+</li>
+<li><p><strong>「真正重要的是什麼？」</strong><br>這個問題幫助我們<code>回歸生命的核心</code>，<code>找出真正值得追求的目標</code>。</p>
+</li>
+</ol>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《#人生思考題》提醒我們，提出好問題能夠塑造出一個更加充實和有意義的人生。萊恩的五個關鍵問題，不僅能夠解答人生的迷茫，還能幫助我們在職業生涯和人際關係中走得更遠。這本書是一本指引我們反思並實踐智慧的寶典，值得每一位渴望成長的讀者閱讀。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>產品營運模式轉型全書</tag>
+        <tag>你的人生，真正重要的是什麼？</tag>
+        <tag>感動百萬人的5個人生提問，那些比正確答案更關鍵的事</tag>
       </tags>
   </entry>
   <entry>
@@ -1233,6 +1217,56 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>回味本町摩登老時光</tag>
         <tag>台南老店散步</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》 | 閱讀心得學習筆記</title>
+    <url>/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品</span><br><span class="line">Transformed: Moving to the Product Operating Model</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「產品營運模式不是流程，而是一種文化與思維的轉變。」<br>「成功的關鍵，不在於開發更多功能，而是打造客戶真正需要的產品。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>本書探討如何透過「產品營運模式」取代傳統 IT 專案管理，讓企業能夠更靈活且高效地打造成功產品。透過矽谷科技公司的實際案例，作者馬提·凱根是多本矽谷產品專業書籍作者，解析了產品管理轉型的挑戰與方法，幫助企業落實技術驅動的產品開發模式。</p>
+<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><h3 id="1-產品營運模式的重要性"><a href="#1-產品營運模式的重要性" class="headerlink" title="1. 產品營運模式的重要性"></a><strong>1. 產品營運模式的重要性</strong></h3><ul>
+<li>將產品開發從單次專案轉變為<code>持續迭代</code>運行的模式，提升創新與市場適應能力。  </li>
+<li>產品營運模式能夠確保開發的產品符合<code>客戶需求</code>，而非僅憑內部假設與推測。</li>
+</ul>
+<h3 id="2-產品開發的三大變革"><a href="#2-產品開發的三大變革" class="headerlink" title="2. 產品開發的三大變革"></a><strong>2. 產品開發的三大變革</strong></h3><ul>
+<li><strong>改變打造產品的方式</strong>：採用<code>跨職能團隊</code>，<code>提高決策效率</code>。  </li>
+<li><strong>改變解決問題的方式</strong>：讓團隊<code>自主尋找問題</code>並<code>驗證解決方案</code>。  </li>
+<li><strong>改變決定解決什麼問題的方式</strong>：高層<code>提供方向</code>，<code>團隊負責實際策略與執行</code>。</li>
+</ul>
+<h2 id="3-產品職能與風險承擔"><a href="#3-產品職能與風險承擔" class="headerlink" title="3. 產品職能與風險承擔"></a><strong>3. 產品職能與風險承擔</strong></h2><ul>
+<li><strong>產品經理</strong>：負責<code>價值風險</code>與<code>商業可行性</code>。  </li>
+<li><strong>產品設計師</strong>：確保產品<code>可用性與用戶體驗</code>。  </li>
+<li><strong>工程師</strong>：確保<code>技術可行性與開發效率</code>。</li>
+</ul>
+<h2 id="4-團隊領導與組織文化"><a href="#4-團隊領導與組織文化" class="headerlink" title="4. 團隊領導與組織文化"></a><strong>4. 團隊領導與組織文化</strong></h2><ul>
+<li>團隊應該被賦權，為「<code>outcome 結果</code>」負責，而非僅關注「<code>output 產出</code>」。  </li>
+<li>領導者應專注於<code>策略</code>、<code>團隊組成</code>與<code>技術指導</code>，而非細節管理。  </li>
+<li>產品團隊應透過<code>數據</code>與<code>用戶研究</code>來<code>驅動決策</code>，而非僅依賴直覺。</li>
+</ul>
+<h2 id="5-企業轉型的挑戰與策略"><a href="#5-企業轉型的挑戰與策略" class="headerlink" title="5. 企業轉型的挑戰與策略"></a><strong>5. 企業轉型的挑戰與策略</strong></h2><ul>
+<li>轉型過程困難重重，需從企業文化、組織架構到流程全面調整。  </li>
+<li>透過與顧客、銷售、行銷、財務等部門的緊密合作，確保產品策略的一致性。  </li>
+<li>以數據驗證成果，持續改善與優化產品營運模式。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>產品營運模式轉型全書</tag>
       </tags>
   </entry>
   <entry>
