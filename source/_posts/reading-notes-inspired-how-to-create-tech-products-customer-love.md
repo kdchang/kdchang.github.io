@@ -20,7 +20,7 @@ tags:
 ![](img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-1.jpg)
 
 ```
-矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品
+《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》
 INSPIRED: How to Create Tech Products Customers Love
 作者： 馬提．凱根  
 原文作者： Marty Cagan

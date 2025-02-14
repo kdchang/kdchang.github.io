@@ -23,7 +23,7 @@ tags:
 
 
 ```
-矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課
+《矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課》
 EMPOWERED: Ordinary People, Extraordinary Products
 作者： 馬提．凱根, 克里斯．瓊斯  
 原文作者： MARTY CAGAN, CHRIS JONES

@@ -21,7 +21,7 @@ tags:
 ![](img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg)
 
 ```
-矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品
+《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》
 Transformed: Moving to the Product Operating Model
 作者： 馬提．凱根  
 原文作者： Marty Cagan
