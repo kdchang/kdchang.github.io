@@ -23,8 +23,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>LLM</tag>
         <tag>大型語言模型</tag>
+        <tag>LLM</tag>
       </tags>
   </entry>
   <entry>
@@ -53,8 +53,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>LLM</tag>
         <tag>大型語言模型</tag>
+        <tag>LLM</tag>
       </tags>
   </entry>
   <entry>
@@ -189,13 +189,13 @@
 <p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
       <tags>
+        <tag>產品專案管理</tag>
+        <tag>產品管理</tag>
+        <tag>專案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
         <tag>Axure RP 10</tag>
         <tag>axure</tag>
       </tags>
@@ -287,8 +287,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>LLM</tag>
         <tag>大型語言模型</tag>
+        <tag>LLM</tag>
         <tag>fine-tuning</tag>
         <tag>微調</tag>
       </tags>
@@ -541,11 +541,11 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>PM</tag>
@@ -639,11 +639,11 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>Project Manager</tag>
@@ -671,11 +671,11 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>PM</tag>
@@ -920,9 +920,9 @@
 <blockquote>
 <p>「成功的秘訣在於賦能團隊，而非個別人才。」<br>「成就他人的同時，也就成就自己。」</p>
 </blockquote>
-<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h3><p>矽谷最夯‧產品專案領導力全書這本書強調「<code>授權與賦能</code>」的重要性，並指出數位轉型的核心不在於工具，而是組織與人的轉型。透過案例分析與理論探討，書中闡述了如何有效領導團隊，打造高效能組織，並強調建立企業文化與員工幸福感對於競爭力的影響。  </p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>矽谷最夯‧產品專案領導力全書這本書強調「<code>授權與賦能</code>」的重要性，並指出數位轉型的核心不在於工具，而是組織與人的轉型。透過案例分析與理論探討，書中闡述了如何有效領導團隊，打造高效能組織，並強調建立企業文化與員工幸福感對於競爭力的影響。  </p>
 <p><img src="/img/posts/reading-notes-empowered-ordinary-people-extraordinary-product-2.jpg"></p>
-<h3 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h3><ol>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><ol>
 <li><p><strong>數位轉型的真諦</strong>  </p>
 <ul>
 <li>轉型的關鍵在於「<code>人</code>」，<code>科技只是輔助工具</code>。  </li>
@@ -955,14 +955,14 @@
 </ul>
 </li>
 </ol>
-<h3 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h3><p>本書不僅適用於產品專案管理者，更是所有企業領導人應該深入研究的課題。數位轉型的成功關鍵在於建立「授權與賦能」的文化，使組織成員能夠自主決策與創新，最終提升企業競爭力。透過培養 <code>Sense of Ownership</code>（責任感），企業與員工才能實現共榮共存。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書不僅適用於產品專案管理者，更是所有企業領導人應該深入研究的課題。數位轉型的成功關鍵在於建立「授權與賦能」的文化，使組織成員能夠自主決策與創新，最終提升企業競爭力。透過培養 <code>Sense of Ownership</code>（責任感），企業與員工才能實現共榮共存。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>產品專案管理專案全書</tag>
@@ -1036,11 +1036,11 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
@@ -1081,6 +1081,63 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>活學：終生受用的人生高效能解密</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《矽谷最夯．產品專案行銷全書：破解世界級爆款產品，重新定義產品行銷力》 | 閱讀心得學習筆記</title>
+    <url>/2024/06/06/reading-notes-loved-how-to-rethink-marketing-for-tech-products/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-loved-how-to-rethink-marketing-for-tech-products-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《矽谷最夯．產品專案行銷全書：破解世界級爆款產品，重新定義產品行銷力》</span><br><span class="line">Loved: How to Rethink Marketing for Tech Products</span><br><span class="line">作者： 瑪蒂娜．羅琛科  </span><br><span class="line">原文作者： Martina Lauchengco</span><br><span class="line">譯者： 陳文和</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「將功能轉為價值，才是產品真正的語言。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>矽谷最夯產品行銷全書是矽谷行銷專家瑪蒂娜．羅琛科結合自身於微軟、網景及多家新創公司的實戰經驗，所撰寫的一部產品行銷權威指南。書中強調產品行銷不僅是宣傳產品，更是串聯產品、行銷、市場三方洞察，塑造產品價值，使產品與市場完美適配。本書適合行銷新手與專業人士，有助於了解如何推動產品採用曲線，實現業績成長。</p>
+<h1 id="重點摘要："><a href="#重點摘要：" class="headerlink" title="重點摘要："></a>重點摘要：</h1><ol>
+<li><p>產品價值導向：</p>
+<ul>
+<li>強調「<code>價值感知</code>」，非僅描述功能；溝通產品如何解決客戶痛點。</li>
+<li>案例：Expensify 以「簡化報帳」訊息勝出。</li>
+</ul>
+</li>
+<li><p>產品採用生命週期：</p>
+<ul>
+<li>針對早期採用者、大眾市場<code>分階段調整行銷策略</code>。</li>
+<li>案例：iPhone 分期推出功能滿足不同群體。</li>
+</ul>
+</li>
+<li><p>進入市場策略：</p>
+<ul>
+<li>結合產品、行銷、銷售團隊洞察，打造一致的 Go-to-Market 策略。</li>
+<li>案例：Bandwidth 化解跨部門目標不一難題。</li>
+</ul>
+</li>
+<li><p>說故事能力：</p>
+<ul>
+<li>以<code>故事</code>打動人心，讓產品價值深入人心。</li>
+<li>案例：Netflix 用「隨選隨看」革新娛樂消費方式。</li>
+</ul>
+</li>
+<li><p>動態調整：</p>
+<ul>
+<li>根據<code>市場回饋</code>，即時調整行銷策略，保持產品市場適配。</li>
+</ul>
+</li>
+</ol>
+<h1 id="總結："><a href="#總結：" class="headerlink" title="總結："></a>總結：</h1><p>產品行銷是連結產品與市場的關鍵橋樑，不僅強化產品價值，更驅動公司成長。理解顧客需求、善用採用曲線、整合跨部門資源，是產品行銷成功的三大關鍵。</p>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>產案管理</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>矽谷最夯‧產品專案領導力全書</tag>
+        <tag>領導力</tag>
+        <tag>leadership</tag>
       </tags>
   </entry>
   <entry>
@@ -1155,8 +1212,8 @@
 <h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>Project Manager</tag>
@@ -1210,11 +1267,11 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
