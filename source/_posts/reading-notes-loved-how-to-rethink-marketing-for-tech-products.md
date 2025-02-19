@@ -35,6 +35,8 @@ Loved: How to Rethink Marketing for Tech Products
 # 前言
 矽谷最夯產品行銷全書是矽谷行銷專家瑪蒂娜．羅琛科結合自身於微軟、網景及多家新創公司的實戰經驗，所撰寫的一部產品行銷權威指南。書中強調產品行銷不僅是宣傳產品，更是串聯產品、行銷、市場三方洞察，塑造產品價值，使產品與市場完美適配。本書適合行銷新手與專業人士，有助於了解如何推動產品採用曲線，實現業績成長。
 
+![](img/posts/reading-notes-loved-how-to-rethink-marketing-for-tech-products-2.jpg)
+
 # 重點摘要：
 1. 產品價值導向：
    - 強調「`價值感知`」，非僅描述功能；溝通產品如何解決客戶痛點。
