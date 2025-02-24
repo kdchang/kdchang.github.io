@@ -1,6 +1,6 @@
 ---
 title: 《別對每件事都有反應2：不執著的練習！》| 閱讀心得學習筆記
-date: 2024-12-18 11:33:41
+date: 2025-01-20 11:33:41
 author: kdchang
 description: 在現代社會中，我們面臨著來自工作、人際關係與生活壓力的各種挑戰。本書由日本知名禪師枡野俊明撰寫，透過99個生活準則，教導我們如何運用禪學的智慧，學會「放下」，讓心靈重獲自由。本書不僅適合對禪學有興趣的讀者，也特別適合正在面臨人生困境、希望減少內心煩惱的人。
 cover: https://www.kdchang.cc/img/posts/reading-notes-the-practice-of-non-attachment-1.jpg
