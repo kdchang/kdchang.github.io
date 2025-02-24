@@ -38,7 +38,7 @@ Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project M
 # **前言**
 在敏捷轉型的浪潮中，教練不再只是指導者，更是促進者與賦能者。本書由 Lyssa Adkins 撰寫，提供敏捷教練如何帶領團隊從協作走向卓越的實用指南。透過具體方法與案例，讀者能學習如何從控制風格轉變為引導者，打造自組織與高績效團隊。
 
-![](img/posts/reading-notes-scrum-master-team-1.jpg)
+![](img/posts/reading-notes-scrum-master-team-2.jpg)
 
 # **重點摘要**
 #### **1. 敏捷教練的角色轉變**
