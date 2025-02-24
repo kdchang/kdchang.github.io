@@ -169,6 +169,7 @@ addthis:
 ## robots.txt
 # robotstxt:
 #   useragent: "*"
+#   disallow: ''
 #   sitemap: 
 #     - https://www.kdchang.cc/sitemap.xml
 #   baidusitemap: 
@@ -200,6 +201,7 @@ deploy:
   repo: git@github.com:kdchang/kdchang.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+  ignore_hidden: false
 
 # hexo sitemap
 sitemap:
@@ -225,3 +227,4 @@ feed:
 
 include:
   .nojekyll
+  CNAME
