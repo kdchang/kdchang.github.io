@@ -23,8 +23,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>LLM</tag>
         <tag>大型語言模型</tag>
+        <tag>LLM</tag>
       </tags>
   </entry>
   <entry>
@@ -53,52 +53,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>LLM</tag>
         <tag>大型語言模型</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
-    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
-    <content><![CDATA[<blockquote>
-<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
-<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
-<p>Axure RP 主要有幾個常用的功能區塊：</p>
-<ol>
-<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
-<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
-<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
-<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
-<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
-</ol>
-<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
-<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
-<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
-<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
-<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
-<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
-<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
-<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
-<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
-<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
-<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
-<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
-<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
-<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
-<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
-        <tag>Axure RP 10</tag>
-        <tag>axure</tag>
+        <tag>LLM</tag>
       </tags>
   </entry>
   <entry>
@@ -201,52 +157,47 @@
       </tags>
   </entry>
   <entry>
-    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
-    <url>/2024/05/23/llm-langchain-notes/</url>
-    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
-<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
-<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
-
-<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
-<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
-<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
-<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
-<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
-<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
-<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
-<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
-<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
-<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
-<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
-<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
-<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
-<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
-<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
-<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
+    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
+    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
+    <content><![CDATA[<blockquote>
+<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
+<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
+<p>Axure RP 主要有幾個常用的功能區塊：</p>
+<ol>
+<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
+<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
+<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
+<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
+<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
 </ol>
-]]></content>
+<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
+<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
+<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
+<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
+<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
+<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
+<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
+<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
+<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
+<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
+<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
+<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
+<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
+<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
+<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
       <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LangChain</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>產品專案管理</tag>
+        <tag>產品管理</tag>
+        <tag>專案管理</tag>
+        <tag>Axure RP 10</tag>
+        <tag>axure</tag>
       </tags>
   </entry>
   <entry>
@@ -305,6 +256,55 @@
       </tags>
   </entry>
   <entry>
+    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
+    <url>/2024/05/23/llm-langchain-notes/</url>
+    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
+<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
+<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
+<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
+<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
+<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
+<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
+<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
+<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
+<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
+<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
+<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
+<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
+<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
+<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
+<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
+<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
+<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LangChain</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
     <url>/2024/05/26/llm-model-fine-turning/</url>
     <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
@@ -336,8 +336,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>LLM</tag>
         <tag>大型語言模型</tag>
+        <tag>LLM</tag>
         <tag>fine-tuning</tag>
         <tag>微調</tag>
       </tags>
@@ -438,6 +438,36 @@
       </tags>
   </entry>
   <entry>
+    <title>產品經理（Product Manager, PM）課程學習參考清單</title>
+    <url>/2024/06/03/product-manager-course-list/</url>
+    <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
+<li><a href="https://www.pressplay.cc/project/D7BB1024574FB1E143B45A933009E02C/about">產品經理學習營第六屆</a></li>
+<li><a href="https://hahow.in/courses/5d3583687f99a20021f7ebaf">產品思維：Spotify 產品經理帶你快速入門</a></li>
+<li><a href="https://hahow.in/courses/5e689828e612310028027876">產品數據分析 - 打造網路產品的決策引擎</a></li>
+<li><a href="https://hahow.in/courses/5c8e0a0a8d1cc80020951f1a">產品經理職場學：PM 必修的職涯指南！</a></li>
+<li><a href="https://www.pressplay.cc/project/E4C9F63270ADB7ECA54C1D6B1BB84905/about">產品思維－像產品經理一樣思考</a></li>
+<li><a href="https://sat.cool/course/89">產品思維養成術｜從觀念到實踐，矽谷產品經理帶你掌握產品全貌觀</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>書籍</tag>
+        <tag>清單</tag>
+        <tag>課程</tag>
+        <tag>course</tag>
+        <tag>Online Course</tag>
+        <tag>線上課程</tag>
+        <tag>PM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
     <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
     <content><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p>
@@ -522,40 +552,10 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
+        <tag>PM</tag>
         <tag>Project Manager</tag>
         <tag>Program Manager</tag>
         <tag>專案經理</tag>
-        <tag>PM</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>產品經理（Product Manager, PM）課程學習參考清單</title>
-    <url>/2024/06/03/product-manager-course-list/</url>
-    <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
-<li><a href="https://www.pressplay.cc/project/D7BB1024574FB1E143B45A933009E02C/about">產品經理學習營第六屆</a></li>
-<li><a href="https://hahow.in/courses/5d3583687f99a20021f7ebaf">產品思維：Spotify 產品經理帶你快速入門</a></li>
-<li><a href="https://hahow.in/courses/5e689828e612310028027876">產品數據分析 - 打造網路產品的決策引擎</a></li>
-<li><a href="https://hahow.in/courses/5c8e0a0a8d1cc80020951f1a">產品經理職場學：PM 必修的職涯指南！</a></li>
-<li><a href="https://www.pressplay.cc/project/E4C9F63270ADB7ECA54C1D6B1BB84905/about">產品思維－像產品經理一樣思考</a></li>
-<li><a href="https://sat.cool/course/89">產品思維養成術｜從觀念到實踐，矽谷產品經理帶你掌握產品全貌觀</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>PM</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>書籍</tag>
-        <tag>清單</tag>
-        <tag>課程</tag>
-        <tag>course</tag>
-        <tag>Online Course</tag>
-        <tag>線上課程</tag>
       </tags>
   </entry>
   <entry>
@@ -578,10 +578,10 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
+        <tag>PM</tag>
         <tag>Project Manager</tag>
         <tag>Program Manager</tag>
         <tag>專案經理</tag>
-        <tag>PM</tag>
         <tag>interview</tag>
         <tag>PM Interview</tag>
         <tag>PM 面試</tag>
@@ -646,11 +646,11 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
-        <tag>Project Manager</tag>
-        <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
+        <tag>PM</tag>
+        <tag>Project Manager</tag>
         <tag>書單</tag>
         <tag>推薦書單</tag>
         <tag>Project Management</tag>
@@ -678,10 +678,10 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
-        <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
+        <tag>PM</tag>
         <tag>書單</tag>
         <tag>證照</tag>
         <tag>scrum</tag>
@@ -1079,6 +1079,42 @@
       </tags>
   </entry>
   <entry>
+    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
+    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
+<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
+<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
+<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
+<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
+</ul>
+<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
+<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
+<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
+<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
+</ul>
+<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
+<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
+<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
+<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
+</ul>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>活學：終生受用的人生高效能解密</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《矽谷最夯．產品專案行銷全書：破解世界級爆款產品，重新定義產品行銷力》 | 閱讀心得學習筆記</title>
     <url>/2025/02/13/reading-notes-loved-how-to-rethink-marketing-for-tech-products/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-loved-how-to-rethink-marketing-for-tech-products-1.jpg"></p>
@@ -1134,42 +1170,6 @@
         <tag>marketing</tag>
         <tag>產案行銷</tag>
         <tag>Product Marketing Manager</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
-    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
-<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
-<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
-<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
-<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
-</ul>
-<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
-<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
-<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
-<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
-</ul>
-<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
-<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
-<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
-<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
-</ul>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>活學：終生受用的人生高效能解密</tag>
       </tags>
   </entry>
   <entry>
@@ -1248,9 +1248,9 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
+        <tag>產品專案管理專案全書</tag>
         <tag>Project Manager</tag>
         <tag>專案經理</tag>
-        <tag>產品專案管理專案全書</tag>
         <tag>PjM</tag>
         <tag>project</tag>
         <tag>專案</tag>
@@ -1263,7 +1263,7 @@
   </entry>
   <entry>
     <title>《別對每件事都有反應2：不執著的練習！》| 閱讀心得學習筆記</title>
-    <url>/2024/12/18/reading-notes-the-practice-of-non-attachment/</url>
+    <url>/2025/01/20/reading-notes-the-practice-of-non-attachment/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-1.jpg"></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別對每件事都有反應2：不執著的練習》</span><br><span class="line">作者： 枡野俊明</span><br><span class="line">譯者： 黃薇嬪</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
 
@@ -1555,51 +1555,6 @@
       </tags>
   </entry>
   <entry>
-    <title>在注意力稀缺的時代重新找回深度工作力（Deep Work）</title>
-    <url>/2017/09/10/stay-focus-and-keep-deep-working/</url>
-    <content><![CDATA[<p><img src="/img/posts/deep-work.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>隨著網際網路和科技產品的發展，人們除了時間外，注意力、專注力和深度工作力也成為十分稀缺的資產。現代人號稱一天工作八小時甚至更長，但我們往往在開會、被打斷、逛網站、滑手機、處理私人事務和在茶水間討論公司組織裡的八卦中切換我們的思緒，實際上真正有生產力和進入心流專注狀態可能不過幾個小時。</p>
-<p>或許是希望在日常工作之餘多一點自我時間，在生活瑣事襲來時能保有自我的追求，我很喜歡閱讀各類型有關提高工作生產力和自我學習的書籍並在生活中實踐。最近看的這本由 Cal Newport 撰寫的 <a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692">Deep Work: Rules for Focused Success in a Distracted World Hardcover</a>（<a href="http://www.books.com.tw/products/0010758381">中文書名：深度工作力</a>）討論了最近幾年在工作生產力書籍中時常被談到的議題：專注力和工作效率，並明確定義了深度工作力和淺薄工作力的區別。書中沒有複雜的理論，取而代之的是淺顯的範例和建議，蠻適合希望在競爭激烈的知識經濟時代保有核心工作力的朋友當做入門的概論書來看。</p>
-<h1 id="在新經濟社會需要具備的深度工作力"><a href="#在新經濟社會需要具備的深度工作力" class="headerlink" title="在新經濟社會需要具備的深度工作力"></a>在新經濟社會需要具備的深度工作力</h1><p>本書一開始定義了什麼是<code>深度工作</code>，什麼是<code>淺薄工作</code>。所謂的深度工作是在一段充分專注的情況下所從事的職業活動。在深度工作的狀態下你可以將你的認知能力發揮到極限，進而改善並學習困難的專業技術，創造新的價值並建立他人難以模仿的專業能力和思考洞察。相對而言，淺薄工作主要是不需要高認知需求，偏向回覆性、協調性工作，通常不太需要太多專注力就可以執行，通常這類型工作創造價值有限，且容易被模仿。</p>
-<p>當然書中也提到了一些比較特別的例子，包括身兼 Twitter 執行長和 Squard CEO 的 Jack Dorsey，工作上確實花很多時間在做淺薄工作，例如：擔任主管開各種會議、不斷被打斷、收發 Email 等。然而這類主管、業務員和網路行銷企劃人員隨時保持社會連線是很重要的事情，因為這些淺薄工作就是驅動他們工作的重要因子。</p>
-<p>儘管如此，若能在這類工作中適度的融入深度工作或許也有機會發揮意想不到的成果，例如：微軟共同創辦人 Bill Gates 就以一年兩次的沉思週而聞名。在沉思期間他會離群索居於湖濱小屋中思考未來的趨勢發展，也是在沉思期間 Gates 寫下來網際網路浪潮的備忘錄，將注意力轉往當時才剛發展不久的全球第一個商用瀏覽器 Netscape（網景），進而揭開了第一次瀏覽器大戰。</p>
-<h1 id="在注意力稀缺的時代重新找回深度工作力"><a href="#在注意力稀缺的時代重新找回深度工作力" class="headerlink" title="在注意力稀缺的時代重新找回深度工作力"></a>在注意力稀缺的時代重新找回深度工作力</h1><p>對於一般沒有初始化繼承衣缽的經濟資本的人來說，透過深度工作力的培養是達成職涯目標的一個可以嘗試的方式。尤其在世界公民的時代，現在是人類歷史上工作力流動最頻繁的年代，擁有無可取代的技術和專業能力的超級明星比起從前任何時候所能發揮的影響力更大更深遠。</p>
-<p>讀到這裡，如果你認同深度工作力，在這邊我融合了書中一些方法建議和我個人的經驗整理和大家分享，也歡迎讀者們補充：</p>
-<h3 id="1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"><a href="#1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容" class="headerlink" title="1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"></a>1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容</h3><p>這邊推薦使用 <a href="http://wiki.mbalib.com/zh-tw/OKR">Objectives and Key Results，OKR</a> 來定義一年和每季需要完成的目標並使用 <a href="http://blog.idonethis.com/google-snippets-internal-tool/">Google Snippets template</a>（感謝一位朋友推薦使用）追蹤記錄每天的工作內容。另外，雖不用到古人吾日三省吾身的狀態，但可以參考 <a href="https://zh.wikipedia.org/zh-tw/Scrum">Scrum</a> 敏捷開發方法中的 Stand up meeting 每天自問自己昨天做了什麼，今天打算做什麼，有沒有遇到哪些困難。</p>
-<p><img src="/img/posts/snippet.png" alt="在注意力稀缺的時代重新找回深度工作力"></p>
-<h3 id="2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"><a href="#2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏" class="headerlink" title="2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"></a>2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏</h3><p>在記錄完自己一到兩週的工作內容後，便可以利用這些 data 進行資料分析，找到自己最具生產力的時段。有的人習慣早上工作，像我一般習慣在一大早起來頭腦清楚時進行思考和需要專注度的工作，而有的人習慣在深夜夜深人靜時工作，沒什麼對錯，就是充分了解自己就好。</p>
-<h3 id="3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"><a href="#3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式" class="headerlink" title="3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"></a>3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式</h3><p>拜智慧型手機所賜，現代人使用網路的時間遠遠大於過去，然而我們常常在使用網路過程中有意無意浪費了許多寶貴時間和專注力。建議可以從中篩選合適自己的社群網站和媒體以及使用方式。</p>
-<h3 id="4-定義自己回覆訊息和電子郵件的方法和原則"><a href="#4-定義自己回覆訊息和電子郵件的方法和原則" class="headerlink" title="4. 定義自己回覆訊息和電子郵件的方法和原則"></a>4. 定義自己回覆訊息和電子郵件的方法和原則</h3><p>現在人上網很多時間是在回覆訊息和電子郵件，有些工作者每天甚至被數百封電子郵件給淹沒。若能掌握幾個原則則有機會可以提高自己的工作效率：例如：公告了自己的電子信箱同時就明確定義發信的範本和收信規則讓發信過來的人可以具體化自己的問題，一方面也篩選掉了沒有準備好的聯絡者。定義好收信、回信時間和回信規則，不需要時時刻刻 context switch 去收發電子信箱。</p>
-<h3 id="5-打造屬於自己的工作環境和工作儀式"><a href="#5-打造屬於自己的工作環境和工作儀式" class="headerlink" title="5. 打造屬於自己的工作環境和工作儀式"></a>5. 打造屬於自己的工作環境和工作儀式</h3><p>人會因為服裝和環境而改變自己的行為，建立起自己的高效率工作環境和工作儀式，例如有的人喜歡在咖啡廳工作，在來杯拿鐵咖啡或是聽一首熟悉的歌後開啟自己的工作模式，所以找到自己的那杯咖啡吧！</p>
-<h3 id="6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"><a href="#6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者" class="headerlink" title="6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"></a>6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者</h3><p>隨著科技的指數性成長，各種科技工具推陳出新（例如：追蹤上網時間的 <a href="https://toggl.com/">toggl</a>、todo 工具：<a href="https://pomotodo.com/">番茄土豆</a>、<a href="https://zhtw.todoist.com/">todoist</a>），如何善用不同的工作技巧和生產力工具並培養自己快速學習各種跨領域技術的能力將可以讓自己持續保有專業活力。</p>
-<h3 id="7-定期運動、規律飲食和作息，保持身心靈健康"><a href="#7-定期運動、規律飲食和作息，保持身心靈健康" class="headerlink" title="7. 定期運動、規律飲食和作息，保持身心靈健康"></a>7. 定期運動、規律飲食和作息，保持身心靈健康</h3><p>雖然是老生常談，但定期運動、規律飲食和作息可以讓自己在忙碌的工作中儲備好能力，迎接生活中的每一個挑戰！</p>
-<p><img src="/img/posts/book.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>以上分享了幾個我覺得蠻實用的工作生產力技巧和深度工作力這本書的一些讀後心得，在這個專注力稀缺的年代，注意力和深度工作力是除了時間外珍貴的稀缺資源。把握幾個核心原則並刻意練習，相信你也可以在注意力稀缺的時代重新找回深度工作力，也歡迎讀者若有覺得不錯的提高工作生產力技巧補充分享！</p>
-<h1 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h1><ol>
-<li><a href="http://blog.idonethis.com/silicon-valleys-productivity-secret/">Silicon Valley’s Productivity Secret</a></li>
-<li><a href="http://dannyimages.com/2012/06/05/2106-smart-working-with-snippets/">敏捷工作術(1) — snippet</a></li>
-<li><a href="https://www.zhihu.com/question/22471467">谷歌内部考核制度 OKR 是怎样的？</a></li>
-<li><a href="http://www.cheers.com.tw/article/article.action?id=5083664">【每日熱門網摘】別再多工了！「深度工作法」才能讓你提早下班</a></li>
-</ol>
-<p>（image via <a href="https://associatesmind.com/wp-content/uploads/2016/01/Cal-Newport-Deep-Work.jpg">associatesmind</a>、<a href="https://cdn.kingstone.com.tw/book/images/product/20149/2014941495564/2014941495564b.jpg">kingstone</a>）</p>
-]]></content>
-      <tags>
-        <tag>財務</tag>
-        <tag>職場</tag>
-        <tag>商業管理</tag>
-        <tag>人生</tag>
-        <tag>溝通</tag>
-        <tag>專注力</tag>
-        <tag>focus</tag>
-        <tag>deep work</tag>
-        <tag>深度工作力</tag>
-        <tag>工作力</tag>
-        <tag>career</tag>
-        <tag>work</tag>
-        <tag>生產力工具</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>給工程師的 Sketch Prototyping 簡易入門教學</title>
     <url>/2016/06/04/sketch-prototyping-for-engineer/</url>
     <content><![CDATA[<p><img src="/img/posts/sketchapp.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
@@ -1658,6 +1613,51 @@
         <tag>SketchPrototyping</tag>
         <tag>Wireframe</tag>
         <tag>Mockup</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在注意力稀缺的時代重新找回深度工作力（Deep Work）</title>
+    <url>/2017/09/10/stay-focus-and-keep-deep-working/</url>
+    <content><![CDATA[<p><img src="/img/posts/deep-work.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>隨著網際網路和科技產品的發展，人們除了時間外，注意力、專注力和深度工作力也成為十分稀缺的資產。現代人號稱一天工作八小時甚至更長，但我們往往在開會、被打斷、逛網站、滑手機、處理私人事務和在茶水間討論公司組織裡的八卦中切換我們的思緒，實際上真正有生產力和進入心流專注狀態可能不過幾個小時。</p>
+<p>或許是希望在日常工作之餘多一點自我時間，在生活瑣事襲來時能保有自我的追求，我很喜歡閱讀各類型有關提高工作生產力和自我學習的書籍並在生活中實踐。最近看的這本由 Cal Newport 撰寫的 <a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692">Deep Work: Rules for Focused Success in a Distracted World Hardcover</a>（<a href="http://www.books.com.tw/products/0010758381">中文書名：深度工作力</a>）討論了最近幾年在工作生產力書籍中時常被談到的議題：專注力和工作效率，並明確定義了深度工作力和淺薄工作力的區別。書中沒有複雜的理論，取而代之的是淺顯的範例和建議，蠻適合希望在競爭激烈的知識經濟時代保有核心工作力的朋友當做入門的概論書來看。</p>
+<h1 id="在新經濟社會需要具備的深度工作力"><a href="#在新經濟社會需要具備的深度工作力" class="headerlink" title="在新經濟社會需要具備的深度工作力"></a>在新經濟社會需要具備的深度工作力</h1><p>本書一開始定義了什麼是<code>深度工作</code>，什麼是<code>淺薄工作</code>。所謂的深度工作是在一段充分專注的情況下所從事的職業活動。在深度工作的狀態下你可以將你的認知能力發揮到極限，進而改善並學習困難的專業技術，創造新的價值並建立他人難以模仿的專業能力和思考洞察。相對而言，淺薄工作主要是不需要高認知需求，偏向回覆性、協調性工作，通常不太需要太多專注力就可以執行，通常這類型工作創造價值有限，且容易被模仿。</p>
+<p>當然書中也提到了一些比較特別的例子，包括身兼 Twitter 執行長和 Squard CEO 的 Jack Dorsey，工作上確實花很多時間在做淺薄工作，例如：擔任主管開各種會議、不斷被打斷、收發 Email 等。然而這類主管、業務員和網路行銷企劃人員隨時保持社會連線是很重要的事情，因為這些淺薄工作就是驅動他們工作的重要因子。</p>
+<p>儘管如此，若能在這類工作中適度的融入深度工作或許也有機會發揮意想不到的成果，例如：微軟共同創辦人 Bill Gates 就以一年兩次的沉思週而聞名。在沉思期間他會離群索居於湖濱小屋中思考未來的趨勢發展，也是在沉思期間 Gates 寫下來網際網路浪潮的備忘錄，將注意力轉往當時才剛發展不久的全球第一個商用瀏覽器 Netscape（網景），進而揭開了第一次瀏覽器大戰。</p>
+<h1 id="在注意力稀缺的時代重新找回深度工作力"><a href="#在注意力稀缺的時代重新找回深度工作力" class="headerlink" title="在注意力稀缺的時代重新找回深度工作力"></a>在注意力稀缺的時代重新找回深度工作力</h1><p>對於一般沒有初始化繼承衣缽的經濟資本的人來說，透過深度工作力的培養是達成職涯目標的一個可以嘗試的方式。尤其在世界公民的時代，現在是人類歷史上工作力流動最頻繁的年代，擁有無可取代的技術和專業能力的超級明星比起從前任何時候所能發揮的影響力更大更深遠。</p>
+<p>讀到這裡，如果你認同深度工作力，在這邊我融合了書中一些方法建議和我個人的經驗整理和大家分享，也歡迎讀者們補充：</p>
+<h3 id="1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"><a href="#1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容" class="headerlink" title="1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"></a>1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容</h3><p>這邊推薦使用 <a href="http://wiki.mbalib.com/zh-tw/OKR">Objectives and Key Results，OKR</a> 來定義一年和每季需要完成的目標並使用 <a href="http://blog.idonethis.com/google-snippets-internal-tool/">Google Snippets template</a>（感謝一位朋友推薦使用）追蹤記錄每天的工作內容。另外，雖不用到古人吾日三省吾身的狀態，但可以參考 <a href="https://zh.wikipedia.org/zh-tw/Scrum">Scrum</a> 敏捷開發方法中的 Stand up meeting 每天自問自己昨天做了什麼，今天打算做什麼，有沒有遇到哪些困難。</p>
+<p><img src="/img/posts/snippet.png" alt="在注意力稀缺的時代重新找回深度工作力"></p>
+<h3 id="2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"><a href="#2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏" class="headerlink" title="2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"></a>2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏</h3><p>在記錄完自己一到兩週的工作內容後，便可以利用這些 data 進行資料分析，找到自己最具生產力的時段。有的人習慣早上工作，像我一般習慣在一大早起來頭腦清楚時進行思考和需要專注度的工作，而有的人習慣在深夜夜深人靜時工作，沒什麼對錯，就是充分了解自己就好。</p>
+<h3 id="3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"><a href="#3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式" class="headerlink" title="3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"></a>3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式</h3><p>拜智慧型手機所賜，現代人使用網路的時間遠遠大於過去，然而我們常常在使用網路過程中有意無意浪費了許多寶貴時間和專注力。建議可以從中篩選合適自己的社群網站和媒體以及使用方式。</p>
+<h3 id="4-定義自己回覆訊息和電子郵件的方法和原則"><a href="#4-定義自己回覆訊息和電子郵件的方法和原則" class="headerlink" title="4. 定義自己回覆訊息和電子郵件的方法和原則"></a>4. 定義自己回覆訊息和電子郵件的方法和原則</h3><p>現在人上網很多時間是在回覆訊息和電子郵件，有些工作者每天甚至被數百封電子郵件給淹沒。若能掌握幾個原則則有機會可以提高自己的工作效率：例如：公告了自己的電子信箱同時就明確定義發信的範本和收信規則讓發信過來的人可以具體化自己的問題，一方面也篩選掉了沒有準備好的聯絡者。定義好收信、回信時間和回信規則，不需要時時刻刻 context switch 去收發電子信箱。</p>
+<h3 id="5-打造屬於自己的工作環境和工作儀式"><a href="#5-打造屬於自己的工作環境和工作儀式" class="headerlink" title="5. 打造屬於自己的工作環境和工作儀式"></a>5. 打造屬於自己的工作環境和工作儀式</h3><p>人會因為服裝和環境而改變自己的行為，建立起自己的高效率工作環境和工作儀式，例如有的人喜歡在咖啡廳工作，在來杯拿鐵咖啡或是聽一首熟悉的歌後開啟自己的工作模式，所以找到自己的那杯咖啡吧！</p>
+<h3 id="6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"><a href="#6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者" class="headerlink" title="6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"></a>6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者</h3><p>隨著科技的指數性成長，各種科技工具推陳出新（例如：追蹤上網時間的 <a href="https://toggl.com/">toggl</a>、todo 工具：<a href="https://pomotodo.com/">番茄土豆</a>、<a href="https://zhtw.todoist.com/">todoist</a>），如何善用不同的工作技巧和生產力工具並培養自己快速學習各種跨領域技術的能力將可以讓自己持續保有專業活力。</p>
+<h3 id="7-定期運動、規律飲食和作息，保持身心靈健康"><a href="#7-定期運動、規律飲食和作息，保持身心靈健康" class="headerlink" title="7. 定期運動、規律飲食和作息，保持身心靈健康"></a>7. 定期運動、規律飲食和作息，保持身心靈健康</h3><p>雖然是老生常談，但定期運動、規律飲食和作息可以讓自己在忙碌的工作中儲備好能力，迎接生活中的每一個挑戰！</p>
+<p><img src="/img/posts/book.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>以上分享了幾個我覺得蠻實用的工作生產力技巧和深度工作力這本書的一些讀後心得，在這個專注力稀缺的年代，注意力和深度工作力是除了時間外珍貴的稀缺資源。把握幾個核心原則並刻意練習，相信你也可以在注意力稀缺的時代重新找回深度工作力，也歡迎讀者若有覺得不錯的提高工作生產力技巧補充分享！</p>
+<h1 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h1><ol>
+<li><a href="http://blog.idonethis.com/silicon-valleys-productivity-secret/">Silicon Valley’s Productivity Secret</a></li>
+<li><a href="http://dannyimages.com/2012/06/05/2106-smart-working-with-snippets/">敏捷工作術(1) — snippet</a></li>
+<li><a href="https://www.zhihu.com/question/22471467">谷歌内部考核制度 OKR 是怎样的？</a></li>
+<li><a href="http://www.cheers.com.tw/article/article.action?id=5083664">【每日熱門網摘】別再多工了！「深度工作法」才能讓你提早下班</a></li>
+</ol>
+<p>（image via <a href="https://associatesmind.com/wp-content/uploads/2016/01/Cal-Newport-Deep-Work.jpg">associatesmind</a>、<a href="https://cdn.kingstone.com.tw/book/images/product/20149/2014941495564/2014941495564b.jpg">kingstone</a>）</p>
+]]></content>
+      <tags>
+        <tag>財務</tag>
+        <tag>職場</tag>
+        <tag>商業管理</tag>
+        <tag>人生</tag>
+        <tag>溝通</tag>
+        <tag>專注力</tag>
+        <tag>focus</tag>
+        <tag>deep work</tag>
+        <tag>深度工作力</tag>
+        <tag>工作力</tag>
+        <tag>career</tag>
+        <tag>work</tag>
+        <tag>生產力工具</tag>
       </tags>
   </entry>
   <entry>
