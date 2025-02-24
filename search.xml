@@ -23,8 +23,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
         <tag>LLM</tag>
+        <tag>大型語言模型</tag>
       </tags>
   </entry>
   <entry>
@@ -53,8 +53,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
         <tag>LLM</tag>
+        <tag>大型語言模型</tag>
       </tags>
   </entry>
   <entry>
@@ -201,6 +201,55 @@
       </tags>
   </entry>
   <entry>
+    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
+    <url>/2024/05/23/llm-langchain-notes/</url>
+    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
+<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
+<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
+<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
+<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
+<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
+<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
+<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
+<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
+<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
+<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
+<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
+<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
+<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
+<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
+<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
+<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
+<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LangChain</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
     <url>/2024/05/22/llm-app-in-martech/</url>
     <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
@@ -256,55 +305,6 @@
       </tags>
   </entry>
   <entry>
-    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
-    <url>/2024/05/23/llm-langchain-notes/</url>
-    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
-<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
-<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
-
-<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
-<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
-<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
-<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
-<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
-<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
-<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
-<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
-<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
-<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
-<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
-<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
-<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
-<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
-<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
-<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LangChain</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
     <url>/2024/05/26/llm-model-fine-turning/</url>
     <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
@@ -336,8 +336,8 @@
         <tag>GenAI</tag>
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
         <tag>LLM</tag>
+        <tag>大型語言模型</tag>
         <tag>fine-tuning</tag>
         <tag>微調</tag>
       </tags>
@@ -438,36 +438,6 @@
       </tags>
   </entry>
   <entry>
-    <title>產品經理（Product Manager, PM）課程學習參考清單</title>
-    <url>/2024/06/03/product-manager-course-list/</url>
-    <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
-<li><a href="https://www.pressplay.cc/project/D7BB1024574FB1E143B45A933009E02C/about">產品經理學習營第六屆</a></li>
-<li><a href="https://hahow.in/courses/5d3583687f99a20021f7ebaf">產品思維：Spotify 產品經理帶你快速入門</a></li>
-<li><a href="https://hahow.in/courses/5e689828e612310028027876">產品數據分析 - 打造網路產品的決策引擎</a></li>
-<li><a href="https://hahow.in/courses/5c8e0a0a8d1cc80020951f1a">產品經理職場學：PM 必修的職涯指南！</a></li>
-<li><a href="https://www.pressplay.cc/project/E4C9F63270ADB7ECA54C1D6B1BB84905/about">產品思維－像產品經理一樣思考</a></li>
-<li><a href="https://sat.cool/course/89">產品思維養成術｜從觀念到實踐，矽谷產品經理帶你掌握產品全貌觀</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>書籍</tag>
-        <tag>清單</tag>
-        <tag>課程</tag>
-        <tag>course</tag>
-        <tag>Online Course</tag>
-        <tag>線上課程</tag>
-        <tag>PM</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
     <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
     <content><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p>
@@ -552,10 +522,40 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
-        <tag>PM</tag>
         <tag>Project Manager</tag>
         <tag>Program Manager</tag>
         <tag>專案經理</tag>
+        <tag>PM</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>產品經理（Product Manager, PM）課程學習參考清單</title>
+    <url>/2024/06/03/product-manager-course-list/</url>
+    <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
+<li><a href="https://www.pressplay.cc/project/D7BB1024574FB1E143B45A933009E02C/about">產品經理學習營第六屆</a></li>
+<li><a href="https://hahow.in/courses/5d3583687f99a20021f7ebaf">產品思維：Spotify 產品經理帶你快速入門</a></li>
+<li><a href="https://hahow.in/courses/5e689828e612310028027876">產品數據分析 - 打造網路產品的決策引擎</a></li>
+<li><a href="https://hahow.in/courses/5c8e0a0a8d1cc80020951f1a">產品經理職場學：PM 必修的職涯指南！</a></li>
+<li><a href="https://www.pressplay.cc/project/E4C9F63270ADB7ECA54C1D6B1BB84905/about">產品思維－像產品經理一樣思考</a></li>
+<li><a href="https://sat.cool/course/89">產品思維養成術｜從觀念到實踐，矽谷產品經理帶你掌握產品全貌觀</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>PM</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>書籍</tag>
+        <tag>清單</tag>
+        <tag>課程</tag>
+        <tag>course</tag>
+        <tag>Online Course</tag>
+        <tag>線上課程</tag>
       </tags>
   </entry>
   <entry>
@@ -578,10 +578,10 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
-        <tag>PM</tag>
         <tag>Project Manager</tag>
         <tag>Program Manager</tag>
         <tag>專案經理</tag>
+        <tag>PM</tag>
         <tag>interview</tag>
         <tag>PM Interview</tag>
         <tag>PM 面試</tag>
@@ -646,11 +646,11 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
+        <tag>Project Manager</tag>
+        <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
-        <tag>PM</tag>
-        <tag>Project Manager</tag>
         <tag>書單</tag>
         <tag>推薦書單</tag>
         <tag>Project Management</tag>
@@ -678,10 +678,10 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
+        <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
-        <tag>PM</tag>
         <tag>書單</tag>
         <tag>證照</tag>
         <tag>scrum</tag>
@@ -804,6 +804,59 @@
       </tags>
   </entry>
   <entry>
+    <title>《蛤蟆先生去看心理師》| 閱讀心得學習筆記</title>
+    <url>/2022/01/26/reading-notes-counselling-for-roads-a-psychological-adventure/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《蛤蟆先生去看心理師》</span><br><span class="line">作者： 羅伯．狄保德  </span><br><span class="line">原文作者： Robert de Board</span><br><span class="line">譯者： 張美惠</span><br><span class="line">繪者： Dinner Illustration</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「每個人生下來都是王子，卻被父母變成青蛙。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會，心理健康已逐漸被重視，但許多人仍對心理諮商存有疑慮。蛤蟆先生去看心理師透過<code>童話故事</code>的方式，<code>生動展現心理諮商的過程</code>，幫助讀者理解<code>心理治療</code>如何促進<code>個人成長</code>。本書不僅是一部<code>心理學入門書</code>，更是一場關於<code>自我覺察</code>與<code>情緒療癒</code>的旅程。</p>
+<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>心理諮商的過程</strong>  </p>
+<ul>
+<li>透過蛤蟆先生與心理師蒼鷺的 10 次諮商，呈現<code>心理治療的典型模式</code>。  </li>
+<li>解析個人如何透過<code>自我探索</code>，<code>理解過往經驗對自身行為的影響</code>。</li>
+</ul>
+</li>
+<li><p><strong>溝通分析（TA）理論應用</strong>  </p>
+<ul>
+<li>書中介紹 Eric Berne 的溝通分析理論，包括「<code>內在小孩</code>」、「<code>父母</code>」、「<code>成人</code>」三種自我狀態。  </li>
+<li>透過分析自己的內在對話，提升情緒智商。</li>
+</ul>
+</li>
+<li><p><strong>童年經歷與人格形成</strong>  </p>
+<ul>
+<li><code>童年的創傷</code>、<code>家庭環境對自我認同</code>的影響深遠。  </li>
+<li>透過諮商，蛤蟆先生重新審視自己的過去，<code>學習自我接納</code>與<code>成長</code>。</li>
+</ul>
+</li>
+<li><p><strong>心理遊戲與情緒模式</strong>  </p>
+<ul>
+<li>書中探討「<code>心理遊戲</code>」，如<code>受害者</code>、<code>迫害者</code>與<code>拯救者</code>的角色互動。  </li>
+<li>讀者可藉由案例，反思自己在人際關係中的模式。</li>
+</ul>
+</li>
+<li><p><strong>改變的可能與挑戰</strong>  </p>
+<ul>
+<li>真正的改變來自內在動機，外在壓力難以促成持久的改變。  </li>
+<li>成長是循序漸進的，必須經歷自我懷疑、掙扎與突破的過程。</li>
+</ul>
+</li>
+</ol>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>蛤蟆先生去看心理師 以輕鬆的方式傳遞深刻的心理學知識，讓讀者理解諮商如何幫助個人突破心理困境。無論是對心理學感興趣，或是想尋找內心平衡的人，都能在書中找到共鳴，並學習如何更好地理解自己與他人。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>蛤蟆先生去看心理師</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》| 閱讀心得學習筆記</title>
     <url>/2024/12/18/reading-notes-do-not-react-to-everything/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-react-to-everything-1.jpg"></p>
@@ -856,59 +909,6 @@
         <tag>別對每件事都有反應</tag>
         <tag>淡泊一點也無妨</tag>
         <tag>活出快意人生的99個禪練習</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《蛤蟆先生去看心理師》| 閱讀心得學習筆記</title>
-    <url>/2022/01/26/reading-notes-counselling-for-roads-a-psychological-adventure/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《蛤蟆先生去看心理師》</span><br><span class="line">作者： 羅伯．狄保德  </span><br><span class="line">原文作者： Robert de Board</span><br><span class="line">譯者： 張美惠</span><br><span class="line">繪者： Dinner Illustration</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「每個人生下來都是王子，卻被父母變成青蛙。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會，心理健康已逐漸被重視，但許多人仍對心理諮商存有疑慮。蛤蟆先生去看心理師透過<code>童話故事</code>的方式，<code>生動展現心理諮商的過程</code>，幫助讀者理解<code>心理治療</code>如何促進<code>個人成長</code>。本書不僅是一部<code>心理學入門書</code>，更是一場關於<code>自我覺察</code>與<code>情緒療癒</code>的旅程。</p>
-<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>心理諮商的過程</strong>  </p>
-<ul>
-<li>透過蛤蟆先生與心理師蒼鷺的 10 次諮商，呈現<code>心理治療的典型模式</code>。  </li>
-<li>解析個人如何透過<code>自我探索</code>，<code>理解過往經驗對自身行為的影響</code>。</li>
-</ul>
-</li>
-<li><p><strong>溝通分析（TA）理論應用</strong>  </p>
-<ul>
-<li>書中介紹 Eric Berne 的溝通分析理論，包括「<code>內在小孩</code>」、「<code>父母</code>」、「<code>成人</code>」三種自我狀態。  </li>
-<li>透過分析自己的內在對話，提升情緒智商。</li>
-</ul>
-</li>
-<li><p><strong>童年經歷與人格形成</strong>  </p>
-<ul>
-<li><code>童年的創傷</code>、<code>家庭環境對自我認同</code>的影響深遠。  </li>
-<li>透過諮商，蛤蟆先生重新審視自己的過去，<code>學習自我接納</code>與<code>成長</code>。</li>
-</ul>
-</li>
-<li><p><strong>心理遊戲與情緒模式</strong>  </p>
-<ul>
-<li>書中探討「<code>心理遊戲</code>」，如<code>受害者</code>、<code>迫害者</code>與<code>拯救者</code>的角色互動。  </li>
-<li>讀者可藉由案例，反思自己在人際關係中的模式。</li>
-</ul>
-</li>
-<li><p><strong>改變的可能與挑戰</strong>  </p>
-<ul>
-<li>真正的改變來自內在動機，外在壓力難以促成持久的改變。  </li>
-<li>成長是循序漸進的，必須經歷自我懷疑、掙扎與突破的過程。</li>
-</ul>
-</li>
-</ol>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>蛤蟆先生去看心理師 以輕鬆的方式傳遞深刻的心理學知識，讓讀者理解諮商如何幫助個人突破心理困境。無論是對心理學感興趣，或是想尋找內心平衡的人，都能在書中找到共鳴，並學習如何更好地理解自己與他人。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>蛤蟆先生去看心理師</tag>
       </tags>
   </entry>
   <entry>
@@ -1079,42 +1079,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
-    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
-<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
-<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
-<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
-<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
-</ul>
-<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
-<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
-<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
-<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
-</ul>
-<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
-<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
-<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
-<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
-</ul>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>活學：終生受用的人生高效能解密</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《矽谷最夯．產品專案行銷全書：破解世界級爆款產品，重新定義產品行銷力》 | 閱讀心得學習筆記</title>
     <url>/2025/02/13/reading-notes-loved-how-to-rethink-marketing-for-tech-products/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-loved-how-to-rethink-marketing-for-tech-products-1.jpg"></p>
@@ -1173,6 +1137,42 @@
       </tags>
   </entry>
   <entry>
+    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
+    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
+<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
+<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
+<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
+<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
+</ul>
+<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
+<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
+<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
+<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
+</ul>
+<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
+<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
+<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
+<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
+</ul>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>活學：終生受用的人生高效能解密</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《非暴力溝通：愛的語言》| 閱讀心得學習筆記</title>
     <url>/2019/08/01/reading-notes-nonviolent-communication-a-language-of-life/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-nonviolent-communication-a-language-of-life-1.jpg"></p>
@@ -1207,6 +1207,103 @@
         <tag>心理學</tag>
         <tag>非暴力溝通</tag>
         <tag>愛的語言</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》| 閱讀心得學習筆記</title>
+    <url>/2024/06/06/reading-notes-scrum-master-team/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南》</span><br><span class="line">Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition</span><br><span class="line">作者： Lyssa Adkins  </span><br><span class="line">譯者： 教練敏捷團隊志工群</span><br><span class="line">出版社：博碩</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「優秀的敏捷教練，不是領導團隊，而是點燃團隊內在動力。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>在敏捷轉型的浪潮中，教練不再只是指導者，更是促進者與賦能者。本書由 Lyssa Adkins 撰寫，提供敏捷教練如何帶領團隊從協作走向卓越的實用指南。透過具體方法與案例，讀者能學習如何從控制風格轉變為引導者，打造自組織與高績效團隊。</p>
+<p><img src="/img/posts/reading-notes-scrum-master-team-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><h4 id="1-敏捷教練的角色轉變"><a href="#1-敏捷教練的角色轉變" class="headerlink" title="1. 敏捷教練的角色轉變"></a><strong>1. 敏捷教練的角色轉變</strong></h4><ul>
+<li>從「<code>發號施令</code>者」轉變為「<code>賦能團隊的教練</code>」。</li>
+<li>教練不僅是管理者，更是<code>導師</code>、<code>引導者</code>與<code>問題解決者</code>。</li>
+</ul>
+<h4 id="2-五大敏捷教練風格"><a href="#2-五大敏捷教練風格" class="headerlink" title="2. 五大敏捷教練風格"></a><strong>2. 五大敏捷教練風格</strong></h4><ul>
+<li><strong>導師型</strong>：提供<code>敏捷思維</code>與<code>實踐指導</code>。</li>
+<li><strong>引導者型</strong>：協助團隊<code>自發性進行會議</code>與<code>決策</code>。</li>
+<li><strong>老師型</strong>：持續<code>教育團隊敏捷相關知識</code>與<code>技巧</code>。</li>
+<li><strong>問題解決者型</strong>：帶領<code>團隊分析</code>、<code>解決問題</code>，<code>提升決策能力</code>。</li>
+<li><strong>衝突駕馭者型</strong>：有效<code>處理衝突</code>，使團隊穩健成長。</li>
+</ul>
+<h4 id="3-打造高績效團隊"><a href="#3-打造高績效團隊" class="headerlink" title="3. 打造高績效團隊"></a><strong>3. 打造高績效團隊</strong></h4><ul>
+<li>設定明確的<code>期望</code>，幫助團隊理解高績效標準。</li>
+<li>透過「<code>協同合作</code>」而非單純「協力配合」來強化團隊運作。</li>
+<li>培養團隊的「<code>敏捷肌肉</code>」，讓變革成為自然習慣。</li>
+</ul>
+<h4 id="4-敏捷教練的失敗與成長"><a href="#4-敏捷教練的失敗與成長" class="headerlink" title="4. 敏捷教練的失敗與成長"></a><strong>4. 敏捷教練的失敗與成長</strong></h4><ul>
+<li>失敗模式：<code>過度介入</code>、<code>強加控制</code>、<code>忽視團隊文</code>化。</li>
+<li>復原策略：<code>建立信任</code>、<code>適時退場</code>、<code>強化反思與回顧</code>。</li>
+<li>成功關鍵：持續<code>學習與適應</code>，<code>不斷進化自身的教練技巧</code>。</li>
+</ul>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>Project Manager</tag>
+        <tag>專案經理</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>PjM</tag>
+        <tag>project</tag>
+        <tag>專案</tag>
+        <tag>Scrum Master</tag>
+        <tag>敏捷教練</tag>
+        <tag>敏捷開發</tag>
+        <tag>agile</tag>
+        <tag>agile coach</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《別對每件事都有反應2：不執著的練習！》| 閱讀心得學習筆記</title>
+    <url>/2024/12/18/reading-notes-the-practice-of-non-attachment/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別對每件事都有反應2：不執著的練習》</span><br><span class="line">作者： 枡野俊明</span><br><span class="line">譯者： 黃薇嬪</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「放下，不是逃避，而是給自己自由的機會。不執著於無法控制的事物，專注於當下所能改變的，便能活得更加輕鬆自在。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸、情緒起伏劇烈的時代，我們時常被周遭的人事物影響，難以保持內心的平靜。本書延續《別對每件事都有反應》的核心理念，透過禪學智慧，帶領我們學習「不執著」的生活態度。作者枡野俊明提出 99 個禪練習，從人際、工作到身心靈，幫助我們擺脫內心負擔，培養「不反應、不在意、不牽扯」的能力，讓生活更順遂。  </p>
+<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-簡化人際關係"><a href="#1-簡化人際關係" class="headerlink" title="1. 簡化人際關係"></a><strong>1. 簡化人際關係</strong></h4><ul>
+<li><strong>別人是別人，自己是自己</strong>：不勉強討好他人，專注做好自己。  </li>
+<li><strong>遠離被情緒操控的人</strong>：學會適時抽離，不被負能量影響。  </li>
+<li><strong>怒氣應暗自排解</strong>：生氣只會損害自己，保持冷靜才是智慧。  </li>
+<li><strong>競爭要秉持「輸就是贏」的精神</strong>：過度比較只會徒增壓力，反而失去快樂。</li>
+</ul>
+<h4 id="2-轉念看待工作煩惱"><a href="#2-轉念看待工作煩惱" class="headerlink" title="2. 轉念看待工作煩惱"></a><strong>2. 轉念看待工作煩惱</strong></h4><ul>
+<li><strong>「失敗」是挑戰過的證明</strong>：接受不完美，才能真正成長。  </li>
+<li><strong>能幹的人擅長喘口氣</strong>：懂得休息才能長久保持高效能。  </li>
+<li><strong>全力以赴後，聽天命</strong>：盡力做好當下，不糾結結果。  </li>
+<li><strong>人生的痛苦起因於「要得太多」</strong>：適度知足，才能減少煩惱。</li>
+</ul>
+<h4 id="3-身心重置，減少負擔"><a href="#3-身心重置，減少負擔" class="headerlink" title="3. 身心重置，減少負擔"></a><strong>3. 身心重置，減少負擔</strong></h4><ul>
+<li><strong>不被智慧型手機奪心</strong>：與手機保持距離，找回專注與自由。  </li>
+<li><strong>飯吃七分飽，心不過度貪求</strong>：控制物慾，才能真正滿足。  </li>
+<li><strong>坐禪減壓，養成內在穩定</strong>：透過冥想與靜心，讓情緒歸零。</li>
+</ul>
+<h4 id="4-禪學切換力，擺脫執著"><a href="#4-禪學切換力，擺脫執著" class="headerlink" title="4. 禪學切換力，擺脫執著"></a><strong>4. 禪學切換力，擺脫執著</strong></h4><ul>
+<li><strong>「未來是今天的創造」——深知今日事</strong>：把握當下，決定未來的樣貌。  </li>
+<li><strong>「前進的路不只一條」——大道在目前</strong>：停止執著於單一選擇，放眼更多可能。  </li>
+<li><strong>「好事壞事終有盡頭」——諸行無常</strong>：學會接受變化，人生才能自在。</li>
+</ul>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>別對每件事都有反應</tag>
+        <tag>別對每件事都有反應2</tag>
+        <tag>不執著的練習</tag>
       </tags>
   </entry>
   <entry>
@@ -1257,58 +1354,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>產品專案管理專案全書</tag>
         <tag>產品營運模式轉型全書</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》| 閱讀心得學習筆記</title>
-    <url>/2024/06/06/reading-notes-scrum-master-team/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南》</span><br><span class="line">Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition</span><br><span class="line">作者： Lyssa Adkins  </span><br><span class="line">譯者： 教練敏捷團隊志工群</span><br><span class="line">出版社：博碩</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「優秀的敏捷教練，不是領導團隊，而是點燃團隊內在動力。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>在敏捷轉型的浪潮中，教練不再只是指導者，更是促進者與賦能者。本書由 Lyssa Adkins 撰寫，提供敏捷教練如何帶領團隊從協作走向卓越的實用指南。透過具體方法與案例，讀者能學習如何從控制風格轉變為引導者，打造自組織與高績效團隊。</p>
-<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><h4 id="1-敏捷教練的角色轉變"><a href="#1-敏捷教練的角色轉變" class="headerlink" title="1. 敏捷教練的角色轉變"></a><strong>1. 敏捷教練的角色轉變</strong></h4><ul>
-<li>從「<code>發號施令</code>者」轉變為「<code>賦能團隊的教練</code>」。</li>
-<li>教練不僅是管理者，更是<code>導師</code>、<code>引導者</code>與<code>問題解決者</code>。</li>
-</ul>
-<h4 id="2-五大敏捷教練風格"><a href="#2-五大敏捷教練風格" class="headerlink" title="2. 五大敏捷教練風格"></a><strong>2. 五大敏捷教練風格</strong></h4><ul>
-<li><strong>導師型</strong>：提供<code>敏捷思維</code>與<code>實踐指導</code>。</li>
-<li><strong>引導者型</strong>：協助團隊<code>自發性進行會議</code>與<code>決策</code>。</li>
-<li><strong>老師型</strong>：持續<code>教育團隊敏捷相關知識</code>與<code>技巧</code>。</li>
-<li><strong>問題解決者型</strong>：帶領<code>團隊分析</code>、<code>解決問題</code>，<code>提升決策能力</code>。</li>
-<li><strong>衝突駕馭者型</strong>：有效<code>處理衝突</code>，使團隊穩健成長。</li>
-</ul>
-<h4 id="3-打造高績效團隊"><a href="#3-打造高績效團隊" class="headerlink" title="3. 打造高績效團隊"></a><strong>3. 打造高績效團隊</strong></h4><ul>
-<li>設定明確的<code>期望</code>，幫助團隊理解高績效標準。</li>
-<li>透過「<code>協同合作</code>」而非單純「協力配合」來強化團隊運作。</li>
-<li>培養團隊的「<code>敏捷肌肉</code>」，讓變革成為自然習慣。</li>
-</ul>
-<h4 id="4-敏捷教練的失敗與成長"><a href="#4-敏捷教練的失敗與成長" class="headerlink" title="4. 敏捷教練的失敗與成長"></a><strong>4. 敏捷教練的失敗與成長</strong></h4><ul>
-<li>失敗模式：<code>過度介入</code>、<code>強加控制</code>、<code>忽視團隊文</code>化。</li>
-<li>復原策略：<code>建立信任</code>、<code>適時退場</code>、<code>強化反思與回顧</code>。</li>
-<li>成功關鍵：持續<code>學習與適應</code>，<code>不斷進化自身的教練技巧</code>。</li>
-</ul>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a><strong>結論</strong></h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>Project Manager</tag>
-        <tag>專案經理</tag>
-        <tag>PjM</tag>
-        <tag>project</tag>
-        <tag>專案</tag>
-        <tag>Scrum Master</tag>
-        <tag>敏捷教練</tag>
-        <tag>敏捷開發</tag>
-        <tag>agile</tag>
-        <tag>agile coach</tag>
       </tags>
   </entry>
   <entry>
@@ -1446,67 +1491,6 @@
       </tags>
   </entry>
   <entry>
-    <title>給工程師的 Sketch Prototyping 簡易入門教學</title>
-    <url>/2016/06/04/sketch-prototyping-for-engineer/</url>
-    <content><![CDATA[<p><img src="/img/posts/sketchapp.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><a href="http://www.sketchapp.com/">Sketch</a> 是近來非常火紅的輕量級 UI 設計工具，簡易好上手的設計讓許多設計師紛紛從 PS 和以拉等其他工具跳槽過來，整個 Sketch 生態系也蓬勃發展。雖然筆者本業是工程師，但前陣子趁著買 Flinto （可以很輕易將 Sketch 的靜態頁面轉成 Prototype）送 Sketch 的行銷活動時同時入手了這兩套設計工具（雖然我把它當成買 Sketch 送 Flinto 啦：P），因此藉著機會分享一下給工程師的 Sketch Prototyping 簡易入門教學。當然有些讀者會疑惑：工程師學 Sketch 是要設計師搶飯碗嗎？（事實上很難啦）</p>
-<p>一般來說，在整個產品開發的過程當中，工程師和設計師的愛恨情仇已經可以編成好幾檔連續劇了，然而溝通不良的原因除了設計流程的問題外，有很大一部分是因為對於彼此的世界不了解（一個住火星，一個住土星？）。因此工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本，從此相親相愛了呢！而天賦異秉的人甚至有機會成為新創團隊人見人愛的超全端工程師（super full-stack<br>engineer）獨角獸，集設計、前後端、行動端、行銷業務技能於一身（咦）？好啦，言歸正傳，接下來就讓我們好好了解 Sketch 這個好用工具吧！</p>
-<p><img src="/img/posts/sketch-ui-kit.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="Sketch-基本介紹"><a href="#Sketch-基本介紹" class="headerlink" title="Sketch 基本介紹"></a>Sketch 基本介紹</h2><p>Sketch 是一個 Mac 上的輕量級介面設計工具。2010 年由荷蘭公司 Bohemian Coding 所創建，目前提供 30 天試用版，正式版 99 鎂（教育價5折優惠），不過目前只有提供 Mac 版本，所以只能先跟使用其他作業系統的朋友說聲 Sorry 啦！</p>
-<p>究竟 Sketch 有哪些優點，讓許多設計師因此琵琶別抱呢？</p>
-<h3 id="Sketch-優點"><a href="#Sketch-優點" class="headerlink" title="Sketch 優點"></a>Sketch 優點</h3><ol>
-<li>活躍的第三方套件生態系！</li>
-<li>專為 UI 設計而生（Artboard 設計可以方便 UI 設計） </li>
-<li>輕量級，簡單好上手（工程師 OS：就像 Sublime 之於 Eclipse）</li>
-<li>內建和可擴充的豐富 UI 模版（iOS、Material Design 等）</li>
-<li>搭配 <a href="https://www.flinto.com/">Flinto</a>、<a href="https://zeplin.io/">Zeplin</a> 可讓工程師更開心，設計師提早下班</li>
-<li>可以取代大部分 PS、以拉、Fireworks 等功能</li>
-<li>知名網路、科技公司都在用</li>
-</ol>
-<p>看完了 Sketch 優點，相信讀者們一定摩拳擦掌準備牛刀小試啦！</p>
-<h2 id="使用-Sketch-設計-Mobile-App-UI"><a href="#使用-Sketch-設計-Mobile-App-UI" class="headerlink" title="使用 Sketch 設計 Mobile App UI"></a>使用 Sketch 設計 Mobile App UI</h2><p>一般設計流程我們通常會有以下三種階段：</p>
-<ol>
-<li>Wireframe（線框圖）<br>保真度低（low fidelity ）、修改成本低。適合初期討論產品架構和基本功能。通常使用紙筆手繪，但建議於完成後電子化</li>
-<li>Mockup（視覺稿）<br>保真度中（middle fidelity ）、修改成本中。於 Mockup 階段著重於整體視覺、排版的靜態討論和確認，而 Sketch 主要會是在 Mockup 階段進行設計</li>
-<li>Prototype（原型）<br>保真度高（high fidelity ），接近最終產品、修改成本高。確認互動設計的流程並確認架構和視覺規劃是否有需要調整之處</li>
-</ol>
-<p>先介紹一下 Sketch 工作空間，左邊是圖層區，右邊是屬性、中間是工作區、上面是工具欄：</p>
-<p><img src="/img/posts/sketch-0.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>工具欄可以點擊右鍵自定義：</p>
-<p><img src="/img/posts/sketch-0-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>由於 UI 設計是 Sketch 主要的強項（尤其是行動端），在 Sketch 中 Artboard 是基礎的設計單元（成果展示區域），我們可以在一個 Page 中定義多個 Artboard。根據 Sketch 的設計，我們可以一次瀏覽多個 Artboard（也可說是多個介面），這樣可以更清楚整個設計 flow ，這是 Sketch 蠻大的一個優點（一覽眾山小？）。</p>
-<p>現在，我們終於開始設計我們的新 App UI 啦！首先，我們透過左上方的新增按鈕新增了一個 Artboard ，並選擇了 iPhone6 當做設計基底（有 iPhone、Android、RWD等可以選）。接下來我們要打開在 Sketch 中內建的元件模版，iOS 和 Material Design、icon設計等（網路上也有很多網友提供自己的設計可以下載），這邊因為是使用 iPhone6 的 Artboard，因此我們打開 iOS 元件模版。</p>
-<p><img src="/img/posts/sketch-7.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/sketch-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/sketch-2.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>接下來進行複製貼上大法！將元件複製到 Artboard 上就可以了！現在小工程師也可以設計簡單的 UI 啦！可以透過右上角工具預覽或是分享的方式看到成果！</p>
-<p><img src="/img/posts/sketch-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="從-Mockup-到-Prototype"><a href="#從-Mockup-到-Prototype" class="headerlink" title="從 Mockup 到 Prototype"></a>從 Mockup 到 Prototype</h2><p><img src="/img/posts/sketch-flinto.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"><br>透過 Sketch 設計完成靜態檔案，若我們想將靜態檔案轉成 Prototype 進行使用者測試，我們可以使用 Flinto 好工具！透過簡單的連結就可以讓你的 Sketch 動起來啦（目前支援了簡單的手勢和動畫）！</p>
-<p><img src="/img/posts/flinto-3.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/flinto-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/flinto-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>以上就是給工程師的 Sketch Prototyping 簡易入門教學。事實上透過整合 <a href="https://zeplin.io/">Zeplin</a>（可以方便註解和查詢設計相對位置和色碼）、<a href="https://www.invisionapp.com/">Invision</a>（支援變更記錄，可以當做版本控管使用）等工具進行協作，還可以更加加快整個產品設計流程。透過前期的完善溝通討論，不但可以降低後續的溝通成本更可以讓完成的產品更接近最初的設計，更重要的是讓工程師和設計師的感情更好了！若你對於 Sketch 有興趣可以<a href="http://slides.com/kd-chang/sketch-prototyping-for-engineer">參考這份投影片</a>有更完整的教學介紹。另外也可以參考<a href="http://www.sketchapp.com/learn/">官方教學影片</a>。最後再次強調工程師學 Sketch 並非要去搶設計師搶飯碗。而是工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本。同理也建議設計師們可以去試著學一些簡單的程式語言基礎概念。筆者才疏學淺，若讀者有任何學習心得也歡迎分享交流：）</p>
-<p><img src="/img/posts/sketch-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="常用外掛"><a href="#常用外掛" class="headerlink" title="常用外掛"></a>常用外掛</h2><ol start="0">
-<li><a href="http://sketchtoolbox.com/">外掛管理工具 Sketch Toolbox</a></li>
-<li>Notebook 註解好幫手</li>
-<li>Sketch Flinto 從 Mockup 到 Prototype</li>
-<li>Content Generator Sketch Plugin 生成假資料</li>
-<li>Sketch Measure 測量位置、大小</li>
-<li>Icon Stamper 簡單生成不同大小 icon</li>
-</ol>
-<h2 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h2><ol>
-<li><a href="http://www.sketchcn.com/">Sketch 簡體中文教學</a></li>
-<li><a href="http://www.sketchchina.com/">Sketch 問答</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>SketchPrototyping</tag>
-        <tag>Wireframe</tag>
-        <tag>Mockup</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》| 閱讀心得學習筆記</title>
     <url>/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-1.jpg"></p>
@@ -1613,6 +1597,67 @@
         <tag>career</tag>
         <tag>work</tag>
         <tag>生產力工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>給工程師的 Sketch Prototyping 簡易入門教學</title>
+    <url>/2016/06/04/sketch-prototyping-for-engineer/</url>
+    <content><![CDATA[<p><img src="/img/posts/sketchapp.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><a href="http://www.sketchapp.com/">Sketch</a> 是近來非常火紅的輕量級 UI 設計工具，簡易好上手的設計讓許多設計師紛紛從 PS 和以拉等其他工具跳槽過來，整個 Sketch 生態系也蓬勃發展。雖然筆者本業是工程師，但前陣子趁著買 Flinto （可以很輕易將 Sketch 的靜態頁面轉成 Prototype）送 Sketch 的行銷活動時同時入手了這兩套設計工具（雖然我把它當成買 Sketch 送 Flinto 啦：P），因此藉著機會分享一下給工程師的 Sketch Prototyping 簡易入門教學。當然有些讀者會疑惑：工程師學 Sketch 是要設計師搶飯碗嗎？（事實上很難啦）</p>
+<p>一般來說，在整個產品開發的過程當中，工程師和設計師的愛恨情仇已經可以編成好幾檔連續劇了，然而溝通不良的原因除了設計流程的問題外，有很大一部分是因為對於彼此的世界不了解（一個住火星，一個住土星？）。因此工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本，從此相親相愛了呢！而天賦異秉的人甚至有機會成為新創團隊人見人愛的超全端工程師（super full-stack<br>engineer）獨角獸，集設計、前後端、行動端、行銷業務技能於一身（咦）？好啦，言歸正傳，接下來就讓我們好好了解 Sketch 這個好用工具吧！</p>
+<p><img src="/img/posts/sketch-ui-kit.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="Sketch-基本介紹"><a href="#Sketch-基本介紹" class="headerlink" title="Sketch 基本介紹"></a>Sketch 基本介紹</h2><p>Sketch 是一個 Mac 上的輕量級介面設計工具。2010 年由荷蘭公司 Bohemian Coding 所創建，目前提供 30 天試用版，正式版 99 鎂（教育價5折優惠），不過目前只有提供 Mac 版本，所以只能先跟使用其他作業系統的朋友說聲 Sorry 啦！</p>
+<p>究竟 Sketch 有哪些優點，讓許多設計師因此琵琶別抱呢？</p>
+<h3 id="Sketch-優點"><a href="#Sketch-優點" class="headerlink" title="Sketch 優點"></a>Sketch 優點</h3><ol>
+<li>活躍的第三方套件生態系！</li>
+<li>專為 UI 設計而生（Artboard 設計可以方便 UI 設計） </li>
+<li>輕量級，簡單好上手（工程師 OS：就像 Sublime 之於 Eclipse）</li>
+<li>內建和可擴充的豐富 UI 模版（iOS、Material Design 等）</li>
+<li>搭配 <a href="https://www.flinto.com/">Flinto</a>、<a href="https://zeplin.io/">Zeplin</a> 可讓工程師更開心，設計師提早下班</li>
+<li>可以取代大部分 PS、以拉、Fireworks 等功能</li>
+<li>知名網路、科技公司都在用</li>
+</ol>
+<p>看完了 Sketch 優點，相信讀者們一定摩拳擦掌準備牛刀小試啦！</p>
+<h2 id="使用-Sketch-設計-Mobile-App-UI"><a href="#使用-Sketch-設計-Mobile-App-UI" class="headerlink" title="使用 Sketch 設計 Mobile App UI"></a>使用 Sketch 設計 Mobile App UI</h2><p>一般設計流程我們通常會有以下三種階段：</p>
+<ol>
+<li>Wireframe（線框圖）<br>保真度低（low fidelity ）、修改成本低。適合初期討論產品架構和基本功能。通常使用紙筆手繪，但建議於完成後電子化</li>
+<li>Mockup（視覺稿）<br>保真度中（middle fidelity ）、修改成本中。於 Mockup 階段著重於整體視覺、排版的靜態討論和確認，而 Sketch 主要會是在 Mockup 階段進行設計</li>
+<li>Prototype（原型）<br>保真度高（high fidelity ），接近最終產品、修改成本高。確認互動設計的流程並確認架構和視覺規劃是否有需要調整之處</li>
+</ol>
+<p>先介紹一下 Sketch 工作空間，左邊是圖層區，右邊是屬性、中間是工作區、上面是工具欄：</p>
+<p><img src="/img/posts/sketch-0.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>工具欄可以點擊右鍵自定義：</p>
+<p><img src="/img/posts/sketch-0-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>由於 UI 設計是 Sketch 主要的強項（尤其是行動端），在 Sketch 中 Artboard 是基礎的設計單元（成果展示區域），我們可以在一個 Page 中定義多個 Artboard。根據 Sketch 的設計，我們可以一次瀏覽多個 Artboard（也可說是多個介面），這樣可以更清楚整個設計 flow ，這是 Sketch 蠻大的一個優點（一覽眾山小？）。</p>
+<p>現在，我們終於開始設計我們的新 App UI 啦！首先，我們透過左上方的新增按鈕新增了一個 Artboard ，並選擇了 iPhone6 當做設計基底（有 iPhone、Android、RWD等可以選）。接下來我們要打開在 Sketch 中內建的元件模版，iOS 和 Material Design、icon設計等（網路上也有很多網友提供自己的設計可以下載），這邊因為是使用 iPhone6 的 Artboard，因此我們打開 iOS 元件模版。</p>
+<p><img src="/img/posts/sketch-7.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/sketch-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/sketch-2.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>接下來進行複製貼上大法！將元件複製到 Artboard 上就可以了！現在小工程師也可以設計簡單的 UI 啦！可以透過右上角工具預覽或是分享的方式看到成果！</p>
+<p><img src="/img/posts/sketch-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="從-Mockup-到-Prototype"><a href="#從-Mockup-到-Prototype" class="headerlink" title="從 Mockup 到 Prototype"></a>從 Mockup 到 Prototype</h2><p><img src="/img/posts/sketch-flinto.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"><br>透過 Sketch 設計完成靜態檔案，若我們想將靜態檔案轉成 Prototype 進行使用者測試，我們可以使用 Flinto 好工具！透過簡單的連結就可以讓你的 Sketch 動起來啦（目前支援了簡單的手勢和動畫）！</p>
+<p><img src="/img/posts/flinto-3.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/flinto-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/flinto-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>以上就是給工程師的 Sketch Prototyping 簡易入門教學。事實上透過整合 <a href="https://zeplin.io/">Zeplin</a>（可以方便註解和查詢設計相對位置和色碼）、<a href="https://www.invisionapp.com/">Invision</a>（支援變更記錄，可以當做版本控管使用）等工具進行協作，還可以更加加快整個產品設計流程。透過前期的完善溝通討論，不但可以降低後續的溝通成本更可以讓完成的產品更接近最初的設計，更重要的是讓工程師和設計師的感情更好了！若你對於 Sketch 有興趣可以<a href="http://slides.com/kd-chang/sketch-prototyping-for-engineer">參考這份投影片</a>有更完整的教學介紹。另外也可以參考<a href="http://www.sketchapp.com/learn/">官方教學影片</a>。最後再次強調工程師學 Sketch 並非要去搶設計師搶飯碗。而是工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本。同理也建議設計師們可以去試著學一些簡單的程式語言基礎概念。筆者才疏學淺，若讀者有任何學習心得也歡迎分享交流：）</p>
+<p><img src="/img/posts/sketch-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="常用外掛"><a href="#常用外掛" class="headerlink" title="常用外掛"></a>常用外掛</h2><ol start="0">
+<li><a href="http://sketchtoolbox.com/">外掛管理工具 Sketch Toolbox</a></li>
+<li>Notebook 註解好幫手</li>
+<li>Sketch Flinto 從 Mockup 到 Prototype</li>
+<li>Content Generator Sketch Plugin 生成假資料</li>
+<li>Sketch Measure 測量位置、大小</li>
+<li>Icon Stamper 簡單生成不同大小 icon</li>
+</ol>
+<h2 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h2><ol>
+<li><a href="http://www.sketchcn.com/">Sketch 簡體中文教學</a></li>
+<li><a href="http://www.sketchchina.com/">Sketch 問答</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>SketchPrototyping</tag>
+        <tag>Wireframe</tag>
+        <tag>Mockup</tag>
       </tags>
   </entry>
   <entry>
