@@ -1,97 +1,306 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 @plugin "daisyui";
 
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
-  background: #f4f4f4;
-  color: #333;
+/* ── Base ── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
+body {
+  font-family: 'Segoe UI', 'PingFang TC', 'Noto Sans TC', Arial, sans-serif;
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+  background: #f0f4f8;
+  color: #2d3748;
+}
+
+/* ── Header ── */
 header {
-  background: #333;
+  background: linear-gradient(135deg, #1a202c 0%, #2d3748 50%, #4a5568 100%);
   color: #fff;
-  padding: 1rem 0;
+  padding: 3rem 1.5rem 2.5rem;
   text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+header::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    ellipse at 70% 50%,
+    rgba(99, 179, 237, 0.15) 0%,
+    transparent 70%
+  );
+  pointer-events: none;
+}
+
+header h1 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  margin-bottom: 0.25rem;
+}
+
+.header-tagline {
+  font-size: 1rem;
+  color: #90cdf4;
+  margin-bottom: 1.5rem;
+  letter-spacing: 0.5px;
 }
 
 nav ul {
   list-style: none;
   padding: 0;
-}
-
-nav ul li {
-  display: inline;
-  margin: 0 15px;
+  margin: 0 0 1.2rem;
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
 }
 
 nav ul li a {
-  color: #fff;
+  color: #e2e8f0;
   text-decoration: none;
+  padding: 0.4rem 1rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  transition:
+    background 0.2s,
+    color 0.2s;
 }
 
-main {
-  padding: 20px;
-  max-width: 960px;
-  margin: auto;
+nav ul li a:hover {
+  background: rgba(255, 255, 255, 0.15);
+  color: #fff;
 }
 
-section {
-  background: #fff;
-  padding: 20px;
-  margin-bottom: 20px;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.project-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 20px;
-}
-
-.project-item {
-  border: 1px solid #ddd;
-  padding: 15px;
-  border-radius: 8px;
-  text-align: center;
-}
-
-.project-item img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 4px;
-  margin-bottom: 10px;
-}
-
-/* ... 其他 CSS 樣式 ... */
-
+/* ── Language Switcher ── */
 .language-switcher {
-  text-align: center;
-  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
 }
 
 .language-switcher button {
-  background-color: #555;
-  color: white;
-  border: none;
-  padding: 8px 15px;
-  margin: 0 5px;
+  background: transparent;
+  color: #a0aec0;
+  border: 1px solid #4a5568;
+  padding: 5px 14px;
   cursor: pointer;
-  border-radius: 5px;
-  transition: background-color 0.3s ease;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
 }
 
 .language-switcher button:hover {
-  background-color: #777;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  border-color: #718096;
 }
 
 .language-switcher button.active {
-  background-color: #007bff; /* 活躍狀態的顏色 */
+  background: #3182ce;
+  color: #fff;
+  border-color: #3182ce;
 }
 
+/* ── Main Layout ── */
+main {
+  padding: 2rem 1.25rem;
+  max-width: 1000px;
+  margin: auto;
+}
+
+/* ── Sections ── */
+section {
+  background: #fff;
+  padding: 2rem 2rem;
+  margin-bottom: 1.75rem;
+  border-radius: 16px;
+  box-shadow:
+    0 1px 3px rgba(0, 0, 0, 0.06),
+    0 4px 16px rgba(0, 0, 0, 0.06);
+  border: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+section h2 {
+  position: relative;
+  display: inline-block;
+  padding-bottom: 0.4rem;
+  margin-bottom: 1.25rem;
+}
+
+section h2::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 48px;
+  height: 3px;
+  background: #3182ce;
+  border-radius: 2px;
+}
+
+section#about p {
+  color: #4a5568;
+  font-size: 1.05rem;
+}
+
+/* ── Project Cards ── */
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin-top: 0.5rem;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition:
+    transform 0.22s ease,
+    box-shadow 0.22s ease;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.12);
+}
+
+.card-body {
+  padding: 1.1rem 1.2rem 0.75rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.card-body h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 0 0 0.6rem;
+  color: #1a202c;
+}
+
+.card-body p {
+  font-size: 0.88rem;
+  color: #718096;
+  line-height: 1.65;
+  flex: 1;
+  margin: 0 0 0.75rem;
+}
+
+.card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-bottom: 1rem;
+  min-height: 28px;
+}
+
+/* ── Badges ── */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  background: #ebf4ff;
+  color: #2b6cb0;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 999px;
+  letter-spacing: 0.3px;
+  border: 1px solid #bee3f8;
+}
+
+/* ── Buttons ── */
+.btn {
+  display: inline-block;
+  background: #3182ce;
+  color: #fff !important;
+  text-decoration: none;
+  padding: 0.5rem 1.2rem;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-align: center;
+  transition:
+    background 0.2s,
+    transform 0.15s;
+  align-self: flex-start;
+  border: 0;
+}
+
+.btn:hover {
+  background: #2b6cb0;
+  transform: translateY(-1px);
+}
+
+/* ── Contact Section ── */
+section#contact ul {
+  list-style: none;
+  padding: 0;
+  margin: 0.75rem 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+section#contact li {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.95rem;
+  color: #4a5568;
+}
+
+section#contact a {
+  color: #3182ce;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+section#contact a:hover {
+  color: #2b6cb0;
+  text-decoration: underline;
+}
+
+/* ── Footer ── */
 footer {
   text-align: center;
+  padding: 1.5rem;
+  color: #718096;
+  font-size: 0.85rem;
+  border-top: 1px solid #e2e8f0;
+  background: #fff;
+}
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 1.7rem;
+  }
+  main {
+    padding: 1rem 0.75rem;
+  }
+  section {
+    padding: 1.25rem 1rem;
+  }
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
 }
